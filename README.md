@@ -1,5 +1,10 @@
 # WikiReDrugDB.org ? (WRP: Wikidata Repurposing Portal)
 
+### "to do" items
+- Check Issues
+- Update documentation
+- Parallel of metapaths and wd-rephetio
+
 ### Examples
 - Recommended [README template](https://docs.google.com/document/d/1aWWx3Re3_KehicdhR6gPrcJ-EwSmHWydkV1PqyJg984/edit?usp=sharing)
 - [ChlamBase.org](https://github.com/sabahzero/WikiGenomesBase)
