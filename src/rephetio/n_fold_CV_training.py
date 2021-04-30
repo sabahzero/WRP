@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 from tqdm import tqdm
-from glmnet import LogitNet
+from glmnet import LogitNet # Need to install pip install glmnet
 from itertools import product
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score, average_precision_score
