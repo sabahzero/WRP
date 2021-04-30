@@ -19,7 +19,7 @@ from hetnet_ml.src.processing import DegreeTransform, DWPCTransform
 
 ## Set arguments to run the script
 parser = argparse.ArgumentParser(description='Run Machine Learning on Time-Based Wikidata Network')
-parser.add_argument('data_dir', help="The directory of the source files for machine learning", type=str)
+parser.add_argument('data_dir', help="The directory of the source files for machine learning", type=str) # looking for directories within out, not .csv files (because there are multiple files: both nodes and edges)
 parser.add_argument('-g', '--gs_treat', help='Replace the TREATS edges in the network with those from the Gold Standard',
                     action='store_true')
 parser.add_argument('-a', '--alpha', help="Set the alpha value for the ElasticNet Regression", type=float, default=0.1)
