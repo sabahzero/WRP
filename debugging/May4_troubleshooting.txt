@@ -1,0 +1,500 @@
+   47  originhttps://github.com/sabahzero/WRP.git (push)
+   48  origin https://github.com/sabahzero/WRP.git (push)
+   49  origin https://github.com/sabahzero/WRP.git
+   50  git remote
+   51  git remote add WRP https://github.com/sabahzero/WRP.git
+   52  git remote -v
+   53  git remote rm WRP https://github.com/sabahzero/WRP.git
+   54  git remote -v
+   55  git push origin master
+   56  git remote show origin
+   57  git remote show origin
+   58  git remote remove WRP
+   59  git remote -v
+   60  git push origin
+   61  git push origin main
+   62  git push origin master
+   63  git add .
+   64  git commit
+   65  git status
+   66  git add .
+   67  git commit
+   68  git add MMayers-Metapaths-MechRepoNet
+   69  git add SuLab-RephetioAnalysis-eLife2020WD
+   70  git commit
+   71  ls
+   72  git status
+   73  ls
+   74  git add files
+   75  pwd
+   76  git add /Users/sulhasan/Downloads/WRP-main/MMayers-Metapaths-MechRepoNet
+   77  git commit
+   78  git add .
+   79  git commit
+   80  git push
+   81  git commit
+   82  git push
+   83  git add .
+   84  git commit
+   85  git rm -rf --cached MMayers-Metapaths-MechRepoNet
+   86  git rm -rf --cached SuLab-RephetioAnalysis-eLife2020WD
+   87  git add SuLab-RephetioAnalysis-eLife2020WD
+   88  git add MMayers-Metapaths-MechRepoNet
+   89  git commit
+   90  git rm -rf --cached SuLab-RephetioAnalysis-eLife2020WD
+   91  git rm -rf --cached MMayers-Metapaths-MechRepoNet
+   92  git add .
+   93  git commit
+   94  git push
+   95  curl -H 'Authorization: token <0a9fe892cf6142f12855d1b749b9ac043904c4f0 >' ...
+   96  curl -H 'Authorization: token <MYTOKEN>' ...
+   97  git remote set-url origin https://sabahzero:<0a9fe892cf6142f12855d1b749b9ac043904c4f0>@github.com/sabahzero/WRP.git
+   98  git add .
+   99  git commit -m "Update test"
+  100  git status
+  101  git branch -m master main
+  102  git push -u origin main
+  103  ls
+  104  git add .
+  105  git commit -m "Update test"
+  106  git push
+  107  git push oring HEAD:main
+  108  git push origin HEAD:main
+  109  git remote -v
+  110  git fetch https://github.com/sabahzero/WRP.git
+  111  git add .
+  112  git commit -m "Update test"
+  113  git push
+  114  git push origin HEAD
+  115  git status
+  116  git pull
+  117  git add .
+  118  git commit -m "Update test"
+  119  git push
+  120  git push origin HEAD:master
+  121  git add .
+  122  ip3 install --upgrade pip
+  123  pip3 install --upgrade pip
+  124  pip install data_tools
+  125  pip install data_tools.df_processing
+  126  pip install data_tools.wiki
+  127  python3 -m pip install data_tools.df_processing
+  128  pip install --upgrade pip
+  129  pip install data_tools.df_processing
+  130  python3 -m pip install data_tools.df_processing
+  131  pip list
+  132  pip uninstall requests
+  133  pip install requests
+  134  easy_install requests
+  135  python3 -m pip install data_tools.df_processing
+  136  jupyter notebook
+  137  pip install data_tools
+  138  pip install git+https://github.com/mmayers12/data_tools
+  139  jupyter notebook
+  140  ls
+  141  ls
+  142  jupyter notebook
+  143  jupyter notebook
+  144  jupyter notebook
+  145  ls
+  146  cd Desktop/
+  147  ls
+  148  cd Project/
+  149  ls
+  150  cd WRP/
+  151  ls
+  152  ls
+  153  cd Desktop/
+  154  ls
+  155  cd Project/
+  156  ls
+  157  cd WRP/
+  158  ls
+  159  git add .
+  160  git commit
+  161  git commit
+  162  git push
+  163  git remote
+  164  git remote show origin
+  165  git pull
+  166  git commit
+  167  git push
+  168  git pull --rebase
+  169  git commit
+  170  git push
+  171  ls
+  172  git pull
+  173  git commit
+  174  git rm --cached
+  175  git add .
+  176  git commit
+  177  git push
+  178  git lfs track track .
+  179  git lfs track .
+  180  git lfs track .
+  181  rew update && brew upgrade git-lfs
+  182  brew update && brew upgrade git-lfs
+  183  git clone --mirror https://github.com/sabahzero/WRP.git
+  184  cd ..
+  185  ls
+  186  git clone --mirror https://github.com/sabahzero/WRP.git
+  187  ls
+  188  cd ..
+  189  ls
+  190  cd ..
+  191  ls
+  192  cd Downloads/
+  193  git clone https://github.com/sabahzero/WRP.git
+  194  git add .
+  195  git clone https://github.com/sabahzero/WRP.git
+  196  git rm --cached WRP
+  197  git rm --cached WRP -f
+  198  git add WRP
+  199  git init
+  200  git config --list
+  201  cat .gitconfig
+  202  cd .git
+  203  ls
+  204  ls
+  205  cd ..
+  206  ls
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd Desktop/
+  211  ls
+  212  cd Project/
+  213  ls
+  214  cd WRP/
+  215  cd .git
+  216  ls
+  217  git config
+  218  git config user.name
+  219  git config --global
+  220  git config --local
+  221  git pull
+  222  cd ..
+  223  ls
+  224  git pull
+  225  git push
+  226  brew install git-lfs
+  227  git lfs install
+  228  git lfs track "*.psd"
+  229  git add .gitattributes
+  230  git push
+  231  git lfs init
+  232  git lfs track "*.csv"
+  233  git pull
+  234  git push
+  235  git rm --cached
+  236  --ammend -CHEAD
+  237  --amend -CHEAD
+  238  --amend -CHEAD
+  239  git commit --amend -CHEAD
+  240  git push
+  241  git push
+  242  git pull
+  243  git rm --cached
+  244  git commit --amend -CHEAD
+  245  git push
+  246  git pull
+  247  git push
+  248  git pull
+  249  git rebase 
+  250  git rebase --continue
+  251  git add .
+  252  git commit
+  253  git push
+  254  git push -f origin main
+  255  jupyter notebook
+  256  jupyter notebook
+  257  jupyter notebook
+  258  jupter notebook
+  259  jupyter notebook
+  260  jupyter notebook
+  261  jupyter notebook
+  262  jupyter notebook
+  263  jupyter notebook
+  264  ls
+  265  cd Desktop/Project/WRP/
+  266  git status
+  267  git add .
+  268  git commit
+  269  git push
+  270  jupyter notebook
+  271  ls
+  272  cd Desktop/
+  273  ls
+  274  cd Project/WRP/
+  275  ls
+  276  git status
+  277  git add .
+  278  git commit
+  279  git push
+  280  jupyter notebook
+  281  jupyter notebook
+  282  ls
+  283  cd Desktop/Project/WRP/
+  284  ls
+  285  cd src/rephetio/
+  286  ls
+  287  02_run_n_fold.sh
+  288  ssh 02_run_n_fold.sh
+  289  ~/ssh 02_run_n_fold.sh
+  290  ls
+  291  02_run_n_fold.sh
+  292  ./02_run_n_fold.sh
+  293  ./02_run_n_fold.sh
+  294  ./02_run_n_fold.sh
+  295  ./02_run_n_fold.sh
+  296   pip install git+https://github.com/mmayers12/hetnet_ml
+  297  pip install glmnet
+  298  /Users/sulhasan/opt/anaconda3/bin/python -m pip install --upgrade pip
+  299  ls
+  300  cd Desktop/
+  301  cd Project/WRP/
+  302  ls
+  303  git add .
+  304  git commit
+  305  git push
+  306  ls
+  307  cd Desktop/Project/WRP/
+  308  ls
+  309  vi .gitignore
+  310  git add . 
+  311  git commit
+  312  git push
+  313  ls
+  314  git status
+  315  git pull
+  316  git status
+  317  vi .gitignore
+  318  git add . 
+  319  git commit
+  320  git push
+  321  cd Desktop/Project/WRP/
+  322  git status
+  323  git pull
+  324  git status
+  325  git reset --hard origin/main
+  326  git stuats
+  327  git status
+  328  git reset HEAD@{1}
+  329  git reset HEAD@{1} #undo
+  330  ls
+  331  git reset HEAD@{1} 
+  332  git reflog
+  333  git reset --hard SHA1
+  334  git reset --hard 2f44510
+  335  ls
+  336  git status
+  337  ls
+  338  cd Desktop/Project/
+  339  git clone https://github.com/sabahzero/WRP.git
+  340  git status
+  341  vi .gitignore
+  342  ls .git
+  343  cd .git
+  344  ls
+  345  cd WRP
+  346  ls
+  347  git status
+  348  vi .gitignore
+  349  cd ..
+  350  rm .gitignore 
+  351  cd WRP
+  352  vi .gitignore
+  353  ls
+  354  vi .gitignore 
+  355  git add .
+  356  git commit
+  357  git push
+  358  LOAD_DIR='../out/'
+  359  echo LOAD_DIR
+  360  echo $LOAD_DIR
+  361  for folder in ${LOAD_DIR}; echo $folder
+  362  for folder in ${LOAD_DIR}; echo $folder
+  363  for folder in ${LOAD_DIR}; print $folder
+  364  for folder in ${LOAD_DIR}; echo $folder;
+  365  for folder in ${LOAD_DIR}; do echo $folder; done
+  366  for folder in ${LOAD_DIR}*; do echo $folder; done
+  367  for folder in ${LOAD_DIR}*; do echo $folder; done
+  368  ls ${LOAD_DIR}*
+  369  ls LOAD_DIR
+  370  ls
+  371  pwd
+  372  cd out
+  373  ls
+  374  ls LOAD_DIR
+  375  LOAD_DIR='../out/*'
+  376  for folder in ${LOAD_DIR}*; do echo $folder; done
+  377  for folder in ${LOAD_DIR}; do echo $folder; done
+  378  ls
+  379  cd ..
+  380  ls
+  381  ./02_run_n_fold.sh 
+  382  LOAD_DIR='out/*'
+  383  for folder in ${LOAD_DIR}; do echo $folder; done
+  384  history > Apr30_troubleshooting.txt
+  385  chsh -s /bin/bash
+  386  /bin/bash
+  387  cd Desktop/Project/WRP/
+  388  cd src/rephetio/
+  389  ./02_run_n_fold.sh 
+  390  LOAD_DIR='../out/
+  391  q()
+  392  :wq
+  393  q
+  394  LOAD_DIR='../out/'
+  395  for folder in ${LOAD_DIR}; echo
+  396  echo folder in ${LOAD_DIR}
+  397  for folder in ${LOAD_DIR}; echo ${LOAD_DIR}
+  398  for folder in ${LOAD_DIR}; echo $folder
+  399  which bash
+  400  chsh
+  401  chsh
+  402  chsh
+  403  /bin/bash
+  404  jupyter notebook
+  405  cd Desktop/Project/WRP/
+  406  git status
+  407  git add .
+  408  git commit
+  409  git push
+  410  git add .
+  411  git status
+  412  cd Desktop/Project/WRP
+  413  git pull
+  414  git status
+  415  git add .
+  416  git commit
+  417  git push
+  418  test <- str_count(df$Best_Fruit)
+  419  ls
+  420  cd Downloads/
+  421  ls
+  422  rm ~$*
+  423  rm ~\$-Hasan_CV-Dec2020_Carter.docx 
+  424  rm ~\$20\ Scripps_UCSD\ Research\ PostDoc\ Visit\ Agenda.docx 
+  425  ls
+  426  rm ~\$BUMMP.docx 
+  427  rm ~\$allenges\ for\ women\ in\ stem\ 10-5-20\ UlHasan\ edits.docx 
+  428  ls
+  429  git clone https://github.com/ivamp-consortium/ivamp-consortium.github.io.git
+  430  git add . 
+  431  git commit
+  432  git push
+  433  git push --set-upstream origin main
+  434  git status
+  435  git pull
+  436  jupyter notebook
+  437  git status
+  438  cd Desktop/Project/WRP/
+  439  ls
+  440  git status
+  441  ls .git
+  442  cd ..
+  443  git clone https://github.com/sabahzero/WRP.git
+  444  ls
+  445  cd WRP/
+  446  ls .gitignore
+  447  vi .gitignore 
+  448  jupyter notebook
+  449  jupyter notebook
+  450  cd Desktop/Project/
+  451  cd WRP/
+  452  ls
+  453  git add .
+  454  git commit
+  455  git push
+  456  cd Desktop/Project/WRP/
+  457  cd src/rephetio/
+  458  ./02_run_n_fold.sh 
+  459  python3 n_fold_CV_training.py 
+  460  python3
+  461  conda install -c conda-forge glmnet
+  462  conda activate
+  463  conda install -c conda-forge glmnet
+  464  conda create
+  465  conda install -c conda-forge glmnet
+  466  which python3
+  467  conda install -c conda-forge glmnet
+  468  pip install glmnet
+  469  python3 n_fold_CV_training.py 
+  470  ls
+  471  mkdir ~/venv
+  472  python3 -m venv /path/to/new/virtual/environment
+  473  python3 -m venv ~/to/new/virtual/environment
+  474  python3 -m venv ~/venv/new/virtual/environment
+  475  python3 -m venv ~/venv/WRP
+  476  ls WRP
+  477  ls ~/venv/WRP/
+  478  source WRP/bin/activate
+  479  source ~/venv/WRP/bin/activate
+  480  which python3
+  481  pip install glmnet
+  482  python3
+  483  brew install gcc
+  484  pip install glmnet
+  485  brew install gcc@9
+  486  ls /usr/local/Cellar/gcc@9/9.3.0_1
+  487  ls /usr/local/Cellar/gcc@9/9.3.0_1/lib/gcc/9
+  488  python3
+  489  source ~/venv/WRP/bin/activate
+  490  python -c "import glmnet"
+  491  python3 -c "import glmnet"
+  492  ln -s /usr/local/Cellar/gcc@9/9.3.0/lib/gcc/9 /usr/local/opt/gcc/lib/gcc/9
+  493  python3 -c "import glmnet"
+  494  ls /usr/local/opt/gcc/lib/gcc/9/libgfortran.5.dylib
+  495  ls /usr/local/opt/gcc/lib/gcc/9/
+  496  ls -a /usr/local/opt/gcc/lib/gcc/9
+  497  ls -l /usr/local/opt/gcc/lib/gcc/9
+  498  ls /usr/local/Cellar/gcc@9/9.3.0/lib/gcc/9
+  499  brew install ggc@9
+  500  source ~/venv/WRP/bin/activate
+  501  brew install gcc@9
+  502  ls
+  503  ls /usr/local
+  504  ls /usr/local/Cella
+  505  ls /usr/local/Cellar
+  506  ls /usr/local/Cellar/gcc@9/9.3.0/lib/gcc/9
+  507  ls /usr/local/Cellar/gcc@9/9.3.0/lib/gcc/
+  508  ls /usr/local/Cellar/gcc@9/9.3.0/
+  509  ls /usr/local/Cellar/gcc@9/
+  510  ls /usr/local/Cellar/gcc@9/9.3.0_1/
+  511  ls /usr/local/Cellar/gcc@9/9.3.0_1/lib/gcc/9
+  512  ln -s /usr/local/Cellar/gcc@9/9.3.0_1/lib/gcc/9 /usr/local/opt/gcc/lib/gcc/9
+  513  rm /usr/local/opt/gcc/lib/gcc/9
+  514  ln -s /usr/local/Cellar/gcc@9/9.3.0_1/lib/gcc/9 /usr/local/opt/gcc/lib/gcc/9
+  515  python3
+  516  ls
+  517  cd Desktop/Project/WRP/src/rephetio/
+  518  python3 n_fold_CV_training.py 
+  519  ls 
+  520  vi requirements.txt
+  521  ls
+  522  pwd
+  523  vi requirements.txt
+  524  pip install -r requirements.txt 
+  525  python3 n_fold_CV_training.py 
+  526  vi requirements.txt
+  527  pip install -r requirements.txt 
+  528  python3 n_fold_CV_training.py 
+  529  vi requirements.txt
+  530  pip install -r requirements.txt 
+  531  python3 n_fold_CV_training.py 
+  532  vi requirements.txt
+  533  pip install --upgrade pip
+  534  vi requirements.txt
+  535  pip install -r requirements.txt 
+  536  vi requirements.txt
+  537  python3 -c import itertools
+  538  python3 -c "import itertools"
+  539  vi requirements.txt
+  540  pip install -r requirements.txt 
+  541  vi requirements.txt
+  542  pip install -r requirements.txt 
+  543  vi requirements.txt
+  544  history ~/history.txt
+  545  history ~/history.txt
+  546  history > May4_troubleshooting.txt

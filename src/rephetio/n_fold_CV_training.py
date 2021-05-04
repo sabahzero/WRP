@@ -9,7 +9,7 @@ import pandas as pd
 
 from tqdm import tqdm
 from glmnet import LogitNet # Need to have gnu fortran to work (same for .03)
-from itertools import product
+from itertools import product # didn't go past itertools
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score, average_precision_score
 

@@ -1,0 +1,500 @@
+   87  ADAM, Albrecht(1786-1862)RomanticismGerman painter (Munich)
+   88  ADAM, Lambert-Sigisbert(1700-1759)BaroqueFrench sculptor (Nancy)
+   89  ADAM, Nicolas-Sébastien(1705-1778)BaroqueFrench sculptor (Nancy)
+   90  ADAM, Robert(1728-1792)BaroqueScottish architect (London)
+   91  ADAM-SALOMON, Antoine-Samuel(1818-1881)RealismFrench sculptor (Paris)
+   92  ADELCRANTZ, Carl Fredrik(1716-1796)NeoclassicismSwedish architect
+   93  ADEMOLLO, Luigi(1764-1849)NeoclassicismItalian painter (Florence)
+   94  ADLER, Salomon(1630-1709)BaroqueGerman painter (Milan)
+   95  ADOLFZOON, Christoph (see ADOLPHI, Christoffel)(c. 1631-1680)BaroqueDutch sculptor (Amsterdam)
+   96  ADOLPHI, Christoffel(c. 1631-1680)BaroqueDutch sculptor (Amsterdam)
+   97  ADRIAEN VAN UTRECHT (see UTRECHT, Adriaen van)(1599-1652)BaroqueFlemish painter
+   98  ADRIAENSSEN, Alexander(1587-1661)BaroqueFlemish painter (Antwerp)
+   99  ADRIANO FIORENTINO(ca. 1455-1499)Early RenaissanceItalian sculptor (Florence)
+  100  AELST, Willem van(1627-c. 1683)BaroqueDutch painter (Delft)
+  101  AENVANCK, Theodoor(1633-1690)BaroqueFlemish painter (Antwerp)
+  102  AERT VAN ORT(active 1490-1536)Northern RenaissanceFlemish glass painter
+  103  AERTSEN, Pieter(1508-1575)Northern RenaissanceNetherlandish painter (Amsterdam)
+  104  AGASSE, Jacques-Laurent(1767-1849)NeoclassicismSwiss painter (London)
+  105  AGNOLO DA SIENA (see AGNOLO DI VENTURA)(active 1311-1349)MedievalItalian sculptor (Siena)
+  106  AGNOLO DI POLO(c. 1470-after 1498)Early RenaissanceItalian sculptor (Florence)
+  107  AGNOLO DI VENTURA(active 1311-1349)MedievalItalian sculptor (Siena)
+  108  AGOSTINO DI DUCCIO(1418-1481)Early RenaissanceItalian sculptor (Rimini)
+  109  AGOSTINO DI GIOVANNI(active 1310-1347)MedievalItalian sculptor (Siena)
+  110  AGOSTINO VENEZIANO (see MUSI, Agostino dei)(c. 1490-c. 1536)High RenaissanceItalian graphic artist
+  111  AGRATE, Gian Francesco Ferrari d'artists.txt' (1489-c. 1563)High RenaissanceItalian sculptor (Parma)
+  112  AGUADO LÓPEZ, Antonio(1764-1831)NeoclassicismSpanish architect (Madrid)
+  113  AIVAZOVSKY, Ivan Konstantinovich(1817-1900)RealismRussian painter
+  114  AKEN, Joseph van(c. 1699-1749)RococoFlemish painter (London)
+  115  AKOTANTOS, Angelos(?-c. 1457)MedievalGreek painter (Crete)
+  116  ALBA, Macrino d'artists.txt' (c. 1460-c. 1528)Early RenaissanceItalian painter (Alba)
+  117  ALBANI, Francesco(1578-1660)BaroqueItalian painter (Bologna)
+  118  ALBEREGNO, Jacobello(died before1397)MedievalItalian painter (Venice)
+  119  ALBERTI, Antonio(c. 1390-c. 1442)Early RenaissanceItalian painter (Urbino)
+  120  ALBERTI, Cherubino(1553-1615)MannerismItalian painter (Rome)
+  121  ALBERTI, Giovanni(1558-1601)MannerismItalian painter (Rome)
+  122  ALBERTI, Leon Battista(1404-1472)Early RenaissanceItalian architect
+  123  ALBERTINELLI, Mariotto(1474-1515)Early RenaissanceItalian painter (Florence)
+  124  awk '{print$2}' artists.txt 
+  125  KONINCK, Daniël de(1668-after 1720)BaroqueDutch painter (London)
+  126  scp sulhasn
+  127  scp sulhasan@scripps.edu
+  128  ssh sulhasan@login01.scripps.edu
+  129  jupyter notebook
+  130  Q3
+  131  Q
+  132  $ echo $PS1
+  133  ech $PS1
+  134  export PS1='\e[0;34m\u@\h:\W$\e[m'
+  135   
+  136  export PS1='\e[0;34m\u@\h:\W$\e[m'
+  137   echo 0
+  138   nano
+  139   sh test
+  140   cat count
+  141   sh count
+  142   cat element 
+  143   sh element 
+  144  cat count 
+  145   vi count 
+  146  export PS1='\e[0;34m\u@\h:\W$\e[m'
+  147   nano
+  148   sh test2
+  149  export PS1='\e[0;34m\u@\h:\W$\e[m'
+  150   x
+  151   cat element 
+  152   cat count 
+  153   sh element 
+  154   
+  155  export PS1='\e[0;34m\u@\h:\W$\e[m'
+  156   ls
+  157  rm test
+  158  rm test2
+  159  rm ele
+  160  rm element 
+  161  rm count 
+  162  ls
+  163   cd Do
+  164  cd Downloads/
+  165  ls
+  166  cd HW-Keys/
+  167  ls
+  168   cd data/
+  169  ls
+  170  cd fastq/
+  171  ls
+  172  cat simulated.R1.fq
+  173  jupyter notebook
+  174  %%bash pwd
+  175  jupyter notebook
+  176  jupyter notebook
+  177  jupyter notebook
+  178  jupyter notebook
+  179   ls
+  180  cd Downloads/
+  181  ls
+  182  ssh -i ~/.ssh/githubkey -T git@github.com
+  183  ssh -i ~/.ssh/githubkey -T git@github.com
+  184  git remote add https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  185  clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  186  git remote add origin https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  187  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  188  git init
+  189  git remote add origin https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  190  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  191  git remote set-url origin https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  192  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  193  git credgit credential-manager uninstall
+  194  git credential-manager uninstall
+  195  git credential uninstall
+  196  cd Downloads/
+  197  ls
+  198  git init
+  199  git config --global user.name "sulhasan"
+  200  git config --global user.name
+  201  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  202  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen.git
+  203  git clone https://github.com/SuLab/scheduled-bots.git
+  204  git clone https://github.com/SuLab/scheduled-bots/scheduled_bots/clingen.git
+  205  jupyter notebook
+  206  jupyter notebook
+  207  jupyter notebook
+  208  git remote -v
+  209  git remote rm origin
+  210  git remote -v
+  211  git remote add origin https://github.com/sabahzero/WRP.git
+  212  git remote -v
+  213  git branch -a -vv
+  214  git clone --mirror https://github.com/sabahzero/metapaths.git
+  215  git push origin --all
+  216  git clone --mirror https://github.com/sabahzero/metapaths.git
+  217  git remote -v
+  218  git tag
+  219  git branch -a
+  220  git remote rm origin
+  221  git remote add origin https://github.com/sabahzero/WRP.git
+  222  git push origin --all
+  223  git commit
+  224  pwd
+  225  cd Downloads/
+  226  ls
+  227  ls
+  228  cd WRP-main/
+  229  git
+  230  .t
+  231  .git
+  232  git init
+  233  clone https://github.com/sabahzero/metapaths.git
+  234  git clone https://github.com/sabahzero/metapaths.git
+  235  git clone https://github.com/sabahzero/WD-rephetio-analysis.git
+  236  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  237  git config --global user.name "sabahzero"
+  238  git config --global user.email sulhasan@scripps.edu
+  239  git config list
+  240  git config --list
+  241  git status
+  242  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  243  git add .
+  244  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  245  git push
+  246  git remote add https://github.com/sabahzero/WRP.git
+  247  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  248  git push
+  249  git add https://github.com/sabahzero/WRP.git
+  250  git push origin master
+  251  ssh -T git@github.com
+  252  ssh -T git@github.com
+  253  git add
+  254  git add .
+  255  git commit
+  256  git push
+  257  git push https://github.com/sabahzero/WRP.git
+  258  git remote add https://github.com/sabahzero/WRP.git
+  259  git commit
+  260  git push
+  261  git remote add origin https://github.com/sabahzero/WRP.git
+  262  git push
+  263  git commit
+  264  git push
+  265  git push -u origin --all
+  266  ls
+  267  cd Downloads/
+  268  ls
+  269  git clone https://github.com/sabahzero/repo.git
+  270  git init
+  271  git clone https://github.com/sabahzero/repo.git
+  272  ssh -T git@github.com
+  273  ls
+  274  git remote -v
+  275  git remote set-url origin https://github.com/sabahzero/WRP.git
+  276  git remote -v
+  277  ls
+  278  cd WRP-main/
+  279  ls
+  280  git remote -v
+  281  git add
+  282  git add .
+  283  git commit
+  284  git push
+  285  originhttps://github.com/sabahzero/WRP.git (push)
+  286  origin https://github.com/sabahzero/WRP.git (push)
+  287  origin https://github.com/sabahzero/WRP.git
+  288  git remote
+  289  git remote add WRP https://github.com/sabahzero/WRP.git
+  290  git remote -v
+  291  git remote rm WRP https://github.com/sabahzero/WRP.git
+  292  git remote -v
+  293  git push origin master
+  294  git remote show origin
+  295  git remote show origin
+  296  git remote remove WRP
+  297  git remote -v
+  298  git push origin
+  299  git push origin main
+  300  git push origin master
+  301  git add .
+  302  git commit
+  303  git status
+  304  git add .
+  305  git commit
+  306  git add MMayers-Metapaths-MechRepoNet
+  307  git add SuLab-RephetioAnalysis-eLife2020WD
+  308  git commit
+  309  ls
+  310  git status
+  311  ls
+  312  git add files
+  313  pwd
+  314  git add /Users/sulhasan/Downloads/WRP-main/MMayers-Metapaths-MechRepoNet
+  315  git commit
+  316  git add .
+  317  git commit
+  318  git push
+  319  git commit
+  320  git push
+  321  git add .
+  322  git commit
+  323  git rm -rf --cached MMayers-Metapaths-MechRepoNet
+  324  git rm -rf --cached SuLab-RephetioAnalysis-eLife2020WD
+  325  git add SuLab-RephetioAnalysis-eLife2020WD
+  326  git add MMayers-Metapaths-MechRepoNet
+  327  git commit
+  328  git rm -rf --cached SuLab-RephetioAnalysis-eLife2020WD
+  329  git rm -rf --cached MMayers-Metapaths-MechRepoNet
+  330  git add .
+  331  git commit
+  332  git push
+  333  curl -H 'Authorization: token <0a9fe892cf6142f12855d1b749b9ac043904c4f0 >' ...
+  334  curl -H 'Authorization: token <MYTOKEN>' ...
+  335  git remote set-url origin https://sabahzero:<0a9fe892cf6142f12855d1b749b9ac043904c4f0>@github.com/sabahzero/WRP.git
+  336  git add .
+  337  git commit -m "Update test"
+  338  git status
+  339  git branch -m master main
+  340  git push -u origin main
+  341  ls
+  342  git add .
+  343  git commit -m "Update test"
+  344  git push
+  345  git push oring HEAD:main
+  346  git push origin HEAD:main
+  347  git remote -v
+  348  git fetch https://github.com/sabahzero/WRP.git
+  349  git add .
+  350  git commit -m "Update test"
+  351  git push
+  352  git push origin HEAD
+  353  git status
+  354  git pull
+  355  git add .
+  356  git commit -m "Update test"
+  357  git push
+  358  git push origin HEAD:master
+  359  git add .
+  360  ip3 install --upgrade pip
+  361  pip3 install --upgrade pip
+  362  pip install data_tools
+  363  pip install data_tools.df_processing
+  364  pip install data_tools.wiki
+  365  python3 -m pip install data_tools.df_processing
+  366  pip install --upgrade pip
+  367  pip install data_tools.df_processing
+  368  python3 -m pip install data_tools.df_processing
+  369  pip list
+  370  pip uninstall requests
+  371  pip install requests
+  372  easy_install requests
+  373  python3 -m pip install data_tools.df_processing
+  374  jupyter notebook
+  375  pip install data_tools
+  376  pip install git+https://github.com/mmayers12/data_tools
+  377  jupyter notebook
+  378  ls
+  379  ls
+  380  jupyter notebook
+  381  jupyter notebook
+  382  jupyter notebook
+  383  ls
+  384  cd Desktop/
+  385  ls
+  386  cd Project/
+  387  ls
+  388  cd WRP/
+  389  ls
+  390  ls
+  391  cd Desktop/
+  392  ls
+  393  cd Project/
+  394  ls
+  395  cd WRP/
+  396  ls
+  397  git add .
+  398  git commit
+  399  git commit
+  400  git push
+  401  git remote
+  402  git remote show origin
+  403  git pull
+  404  git commit
+  405  git push
+  406  git pull --rebase
+  407  git commit
+  408  git push
+  409  ls
+  410  git pull
+  411  git commit
+  412  git rm --cached
+  413  git add .
+  414  git commit
+  415  git push
+  416  git lfs track track .
+  417  git lfs track .
+  418  git lfs track .
+  419  rew update && brew upgrade git-lfs
+  420  brew update && brew upgrade git-lfs
+  421  git clone --mirror https://github.com/sabahzero/WRP.git
+  422  cd ..
+  423  ls
+  424  git clone --mirror https://github.com/sabahzero/WRP.git
+  425  ls
+  426  cd ..
+  427  ls
+  428  cd ..
+  429  ls
+  430  cd Downloads/
+  431  git clone https://github.com/sabahzero/WRP.git
+  432  git add .
+  433  git clone https://github.com/sabahzero/WRP.git
+  434  git rm --cached WRP
+  435  git rm --cached WRP -f
+  436  git add WRP
+  437  git init
+  438  git config --list
+  439  cat .gitconfig
+  440  cd .git
+  441  ls
+  442  ls
+  443  cd ..
+  444  ls
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd Desktop/
+  449  ls
+  450  cd Project/
+  451  ls
+  452  cd WRP/
+  453  cd .git
+  454  ls
+  455  git config
+  456  git config user.name
+  457  git config --global
+  458  git config --local
+  459  git pull
+  460  cd ..
+  461  ls
+  462  git pull
+  463  git push
+  464  brew install git-lfs
+  465  git lfs install
+  466  git lfs track "*.psd"
+  467  git add .gitattributes
+  468  git push
+  469  git lfs init
+  470  git lfs track "*.csv"
+  471  git pull
+  472  git push
+  473  git rm --cached
+  474  --ammend -CHEAD
+  475  --amend -CHEAD
+  476  --amend -CHEAD
+  477  git commit --amend -CHEAD
+  478  git push
+  479  git push
+  480  git pull
+  481  git rm --cached
+  482  git commit --amend -CHEAD
+  483  git push
+  484  git pull
+  485  git push
+  486  git pull
+  487  git rebase 
+  488  git rebase --continue
+  489  git add .
+  490  git commit
+  491  git push
+  492  git push -f origin main
+  493  jupyter notebook
+  494  jupyter notebook
+  495  jupyter notebook
+  496  jupter notebook
+  497  jupyter notebook
+  498  jupyter notebook
+  499  jupyter notebook
+  500  jupyter notebook
+  501  cd Desktop/Project/
+  502  ls
+  503  cd WRP/
+  504  ls
+  505  cd 2_pipeline/
+  506  ls
+  507  git status
+  508  git pull
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd ..
+  513  ls
+  514  mv WRP WRP.connect
+  515  ls
+  516  git clone https://github.com/sabahzero/WRP.git
+  517  ls
+  518  cd Wr
+  519  cd WRP
+  520  ls
+  521  ls -la
+  522  ls -R
+  523  ls -AR
+  524  .git ignore .gitignore
+  525  touch .gitignore
+  526  ls
+  527  ls -a
+  528  vi .gitignore 
+  529  git add .
+  530  git commit
+  531  git push
+  532  vi .gitignore 
+  533  ls
+  534  vi .gitignore 
+  535  cat 2_pipeline/
+  536  ls 2_pipeline/
+  537  ls
+  538  cd 2_pipeline/
+  539  ls
+  540  cd 01a_WikiData_Nodes/
+  541  ls
+  542  cd out/
+  543  ls
+  544  cd 01a_WikiData_Nodes/
+  545  ls
+  546  cd out/
+  547  ls
+  548  cd 01a_WikiData_Nodes/
+  549  ls
+  550  cd out/
+  551  ls
+  552  pwd
+  553  cd ../
+  554  ls
+  555  cd ../../../../
+  556  ls
+  557  cd ../../
+  558  ls
+  559  cd ..
+  560  ls
+  561  cd WRP
+  562  ls
+  563  cd results/
+  564  ls
+  565  cat test.rtf 
+  566  vi .gitignore
+  567  ls
+  568  cd ..
+  569  ls
+  570  vi .gitignore
+  571  ls
+  572  git add .
+  573  git commit
+  574  git push
+  575  git rm --cached 
+  576  git add .
+  577  git commit
+  578  git push
+  579  git status
+  580  git rm --cached results
+  581  git rm --cached -r results
+  582  ls
+  583  git add .
+  584  git commit
+  585  git push
+  586  history > Apr20_troubleshooting.txt

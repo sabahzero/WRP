@@ -1,0 +1,500 @@
+   28  ALBERTINELLI, Mariotto(1474-1515)Early RenaissanceItalian painter (Florence)
+   29  awk '{print$2}' artists.txt 
+   30  KONINCK, Daniël de(1668-after 1720)BaroqueDutch painter (London)
+   31  scp sulhasn
+   32  scp sulhasan@scripps.edu
+   33  ssh sulhasan@login01.scripps.edu
+   34  jupyter notebook
+   35  Q3
+   36  Q
+   37  $ echo $PS1
+   38  ech $PS1
+   39  export PS1='\e[0;34m\u@\h:\W$\e[m'
+   40   
+   41  export PS1='\e[0;34m\u@\h:\W$\e[m'
+   42   echo 0
+   43   nano
+   44   sh test
+   45   cat count
+   46   sh count
+   47   cat element 
+   48   sh element 
+   49  cat count 
+   50   vi count 
+   51  export PS1='\e[0;34m\u@\h:\W$\e[m'
+   52   nano
+   53   sh test2
+   54  export PS1='\e[0;34m\u@\h:\W$\e[m'
+   55   x
+   56   cat element 
+   57   cat count 
+   58   sh element 
+   59   
+   60  export PS1='\e[0;34m\u@\h:\W$\e[m'
+   61   ls
+   62  rm test
+   63  rm test2
+   64  rm ele
+   65  rm element 
+   66  rm count 
+   67  ls
+   68   cd Do
+   69  cd Downloads/
+   70  ls
+   71  cd HW-Keys/
+   72  ls
+   73   cd data/
+   74  ls
+   75  cd fastq/
+   76  ls
+   77  cat simulated.R1.fq
+   78  jupyter notebook
+   79  %%bash pwd
+   80  jupyter notebook
+   81  jupyter notebook
+   82  jupyter notebook
+   83  jupyter notebook
+   84   ls
+   85  cd Downloads/
+   86  ls
+   87  ssh -i ~/.ssh/githubkey -T git@github.com
+   88  ssh -i ~/.ssh/githubkey -T git@github.com
+   89  git remote add https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   90  clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   91  git remote add origin https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   92  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   93  git init
+   94  git remote add origin https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   95  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   96  git remote set-url origin https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   97  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+   98  git credgit credential-manager uninstall
+   99  git credential-manager uninstall
+  100  git credential uninstall
+  101  cd Downloads/
+  102  ls
+  103  git init
+  104  git config --global user.name "sulhasan"
+  105  git config --global user.name
+  106  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen
+  107  git clone https://github.com/SuLab/scheduled-bots/tree/main/scheduled_bots/clingen.git
+  108  git clone https://github.com/SuLab/scheduled-bots.git
+  109  git clone https://github.com/SuLab/scheduled-bots/scheduled_bots/clingen.git
+  110  jupyter notebook
+  111  jupyter notebook
+  112  jupyter notebook
+  113  git remote -v
+  114  git remote rm origin
+  115  git remote -v
+  116  git remote add origin https://github.com/sabahzero/WRP.git
+  117  git remote -v
+  118  git branch -a -vv
+  119  git clone --mirror https://github.com/sabahzero/metapaths.git
+  120  git push origin --all
+  121  git clone --mirror https://github.com/sabahzero/metapaths.git
+  122  git remote -v
+  123  git tag
+  124  git branch -a
+  125  git remote rm origin
+  126  git remote add origin https://github.com/sabahzero/WRP.git
+  127  git push origin --all
+  128  git commit
+  129  pwd
+  130  cd Downloads/
+  131  ls
+  132  ls
+  133  cd WRP-main/
+  134  git
+  135  .t
+  136  .git
+  137  git init
+  138  clone https://github.com/sabahzero/metapaths.git
+  139  git clone https://github.com/sabahzero/metapaths.git
+  140  git clone https://github.com/sabahzero/WD-rephetio-analysis.git
+  141  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  142  git config --global user.name "sabahzero"
+  143  git config --global user.email sulhasan@scripps.edu
+  144  git config list
+  145  git config --list
+  146  git status
+  147  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  148  git add .
+  149  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  150  git push
+  151  git remote add https://github.com/sabahzero/WRP.git
+  152  git commit -a -m "Updating repo to mirror R'metapaths' and 'rephetio-analysis"
+  153  git push
+  154  git add https://github.com/sabahzero/WRP.git
+  155  git push origin master
+  156  ssh -T git@github.com
+  157  ssh -T git@github.com
+  158  git add
+  159  git add .
+  160  git commit
+  161  git push
+  162  git push https://github.com/sabahzero/WRP.git
+  163  git remote add https://github.com/sabahzero/WRP.git
+  164  git commit
+  165  git push
+  166  git remote add origin https://github.com/sabahzero/WRP.git
+  167  git push
+  168  git commit
+  169  git push
+  170  git push -u origin --all
+  171  ls
+  172  cd Downloads/
+  173  ls
+  174  git clone https://github.com/sabahzero/repo.git
+  175  git init
+  176  git clone https://github.com/sabahzero/repo.git
+  177  ssh -T git@github.com
+  178  ls
+  179  git remote -v
+  180  git remote set-url origin https://github.com/sabahzero/WRP.git
+  181  git remote -v
+  182  ls
+  183  cd WRP-main/
+  184  ls
+  185  git remote -v
+  186  git add
+  187  git add .
+  188  git commit
+  189  git push
+  190  originhttps://github.com/sabahzero/WRP.git (push)
+  191  origin https://github.com/sabahzero/WRP.git (push)
+  192  origin https://github.com/sabahzero/WRP.git
+  193  git remote
+  194  git remote add WRP https://github.com/sabahzero/WRP.git
+  195  git remote -v
+  196  git remote rm WRP https://github.com/sabahzero/WRP.git
+  197  git remote -v
+  198  git push origin master
+  199  git remote show origin
+  200  git remote show origin
+  201  git remote remove WRP
+  202  git remote -v
+  203  git push origin
+  204  git push origin main
+  205  git push origin master
+  206  git add .
+  207  git commit
+  208  git status
+  209  git add .
+  210  git commit
+  211  git add MMayers-Metapaths-MechRepoNet
+  212  git add SuLab-RephetioAnalysis-eLife2020WD
+  213  git commit
+  214  ls
+  215  git status
+  216  ls
+  217  git add files
+  218  pwd
+  219  git add /Users/sulhasan/Downloads/WRP-main/MMayers-Metapaths-MechRepoNet
+  220  git commit
+  221  git add .
+  222  git commit
+  223  git push
+  224  git commit
+  225  git push
+  226  git add .
+  227  git commit
+  228  git rm -rf --cached MMayers-Metapaths-MechRepoNet
+  229  git rm -rf --cached SuLab-RephetioAnalysis-eLife2020WD
+  230  git add SuLab-RephetioAnalysis-eLife2020WD
+  231  git add MMayers-Metapaths-MechRepoNet
+  232  git commit
+  233  git rm -rf --cached SuLab-RephetioAnalysis-eLife2020WD
+  234  git rm -rf --cached MMayers-Metapaths-MechRepoNet
+  235  git add .
+  236  git commit
+  237  git push
+  238  curl -H 'Authorization: token <0a9fe892cf6142f12855d1b749b9ac043904c4f0 >' ...
+  239  curl -H 'Authorization: token <MYTOKEN>' ...
+  240  git remote set-url origin https://sabahzero:<0a9fe892cf6142f12855d1b749b9ac043904c4f0>@github.com/sabahzero/WRP.git
+  241  git add .
+  242  git commit -m "Update test"
+  243  git status
+  244  git branch -m master main
+  245  git push -u origin main
+  246  ls
+  247  git add .
+  248  git commit -m "Update test"
+  249  git push
+  250  git push oring HEAD:main
+  251  git push origin HEAD:main
+  252  git remote -v
+  253  git fetch https://github.com/sabahzero/WRP.git
+  254  git add .
+  255  git commit -m "Update test"
+  256  git push
+  257  git push origin HEAD
+  258  git status
+  259  git pull
+  260  git add .
+  261  git commit -m "Update test"
+  262  git push
+  263  git push origin HEAD:master
+  264  git add .
+  265  ip3 install --upgrade pip
+  266  pip3 install --upgrade pip
+  267  pip install data_tools
+  268  pip install data_tools.df_processing
+  269  pip install data_tools.wiki
+  270  python3 -m pip install data_tools.df_processing
+  271  pip install --upgrade pip
+  272  pip install data_tools.df_processing
+  273  python3 -m pip install data_tools.df_processing
+  274  pip list
+  275  pip uninstall requests
+  276  pip install requests
+  277  easy_install requests
+  278  python3 -m pip install data_tools.df_processing
+  279  jupyter notebook
+  280  pip install data_tools
+  281  pip install git+https://github.com/mmayers12/data_tools
+  282  jupyter notebook
+  283  ls
+  284  ls
+  285  jupyter notebook
+  286  jupyter notebook
+  287  jupyter notebook
+  288  ls
+  289  cd Desktop/
+  290  ls
+  291  cd Project/
+  292  ls
+  293  cd WRP/
+  294  ls
+  295  ls
+  296  cd Desktop/
+  297  ls
+  298  cd Project/
+  299  ls
+  300  cd WRP/
+  301  ls
+  302  git add .
+  303  git commit
+  304  git commit
+  305  git push
+  306  git remote
+  307  git remote show origin
+  308  git pull
+  309  git commit
+  310  git push
+  311  git pull --rebase
+  312  git commit
+  313  git push
+  314  ls
+  315  git pull
+  316  git commit
+  317  git rm --cached
+  318  git add .
+  319  git commit
+  320  git push
+  321  git lfs track track .
+  322  git lfs track .
+  323  git lfs track .
+  324  rew update && brew upgrade git-lfs
+  325  brew update && brew upgrade git-lfs
+  326  git clone --mirror https://github.com/sabahzero/WRP.git
+  327  cd ..
+  328  ls
+  329  git clone --mirror https://github.com/sabahzero/WRP.git
+  330  ls
+  331  cd ..
+  332  ls
+  333  cd ..
+  334  ls
+  335  cd Downloads/
+  336  git clone https://github.com/sabahzero/WRP.git
+  337  git add .
+  338  git clone https://github.com/sabahzero/WRP.git
+  339  git rm --cached WRP
+  340  git rm --cached WRP -f
+  341  git add WRP
+  342  git init
+  343  git config --list
+  344  cat .gitconfig
+  345  cd .git
+  346  ls
+  347  ls
+  348  cd ..
+  349  ls
+  350  ls
+  351  cd ..
+  352  ls
+  353  cd Desktop/
+  354  ls
+  355  cd Project/
+  356  ls
+  357  cd WRP/
+  358  cd .git
+  359  ls
+  360  git config
+  361  git config user.name
+  362  git config --global
+  363  git config --local
+  364  git pull
+  365  cd ..
+  366  ls
+  367  git pull
+  368  git push
+  369  brew install git-lfs
+  370  git lfs install
+  371  git lfs track "*.psd"
+  372  git add .gitattributes
+  373  git push
+  374  git lfs init
+  375  git lfs track "*.csv"
+  376  git pull
+  377  git push
+  378  git rm --cached
+  379  --ammend -CHEAD
+  380  --amend -CHEAD
+  381  --amend -CHEAD
+  382  git commit --amend -CHEAD
+  383  git push
+  384  git push
+  385  git pull
+  386  git rm --cached
+  387  git commit --amend -CHEAD
+  388  git push
+  389  git pull
+  390  git push
+  391  git pull
+  392  git rebase 
+  393  git rebase --continue
+  394  git add .
+  395  git commit
+  396  git push
+  397  git push -f origin main
+  398  jupyter notebook
+  399  jupyter notebook
+  400  jupyter notebook
+  401  jupter notebook
+  402  jupyter notebook
+  403  jupyter notebook
+  404  jupyter notebook
+  405  jupyter notebook
+  406  jupyter notebook
+  407  ls
+  408  cd Desktop/Project/WRP/
+  409  git status
+  410  git add .
+  411  git commit
+  412  git push
+  413  jupyter notebook
+  414  ls
+  415  cd Desktop/
+  416  ls
+  417  cd Project/WRP/
+  418  ls
+  419  git status
+  420  git add .
+  421  git commit
+  422  git push
+  423  jupyter notebook
+  424  jupyter notebook
+  425  ls
+  426  cd Desktop/Project/WRP/
+  427  ls
+  428  cd src/rephetio/
+  429  ls
+  430  02_run_n_fold.sh
+  431  ssh 02_run_n_fold.sh
+  432  ~/ssh 02_run_n_fold.sh
+  433  ls
+  434  02_run_n_fold.sh
+  435  ./02_run_n_fold.sh
+  436  ./02_run_n_fold.sh
+  437  ./02_run_n_fold.sh
+  438  ./02_run_n_fold.sh
+  439   pip install git+https://github.com/mmayers12/hetnet_ml
+  440  pip install glmnet
+  441  /Users/sulhasan/opt/anaconda3/bin/python -m pip install --upgrade pip
+  442  ls
+  443  cd Desktop/
+  444  cd Project/WRP/
+  445  ls
+  446  git add .
+  447  git commit
+  448  git push
+  449  ls
+  450  cd Desktop/Project/WRP/
+  451  ls
+  452  vi .gitignore
+  453  git add . 
+  454  git commit
+  455  git push
+  456  ls
+  457  git status
+  458  git pull
+  459  git status
+  460  vi .gitignore
+  461  git add . 
+  462  git commit
+  463  git push
+  464  cd Desktop/Project/WRP/
+  465  git status
+  466  git pull
+  467  git status
+  468  git reset --hard origin/main
+  469  git stuats
+  470  git status
+  471  git reset HEAD@{1}
+  472  git reset HEAD@{1} #undo
+  473  ls
+  474  git reset HEAD@{1} 
+  475  git reflog
+  476  git reset --hard SHA1
+  477  git reset --hard 2f44510
+  478  ls
+  479  git status
+  480  ls
+  481  cd Desktop/Project/
+  482  git clone https://github.com/sabahzero/WRP.git
+  483  git status
+  484  vi .gitignore
+  485  ls .git
+  486  cd .git
+  487  ls
+  488  cd WRP
+  489  ls
+  490  git status
+  491  vi .gitignore
+  492  cd ..
+  493  rm .gitignore 
+  494  cd WRP
+  495  vi .gitignore
+  496  ls
+  497  vi .gitignore 
+  498  git add .
+  499  git commit
+  500  git push
+  501  LOAD_DIR='../out/'
+  502  echo LOAD_DIR
+  503  echo $LOAD_DIR
+  504  for folder in ${LOAD_DIR}; echo $folder
+  505  for folder in ${LOAD_DIR}; echo $folder
+  506  for folder in ${LOAD_DIR}; print $folder
+  507  for folder in ${LOAD_DIR}; echo $folder;
+  508  for folder in ${LOAD_DIR}; do echo $folder; done
+  509  for folder in ${LOAD_DIR}*; do echo $folder; done
+  510  for folder in ${LOAD_DIR}*; do echo $folder; done
+  511  ls ${LOAD_DIR}*
+  512  ls LOAD_DIR
+  513  ls
+  514  pwd
+  515  cd out
+  516  ls
+  517  ls LOAD_DIR
+  518  LOAD_DIR='../out/*'
+  519  for folder in ${LOAD_DIR}*; do echo $folder; done
+  520  for folder in ${LOAD_DIR}; do echo $folder; done
+  521  ls
+  522  cd ..
+  523  ls
+  524  ./02_run_n_fold.sh 
+  525  LOAD_DIR='out/*'
+  526  for folder in ${LOAD_DIR}; do echo $folder; done
+  527  history > Apr30_troubleshooting.txt
