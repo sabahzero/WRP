@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 from tqdm import tqdm
-from glmnet import LogitNet # Need to install pip install glmnet
+from glmnet import LogitNet # Need to have gnu fortran to work (same for .03)
 from itertools import product
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score, average_precision_score
@@ -195,7 +195,7 @@ def make_coef_df(n_folds, coefs):
 
 def print_top_coefs(coef_df, fold, num=5):
     col = 'coef_{}'.format(fold)
-    print(coef_df.sort_values(col, ascending=False)[['feature', col]].head(num), end='\n\n')
+    print(coef_df.sort_values(col, ascending=False)[['feature', col]].head(num), end='\n\n') # SyntaxError: invalid syntax
 
 def write_coefs(coef_df, filename):
     coef_df.to_csv(filename, index=False)
