@@ -5,4 +5,4 @@ pandas
 tdqm
 # itertools:  already exists in python
 sklearn
-# hetnet_ml.src:  mike's package
+# hetnet_ml.src

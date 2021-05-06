@@ -1,3 +1,5 @@
+# note that nodes.csv and edges.csv are from 1d of metapaths
+
 import os
 import sys
 
@@ -12,9 +14,9 @@ from glmnet import LogitNet
 from itertools import product
 from sklearn.metrics import roc_auc_score, average_precision_score
 
-import hetnet_ml.src.graph_tools as gt
-from hetnet_ml.src.extractor import MatrixFormattedGraph
-from hetnet_ml.src.processing import DegreeTransform, DWPCTransform
+import hetnet_ml.graph_tools as gt # manually install pip install git+https://github.com/mmayers12/hetnet_ml (mike's package), remove .src from all
+from hetnet_ml.extractor import MatrixFormattedGraph
+from hetnet_ml.processing import DegreeTransform, DWPCTransform
 
 ## Set arguments to run the script
 parser = argparse.ArgumentParser(description='Run Machine Learning on Time-Based Wikidata Network')
