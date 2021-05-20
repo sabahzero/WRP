@@ -1,7 +1,5 @@
 # WikiReDrugDB.org ? (WRP: Wikidata Repurposing Portal)
 
-lab meeting presentation
-
 ### "to do" items
 - Check Issues
 - Update documentation
