@@ -16,7 +16,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score, average_precision_score
 
 import hetnet_ml.graph_tools as gt # remove .src from all
-from hetnet_ml.extractor import MatrixFormattedGraph
+from hetnet_ml.extractor import MatrixFormattedGraph # see line 233 (package from which I'm importing that class)
 from hetnet_ml.processing import DegreeTransform, DWPCTransform
 
 ## Set arguments to run the script
@@ -204,14 +204,14 @@ def write_coefs(coef_df, filename):
 
 
 # Read input files
-nodes = gt.remove_colons(pd.read_csv(os.path.join(data_dir, 'nodes.csv')))
-edges = gt.remove_colons(pd.read_csv(os.path.join(data_dir, 'edges.csv')))
+nodes = gt.remove_colons(pd.read_csv(os.path.join(data_dir, 'nodes.csv'))) # 'nodes.csv' is a string
+edges = gt.remove_colons(pd.read_csv(os.path.join(data_dir, 'edges.csv'))) # edges is a variable
 
 comp_ids = set(nodes.query('label == "Compound"')['id'])
 dis_ids = set(nodes.query('label == "Disease"')['id'])
 
 # We will use the TREATS edges within the graph as the training for the model
-gs_edges = edges.query('type == "TREATS_CtD"').reset_index(drop=True)
+gs_edges = edges.query('type == "TREATS_CtD"').reset_index(drop=True) # Is something happening here? # What does 'TREATS_CtD" mean? What does query() do (change 'treats_ctd' to 'causes'
 
 # Setup for first run.  This info will all be contained in prediticions.csv and can be regenerated via load.
 if fold_number is None or fold_number == 0:
@@ -230,7 +230,8 @@ if fold_number is None or fold_number == 0:
     print('Adding some more compounds and diseases....')
     # Do some magic to find nodes with degree > 1
     frac = 0.15
-    mg = MatrixFormattedGraph(nodes, edges)
+    print(edges.head()) # I should check if metapaths output here matches rephetio output
+    mg = MatrixFormattedGraph(nodes, edges) # Referring to a class (could be  function, but how do I know it's not?)
     first_comp = nodes.query('label == "Compound"')['id'].iloc[0]
     first_disease = nodes.query('label == "Disease"')['id'].iloc[0]
     comp_degrees = mg.extract_degrees(end_nodes=[first_disease])
