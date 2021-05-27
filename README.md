@@ -1,4 +1,4 @@
-# WikiReDrugDB.org ? (WRP: Wikidata Repurposing Portal)
+# WikiReDrugDB.org ? 
 
 ### Examples
 - Recommended [README template](https://docs.google.com/document/d/1aWWx3Re3_KehicdhR6gPrcJ-EwSmHWydkV1PqyJg984/edit?usp=sharing)
