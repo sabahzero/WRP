@@ -9,6 +9,6 @@
 
 ### Contributors
 Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero)), Michael D Mayers ([@mmayers](https://github.com/mmayers12)), Andra Waagmeester ([@andrawaag](https://github.com/andrawaag)), Andrew I Su ([@andrewsu](https://github.com/andrewsu)) <br><br>
-This project builds upon work from [Michael D Mayers](https://github.com/mmayers12/metapaths) and the associated [Waagmeester et al. 2020 eLife article](https://elifesciences.org/articles/52614)
+This project builds upon work from [Michael D Mayers](https://github.com/mmayers12/metapaths) and the associated [Waagmeester et al. 2020 eLife](https://elifesciences.org/articles/52614) and [Mayers et al. 2021 bioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.15.440028v1.abstract) articles
 
 License CC0
