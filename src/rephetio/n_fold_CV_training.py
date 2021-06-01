@@ -211,7 +211,7 @@ comp_ids = set(nodes.query('label == "Compound"')['id'])
 dis_ids = set(nodes.query('label == "Disease"')['id'])
 
 # We will use the TREATS edges within the graph as the training for the model
-gs_edges = edges.query('type == "TREATS_CtD"').reset_index(drop=True) # Is something happening here? # What does 'TREATS_CtD" mean? What does query() do (change 'treats_ctd' to 'causes'
+gs_edges = edges.query('type == "causes"').reset_index(drop=True) # Is something happening here? # What does 'TREATS_CtD" mean? What does query() do (change 'treats_ctd' to 'causes'
 
 # Setup for first run.  This info will all be contained in prediticions.csv and can be regenerated via load.
 if fold_number is None or fold_number == 0:
