@@ -211,26 +211,43 @@ comp_ids = set(nodes.query('label == "Compound"')['id'])
 dis_ids = set(nodes.query('label == "Disease"')['id'])
 
 # We will use the TREATS edges within the graph as the training for the model
-gs_edges = edges.query('type == "causes"').reset_index(drop=True) # Is something happening here? # What does 'TREATS_CtD" mean? What does query() do (change 'treats_ctd' to 'causes'
+gs_edges = edges.query('type == "treats"').reset_index(drop=True) # Is something happening here? # What does 'TREATS_CtD" mean? What does query() do (change 'treats_ctd' to 'causes')
+    ## organism causes disease (want drug treats disease)
+        ### compounds should only be compounds, but I have organisms
+            ### may want to specify to be as close to compound as possible (treats could be multiple)
 
 # Setup for first run.  This info will all be contained in prediticions.csv and can be regenerated via load.
 if fold_number is None or fold_number == 0:
 
     # Just look at compounds and diseases in the gold standard
-    compounds = gs_edges['start_id'].unique().tolist()
+    compounds = gs_edges['start_id'].unique().tolist() # goes through gs_edges as a filter on edges (.csv file), gets unique Qids, then lists them 
     diseases = gs_edges['end_id'].unique().tolist()
+    # Triple: start_id causes end_id (but may not always be 'causes')
 
     print('Based soley on gold standard...')
     print('{:,} Compounds * {:,} Diseases = {:,} CD Pairs'.format(len(compounds), len(diseases),
                                                                   len(compounds)*len(diseases)))
     # Add in some other edges... anything with a degree > 1... or a CtD edge
+    # Works: 14,555 Compounds * 1,055 Diseases = 15,355,525 CD Pairs (Jun 1 2021)
+    ## May no longer be correct (just because it's not 0*0=0 doesn't mean it's true)
+    ### 1,541 Compounds * 5,249 Diseases = 8,088,709 CD Pairs for 'treats'
     compounds = set(compounds)
     diseases = set(diseases)
 
     print('Adding some more compounds and diseases....')
     # Do some magic to find nodes with degree > 1
     frac = 0.15
-    print(edges.head()) # I should check if metapaths output here matches rephetio output
+    # print(nodes.head())
+    # ncategory = nodes['label'].unique().tolist() # remove
+    ## want the different node types
+    # print(ncategory)
+    print(gs_edges.head()) # I should check if metapaths output here matches rephetio output
+        ## confirm all in start = drugs, and end = diseases (assertion)
+        ## use nodes file to look at confirm all of these with the compounds
+    # number_of_rows = len(edges) # remove later
+    # print(number_of_rows) # remove later
+    # category = edges['type'].unique().tolist() # remove
+    # print(category) # remove (focus on 'treats' to reflect hetnet)
     mg = MatrixFormattedGraph(nodes, edges) # Referring to a class (could be  function, but how do I know it's not?)
     first_comp = nodes.query('label == "Compound"')['id'].iloc[0]
     first_disease = nodes.query('label == "Disease"')['id'].iloc[0]
