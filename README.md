@@ -3,6 +3,7 @@
 test edit
 
 ### "to do" items
+- Re-read 2021 preprint
 - Check Issues
 - Update documentation
 - Parallel of metapaths and wd-rephetio
