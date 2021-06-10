@@ -1,0 +1,14 @@
+# All the packages required for the 2021 Wikidata Repurposing Pipeline
+## Run file by opening command line
+### pip install -r 00_requirements.txt 
+
+# 01a
+pandas
+git+https://github.com/mmayers12/data_tools
+
+
+# glmnet
+# tdqm
+# itertools:  already exists in python
+# sklearn
+# hetnet_ml.src
