@@ -4,7 +4,8 @@
 
 # 01a
 pandas
-git+https://github.com/mmayers12/data_tools
+git+https://github.com/mmayers12/data_tools # Mike's package
+
 
 
 # glmnet
