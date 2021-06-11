@@ -1,7 +1,5 @@
 # WikiReDrugDB.org ? (WRP: Wikidata Repurposing Portal)
 
-test edit
-
 ### "to do" items
 - Re-read 2021 preprint
 - Check Issues
