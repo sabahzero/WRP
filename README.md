@@ -2,7 +2,7 @@
 
 ### "to do" items
 - Re-read [2021 preprint](https://www.biorxiv.org/content/10.1101/2021.04.15.440028v1.abstract)
-- Check Issues
+- Check Issues (make checklist)
 - Update documentation
 - Parallel of metapaths and wd-rephetio
 
