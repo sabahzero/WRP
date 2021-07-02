@@ -1,7 +1,6 @@
 # python3 WRP.py to run in terminal
 ## runs
 
-# Nodes
 import pandas
 
 from pathlib import Path
@@ -11,6 +10,7 @@ from data_tools.df_processing import char_combine_iter
 from data_tools.wiki import node_query_pipeline
 
 
+# Nodes
 nodes = []
 
 
@@ -123,3 +123,6 @@ nodes = pandas.concat(nodes, sort=False, ignore_index=True)
 out_dir = Path('../results/')
 out_dir.mkdir(parents=True, exist_ok=True)
 nodes.to_csv(out_dir.joinpath('01a_nodes.csv'), index=False)
+
+# Edges
+
