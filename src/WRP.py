@@ -1,3 +1,5 @@
+# python3 WRP.py to run in terminal
+## runs
 
 # Nodes
 import pandas
