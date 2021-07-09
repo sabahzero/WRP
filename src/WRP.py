@@ -1,5 +1,4 @@
-# python3 WRP.py to run in terminal
-## runs
+# Run in terminal with command 'python3 WRP.py'
 
 import pandas
 
