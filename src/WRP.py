@@ -9,11 +9,10 @@ from data_tools.df_processing import char_combine_iter
 from data_tools.wiki import node_query_pipeline
 
 
-# Nodes
+# Nodes (works - Jul 13, 2021)
 nodes = []
 
-
-# Anatomy 
+## Anatomy 
 q = """SELECT DISTINCT ?anatomy ?anatomyLabel 
         WHERE {
           ?anatomy wdt:P1554 ?uberon
@@ -23,7 +22,7 @@ q = """SELECT DISTINCT ?anatomy ?anatomyLabel
 res = node_query_pipeline(q, {}, 'anatomy')
 nodes.append(res)
 
-# Biological Process 
+## Biological Process 
 q = """SELECT DISTINCT ?biological_process ?biological_processLabel 
         WHERE {
           ?biological_process wdt:P31 wd:Q2996394 .
@@ -33,7 +32,7 @@ q = """SELECT DISTINCT ?biological_process ?biological_processLabel
 res = node_query_pipeline(q, {}, 'biological_process')
 nodes.append(res)
 
-# Cellular Component
+## Cellular Component
 q = """SELECT DISTINCT ?cellular_component ?cellular_componentLabel 
     WHERE {
       ?cellular_component wdt:P31 wd:Q5058355 .
@@ -43,7 +42,7 @@ q = """SELECT DISTINCT ?cellular_component ?cellular_componentLabel
 res = node_query_pipeline(q, {}, 'cellular_component')
 nodes.append(res)
 
-# Compounds 
+## Compounds 
 q = """SELECT DISTINCT ?compound ?compoundLabel
         WHERE {
           ?compound wdt:P31 wd:Q11173 .
@@ -54,7 +53,7 @@ q = """SELECT DISTINCT ?compound ?compoundLabel
 res = node_query_pipeline(q, {}, 'compound')
 nodes.append(res)
 
-# Disease
+## Disease
 q = """SELECT DISTINCT ?disease ?diseaseLabel 
         WHERE {
           ?disease wdt:P31 wd:Q12136 .
@@ -64,7 +63,7 @@ q = """SELECT DISTINCT ?disease ?diseaseLabel
 res = node_query_pipeline(q, {}, 'disease')
 nodes.append(res)
 
-# Genes (note focus on Homo sapiens) 
+## Genes (note focus on Homo sapiens) 
 q = """SELECT DISTINCT ?gene ?geneLabel
         WHERE {
           ?gene wdt:P31 wd:Q7187 .
@@ -75,7 +74,7 @@ q = """SELECT DISTINCT ?gene ?geneLabel
 res = node_query_pipeline(q, {}, 'gene')
 nodes.append(res)
 
-# Pathway
+## Pathway
 q = """SELECT DISTINCT ?pathway ?pathwayLabel
         WHERE {
           ?pathway wdt:P31 wd:Q4915012 .
@@ -85,8 +84,8 @@ q = """SELECT DISTINCT ?pathway ?pathwayLabel
 res = node_query_pipeline(q, {}, 'pathway')
 nodes.append(res)
 
-# Phenotype (nothing for hpo? apply to Compound?)
-q = """SELECT DISTINCT ?phenotype ?phenotypeLabel ?hpo 
+## Phenotype (note focus on Homo sapiens)
+q = """SELECT DISTINCT ?phenotype ?phenotypeLabel 
         WHERE {
           {?phenotype wdt:P31 wd:Q169872.}UNION{?phenotype wdt:P3841 ?hpo}
           SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGAGE],en" }
@@ -95,7 +94,7 @@ q = """SELECT DISTINCT ?phenotype ?phenotypeLabel ?hpo
 res = node_query_pipeline(q, {}, 'phenotype')
 nodes.append(res)
 
-# Protein (note focus on Homo sapiens) 
+## Protein (note focus on Homo sapiens) 
 q = """SELECT DISTINCT ?protein ?proteinLabel
         WHERE {
           ?protein wdt:P31 wd:Q8054 .
@@ -106,7 +105,7 @@ q = """SELECT DISTINCT ?protein ?proteinLabel
 res = node_query_pipeline(q, {}, 'protein')
 nodes.append(res)
 
-# Molecular Function
+## Molecular Function
 q = """SELECT DISTINCT ?molecular_function ?molecular_functionLabel 
         WHERE {
           ?molecular_function wdt:P31 wd:Q14860489 .
@@ -116,7 +115,7 @@ q = """SELECT DISTINCT ?molecular_function ?molecular_functionLabel
 res = node_query_pipeline(q, {}, 'molecular_function')
 nodes.append(res)
 
-
+## Compile all 10 node type categories
 nodes = pandas.concat(nodes, sort=False, ignore_index=True)
 
 out_dir = Path('../results/')
