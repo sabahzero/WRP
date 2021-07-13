@@ -1,6 +1,7 @@
-# Run in terminal with command 'python3 WRP.py'
+# Run in terminal with command 'python3 WRP.py' *in src folder
+## Make sure you've first run "pip install -r 00_requirements.txt"
 
-import pandas
+import pandas as pd
 
 from pathlib import Path
 from tqdm.autonotebook import tqdm 
@@ -116,7 +117,7 @@ res = node_query_pipeline(q, {}, 'molecular_function')
 nodes.append(res)
 
 ## Compile all 10 node type categories
-nodes = pandas.concat(nodes, sort=False, ignore_index=True)
+nodes = pd.concat(nodes, sort=False, ignore_index=True)
 
 out_dir = Path('../results/')
 out_dir.mkdir(parents=True, exist_ok=True)

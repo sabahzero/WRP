@@ -4,8 +4,11 @@
 
 # 01a
 pandas
-git+https://github.com/mmayers12/data_tools # Mike's package
 tdqm
+
+git+https://github.com/mmayers12/data_tools # Mike's package
+    
+# 01b
 
 
 # glmnet
