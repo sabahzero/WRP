@@ -3,12 +3,16 @@
 ### pip install -r 00_requirements.txt 
 
 # 01a
+pathlib
 pandas
 tdqm
 
 git+https://github.com/mmayers12/data_tools # Mike's package
     
 # 01b
+functools
+itertools
+
 
 
 # glmnet
