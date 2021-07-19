@@ -9,7 +9,6 @@ from itertools import chain # what does this do?
 from tqdm.autonotebook import tqdm 
 
 from data_tools.df_processing import char_combine_iter, add_curi
-from data_tools.plotting import count_plot_h
 from data_tools.wiki import execute_sparql_query, node_query_pipeline, standardize_nodes, standardize_edges
 
 
