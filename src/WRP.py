@@ -126,6 +126,7 @@ out_dir.mkdir(parents=True, exist_ok=True)
 nodes.to_csv(out_dir.joinpath('01a_nodes.csv'), index=False)
 
 # Edges
+## Put in a sleep function (for 5 seconds) to override the SPARQL overflow
 
 def process_taxa(edges): # Integrate process_taxa() function into data_tools package ?
     nodes = edges.drop_duplicates(subset=['taxon', 'tax_id'])[['taxon', 'taxonLabel', 'tax_id']]
