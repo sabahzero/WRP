@@ -3,6 +3,7 @@
 
 import pandas as pd
 
+import time # sleep function
 import functools # what does this do?
 from pathlib import Path
 from itertools import chain # what does this do?
