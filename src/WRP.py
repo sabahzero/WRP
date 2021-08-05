@@ -18,7 +18,6 @@ from itertools import chain
 from tqdm.autonotebook import tqdm 
 
 from data_tools.df_processing import char_combine_iter, add_curi
-from data_tools.plotting import count_plot_h
 from data_tools.wiki import execute_sparql_query, node_query_pipeline, standardize_nodes, standardize_edges
 
 # Create time stamp of run
@@ -264,7 +263,7 @@ q = """SELECT DISTINCT ?disease ?diseaseLabel ?doid ?parent_tax ?parent_taxLabel
       ?taxon wdt:P685 ?tax_id .
       ?taxon wdt:P105 wd:Q7432 .
       SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
-      limit 49000"""
+      limit 48000"""
 
 qr = execute_sparql_query(q)
 tax_nodes = process_taxa(qr)
