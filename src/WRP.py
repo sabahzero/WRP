@@ -18,7 +18,7 @@ from data_tools.wiki import node_query_pipeline
 timeStringNow = datetime.now().strftime("+%Y-%m-%dT00:00:00Z") 
 start_time = time.time()
 
-# Nodes (works - Jul 13, 2021)
+# Nodes (works - Aug 5, 2021)
 nodes = []
 
 ## Anatomy 
