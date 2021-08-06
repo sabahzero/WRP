@@ -6,6 +6,7 @@
 pathlib
 pandas
 tdqm
+time
 
 git+https://github.com/mmayers12/data_tools # Mike's package
     
