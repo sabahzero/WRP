@@ -10,6 +10,7 @@
 - Check Issues (make checklist)
 - Update documentation
 - Parallel of metapaths and wd-rephetio
+- Check that an outside person can walk through tutorial
 
 ### Examples
 - Recommended [README template](https://docs.google.com/document/d/1aWWx3Re3_KehicdhR6gPrcJ-EwSmHWydkV1PqyJg984/edit?usp=sharing)
