@@ -21,6 +21,12 @@
 
 ### Contributors
 Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero)), Michael D Mayers ([@mmayers](https://github.com/mmayers12)), Andra Waagmeester ([@andrawaag](https://github.com/andrawaag)), Andrew I Su ([@andrewsu](https://github.com/andrewsu)) ... gender balance <br><br>
-This project builds upon work from [Michael D Mayers](https://github.com/mmayers12/metapaths) and the associated [Waagmeester et al. 2020 eLife article](https://elifesciences.org/articles/52614)
+
+Jose (wdsub), Roger
+
+### Acknowledgements 
+Sai Siddhartha ([@saisiddu](https://github.com/saisiddu)), Tyler Bettilyon ([@tebba-von-mathenstein](https://github.com/tebba-von-mathenstein))
+
+This project builds upon work from [Michael D Mayers](https://github.com/mmayers12/metapaths) and the associated [Waagmeester et al. 2020 eLife article](https://elifesciences.org/articles/52614) <br>
 
 License CC0
