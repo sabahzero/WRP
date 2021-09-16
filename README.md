@@ -10,6 +10,7 @@
 - Check Issues (make checklist)
 - Update documentation
 - Parallel of metapaths and wd-rephetio
+- sparkwdsub / wikibase-dump 
 - Check that an outside person can walk through tutorial
 
 ### Examples
