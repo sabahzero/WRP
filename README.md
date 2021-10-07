@@ -9,7 +9,6 @@ Update
 ### "To Do" Items
 - Re-read [2021 preprint](https://www.biorxiv.org/content/10.1101/2021.04.15.440028v1.abstract)
 - Check Issues (make checklist)
-- Update documentation
 - Parallel of metapaths and wd-rephetio
 - sparkwdsub / wikibase-dump 
 - Check that an outside person can walk through tutorial
