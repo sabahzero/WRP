@@ -2,7 +2,7 @@ import os
 import json
 from collections import Counter
 from wikidataintegrator.wdi_core import WDItemEngine
-from hetnet_ml.src import graph_tools as gt
+from hetnet_ml import graph_tools as gt # removed .src from 'hetnet_ml.src'
 
 
 def parse_result_uris(result):
