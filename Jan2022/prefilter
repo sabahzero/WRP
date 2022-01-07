@@ -1,0 +1,9 @@
+
+cat latest-all.json | wikibase-dump-filter --claim P1402
+cat latest-all.json | grep '"Q2996394"' | wikibase-dump-filter --claim P31:Q2996394 
+cat latest-all.json | grep '"Q5058355"' | wikibase-dump-filter --claim P31:Q5058355
+cat latest-all.json | grep '"Q11173"' | wikibase-dump-filter --claim P31:Q11173 
+cat latest-all.json | grep '"Q12136"' | wikibase-dump-filter --claim P31:Q12136 
+cat latest-all.json | grep '"Q15978631"' | wikibase-dump-filter --claim P703:Q15978631
+cat latest-all.json | wikibase-dump-filter --claim P3841
+cat latest-all.json | grep '"Q14860489"' | wikibase-dump-filter --claim P31:Q14860489 
