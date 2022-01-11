@@ -1,8 +1,0 @@
-# Required packages
-
-glmnet
-pandas
-tdqm
-# itertools:  already exists in python
-sklearn
-# hetnet_ml.src
