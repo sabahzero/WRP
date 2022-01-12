@@ -1,0 +1,9 @@
+
+gzip -d -c 30-06-2021.json.gz | wikibase-dump-filter --claim P1402 > anatomy.ndjson &
+gzip -d -c 30-06-2021.json.gz | grep '"Q2996394"' | wikibase-dump-filter --claim P31:Q2996394 > biologicalprocess.ndjson &
+gzip -d -c 30-06-2021.json.gz | grep '"Q5058355"' | wikibase-dump-filter --claim P31:Q5058355 > cellularcomponent.ndjson &
+gzip -d -c 30-06-2021.json.gz | grep '"Q11173"' | wikibase-dump-filter --claim P31:Q11173 > compounds.ndjson &
+gzip -d -c 30-06-2021.json.gz | grep '"Q12136"' | wikibase-dump-filter --claim P31:Q12136 > disease.ndjson &
+gzip -d -c 30-06-2021.json.gz | grep '"Q15978631"' | wikibase-dump-filter --claim P703:Q15978631 > genes-pathway-protein.ndjson &
+gzip -d -c 30-06-2021.json.gz | wikibase-dump-filter --claim P3841 > phenotype.ndjson &
+gzip -d -c 30-06-2021.json.gz | grep '"Q14860489"' | wikibase-dump-filter --claim P31:Q14860489 > molecularfunction.ndjson
