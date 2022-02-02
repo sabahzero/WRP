@@ -1,0 +1,665 @@
+:ID,:LABEL,name
+Q2546,Disease,potassium bromide
+Q19052,Disease,silver iodide
+Q32703,Disease,aminomethylpropanol
+Q41353,Disease,(-)-urobilin
+Q43656,Disease,cholesterol
+Q44804,Disease,RS-127445
+Q45143,Disease,fulminic acid
+Q49546,Disease,acetone
+Q50694,Disease,cesium fluoride
+Q50703,Disease,cesium iodide
+Q52858,Disease,ethane
+Q58356,Disease,amoxapine
+Q58713,Disease,clomipramine
+Q61416,Disease,Adenosine diphosphate ribose
+Q63814,Disease,Copper(I) nitrate
+Q68484,Disease,prucalopride
+Q68566,Disease,mosapride
+Q69488,Disease,MDMA
+Q79583,Disease,lithium hydride
+Q80232,Disease,cyclobutane
+Q80868,Disease,tolonium chloride
+Q83320,Disease,nitric acid
+Q105522,Disease,uric acid
+Q113820,Disease,heptyl alcohol
+Q121881,Disease,cobalt(III) oxide
+Q126657,Disease,nitroguanidine
+Q132428,Disease,strontium hydroxide
+Q134030,Disease,Nitrogen monohydride
+Q135068,Disease,(+/-)-tetrahydroharmine
+Q135445,Disease,muscalure
+Q137648,Disease,tetrasulfur tetranitride
+Q139307,Disease,calcifediol
+Q144085,Disease,pimozide
+Q144362,Disease,azulene
+Q149452,Disease,(rac)-mecoprop
+Q150694,Disease,nonane
+Q150717,Disease,decane
+Q150808,Disease,tetradecane
+Q150977,Disease,tricosane
+Q150988,Disease,tetracosane
+Q155746,Disease,paricalcitol
+Q155883,Disease,alfacalcidol
+Q155954,Disease,tenofovir
+Q161267,Disease,1,1,1-trifluoroethane
+Q161288,Disease,1,1-diiodoethane
+Q161451,Disease,1,2-butadiene
+Q161471,Disease,1,2-dibromoethane
+Q161479,Disease,1,2-diiodoethane
+Q161535,Disease,1,4-pentadiene
+Q161563,Disease,1,6-hexanediol
+Q161564,Disease,1,8-bis(dimethylamino)naphthalene
+Q161637,Disease,1-hexene
+Q161640,Disease,propyl iodide
+Q161641,Disease,1-hydroxybenzotriazole
+Q161646,Disease,1-methylguanine
+Q161655,Disease,1-naphthylamine
+Q161656,Disease,1-methylnaphthalene
+Q161660,Disease,1-naphthaleneacetic acid
+Q161684,Disease,1-tridecanol
+Q165003,Disease,N-allylaniline
+Q165930,Disease,tyramine
+Q168065,Disease,propargite
+Q168686,Disease,polyglycerol polyricinoleate
+Q168790,Disease,brefeldin A
+Q169313,Disease,guanine
+Q169326,Disease,zearalenone
+Q171877,Disease,hydrogen peroxide
+Q172422,Disease,mercurous fluoride
+Q173043,Disease,stop bath
+Q174723,Disease,codeine
+Q174786,Disease,pentoxyverine
+Q174937,Disease,p-anisaldehyde
+Q175718,Disease,di-tert-butyl dicarbonate
+Q180508,Disease,Thiepane
+Q181545,Disease,ortho-acetovanillone
+Q181619,Disease,L-Glutamine
+Q182849,Disease,calcium hydroxide
+Q183300,Disease,2-methylhexane
+Q186257,Disease,lormetazepam
+Q186969,Disease,ibuprofen
+Q187487,Disease,7,12-dimethylbenzanthracene
+Q189522,Disease,quinine
+Q190878,Disease,activated carbon
+Q191381,Disease,saccharin
+Q191521,Disease,sildenafil
+Q191831,Disease,ammonium sulfate
+Q192454,Disease,β-D-2-deoxyribose
+Q193572,Disease,salicylic acid
+Q195823,Disease,1-Butanethiol
+Q198728,Disease,ponatinib
+Q201090,Disease,2'-deoxyadenosine triphosphate
+Q202998,Disease,zileuton
+Q203174,Disease,thalidomide
+Q204030,Disease,(E)-cinnamyl alcohol
+Q204594,Disease,zinc protoporphyrin
+Q204714,Disease,zinc chloride
+Q204717,Disease,zinc dithionite
+Q204964,Disease,stannous chloride
+Q204981,Disease,tin(II) sulfate
+Q205562,Disease,ziram
+Q207843,Disease,nitric oxide (radical)
+Q209124,Disease,2,2-diiodopropane
+Q209162,Disease,2,3-dibromo-1,4-benzoquinone
+Q209192,Disease,pentaerythritol diformal
+Q209198,Disease,2,4-dibromobutanoic acid
+Q209267,Disease,2,5-dimethylfuran
+Q209281,Disease,2,7-di-tert-butylthiepin
+Q209284,Disease,2,6-lutidine
+Q209347,Disease,2-chlorobutane
+Q209355,Disease,ethephon
+Q209370,Disease,2-cyclohexenone
+Q209381,Disease,ethylene glycol monoethyl ether
+Q209389,Disease,2-fluoroethanol
+Q209407,Disease,2-hydroxy-5-octanoylbenzoic acid
+Q209415,Disease,isopropyl iodide
+Q209433,Disease,2-methylbutyric acid
+Q209444,Disease,2-methyltetrahydrofuran
+Q209450,Disease,2-naphthylamine
+Q209452,Disease,2-nitroresorcinol
+Q209453,Disease,2-nitropropane
+Q209460,Disease,2-pentanone
+Q211433,Disease,cyclohexane
+Q211737,Disease,sodium sulfate
+Q211891,Disease,nitrous acid
+Q211972,Disease,ferrocene
+Q220108,Disease,sec-butyllithium
+Q221174,Disease,topiramate
+Q222290,Disease,triphenyl phosphite
+Q223008,Disease,3,5-dibromocatechol
+Q223011,Disease,methylenedioxyethamphetamine
+Q223012,Disease,3,5-dibromphenol
+Q223014,Disease,3,5-dibromosalicylic acid
+Q223036,Disease,dimethylaminopropionitrile
+Q223042,Disease,3-aminopropanol
+Q223089,Disease,3-pyridinol
+Q223096,Disease,3-methoxyphencyclidine
+Q223112,Disease,diethyl ketone
+Q229843,Disease,4,4'-diamino-3,3'-dimethyldiphenylmethane
+Q229970,Disease,4-hydroxybenzoic acid
+Q229995,Disease,4-acetylanisole
+Q230010,Disease,4-nitrocatechol
+Q230012,Disease,4-nitrodiphenylamine
+Q230013,Disease,4-methylthioamphetamine
+Q238472,Disease,5-bromo-4-chloro-3-indolyl phosphate
+Q238477,Disease,bromouracil
+Q239778,Disease,bromhexine
+Q240557,Disease,phosphorus pentabromide
+Q245825,Disease,trifluoridonitridosulfur
+Q246414,Disease,disulfur decafluoride
+Q252251,Disease,cyanocobalamin
+Q253118,Disease,oxepane
+Q254296,Disease,lansoprazole
+Q259015,Disease,UDP-α-D-galactose
+Q259075,Disease,vitexin
+Q259930,Disease,fusidic acid
+Q260375,Disease,EMD-386088
+Q263713,Disease,nevirapine
+Q265978,Disease,PRE-084
+Q267669,Disease,Cisatracurium besylate
+Q271980,Disease,bisphenol A
+Q273169,Disease,capsaicin
+Q283435,Disease,stachyose
+Q285790,Disease,tert-butyl alcohol
+Q286126,Disease,L-Tenuazonic acid
+Q287415,Disease,cholic acid
+Q288051,Disease,tomatine
+Q288927,Disease,isocitric acid
+Q290001,Disease,gliclazide
+Q290992,Disease,4-(2-aminoethyl)benzenesulfonyl fluoride
+Q291271,Disease,aminohippuric acid
+Q297592,Disease,heptanoic acid
+Q300850,Disease,(3Z)-3-hexen-1-ol
+Q300852,Disease,(-)-alpha-pinene
+Q302865,Disease,chlorocresol
+Q303169,Disease,crotonoyl-CoA
+Q309528,Disease,p-cresidine
+Q309747,Disease,2-hydroxy-3-methoxybenzaldehyde
+Q311992,Disease,acetylcarnitine
+Q312240,Disease,metacresol
+Q332211,Disease,abscisic acid
+Q338869,Disease,vinyl chloride
+Q341304,Disease,acibenzolar
+Q341945,Disease,aclonifen
+Q342713,Disease,acridine
+Q342790,Disease,acrolein
+Q347337,Disease,balsalazide
+Q347392,Disease,sanguinarium
+Q348922,Disease,busulfan
+Q351461,Disease,adamantane
+Q366482,Disease,adrafinil
+Q369356,Disease,Aurantinidin
+Q369648,Disease,tolperisone
+Q372725,Disease,thiethylperazine
+Q374826,Disease,solifenacin succinate
+Q375837,Disease,gallic acid
+Q376994,Disease,pseudocumene
+Q378997,Disease,emylcamate
+Q382984,Disease,dinitrogen tetroxide
+Q385937,Disease,hesperidin
+Q388801,Disease,furosemide
+Q393336,Disease,kaempferol
+Q402607,Disease,tyrosol
+Q402719,Disease,1,4-benzoquinone
+Q407204,Disease,sodium hypochlorite
+Q407258,Disease,calcium sulfate
+Q407270,Disease,barium chloride
+Q407318,Disease,hypochlorous acid
+Q407515,Disease,silver bromide
+Q407560,Disease,squalene
+Q407613,Disease,lithium hydroxide
+Q407849,Disease,cobaltous chloride
+Q408050,Disease,dimethyl ether
+Q408099,Disease,brivaracetam
+Q408131,Disease,levodropropizine
+Q408155,Disease,catumaxomab
+Q408370,Disease,dihydralazine
+Q408400,Disease,florfenicol
+Q408403,Disease,plutonium(III) fluoride
+Q408440,Disease,fluvalinate
+Q408529,Disease,amikacin
+Q408646,Disease,triclosan
+Q408663,Disease,L-selenocysteine
+Q408704,Disease,propylhexedrine
+Q408718,Disease,cyclopropanone
+Q408727,Disease,benzododecinium chloride
+Q408762,Disease,tetramethyl-p-phenylenediamine
+Q408840,Disease,alloxazine
+Q408880,Disease,potassium oxide
+Q408898,Disease,pyrrolidine
+Q409028,Disease,sulfur dichloride
+Q409057,Disease,aluminum fluoride
+Q409133,Disease,chloroethane
+Q409196,Disease,Methyl orange
+Q409231,Disease,indomethacin
+Q409375,Disease,monochloramine
+Q409587,Disease,naltrexone
+Q409618,Disease,dihydroxyacetone
+Q409630,Disease,cupric carbonate
+Q409641,Disease,allicin
+Q409703,Disease,diallyl diglycol carbonate
+Q409953,Disease,Benfotiamine
+Q409966,Disease,etizolam
+Q410026,Disease,lead selenide
+Q410168,Disease,lutetium chloride
+Q410431,Disease,methyl isocyanate
+Q410468,Disease,valnoctamide
+Q410492,Disease,lercanidipine
+Q410556,Disease,sulprostone
+Q410608,Disease,butabarbital
+Q410683,Disease,iohexol
+Q410698,Disease,dimethoxybenzyl alcohol
+Q410836,Disease,geraniol
+Q410915,Disease,biphenyl
+Q410949,Disease,cannabichromene
+Q410969,Disease,Burgess reagent
+Q411030,Disease,carboxymethyl cellulose
+Q411046,Disease,Thiomersal
+Q411126,Disease,sodium iodate
+Q411169,Disease,xenon trioxide
+Q411297,Disease,orthoperiodic acid
+Q411436,Disease,lead(II) sulfide
+Q411484,Disease,plutonium tetrafluoride
+Q411532,Disease,oleandrin
+Q411535,Disease,Thioindigo
+Q411542,Disease,Iprodione
+Q411648,Disease,tacrolimus
+Q411781,Disease,Teriparatide
+Q411853,Disease,aluminium phosphide
+Q411864,Disease,silver sulfate
+Q412085,Disease,ammonium persulfate
+Q412226,Disease,yohimbine
+Q412291,Disease,Laropiprant
+Q412383,Disease,3-nitro-L-tyrosine
+Q412538,Disease,calcium iodide
+Q412567,Disease,benzonitrile
+Q412572,Disease,piroctone olamine
+Q412659,Disease,perflutren
+Q412699,Disease,bufexamac
+Q412708,Disease,sodium cyanate
+Q412713,Disease,cinchonidine
+Q412784,Disease,phthalimide
+Q412845,Disease,dichloroacetic acid
+Q412986,Disease,isovanillin
+Q413006,Disease,oftasceine
+Q413008,Disease,ditiocarb sodium
+Q413056,Disease,Tetrazene
+Q413135,Disease,tetramethyltin
+Q413178,Disease,diacerein
+Q413262,Disease,styrene oxide
+Q413299,Disease,bevacizumab
+Q413349,Disease,selenic acid
+Q413426,Disease,1,3-thiazole
+Q413437,Disease,oxazole
+Q413546,Disease,clotrimazole
+Q413552,Disease,glyoxylic acid
+Q413578,Disease,mupirocin
+Q413598,Disease,prilocaine
+Q413816,Disease,pulegone
+Q413828,Disease,silicon nitride
+Q413840,Disease,tolcapone
+Q413855,Disease,neopentyl glycol
+Q413926,Disease,Hexanitrohexaazaisowurtzitane
+Q414089,Disease,aldehydo-D-tagatose
+Q414143,Disease,gemcitabine
+Q414168,Disease,methanesulfonic acid
+Q414195,Disease,2-phenylpropene
+Q414357,Disease,propiconazole
+Q414364,Disease,tungsten disilicide
+Q414395,Disease,veratraldehyde
+Q414427,Disease,thorium(II) carbide
+Q414430,Disease,dimethylzinc
+Q414462,Disease,apixaban
+Q414537,Disease,nickel carbonyl
+Q414576,Disease,triheptanoin
+Q414599,Disease,potassium iodate
+Q414659,Disease,manganese carbonate
+Q414738,Disease,thioglycolic acid
+Q414904,Disease,aliskiren
+Q414954,Disease,alphenal
+Q415207,Disease,2,4-diphenyl-1,3,2,4-diselenadiphosphetane 2,4-diselenide
+Q415238,Disease,tolnaftate
+Q415256,Disease,bismuth telluride
+Q415324,Disease,tridolgosir
+Q415343,Disease,Etanercept
+Q415347,Disease,threitol
+Q415376,Disease,quinaldine
+Q415390,Disease,(Z)-cyclooctene
+Q415401,Disease,dorzolamide
+Q415617,Disease,(1R,3R,ΑR)-cyfluthrin
+Q415688,Disease,3,4,5-trimethoxyamphetamine
+Q415734,Disease,aminopterin
+Q415746,Disease,pramiracetam
+Q415768,Disease,L-kynurenine
+Q415837,Disease,lysergic acid
+Q415850,Disease,amobarbital
+Q415877,Disease,monosodium phosphate
+Q415891,Disease,lithium cobalt oxide
+Q415939,Disease,chlorambucil
+Q415996,Disease,flibanserin
+Q416065,Disease,cyclopentanone
+Q416096,Disease,griseofulvin
+Q416138,Disease,isorhamnetin
+Q416182,Disease,iodine monobromide
+Q416248,Disease,methyl morpholine oxide
+Q416291,Disease,indium phosphide
+Q416387,Disease,Tetraazidomethane
+Q416399,Disease,diethylene glycol monoethyl ether
+Q416410,Disease,fomepizole
+Q416416,Disease,molybdenum trioxide
+Q416439,Disease,piritramide
+Q416451,Disease,azacitidine
+Q416459,Disease,Cobalt green
+Q416473,Disease,metaproterenol
+Q416567,Disease,Prostaglandin H2
+Q416623,Disease,nickel(II) fluoride
+Q416632,Disease,nefazodone
+Q416641,Disease,Cerium(IV) sulfate
+Q416663,Disease,caesium acetate
+Q416667,Disease,medroxyprogesterone
+Q416677,Disease,Racecadotril
+Q416682,Disease,picolinic acid
+Q416688,Disease,copper monosulfide
+Q416737,Disease,perbenzoic acid
+Q416767,Disease,calcium tartrate
+Q417078,Disease,Petasis reagent
+Q417090,Disease,caesium oxide
+Q417121,Disease,cobalt(II) fluoride
+Q417125,Disease,potassium periodate
+Q417129,Disease,cadmium bromide
+Q417178,Disease,clomethiazole
+Q417194,Disease,methandrostenolone
+Q417286,Disease,cupric arsenite
+Q417497,Disease,cresol red
+Q417557,Disease,Methoxyethane
+Q417642,Disease,trioxidane
+Q417654,Disease,triprolidine
+Q417740,Disease,lovastatin
+Q417765,Disease,pioglitazone
+Q417816,Disease,boron triethoxide
+Q417992,Disease,strontium iodide
+Q418038,Disease,phenoxyethanol
+Q418042,Disease,bismuth oxychloride
+Q418082,Disease,hydantoin
+Q418104,Disease,methyl isobutyl ketone
+Q418107,Disease,oxetane
+Q418164,Disease,isobutyraldehyde
+Q418193,Disease,Sodium cyanoborohydride
+Q418258,Disease,bromine monofluoride
+Q418274,Disease,glatiramer acetate
+Q418318,Disease,cetylpyridinium chloride
+Q418386,Disease,trientine
+Q418437,Disease,diethanolamine
+Q418510,Disease,sodium metavanadate
+Q418529,Disease,mercaptopurine
+Q418592,Disease,benzenearsonic acid
+Q418666,Disease,tranexamic acid
+Q418669,Disease,flutamide
+Q418672,Disease,hexyl acetate
+Q418719,Disease,phenolsulfonphthalein
+Q418747,Disease,(2R)-daptomycin
+Q418763,Disease,cyclosarin
+Q418767,Disease,magnesium acetate
+Q418803,Disease,strontium hexaboride
+Q418812,Disease,iridium(IV) oxide
+Q418813,Disease,(R)-β-citronellol
+Q418846,Disease,D-Iduronic acid
+Q418860,Disease,D-ribulose 1,5-bisphosphate
+Q418913,Disease,armodafinil
+Q418966,Disease,chromocene
+Q418993,Disease,(E)-coniferyl alcohol
+Q419028,Disease,chenodiol
+Q419047,Disease,trans-vaccenic acid
+Q419059,Disease,bethanechol
+Q419205,Disease,lead(II,IV) oxide
+Q419266,Disease,nitrosyl chloride
+Q419330,Disease,methylcyclohexane
+Q419381,Disease,thallium(III) oxide
+Q419420,Disease,benzal chloride
+Q419430,Disease,succinimide
+Q419447,Disease,chlorine pentafluoride
+Q419472,Disease,pyridostigmine
+Q419487,Disease,gallium(III) oxide
+Q419521,Disease,ceftibuten
+Q419537,Disease,dillapiole
+Q419622,Disease,iodine trichloride
+Q419646,Disease,drospirenone
+Q419700,Disease,ferric fluoride
+Q419717,Disease,yttrium(III) fluoride
+Q419739,Disease,triclabendazole
+Q419769,Disease,bosentan
+Q419787,Disease,niobium pentoxide
+Q419802,Disease,trimethylamine oxide
+Q419806,Disease,cerous chloride
+Q419814,Disease,(E,E)-α-farnesene
+Q419857,Disease,tridecanoic acid
+Q419904,Disease,palladium dichloride
+Q419939,Disease,doxazosin
+Q419953,Disease,topotecan
+Q419991,Disease,Magaldrate
+Q420026,Disease,bretylium
+Q420035,Disease,sulfasalazine
+Q420056,Disease,Peginterferon alfa-2a
+Q420066,Disease,sodium stearate
+Q420093,Disease,Brilliant Blue FCF
+Q420096,Disease,lithium stearate
+Q420124,Disease,lead titanate
+Q420156,Disease,chromone
+Q420172,Disease,benomyl
+Q420176,Disease,norbornene
+Q420207,Disease,capecitabine
+Q420288,Disease,vinpocetine
+Q420320,Disease,1,3,5-trinitrobenzene
+Q420380,Disease,dichlorotetrafluoroethane
+Q420394,Disease,sucralfate
+Q420454,Disease,proflavine
+Q420554,Disease,isopropylamine
+Q420586,Disease,celiprolol
+Q420622,Disease,dichlorvos
+Q420657,Disease,isobutyl acetate
+Q420695,Disease,chloramine T
+Q420704,Disease,cadmium selenide
+Q420715,Disease,propiolactone
+Q420762,Disease,(2S)-Fumonisin B1
+Q420868,Disease,tetramethylammonium hydroxide
+Q420909,Disease,triacetoxyperiodinane
+Q421025,Disease,rhenium heptafluoride
+Q421147,Disease,meclofenoxate
+Q421154,Disease,triphenylphosphine oxide
+Q421162,Disease,bifonazole
+Q421177,Disease,cotinine
+Q421181,Disease,lithium carbide
+Q421183,Disease,hexobarbital
+Q421203,Disease,brodifacoum
+Q421230,Disease,auranofin
+Q421256,Disease,pararosaniline
+Q421311,Disease,Benzopyran
+Q421328,Disease,9-fluorenone
+Q421351,Disease,oxedrine
+Q421396,Disease,ferrous bromide
+Q421420,Disease,syringol
+Q421438,Disease,chlorethoxyfos
+Q421448,Disease,beryllium iodide
+Q421465,Disease,barium iodide
+Q421469,Disease,(4aS)-indoxacarb
+Q421614,Disease,caryophyllene
+Q421654,Disease,Triton X-100
+Q421736,Disease,dibromomethane
+Q421758,Disease,methyl bromide
+Q421787,Disease,copper(II) oxide
+Q421857,Disease,aluminum sulfate
+Q421873,Disease,erythritol
+Q421881,Disease,Water blue
+Q421910,Disease,phenylephrine
+Q422037,Disease,phenanthrene
+Q422222,Disease,digoxin
+Q422426,Disease,potassium fluoride
+Q422613,Disease,capric acid
+Q422698,Disease,borazine
+Q422761,Disease,metamizole sodium
+Q422837,Disease,lead(II) acetate
+Q422942,Disease,propadiene
+Q422964,Disease,biliverdin
+Q423021,Disease,dichlorodifluoromethane
+Q423055,Disease,tetrafluoromethane
+Q423129,Disease,antimony potassium tartrate trihydrate
+Q423207,Disease,aldehydo-D-altrose
+Q423233,Disease,D-threose
+Q423265,Disease,tungsten carbide
+Q423271,Disease,arsenous acid
+Q423288,Disease,desipramine
+Q423302,Disease,dulcin
+Q423308,Disease,cabergoline
+Q423318,Disease,calcium stearate
+Q423404,Disease,tipranavir
+Q423467,Disease,atazanavir
+Q423545,Disease,potassium pyrosulfate
+Q423551,Disease,dimethyl phthalate
+Q423762,Disease,paclitaxel
+Q423820,Disease,tribasic ammonium phosphate
+Q423824,Disease,tolylfluanid
+Q423842,Disease,dimethyl sulfone
+Q423995,Disease,aurin
+Q424006,Disease,ruthenium red
+Q424012,Disease,Chrome orange
+Q424151,Disease,sibutramine
+Q424316,Disease,tiotropium
+Q424412,Disease,benperidol
+Q424484,Disease,ricinoleic acid
+Q424486,Disease,Ammonia borane
+Q424508,Disease,ergonovine
+Q424521,Disease,ascorbyl palmitate
+Q424551,Disease,sodium ascorbate
+Q424631,Disease,Polyvinyl butyral
+Q424699,Disease,potassium biphthalate
+Q424790,Disease,cerium(III) bromide
+Q424793,Disease,diflufenican
+Q424814,Disease,dazomet
+Q424825,Disease,ethyl chloroacetate
+Q424895,Disease,dimethylglyoxime
+Q424902,Disease,(–)-menthone
+Q424972,Disease,prednisone
+Q425078,Disease,thymine riboside
+Q425088,Disease,temozolomide
+Q425119,Disease,benzethonium chloride
+Q425120,Disease,disopyramide
+Q425134,Disease,palytoxin
+Q425190,Disease,sodium tetrafluoroborate
+Q425193,Disease,Sodium pyrosulfate
+Q425210,Disease,dichlorocarbene
+Q425211,Disease,aluminum antimonide
+Q425241,Disease,tributyltin hydride
+Q425252,Disease,cadmium iodide
+Q425257,Disease,1,2-difluorobenzene
+Q425285,Disease,Rhodocene
+Q425309,Disease,Casomorphin
+Q425378,Disease,methiocarb
+Q425440,Disease,dexketoprofen
+Q425620,Disease,phenylacetonitrile
+Q425654,Disease,indacaterol
+Q425668,Disease,mesityl oxide
+Q425881,Disease,moxaverine
+Q425894,Disease,trichostatin A
+Q426054,Disease,resiquimod
+Q426304,Disease,thiometon
+Q426354,Disease,lithium phosphate
+Q426731,Disease,Diacetoxyscirpenol
+Q426852,Disease,steviol
+Q427997,Disease,Valienamine
+Q447714,Disease,aluminum metaphosphate
+Q467656,Disease,americium(III) iodide
+Q471662,Disease,aminoquinuride
+Q473448,Disease,Ammonium amalgam
+Q473522,Disease,ammonium ferric citrate
+Q481798,Disease,acetyl fluoride
+Q511638,Disease,Tetramethylammonium pentafluoroxenate
+Q522228,Disease,1-tetralone
+Q524995,Disease,dexrazoxane
+Q544393,Disease,Trovafloxacin
+Q546434,Disease,carteolol
+Q553324,Disease,ethenzamide
+Q554297,Disease,etretinate
+Q579645,Disease,Coenzyme B
+Q580840,Disease,Benzoquinonetetracarboxylic dianhydride
+Q585309,Disease,2,5-dimethoxy-4-(2-fluoroethylthio)phenethylamine
+Q586501,Disease,cycloartenol
+Q590622,Disease,3-pentanol
+Q607349,Disease,fluorometholone
+Q617686,Disease,Sultamicillin
+Q634959,Disease,latanoprost
+Q637247,Disease,formoterol
+Q637504,Disease,technetium (99mTc) arcitumomab
+Q640625,Disease,Triformin
+Q647917,Disease,leukotriene D4
+Q662925,Disease,tabtoxinine β-lactam
+Q663909,Disease,phenylglyoxylic acid
+Q676109,Disease,Threose nucleic acid
+Q676896,Disease,oxotremorine
+Q684379,Disease,nepafenac
+Q704048,Disease,5,6,7,8-tetrahydromethanopterin
+Q704767,Disease,arsenocholine
+Q723117,Disease,bencyclane
+Q727742,Disease,propylene oxide
+Q729213,Disease,nicardipine
+Q733186,Disease,telmisartan
+Q733425,Disease,ruberythric acid
+Q742266,Disease,anileridine
+Q750333,Disease,Astra Blue
+Q754374,Disease,5-nitro-2-propoxyaniline
+Q765816,Disease,bromofluoromethane
+Q772735,Disease,miglitol
+Q782448,Disease,Kopexil
+Q791273,Disease,Basketane
+Q793143,Disease,benzydamine
+Q793473,Disease,azafenidin
+Q794152,Disease,bethanidine
+Q799775,Disease,bafetinib
+Q804151,Disease,bismuth nitrate
+Q808213,Disease,barium adipate
+Q808221,Disease,barium iodate
+Q808801,Disease,Reinecke's salt
+Q808845,Disease,ceftazidime
+Q818506,Disease,butyl benzoate
+Q818516,Disease,benzopurpurine 4B
+Q820870,Disease,berkelium(III) fluoride
+Q822884,Disease,carglumic acid
+Q827515,Disease,pridinol
+Q835757,Disease,spirapril
+Q836258,Disease,Cannabivarin
+Q836788,Disease,sodium malate
+Q841485,Disease,tetrathionate
+Q846399,Disease,1,8-Diazafluoren-9-one
+Q853845,Disease,fluorescein isothiocyanate
+Q855449,Disease,intepirdine
+Q855474,Disease,AS-19
+Q857162,Disease,Cajeput oil
+Q863659,Disease,Bindschedler's green
+Q864681,Disease,cismethrin
+Q866603,Disease,BiONO₃
+Q866657,Disease,protionamide
+Q899410,Disease,calcium sulfite
+Q901018,Disease,solvent yellow 14
+Q903551,Disease,prothipendyl
+Q903566,Disease,homovanillic acid
+Q904153,Disease,sevelamer
+Q904204,Disease,ethylene cyanohydrin
+Q905694,Disease,chlorimide
+Q905748,Disease,PolyDADMAC
+Q905756,Disease,Pulvinone
+Q905835,Disease,plerixafor
+Q905868,Disease,decabromodiphenyl ether
+Q906025,Disease,potassium binoxalate
+Q906062,Disease,emivirine
+Q906102,Disease,thiamylal
+Q906509,Disease,dectaflur
+Q906536,Disease,ethyl green
+Q906709,Disease,disilver telluride
+Q907160,Disease,leuprolide
+Q907480,Disease,iclaprim
+Q908865,Disease,coumestrol
+Q909387,Disease,(1R,2R)-4-(2-(5,5-dimethylhex-1-inyl)-cyclopropyl)imidazol
+Q928378,Disease,zafirlukast
+Q930843,Disease,ethyl maltol
+Q931445,Disease,potassium adipate
+Q934310,Disease,Scarlet GN

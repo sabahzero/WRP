@@ -1,0 +1,194 @@
+:ID,:LABEL,name
+Q12133,Phenotype,deafness
+Q16408,Phenotype,halitosis
+Q127076,Phenotype,vomiting
+Q145790,Phenotype,iridocyclitis
+Q158103,Phenotype,déjà vu
+Q161964,Phenotype,capillary leak syndrome
+Q168403,Phenotype,myopia
+Q170082,Phenotype,psychosis
+Q174857,Phenotype,scoliosis
+Q185089,Phenotype,acidosis
+Q187255,Phenotype,rheumatoid arthritis
+Q188605,Phenotype,pulmonary emphysema
+Q202173,Phenotype,hordeolum
+Q212961,Phenotype,pancreatic cancer
+Q246002,Phenotype,polycystic liver disease
+Q270421,Phenotype,muscle weakness
+Q284070,Phenotype,protein-losing enteropathy
+Q379476,Phenotype,epidermoid cyst
+Q418418,Phenotype,ankylosis
+Q422225,Phenotype,actinic keratosis
+Q431643,Phenotype,microcephaly
+Q452368,Phenotype,arthrosis of hip
+Q478389,Phenotype,kyphosis
+Q496812,Phenotype,leukopenia
+Q504775,Phenotype,bladder cancer
+Q506659,Phenotype,prostatic hypertrophy
+Q511818,Phenotype,tetany
+Q535425,Phenotype,Boerhaave syndrome
+Q536269,Phenotype,phaeochromocytoma
+Q551085,Phenotype,myelitis
+Q552348,Phenotype,eclampsia
+Q575168,Phenotype,Hyperventilation
+Q579665,Phenotype,dextrocardia
+Q584211,Phenotype,hydrocele
+Q584560,Phenotype,dysgraphia
+Q614750,Phenotype,bronchiolitis obliterans
+Q616066,Phenotype,coarctation of the aorta
+Q683498,Phenotype,arthralgia
+Q730877,Phenotype,hydronephrosis
+Q744790,Phenotype,Treacher Collins syndrome
+Q762713,Phenotype,hypercholesterolemia
+Q816422,Phenotype,dysmenorrhea
+Q819207,Phenotype,pseudohypoparathyroidism
+Q860395,Phenotype,osteomalacia
+Q883850,Phenotype,blepharophimosis
+Q883863,Phenotype,blepharospasm
+Q896643,Phenotype,brachydactyly
+Q906492,Phenotype,dystonia
+Q913856,Phenotype,Friedreich ataxia
+Q918285,Phenotype,adrenocortical carcinoma
+Q936070,Phenotype,trismus
+Q974869,Phenotype,leukocytosis
+Q1036696,Phenotype,hypothermia
+Q1051786,Phenotype,calvarial hyperostosis
+Q1053470,Phenotype,insulin resistance
+Q1053824,Phenotype,Raynaud disease
+Q1068997,Phenotype,cheilitis
+Q1072420,Phenotype,primary biliary cirrhosis
+Q1088156,Phenotype,chronic lymphocytic leukemia
+Q1126769,Phenotype,paresis
+Q1128431,Phenotype,vaginismus
+Q1130519,Phenotype,heart valve disease
+Q1131260,Phenotype,keloid
+Q1145668,Phenotype,hemolytic anemia
+Q1147182,Phenotype,fecal incontinence
+Q1172076,Phenotype,hepatocellular adenoma
+Q1179460,Phenotype,Fanconi syndrome
+Q1209744,Phenotype,uterine cancer
+Q1320428,Phenotype,malocclusion
+Q1330254,Phenotype,Dupuytren's contracture
+Q1360044,Phenotype,syndactyly
+Q1361515,Phenotype,heart conduction disease
+Q1421356,Phenotype,hyperacusis
+Q1426443,Phenotype,nocturia
+Q1435223,Phenotype,focal segmental glomerulosclerosis
+Q1476525,Phenotype,lipid metabolism disorder
+Q1480291,Phenotype,contracture
+Q1495797,Phenotype,panhypopituitarism
+Q1501239,Phenotype,insulinoma
+Q1506572,Phenotype,atrial flutter
+Q1507609,Phenotype,ochronosis
+Q1524940,Phenotype,choroid plexus carcinoma
+Q1546328,Phenotype,tardive dyskinesia
+Q1570013,Phenotype,thrombophilia
+Q1571975,Phenotype,hallux varus
+Q1585753,Phenotype,urethral stricture
+Q1586088,Phenotype,hypoparathyroidism
+Q1600050,Phenotype,retroperitoneal fibrosis
+Q1628627,Phenotype,Left ventricular hypertrophy
+Q1640868,Phenotype,Hyperammonemia
+Q1671598,Phenotype,intrauterine growth restriction
+Q1679678,Phenotype,hydrops fetalis
+Q1704531,Phenotype,pilomatrixoma
+Q1753467,Phenotype,pathologic fracture
+Q1753547,Phenotype,hypotonia
+Q1756133,Phenotype,presbycusis
+Q1756640,Phenotype,ranula
+Q1757427,Phenotype,pancytopenia
+Q1757915,Phenotype,sick sinus syndrome
+Q1759560,Phenotype,microtia
+Q1826391,Phenotype,atrophic gastritis
+Q1827605,Phenotype,lipedema
+Q1876206,Phenotype,Pelizaeus-Merzbacher disease
+Q1908194,Phenotype,vulvar cancer
+Q1968827,Phenotype,impacted tooth
+Q1975850,Phenotype,parotitis
+Q1981345,Phenotype,neuroma
+Q2035032,Phenotype,osteochondroma
+Q2035084,Phenotype,osteolysis
+Q2051565,Phenotype,arachnodactyly
+Q2053690,Phenotype,Nevus of Ota
+Q2065620,Phenotype,Imperforate hymen
+Q2092064,Phenotype,hemophilia A
+Q2147401,Phenotype,rhabdomyoma
+Q2282783,Phenotype,epiretinal membrane
+Q2292945,Phenotype,papillary thyroid cancer
+Q2299379,Phenotype,membranoproliferative glomerulonephritis
+Q2303951,Phenotype,spinal cord disease
+Q2320954,Phenotype,Reticulocytosis
+Q2397009,Phenotype,choroideremia
+Q2401085,Phenotype,amyloid plaque
+Q2465347,Phenotype,thyroid adenoma
+Q2781245,Phenotype,perinatal death
+Q2845978,Phenotype,stereotypic movement disorder
+Q2852241,Phenotype,arrhythmogenic right ventricular dysplasia 1
+Q3042106,Phenotype,dysgammaglobulinemia
+Q3043160,Phenotype,primary immunodeficiency disease
+Q3055368,Phenotype,enterocolitis
+Q3076802,Phenotype,patent foramen ovale
+Q3134276,Phenotype,femoral hernia
+Q3144191,Phenotype,hyperproteinemia
+Q3237081,Phenotype,leukoencephalopathy
+Q3269466,Phenotype,lymphadenitis
+Q3347239,Phenotype,Occipital neuralgia
+Q3508681,Phenotype,Nezelof syndrome
+Q3616643,Phenotype,Anetoderma
+Q3740798,Phenotype,rectovaginal fistula
+Q3801524,Phenotype,hyperpituitarism
+Q3813334,Phenotype,unilateral hearing loss
+Q3816650,Phenotype,Geniospasm
+Q3847191,Phenotype,Tooth fusion
+Q4138762,Phenotype,vitamin D deficiency
+Q4286595,Phenotype,megalocornea
+Q4353073,Phenotype,Pragmatic language impairment
+Q4667072,Phenotype,fibroma
+Q4684717,Phenotype,adrenal gland disease
+Q4737958,Phenotype,alveolar rhabdomyosarcoma
+Q4833719,Phenotype,B-cell lymphoma
+Q4854239,Phenotype,band keratopathy
+Q4898733,Phenotype,epilepsia partialis continua
+Q5062119,Phenotype,central nervous system cysts
+Q5376225,Phenotype,endocardial fibroelastosis
+Q5380222,Phenotype,enterocele
+Q5420019,Phenotype,exercise-induced bronchoconstriction
+Q6940317,Phenotype,muscle fatigue
+Q7107615,Phenotype,ossifying fibroma
+Q7130407,Phenotype,pancreas disease
+Q7502090,Phenotype,short stature
+Q7831319,Phenotype,tracheoesophageal fistula
+Q7900855,Phenotype,urogenital neoplasm
+Q10295815,Phenotype,Hypofibrinogenemia
+Q11668635,Phenotype,hypermethioninemia
+Q11773731,Phenotype,degenerative disc disease
+Q11829083,Phenotype,meningocele
+Q12412172,Phenotype,neurohypophyseal diabetes insipidus
+Q13365162,Phenotype,bundle branch block
+Q13368382,Phenotype,adrenogenital disease
+Q13629899,Phenotype,detrusor sphincter dyssynergia
+Q16244733,Phenotype,bowel obstruction
+Q16606552,Phenotype,obstructive sleep apnea
+Q17067160,Phenotype,intraocular hemorrhage
+Q17106360,Phenotype,Pineocytoma
+Q18553292,Phenotype,posterior polar cataract
+Q18554068,Phenotype,lens subluxation
+Q18555032,Phenotype,factor VII deficiency
+Q18555985,Phenotype,testicular gonadoblastoma
+Q18556025,Phenotype,anal canal adenocarcinoma
+Q18556111,Phenotype,bronchial neoplasm
+Q18556247,Phenotype,coronary stenosis
+Q18556674,Phenotype,ureteral obstruction
+Q18557037,Phenotype,nephrolithiasis
+Q18966921,Phenotype,macrodactylia of fingers
+Q19000862,Phenotype,anaplastic thyroid carcinoma
+Q22269224,Phenotype,flank pain
+Q25324191,Phenotype,X-linked recessive hypoparathyroidism
+Q29019862,Phenotype,Small hand
+Q29642554,Phenotype,facial hypotonia
+Q29643664,Phenotype,delayed myelination
+Q29643793,Phenotype,Elevated brain choline level by MRS
+Q29643911,Phenotype,Action tremor
+Q29647638,Phenotype,Broad metatarsal
+Q30150660,Phenotype,Dense metaphyseal bands
+Q30151297,Phenotype,High myoinositol in brain by MRS
