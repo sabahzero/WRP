@@ -1,10 +1,369 @@
 :ID#,:LABEL#,name
-Q24721060#Active Site#InterPro Active Site
-Q24721301#Active Site#InterPro Active Site
-Q24721995#Active Site#InterPro Active Site
-Q24740369#Active Site#InterPro Active Site
-Q24770253#Active Site#InterPro Active Site
-Q24781399#Active Site#InterPro Active Site
-Q24783179#Active Site#InterPro Active Site
-Q24786220#Active Site#InterPro Active Site
-Q24788339#Active Site#InterPro Active Site
+Q7365#Active Site#contractile soft tissue of mammals
+Q9377#Active Site#internal organ in most animals, including vertebrates and some invertebrates
+Q9609#Active Site#blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein
+Q9620#Active Site#enclosed, cable-like bundle of axons in the peripheral nervous system
+Q9635#Active Site#first portion of the alimentary canal that receives food
+Q9644#Active Site#location at which two or more bones make contact
+Q9655#Active Site#the blood vessel that carry oxygenated blood away from the heart to other organs rather than lungs
+Q18676#Active Site#region of the brain
+Q29548#Active Site#biological membrane separating the interior of a cell from its external environment
+Q30869#Active Site#largest structure in the nucleus of eukaryotic cells
+Q33767#Active Site#extremity at the end of an arm or forelimb
+Q37425#Active Site#region around the kneecap
+Q41055#Active Site#area of the head between the eyebrows and the hairline
+Q43041#Active Site#group of protein complexes
+Q47038#Active Site#part of the head
+Q48360#Active Site#brain region correlated with memory consolidation and imagination
+Q61333#Active Site#The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
+Q61476#Active Site#carboxylic acid with a long aliphatic chain, either saturated or unsaturated
+Q79447#Active Site#antibody isotype
+Q79451#Active Site#one of several isotypes of antibody
+Q84133#Active Site#middle layer of the heart wall, which consists of cardiac muscle
+Q103142#Active Site#smallest type of blood vessel
+Q104280#Active Site#mucosal tissue that lies over the mandible and maxilla inside the mouth
+Q130983#Active Site#region of the brain that coordinates motor functions and muscle tone
+Q133516#Active Site#simple sugars such as glucose and fructose
+Q156871#Active Site#endocrine gland
+Q160184#Active Site#bodily function of expelling intestinal gas out of the anus
+Q169313#Active Site#chemical compound
+Q169953#Active Site#part of the nervous system
+Q172605#Active Site#roof of mouth
+Q174647#Active Site#part of the foot in the back
+Q177105#Active Site#type of cells in nervous system
+Q180951#Active Site#the ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome
+Q183282#Active Site#
+Q184215#Active Site#part of the brain responsible for sleep regulation and relaying sensory signals
+Q185438#Active Site#arteries at the base of the brain that form part of the circle of Willis
+Q186380#Active Site#Any chromosome other than a sex chromosome
+Q187215#Active Site#term in biology
+Q189073#Active Site#A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
+Q189763#Active Site#nerve in human face
+Q189998#Active Site#cellular appendages functioning as locomotive or sensory organelles
+Q190140#Active Site#tenth cranial nerve
+Q193583#Active Site#loose connective tissue composed mostly of adipocytes
+Q193818#Active Site#anatomical region
+Q196672#Active Site#long curved bone surrounding the chest
+Q208453#Active Site#involuntary non-striated muscle
+Q212743#Active Site#outermost layers of the skin
+Q223143#Active Site#mature white blood cells with granules in the cytoplasm
+Q223851#Active Site#brain part
+Q228537#Active Site#region of the upper limb between the elbow and the wrist
+Q232358#Active Site#type of tissue that connects muscle to bone
+Q237229#Active Site#bones of hand
+Q252509#Active Site#all the teeth in the mouth
+Q253168#Active Site#
+Q259492#Active Site#
+Q261411#Active Site#
+Q277357#Active Site#part of the oropharynx directly behind the mouth cavity, bounded superiorly by the soft palate, laterally by the palatoglossal arches, and inferiorly by the tongue
+Q279039#Active Site#muscle of the upper limb
+Q286978#Active Site#muscles in the zygomatic arch that close the jaw
+Q288821#Active Site#
+Q301876#Active Site#muscle
+Q318773#Active Site#cranial nerve controlling the movement of the lateral rectus muscle
+Q323438#Active Site#germ layer in the very early embryo
+Q340154#Active Site#ligament formed from the buccopharyngeal fascia
+Q352045#Active Site#feature of the human neck
+Q379859#Active Site#proximal part of the free upper limb between the shoulder and the elbow
+Q383359#Active Site#
+Q384631#Active Site#part of the scapula that serves as the origin point for the long head of biceps brachii
+Q398880#Active Site#Wikimedia disambiguation page
+Q407553#Active Site#long unbranched polysaccharides consisting of a repeating disaccharide unit
+Q408014#Active Site#class of compounds; sulfated glycosaminoglycan
+Q409145#Active Site#group of calcium sensors and calcium signal modulators
+Q418892#Active Site#class of chemical compounds
+Q420927#Active Site#stable macromolecular complex
+Q428914#Active Site#type of cell found in muscle tissue
+Q441704#Active Site#nerve in human back
+Q447782#Active Site#layer of synovial membrane around a tendon
+Q465621#Active Site#glial cell type
+Q473749#Active Site#innermost membranous sac that surrounds and protects the developing embryo
+Q476952#Active Site#
+Q485130#Active Site#
+Q488711#Active Site#artery of the neck
+Q489628#Active Site#The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant.
+Q490172#Active Site#artery
+Q497563#Active Site#artery
+Q497574#Active Site#
+Q498179#Active Site#one of the three major paired arteries that supply blood to the cerebrum.
+Q502704#Active Site#passageways by which air passes through the nose or mouth to the alveoli of the lungs
+Q505535#Active Site#part of the peripheral nervous system
+Q505544#Active Site#photoreceptor cells in the retina of the eye that can function in lower light
+Q509053#Active Site#part of the electrical conduction system of the heart that coordinates the top of the heart.
+Q510755#Active Site#nerve of the thigh
+Q537123#Active Site#broad, thin muscle, situated on either side of the pelvis
+Q540092#Active Site#group of specialized connective tissue fibers that essentially attach a tooth to the alveolar bone within which it sits
+Q545929#Active Site#
+Q559526#Active Site#
+Q568799#Active Site#
+Q571378#Active Site#
+Q585624#Active Site#male gonadal vein
+Q597179#Active Site#
+Q603244#Active Site#
+Q609753#Active Site#The outer portion of the ear which includes the auricle and the ear canal and leads to the eardrum.
+Q612431#Active Site#muscle arise from annular tendon is medial rectus,superior rectus,inferior rectus and lateral rectus
+Q618362#Active Site#blood in an artery
+Q619284#Active Site#extrapyramidal motor tract
+Q619632#Active Site#sheet of pearly-white fibrous tissue that attaches sheet-like muscles needing a wide area of attachment
+Q623016#Active Site#conduit for CSF to the brain
+Q623377#Active Site#
+Q640536#Active Site#
+Q650401#Active Site#endocrine gland
+Q654528#Active Site#fatty tissue composed of white adipocytes
+Q659744#Active Site#muscle of the upper limb
+Q666219#Active Site#
+Q667636#Active Site#chromosome involved in sex determination
+Q671943#Active Site#
+Q673321#Active Site#type of mechanoreceptor cell in hairless mammals
+Q691942#Active Site#bone of the wrist
+Q707098#Active Site#
+Q707105#Active Site#artery in the pelvis that travels along the iliac crest of the pelvic bone
+Q707419#Active Site#
+Q717887#Active Site#muscle of the larynx
+Q718591#Active Site#
+Q719213#Active Site#a bony eminence of the proximal end of the radius that serves as an insertion point for the biceps tendon
+Q724580#Active Site#spiral groove on the surface of the humerus, typically containing the radial nerve and deep brachail artery
+Q725612#Active Site#
+Q725785#Active Site#groove in the superior border of the scapula, for the suprascapular nerve to pass through
+Q726543#Active Site#organ system that gives humans the ability to move using their muscular and skeletal systems
+Q727745#Active Site#
+Q740541#Active Site#nerve, branch of the vagus nerve
+Q740900#Active Site#cord-like structure in males
+Q745438#Active Site#one of two veinous trunks which brings deoxygenated
+Q748180#Active Site#
+Q749520#Active Site#part of the brain
+Q752441#Active Site#muscle of the upper limb
+Q767067#Active Site#opening in the ethmoid bone in the skull
+Q776672#Active Site#
+Q776972#Active Site#sensory ganglion of the trigeminal nerve
+Q788151#Active Site#
+Q792595#Active Site#The portion of the plasma membrane surrounding an axon; it is a specialized trilaminar random mosaic of protein molecules floating within a fluid matrix of highly mobile phospholipid molecules, 7-8 nm in thickness.
+Q821701#Active Site#large bone marrow cell responsible for the production of platelets
+Q838638#Active Site#muscle
+Q840572#Active Site#muscle of the upper limb
+Q842429#Active Site#The portion of the cell soma (neuronal cell body) that excludes the nucleus
+Q842547#Active Site#
+Q846480#Active Site#muscle
+Q857940#Active Site#
+Q868304#Active Site#
+Q876089#Active Site#chamber of the human heart
+Q900610#Active Site#muscle
+Q901269#Active Site#type of adipose tissue
+Q901538#Active Site#skeletal muscle of the upper back
+Q913348#Active Site#
+Q916698#Active Site#neural cell type
+Q918518#Active Site#
+Q921517#Active Site#slight enlargement before each crus of the penis meets its fellow
+Q924285#Active Site#extra bone piece that can occur within a suture (joint) in the skull
+Q928286#Active Site#
+Q931622#Active Site#muscle of the upper limb
+Q932557#Active Site#facial muscle helping to create facial expressions
+Q936531#Active Site#layer of fibrous connective tissue that surrounds muscles, blood vessels and nerves
+Q936818#Active Site#
+Q937076#Active Site#nerve that carries signals between the spinal chord and the body
+Q943203#Active Site#Calf muscle
+Q955788#Active Site#muscle of the upper limb
+Q974231#Active Site#membranous labyrinth in the vestibule of ear
+Q1002789#Active Site#
+Q1003242#Active Site#
+Q1051430#Active Site#muscle
+Q1055786#Active Site#
+Q1061328#Active Site#
+Q1064403#Active Site#tube located inside the ear
+Q1066345#Active Site#kidney structure which encloses the glomerular
+Q1072007#Active Site#
+Q1072039#Active Site#
+Q1076064#Active Site#Mesenchymal progenitor cell that forms a chondrocyte
+Q1076423#Active Site#
+Q1079316#Active Site#nerve fiber originating from the optic chiasm
+Q1091300#Active Site#muscle
+Q1102066#Active Site#proteins found in the microtubules of the cytoskeletal system
+Q1130003#Active Site#
+Q1137072#Active Site#Part of the embryonic brain
+Q1140236#Active Site#any of the inward folds of the mitochondrial inner membrane
+Q1172095#Active Site#continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity
+Q1180012#Active Site#
+Q1211892#Active Site#are two flaps of skin on either side of the human vaginal opening in the vulva
+Q1230047#Active Site#a part of limbic syst
+Q1230052#Active Site#
+Q1237109#Active Site#
+Q1240479#Active Site#
+Q1246415#Active Site#
+Q1256980#Active Site#fold of the brain (primary motor cortex) separating the frontal and parietal lobes superiorly from the temporal lobe inferiorly.
+Q1263629#Active Site#One of two lymph ducts in the human lymphatic system
+Q1290783#Active Site#anatomical feature of the human skull
+Q1340752#Active Site#inner ear fluid
+Q1340833#Active Site#
+Q1365325#Active Site#nerve in the human body that supplies the posterior portion of the upper limb
+Q1386945#Active Site#muscle
+Q1393590#Active Site#
+Q1397367#Active Site#fibers in the brain stem
+Q1419042#Active Site#brain cell
+Q1421408#Active Site#cell type
+Q1425589#Active Site#anatomical term
+Q1426052#Active Site#muscle in the lower back
+Q1427600#Active Site#division of the body of an animal or embryo
+Q1436583#Active Site#
+Q1436590#Active Site#triangular hole in the base of the skull
+Q1457751#Active Site#one of the dural venous sinuses
+Q1493508#Active Site#parasympathetic ganglion of head and neck
+Q1500758#Active Site#One of six small hip muscles in the lateral rotator group
+Q1519198#Active Site#
+Q1547362#Active Site#body cavity bounded by the bones of the pelvis
+Q1568920#Active Site#area of the human brain
+Q1575134#Active Site#
+Q1591425#Active Site#topological lines drawn on human body correspond to the natural orientation of collagen fibers in dermis.
+Q1601362#Active Site#large blood vessel in the arm
+Q1620205#Active Site#collection of neurons in the brain stem
+Q1623349#Active Site#
+Q1633822#Active Site#Muscle in the quad
+Q1635066#Active Site#anatomical structure
+Q1635458#Active Site#part of the stomach
+Q1648555#Active Site#anatomy
+Q1659799#Active Site#superior portions of the vagina
+Q1665277#Active Site#Muscles of the sole of the foot
+Q1724233#Active Site#artery in the abdominal and pelvic regions
+Q1742964#Active Site#
+Q1751717#Active Site#structure in the human brain
+Q1753760#Active Site#nerve in the skull
+Q1756451#Active Site#inhibitory interneurons found in the gray matter of the spinal cord
+Q1756762#Active Site#one of six small hip muscles in the lateral rotator group
+Q1756808#Active Site#complex of arteries and veins lying very close to each other, found in some vertebrates, mainly warm-blooded ones.
+Q1758798#Active Site#synovial ball and socket joint in the shoulder
+Q1772886#Active Site#bony prominence around the pituitary gland
+Q1813830#Active Site#
+Q1824652#Active Site#
+Q1862100#Active Site#
+Q1873857#Active Site#cell type
+Q1913658#Active Site#muscles located in the ventricles of the heart
+Q1978114#Active Site#
+Q1978139#Active Site#
+Q1978198#Active Site#branch of the sciatic nerve
+Q1983003#Active Site#in anatomy, a furrow or fissure
+Q2004084#Active Site#Anti-microbial epithelial cell of the small intestine
+Q2004182#Active Site#Grey matter nucleus in the cerebellum
+Q2035067#Active Site#قاسم عقسد
+Q2071037#Active Site#
+Q2076795#Active Site#small channels in each eyelid that drain lacrimal fluid
+Q2080394#Active Site#artery
+Q2164516#Active Site#
+Q2248886#Active Site#mammalian protein found in Homo sapiens
+Q2353265#Active Site#
+Q2354337#Active Site#class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine
+Q2360339#Active Site#three muscles located between the metatarsal bones in the foot
+Q2393792#Active Site#sheath around nerve bundles
+Q2409399#Active Site#
+Q2414279#Active Site#Structure in the basal ganglia of the brain
+Q2447644#Active Site#
+Q2487461#Active Site#tooth
+Q2512768#Active Site#Large blood vessel
+Q2531387#Active Site#anatomical structure
+Q2596226#Active Site#cell type
+Q2620085#Active Site#
+Q2631550#Active Site#cell type
+Q2643251#Active Site#biological junctions through which neurons' signals can be sent
+Q2685072#Active Site#surface of an organism refers to the left or right side
+Q2760639#Active Site#
+Q2796182#Active Site#
+Q2865999#Active Site#artery that supplies the adrenal gland
+Q2888202#Active Site#
+Q2914731#Active Site#portion of the kidney nephron between the loop of Henle and the collecting duct
+Q2919618#Active Site#
+Q3088602#Active Site#Nerve in the human leg and foot
+Q3122152#Active Site#Band of fibres along the thalamus
+Q3130956#Active Site#part of the brain
+Q3270899#Active Site#
+Q3301573#Active Site#
+Q3307119#Active Site#
+Q3316775#Active Site#large blood vessels of the forearm
+Q3322746#Active Site#
+Q3324292#Active Site#
+Q3328747#Active Site#
+Q3328967#Active Site#
+Q3338317#Active Site#
+Q3346043#Active Site#gelatinous substance that makes up the central portion of an intervertebral disc
+Q3493614#Active Site#bone of the ankle
+Q3494094#Active Site#membranous labyrinth in the vestibule of ear
+Q3507797#Active Site#artery
+Q3518027#Active Site#medial part of the posterior wall of the inguinal canal
+Q3559311#Active Site#Protrusions of the arachnoid mater for returning cerebrospinal fluid to circulation
+Q3621435#Active Site#human artery
+Q3624379#Active Site#articulations extending from the ankle to the toes
+Q3740460#Active Site#
+Q3752103#Active Site#region of gray matter cells in the subthalamus below the thalamus
+Q3756509#Active Site#
+Q3823716#Active Site#
+Q3855279#Active Site#
+Q4006434#Active Site#
+Q4115114#Active Site#depression in the temporal bone that articulates with the mandibular condyle
+Q4115340#Active Site#
+Q4116715#Active Site#
+Q4117097#Active Site#veins that drain the posterior abdominal wall
+Q4117172#Active Site#
+Q4117816#Active Site#vein of the orbit around the eye
+Q4119770#Active Site#
+Q4119889#Active Site#
+Q4319750#Active Site#
+Q4381683#Active Site#
+Q4391932#Active Site#
+Q4391978#Active Site#
+Q4428834#Active Site#
+Q4459859#Active Site#
+Q4672545#Active Site#external parts of the eye including eyebrow, eyelid, and lacrimal apparatus
+Q4675817#Active Site#
+Q4681414#Active Site#gap between the adductor magnus muscle and the femur
+Q4738008#Active Site#
+Q4739730#Active Site#embrological structure connect to right ventricle and will disapper with emryology
+Q4771321#Active Site#
+Q4771334#Active Site#part of the fascial compartments of leg
+Q4771340#Active Site#
+Q4771341#Active Site#small bundle of descending fibers that connect the cerebral cortex to the spinal cord
+Q4771345#Active Site#
+Q4771369#Active Site#
+Q4771374#Active Site#
+Q4771397#Active Site#
+Q4771431#Active Site#
+Q4787736#Active Site#
+Q4809336#Active Site#axons that connect cortical areas within the same cerebral hemisphere
+Q4822345#Active Site#
+Q4860300#Active Site#
+Q4867297#Active Site#
+Q4867298#Active Site#
+Q4936943#Active Site#
+Q4973070#Active Site#brain area
+Q4973076#Active Site#
+Q4973090#Active Site#
+Q4973830#Active Site#lymph node
+Q5018678#Active Site#
+Q5038329#Active Site#
+Q5058035#Active Site#
+Q5065356#Active Site#
+Q5129640#Active Site#fascia above the axillary facia
+Q5145995#Active Site#
+Q5152886#Active Site#axons that connect the two hemispheres of the brain
+Q5170066#Active Site#
+Q5175184#Active Site#
+Q5185081#Active Site#joint connecting the cricoid cartilage and the arytenoid cartilage
+Q5194249#Active Site#
+Q5250368#Active Site#
+Q5250449#Active Site#
+Q5298773#Active Site#
+Q5298783#Active Site#
+Q5298785#Active Site#
+Q5298788#Active Site#
+Q5298799#Active Site#
+Q5306281#Active Site#
+Q5382068#Active Site#
+Q5407200#Active Site#One of three gyri of the temporal lobe of the brain
+Q5422040#Active Site#Wikimedia disambiguation page
+Q5428555#Active Site#
+Q5436624#Active Site#portion of fascia covering the saphenous opening in the thigh
+Q5454239#Active Site#one of the bones forming the human rib cage
+Q5505915#Active Site#
+Q5526873#Active Site#
+Q5566614#Active Site#
+Q5600891#Active Site#branch of the pterygopalatine ganglion
+Q5600920#Active Site#
+Q5620438#Active Site#brain structure in the medulla that helps coordinate movement
+Q5750543#Active Site#opening in the temporal bone
+Q5773169#Active Site#eightfold protein complex found at the center of a nucleosome core particle
