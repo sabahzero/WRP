@@ -1,369 +1,81 @@
 :ID#,:LABEL#,name
-Q7365#Sequence Variant#contractile soft tissue of mammals
-Q9377#Sequence Variant#internal organ in most animals, including vertebrates and some invertebrates
-Q9609#Sequence Variant#blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein
-Q9620#Sequence Variant#enclosed, cable-like bundle of axons in the peripheral nervous system
-Q9635#Sequence Variant#first portion of the alimentary canal that receives food
-Q9644#Sequence Variant#location at which two or more bones make contact
-Q9655#Sequence Variant#the blood vessel that carry oxygenated blood away from the heart to other organs rather than lungs
-Q18676#Sequence Variant#region of the brain
-Q29548#Sequence Variant#biological membrane separating the interior of a cell from its external environment
-Q30869#Sequence Variant#largest structure in the nucleus of eukaryotic cells
-Q33767#Sequence Variant#extremity at the end of an arm or forelimb
-Q37425#Sequence Variant#region around the kneecap
-Q41055#Sequence Variant#area of the head between the eyebrows and the hairline
-Q43041#Sequence Variant#group of protein complexes
-Q47038#Sequence Variant#part of the head
-Q48360#Sequence Variant#brain region correlated with memory consolidation and imagination
-Q61333#Sequence Variant#The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
-Q61476#Sequence Variant#carboxylic acid with a long aliphatic chain, either saturated or unsaturated
-Q79447#Sequence Variant#antibody isotype
-Q79451#Sequence Variant#one of several isotypes of antibody
-Q84133#Sequence Variant#middle layer of the heart wall, which consists of cardiac muscle
-Q103142#Sequence Variant#smallest type of blood vessel
-Q104280#Sequence Variant#mucosal tissue that lies over the mandible and maxilla inside the mouth
-Q130983#Sequence Variant#region of the brain that coordinates motor functions and muscle tone
-Q133516#Sequence Variant#simple sugars such as glucose and fructose
-Q156871#Sequence Variant#endocrine gland
-Q160184#Sequence Variant#bodily function of expelling intestinal gas out of the anus
-Q169313#Sequence Variant#chemical compound
-Q169953#Sequence Variant#part of the nervous system
-Q172605#Sequence Variant#roof of mouth
-Q174647#Sequence Variant#part of the foot in the back
-Q177105#Sequence Variant#type of cells in nervous system
-Q180951#Sequence Variant#the ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome
-Q183282#Sequence Variant#
-Q184215#Sequence Variant#part of the brain responsible for sleep regulation and relaying sensory signals
-Q185438#Sequence Variant#arteries at the base of the brain that form part of the circle of Willis
-Q186380#Sequence Variant#Any chromosome other than a sex chromosome
-Q187215#Sequence Variant#term in biology
-Q189073#Sequence Variant#A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
-Q189763#Sequence Variant#nerve in human face
-Q189998#Sequence Variant#cellular appendages functioning as locomotive or sensory organelles
-Q190140#Sequence Variant#tenth cranial nerve
-Q193583#Sequence Variant#loose connective tissue composed mostly of adipocytes
-Q193818#Sequence Variant#anatomical region
-Q196672#Sequence Variant#long curved bone surrounding the chest
-Q208453#Sequence Variant#involuntary non-striated muscle
-Q212743#Sequence Variant#outermost layers of the skin
-Q223143#Sequence Variant#mature white blood cells with granules in the cytoplasm
-Q223851#Sequence Variant#brain part
-Q228537#Sequence Variant#region of the upper limb between the elbow and the wrist
-Q232358#Sequence Variant#type of tissue that connects muscle to bone
-Q237229#Sequence Variant#bones of hand
-Q252509#Sequence Variant#all the teeth in the mouth
-Q253168#Sequence Variant#
-Q259492#Sequence Variant#
-Q261411#Sequence Variant#
-Q277357#Sequence Variant#part of the oropharynx directly behind the mouth cavity, bounded superiorly by the soft palate, laterally by the palatoglossal arches, and inferiorly by the tongue
-Q279039#Sequence Variant#muscle of the upper limb
-Q286978#Sequence Variant#muscles in the zygomatic arch that close the jaw
-Q288821#Sequence Variant#
-Q301876#Sequence Variant#muscle
-Q318773#Sequence Variant#cranial nerve controlling the movement of the lateral rectus muscle
-Q323438#Sequence Variant#germ layer in the very early embryo
-Q340154#Sequence Variant#ligament formed from the buccopharyngeal fascia
-Q352045#Sequence Variant#feature of the human neck
-Q379859#Sequence Variant#proximal part of the free upper limb between the shoulder and the elbow
-Q383359#Sequence Variant#
-Q384631#Sequence Variant#part of the scapula that serves as the origin point for the long head of biceps brachii
-Q398880#Sequence Variant#Wikimedia disambiguation page
-Q407553#Sequence Variant#long unbranched polysaccharides consisting of a repeating disaccharide unit
-Q408014#Sequence Variant#class of compounds; sulfated glycosaminoglycan
-Q409145#Sequence Variant#group of calcium sensors and calcium signal modulators
-Q418892#Sequence Variant#class of chemical compounds
-Q420927#Sequence Variant#stable macromolecular complex
-Q428914#Sequence Variant#type of cell found in muscle tissue
-Q441704#Sequence Variant#nerve in human back
-Q447782#Sequence Variant#layer of synovial membrane around a tendon
-Q465621#Sequence Variant#glial cell type
-Q473749#Sequence Variant#innermost membranous sac that surrounds and protects the developing embryo
-Q476952#Sequence Variant#
-Q485130#Sequence Variant#
-Q488711#Sequence Variant#artery of the neck
-Q489628#Sequence Variant#The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant.
-Q490172#Sequence Variant#artery
-Q497563#Sequence Variant#artery
-Q497574#Sequence Variant#
-Q498179#Sequence Variant#one of the three major paired arteries that supply blood to the cerebrum.
-Q502704#Sequence Variant#passageways by which air passes through the nose or mouth to the alveoli of the lungs
-Q505535#Sequence Variant#part of the peripheral nervous system
-Q505544#Sequence Variant#photoreceptor cells in the retina of the eye that can function in lower light
-Q509053#Sequence Variant#part of the electrical conduction system of the heart that coordinates the top of the heart.
-Q510755#Sequence Variant#nerve of the thigh
-Q537123#Sequence Variant#broad, thin muscle, situated on either side of the pelvis
-Q540092#Sequence Variant#group of specialized connective tissue fibers that essentially attach a tooth to the alveolar bone within which it sits
-Q545929#Sequence Variant#
-Q559526#Sequence Variant#
-Q568799#Sequence Variant#
-Q571378#Sequence Variant#
-Q585624#Sequence Variant#male gonadal vein
-Q597179#Sequence Variant#
-Q603244#Sequence Variant#
-Q609753#Sequence Variant#The outer portion of the ear which includes the auricle and the ear canal and leads to the eardrum.
-Q612431#Sequence Variant#muscle arise from annular tendon is medial rectus,superior rectus,inferior rectus and lateral rectus
-Q618362#Sequence Variant#blood in an artery
-Q619284#Sequence Variant#extrapyramidal motor tract
-Q619632#Sequence Variant#sheet of pearly-white fibrous tissue that attaches sheet-like muscles needing a wide area of attachment
-Q623016#Sequence Variant#conduit for CSF to the brain
-Q623377#Sequence Variant#
-Q640536#Sequence Variant#
-Q650401#Sequence Variant#endocrine gland
-Q654528#Sequence Variant#fatty tissue composed of white adipocytes
-Q659744#Sequence Variant#muscle of the upper limb
-Q666219#Sequence Variant#
-Q667636#Sequence Variant#chromosome involved in sex determination
-Q671943#Sequence Variant#
-Q673321#Sequence Variant#type of mechanoreceptor cell in hairless mammals
-Q691942#Sequence Variant#bone of the wrist
-Q707098#Sequence Variant#
-Q707105#Sequence Variant#artery in the pelvis that travels along the iliac crest of the pelvic bone
-Q707419#Sequence Variant#
-Q717887#Sequence Variant#muscle of the larynx
-Q718591#Sequence Variant#
-Q719213#Sequence Variant#a bony eminence of the proximal end of the radius that serves as an insertion point for the biceps tendon
-Q724580#Sequence Variant#spiral groove on the surface of the humerus, typically containing the radial nerve and deep brachail artery
-Q725612#Sequence Variant#
-Q725785#Sequence Variant#groove in the superior border of the scapula, for the suprascapular nerve to pass through
-Q726543#Sequence Variant#organ system that gives humans the ability to move using their muscular and skeletal systems
-Q727745#Sequence Variant#
-Q740541#Sequence Variant#nerve, branch of the vagus nerve
-Q740900#Sequence Variant#cord-like structure in males
-Q745438#Sequence Variant#one of two veinous trunks which brings deoxygenated
-Q748180#Sequence Variant#
-Q749520#Sequence Variant#part of the brain
-Q752441#Sequence Variant#muscle of the upper limb
-Q767067#Sequence Variant#opening in the ethmoid bone in the skull
-Q776672#Sequence Variant#
-Q776972#Sequence Variant#sensory ganglion of the trigeminal nerve
-Q788151#Sequence Variant#
-Q792595#Sequence Variant#The portion of the plasma membrane surrounding an axon; it is a specialized trilaminar random mosaic of protein molecules floating within a fluid matrix of highly mobile phospholipid molecules, 7-8 nm in thickness.
-Q821701#Sequence Variant#large bone marrow cell responsible for the production of platelets
-Q838638#Sequence Variant#muscle
-Q840572#Sequence Variant#muscle of the upper limb
-Q842429#Sequence Variant#The portion of the cell soma (neuronal cell body) that excludes the nucleus
-Q842547#Sequence Variant#
-Q846480#Sequence Variant#muscle
-Q857940#Sequence Variant#
-Q868304#Sequence Variant#
-Q876089#Sequence Variant#chamber of the human heart
-Q900610#Sequence Variant#muscle
-Q901269#Sequence Variant#type of adipose tissue
-Q901538#Sequence Variant#skeletal muscle of the upper back
-Q913348#Sequence Variant#
-Q916698#Sequence Variant#neural cell type
-Q918518#Sequence Variant#
-Q921517#Sequence Variant#slight enlargement before each crus of the penis meets its fellow
-Q924285#Sequence Variant#extra bone piece that can occur within a suture (joint) in the skull
-Q928286#Sequence Variant#
-Q931622#Sequence Variant#muscle of the upper limb
-Q932557#Sequence Variant#facial muscle helping to create facial expressions
-Q936531#Sequence Variant#layer of fibrous connective tissue that surrounds muscles, blood vessels and nerves
-Q936818#Sequence Variant#
-Q937076#Sequence Variant#nerve that carries signals between the spinal chord and the body
-Q943203#Sequence Variant#Calf muscle
-Q955788#Sequence Variant#muscle of the upper limb
-Q974231#Sequence Variant#membranous labyrinth in the vestibule of ear
-Q1002789#Sequence Variant#
-Q1003242#Sequence Variant#
-Q1051430#Sequence Variant#muscle
-Q1055786#Sequence Variant#
-Q1061328#Sequence Variant#
-Q1064403#Sequence Variant#tube located inside the ear
-Q1066345#Sequence Variant#kidney structure which encloses the glomerular
-Q1072007#Sequence Variant#
-Q1072039#Sequence Variant#
-Q1076064#Sequence Variant#Mesenchymal progenitor cell that forms a chondrocyte
-Q1076423#Sequence Variant#
-Q1079316#Sequence Variant#nerve fiber originating from the optic chiasm
-Q1091300#Sequence Variant#muscle
-Q1102066#Sequence Variant#proteins found in the microtubules of the cytoskeletal system
-Q1130003#Sequence Variant#
-Q1137072#Sequence Variant#Part of the embryonic brain
-Q1140236#Sequence Variant#any of the inward folds of the mitochondrial inner membrane
-Q1172095#Sequence Variant#continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity
-Q1180012#Sequence Variant#
-Q1211892#Sequence Variant#are two flaps of skin on either side of the human vaginal opening in the vulva
-Q1230047#Sequence Variant#a part of limbic syst
-Q1230052#Sequence Variant#
-Q1237109#Sequence Variant#
-Q1240479#Sequence Variant#
-Q1246415#Sequence Variant#
-Q1256980#Sequence Variant#fold of the brain (primary motor cortex) separating the frontal and parietal lobes superiorly from the temporal lobe inferiorly.
-Q1263629#Sequence Variant#One of two lymph ducts in the human lymphatic system
-Q1290783#Sequence Variant#anatomical feature of the human skull
-Q1340752#Sequence Variant#inner ear fluid
-Q1340833#Sequence Variant#
-Q1365325#Sequence Variant#nerve in the human body that supplies the posterior portion of the upper limb
-Q1386945#Sequence Variant#muscle
-Q1393590#Sequence Variant#
-Q1397367#Sequence Variant#fibers in the brain stem
-Q1419042#Sequence Variant#brain cell
-Q1421408#Sequence Variant#cell type
-Q1425589#Sequence Variant#anatomical term
-Q1426052#Sequence Variant#muscle in the lower back
-Q1427600#Sequence Variant#division of the body of an animal or embryo
-Q1436583#Sequence Variant#
-Q1436590#Sequence Variant#triangular hole in the base of the skull
-Q1457751#Sequence Variant#one of the dural venous sinuses
-Q1493508#Sequence Variant#parasympathetic ganglion of head and neck
-Q1500758#Sequence Variant#One of six small hip muscles in the lateral rotator group
-Q1519198#Sequence Variant#
-Q1547362#Sequence Variant#body cavity bounded by the bones of the pelvis
-Q1568920#Sequence Variant#area of the human brain
-Q1575134#Sequence Variant#
-Q1591425#Sequence Variant#topological lines drawn on human body correspond to the natural orientation of collagen fibers in dermis.
-Q1601362#Sequence Variant#large blood vessel in the arm
-Q1620205#Sequence Variant#collection of neurons in the brain stem
-Q1623349#Sequence Variant#
-Q1633822#Sequence Variant#Muscle in the quad
-Q1635066#Sequence Variant#anatomical structure
-Q1635458#Sequence Variant#part of the stomach
-Q1648555#Sequence Variant#anatomy
-Q1659799#Sequence Variant#superior portions of the vagina
-Q1665277#Sequence Variant#Muscles of the sole of the foot
-Q1724233#Sequence Variant#artery in the abdominal and pelvic regions
-Q1742964#Sequence Variant#
-Q1751717#Sequence Variant#structure in the human brain
-Q1753760#Sequence Variant#nerve in the skull
-Q1756451#Sequence Variant#inhibitory interneurons found in the gray matter of the spinal cord
-Q1756762#Sequence Variant#one of six small hip muscles in the lateral rotator group
-Q1756808#Sequence Variant#complex of arteries and veins lying very close to each other, found in some vertebrates, mainly warm-blooded ones.
-Q1758798#Sequence Variant#synovial ball and socket joint in the shoulder
-Q1772886#Sequence Variant#bony prominence around the pituitary gland
-Q1813830#Sequence Variant#
-Q1824652#Sequence Variant#
-Q1862100#Sequence Variant#
-Q1873857#Sequence Variant#cell type
-Q1913658#Sequence Variant#muscles located in the ventricles of the heart
-Q1978114#Sequence Variant#
-Q1978139#Sequence Variant#
-Q1978198#Sequence Variant#branch of the sciatic nerve
-Q1983003#Sequence Variant#in anatomy, a furrow or fissure
-Q2004084#Sequence Variant#Anti-microbial epithelial cell of the small intestine
-Q2004182#Sequence Variant#Grey matter nucleus in the cerebellum
-Q2035067#Sequence Variant#قاسم عقسد
-Q2071037#Sequence Variant#
-Q2076795#Sequence Variant#small channels in each eyelid that drain lacrimal fluid
-Q2080394#Sequence Variant#artery
-Q2164516#Sequence Variant#
-Q2248886#Sequence Variant#mammalian protein found in Homo sapiens
-Q2353265#Sequence Variant#
-Q2354337#Sequence Variant#class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine
-Q2360339#Sequence Variant#three muscles located between the metatarsal bones in the foot
-Q2393792#Sequence Variant#sheath around nerve bundles
-Q2409399#Sequence Variant#
-Q2414279#Sequence Variant#Structure in the basal ganglia of the brain
-Q2447644#Sequence Variant#
-Q2487461#Sequence Variant#tooth
-Q2512768#Sequence Variant#Large blood vessel
-Q2531387#Sequence Variant#anatomical structure
-Q2596226#Sequence Variant#cell type
-Q2620085#Sequence Variant#
-Q2631550#Sequence Variant#cell type
-Q2643251#Sequence Variant#biological junctions through which neurons' signals can be sent
-Q2685072#Sequence Variant#surface of an organism refers to the left or right side
-Q2760639#Sequence Variant#
-Q2796182#Sequence Variant#
-Q2865999#Sequence Variant#artery that supplies the adrenal gland
-Q2888202#Sequence Variant#
-Q2914731#Sequence Variant#portion of the kidney nephron between the loop of Henle and the collecting duct
-Q2919618#Sequence Variant#
-Q3088602#Sequence Variant#Nerve in the human leg and foot
-Q3122152#Sequence Variant#Band of fibres along the thalamus
-Q3130956#Sequence Variant#part of the brain
-Q3270899#Sequence Variant#
-Q3301573#Sequence Variant#
-Q3307119#Sequence Variant#
-Q3316775#Sequence Variant#large blood vessels of the forearm
-Q3322746#Sequence Variant#
-Q3324292#Sequence Variant#
-Q3328747#Sequence Variant#
-Q3328967#Sequence Variant#
-Q3338317#Sequence Variant#
-Q3346043#Sequence Variant#gelatinous substance that makes up the central portion of an intervertebral disc
-Q3493614#Sequence Variant#bone of the ankle
-Q3494094#Sequence Variant#membranous labyrinth in the vestibule of ear
-Q3507797#Sequence Variant#artery
-Q3518027#Sequence Variant#medial part of the posterior wall of the inguinal canal
-Q3559311#Sequence Variant#Protrusions of the arachnoid mater for returning cerebrospinal fluid to circulation
-Q3621435#Sequence Variant#human artery
-Q3624379#Sequence Variant#articulations extending from the ankle to the toes
-Q3740460#Sequence Variant#
-Q3752103#Sequence Variant#region of gray matter cells in the subthalamus below the thalamus
-Q3756509#Sequence Variant#
-Q3823716#Sequence Variant#
-Q3855279#Sequence Variant#
-Q4006434#Sequence Variant#
-Q4115114#Sequence Variant#depression in the temporal bone that articulates with the mandibular condyle
-Q4115340#Sequence Variant#
-Q4116715#Sequence Variant#
-Q4117097#Sequence Variant#veins that drain the posterior abdominal wall
-Q4117172#Sequence Variant#
-Q4117816#Sequence Variant#vein of the orbit around the eye
-Q4119770#Sequence Variant#
-Q4119889#Sequence Variant#
-Q4319750#Sequence Variant#
-Q4381683#Sequence Variant#
-Q4391932#Sequence Variant#
-Q4391978#Sequence Variant#
-Q4428834#Sequence Variant#
-Q4459859#Sequence Variant#
-Q4672545#Sequence Variant#external parts of the eye including eyebrow, eyelid, and lacrimal apparatus
-Q4675817#Sequence Variant#
-Q4681414#Sequence Variant#gap between the adductor magnus muscle and the femur
-Q4738008#Sequence Variant#
-Q4739730#Sequence Variant#embrological structure connect to right ventricle and will disapper with emryology
-Q4771321#Sequence Variant#
-Q4771334#Sequence Variant#part of the fascial compartments of leg
-Q4771340#Sequence Variant#
-Q4771341#Sequence Variant#small bundle of descending fibers that connect the cerebral cortex to the spinal cord
-Q4771345#Sequence Variant#
-Q4771369#Sequence Variant#
-Q4771374#Sequence Variant#
-Q4771397#Sequence Variant#
-Q4771431#Sequence Variant#
-Q4787736#Sequence Variant#
-Q4809336#Sequence Variant#axons that connect cortical areas within the same cerebral hemisphere
-Q4822345#Sequence Variant#
-Q4860300#Sequence Variant#
-Q4867297#Sequence Variant#
-Q4867298#Sequence Variant#
-Q4936943#Sequence Variant#
-Q4973070#Sequence Variant#brain area
-Q4973076#Sequence Variant#
-Q4973090#Sequence Variant#
-Q4973830#Sequence Variant#lymph node
-Q5018678#Sequence Variant#
-Q5038329#Sequence Variant#
-Q5058035#Sequence Variant#
-Q5065356#Sequence Variant#
-Q5129640#Sequence Variant#fascia above the axillary facia
-Q5145995#Sequence Variant#
-Q5152886#Sequence Variant#axons that connect the two hemispheres of the brain
-Q5170066#Sequence Variant#
-Q5175184#Sequence Variant#
-Q5185081#Sequence Variant#joint connecting the cricoid cartilage and the arytenoid cartilage
-Q5194249#Sequence Variant#
-Q5250368#Sequence Variant#
-Q5250449#Sequence Variant#
-Q5298773#Sequence Variant#
-Q5298783#Sequence Variant#
-Q5298785#Sequence Variant#
-Q5298788#Sequence Variant#
-Q5298799#Sequence Variant#
-Q5306281#Sequence Variant#
-Q5382068#Sequence Variant#
-Q5407200#Sequence Variant#One of three gyri of the temporal lobe of the brain
-Q5422040#Sequence Variant#Wikimedia disambiguation page
-Q5428555#Sequence Variant#
-Q5436624#Sequence Variant#portion of fascia covering the saphenous opening in the thigh
-Q5454239#Sequence Variant#one of the bones forming the human rib cage
-Q5505915#Sequence Variant#
-Q5526873#Sequence Variant#
-Q5566614#Sequence Variant#
-Q5600891#Sequence Variant#branch of the pterygopalatine ganglion
-Q5600920#Sequence Variant#
-Q5620438#Sequence Variant#brain structure in the medulla that helps coordinate movement
-Q5750543#Sequence Variant#opening in the temporal bone
-Q5773169#Sequence Variant#eightfold protein complex found at the center of a nucleosome core particle
+Q28371440#Sequence Variant#genetic variant
+Q28444966#Sequence Variant#genetic variant
+Q28445004#Sequence Variant#genetic variant
+Q28445063#Sequence Variant#genetic variant
+Q28445091#Sequence Variant#genetic variant
+Q28445106#Sequence Variant#genetic variant
+Q28445111#Sequence Variant#genetic variant
+Q28445118#Sequence Variant#genetic variant
+Q28445131#Sequence Variant#genetic variant
+Q28445132#Sequence Variant#genetic variant
+Q28445174#Sequence Variant#genetic variant
+Q28445192#Sequence Variant#genetic variant
+Q28445193#Sequence Variant#genetic variant
+Q28445229#Sequence Variant#genetic variant
+Q28599628#Sequence Variant#genetic variant
+Q29016913#Sequence Variant#Pathogenic variant in the NGLY1 gene
+Q29938048#Sequence Variant#genetic variant
+Q29938331#Sequence Variant#genetic variant
+Q29938348#Sequence Variant#genetic variant
+Q29938352#Sequence Variant#genetic variant
+Q29938423#Sequence Variant#genetic variant
+Q29938429#Sequence Variant#genetic variant
+Q29938487#Sequence Variant#genetic variant
+Q29938489#Sequence Variant#genetic variant
+Q29938527#Sequence Variant#genetic variant
+Q29938574#Sequence Variant#genetic variant
+Q29938644#Sequence Variant#genetic variant
+Q29938655#Sequence Variant#genetic variant
+Q29938724#Sequence Variant#genetic variant
+Q29938740#Sequence Variant#genetic variant
+Q29938748#Sequence Variant#genetic variant
+Q29938780#Sequence Variant#genetic variant
+Q29938803#Sequence Variant#genetic variant
+Q29938805#Sequence Variant#genetic variant
+Q32948502#Sequence Variant#genetic variant
+Q32949000#Sequence Variant#genetic variant
+Q32949015#Sequence Variant#genetic variant
+Q32964746#Sequence Variant#genetic variant
+Q32964772#Sequence Variant#genetic variant
+Q32964782#Sequence Variant#genetic variant
+Q32964789#Sequence Variant#genetic variant
+Q32964811#Sequence Variant#genetic variant
+Q32964835#Sequence Variant#genetic variant
+Q32964848#Sequence Variant#genetic variant
+Q32964855#Sequence Variant#genetic variant
+Q32964869#Sequence Variant#genetic variant
+Q32964877#Sequence Variant#genetic variant
+Q32964970#Sequence Variant#genetic variant
+Q32965086#Sequence Variant#genetic variant
+Q32965105#Sequence Variant#genetic variant
+Q32965182#Sequence Variant#genetic variant
+Q32965201#Sequence Variant#genetic variant
+Q32965242#Sequence Variant#genetic variant
+Q32965259#Sequence Variant#genetic variant
+Q32965263#Sequence Variant#genetic variant
+Q32965269#Sequence Variant#genetic variant
+Q32965273#Sequence Variant#genetic variant
+Q32965299#Sequence Variant#genetic variant
+Q32965345#Sequence Variant#genetic variant
+Q32965359#Sequence Variant#genetic variant
+Q32965400#Sequence Variant#genetic variant
+Q32965405#Sequence Variant#genetic variant
+Q32965411#Sequence Variant#genetic variant
+Q32965417#Sequence Variant#genetic variant
+Q32965432#Sequence Variant#genetic variant
+Q32965478#Sequence Variant#genetic variant
+Q32965526#Sequence Variant#genetic variant
+Q32965561#Sequence Variant#genetic variant
+Q32965591#Sequence Variant#genetic variant
+Q32965639#Sequence Variant#genetic variant
+Q32965661#Sequence Variant#genetic variant
+Q32965759#Sequence Variant#genetic variant
+Q38152933#Sequence Variant#genetic variant
+Q38153113#Sequence Variant#genetic variant
+Q38153131#Sequence Variant#genetic variant
+Q38153141#Sequence Variant#genetic variant
+Q38153147#Sequence Variant#genetic variant
+Q38153154#Sequence Variant#genetic variant
+Q38153275#Sequence Variant#genetic variant
+Q38153317#Sequence Variant#genetic variant

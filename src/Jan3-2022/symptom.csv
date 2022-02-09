@@ -1,369 +1,48 @@
 :ID#,:LABEL#,name
-Q7365#Symptom#contractile soft tissue of mammals
-Q9377#Symptom#internal organ in most animals, including vertebrates and some invertebrates
-Q9609#Symptom#blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein
-Q9620#Symptom#enclosed, cable-like bundle of axons in the peripheral nervous system
-Q9635#Symptom#first portion of the alimentary canal that receives food
-Q9644#Symptom#location at which two or more bones make contact
-Q9655#Symptom#the blood vessel that carry oxygenated blood away from the heart to other organs rather than lungs
-Q18676#Symptom#region of the brain
-Q29548#Symptom#biological membrane separating the interior of a cell from its external environment
-Q30869#Symptom#largest structure in the nucleus of eukaryotic cells
-Q33767#Symptom#extremity at the end of an arm or forelimb
-Q37425#Symptom#region around the kneecap
-Q41055#Symptom#area of the head between the eyebrows and the hairline
-Q43041#Symptom#group of protein complexes
-Q47038#Symptom#part of the head
-Q48360#Symptom#brain region correlated with memory consolidation and imagination
-Q61333#Symptom#The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
-Q61476#Symptom#carboxylic acid with a long aliphatic chain, either saturated or unsaturated
-Q79447#Symptom#antibody isotype
-Q79451#Symptom#one of several isotypes of antibody
-Q84133#Symptom#middle layer of the heart wall, which consists of cardiac muscle
-Q103142#Symptom#smallest type of blood vessel
-Q104280#Symptom#mucosal tissue that lies over the mandible and maxilla inside the mouth
-Q130983#Symptom#region of the brain that coordinates motor functions and muscle tone
-Q133516#Symptom#simple sugars such as glucose and fructose
-Q156871#Symptom#endocrine gland
-Q160184#Symptom#bodily function of expelling intestinal gas out of the anus
-Q169313#Symptom#chemical compound
-Q169953#Symptom#part of the nervous system
-Q172605#Symptom#roof of mouth
-Q174647#Symptom#part of the foot in the back
-Q177105#Symptom#type of cells in nervous system
-Q180951#Symptom#the ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome
-Q183282#Symptom#
-Q184215#Symptom#part of the brain responsible for sleep regulation and relaying sensory signals
-Q185438#Symptom#arteries at the base of the brain that form part of the circle of Willis
-Q186380#Symptom#Any chromosome other than a sex chromosome
-Q187215#Symptom#term in biology
-Q189073#Symptom#A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
-Q189763#Symptom#nerve in human face
-Q189998#Symptom#cellular appendages functioning as locomotive or sensory organelles
-Q190140#Symptom#tenth cranial nerve
-Q193583#Symptom#loose connective tissue composed mostly of adipocytes
-Q193818#Symptom#anatomical region
-Q196672#Symptom#long curved bone surrounding the chest
-Q208453#Symptom#involuntary non-striated muscle
-Q212743#Symptom#outermost layers of the skin
-Q223143#Symptom#mature white blood cells with granules in the cytoplasm
-Q223851#Symptom#brain part
-Q228537#Symptom#region of the upper limb between the elbow and the wrist
-Q232358#Symptom#type of tissue that connects muscle to bone
-Q237229#Symptom#bones of hand
-Q252509#Symptom#all the teeth in the mouth
-Q253168#Symptom#
-Q259492#Symptom#
-Q261411#Symptom#
-Q277357#Symptom#part of the oropharynx directly behind the mouth cavity, bounded superiorly by the soft palate, laterally by the palatoglossal arches, and inferiorly by the tongue
-Q279039#Symptom#muscle of the upper limb
-Q286978#Symptom#muscles in the zygomatic arch that close the jaw
-Q288821#Symptom#
-Q301876#Symptom#muscle
-Q318773#Symptom#cranial nerve controlling the movement of the lateral rectus muscle
-Q323438#Symptom#germ layer in the very early embryo
-Q340154#Symptom#ligament formed from the buccopharyngeal fascia
-Q352045#Symptom#feature of the human neck
-Q379859#Symptom#proximal part of the free upper limb between the shoulder and the elbow
-Q383359#Symptom#
-Q384631#Symptom#part of the scapula that serves as the origin point for the long head of biceps brachii
-Q398880#Symptom#Wikimedia disambiguation page
-Q407553#Symptom#long unbranched polysaccharides consisting of a repeating disaccharide unit
-Q408014#Symptom#class of compounds; sulfated glycosaminoglycan
-Q409145#Symptom#group of calcium sensors and calcium signal modulators
-Q418892#Symptom#class of chemical compounds
-Q420927#Symptom#stable macromolecular complex
-Q428914#Symptom#type of cell found in muscle tissue
-Q441704#Symptom#nerve in human back
-Q447782#Symptom#layer of synovial membrane around a tendon
-Q465621#Symptom#glial cell type
-Q473749#Symptom#innermost membranous sac that surrounds and protects the developing embryo
-Q476952#Symptom#
-Q485130#Symptom#
-Q488711#Symptom#artery of the neck
-Q489628#Symptom#The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant.
-Q490172#Symptom#artery
-Q497563#Symptom#artery
-Q497574#Symptom#
-Q498179#Symptom#one of the three major paired arteries that supply blood to the cerebrum.
-Q502704#Symptom#passageways by which air passes through the nose or mouth to the alveoli of the lungs
-Q505535#Symptom#part of the peripheral nervous system
-Q505544#Symptom#photoreceptor cells in the retina of the eye that can function in lower light
-Q509053#Symptom#part of the electrical conduction system of the heart that coordinates the top of the heart.
-Q510755#Symptom#nerve of the thigh
-Q537123#Symptom#broad, thin muscle, situated on either side of the pelvis
-Q540092#Symptom#group of specialized connective tissue fibers that essentially attach a tooth to the alveolar bone within which it sits
-Q545929#Symptom#
-Q559526#Symptom#
-Q568799#Symptom#
-Q571378#Symptom#
-Q585624#Symptom#male gonadal vein
-Q597179#Symptom#
-Q603244#Symptom#
-Q609753#Symptom#The outer portion of the ear which includes the auricle and the ear canal and leads to the eardrum.
-Q612431#Symptom#muscle arise from annular tendon is medial rectus,superior rectus,inferior rectus and lateral rectus
-Q618362#Symptom#blood in an artery
-Q619284#Symptom#extrapyramidal motor tract
-Q619632#Symptom#sheet of pearly-white fibrous tissue that attaches sheet-like muscles needing a wide area of attachment
-Q623016#Symptom#conduit for CSF to the brain
-Q623377#Symptom#
-Q640536#Symptom#
-Q650401#Symptom#endocrine gland
-Q654528#Symptom#fatty tissue composed of white adipocytes
-Q659744#Symptom#muscle of the upper limb
-Q666219#Symptom#
-Q667636#Symptom#chromosome involved in sex determination
-Q671943#Symptom#
-Q673321#Symptom#type of mechanoreceptor cell in hairless mammals
-Q691942#Symptom#bone of the wrist
-Q707098#Symptom#
-Q707105#Symptom#artery in the pelvis that travels along the iliac crest of the pelvic bone
-Q707419#Symptom#
-Q717887#Symptom#muscle of the larynx
-Q718591#Symptom#
-Q719213#Symptom#a bony eminence of the proximal end of the radius that serves as an insertion point for the biceps tendon
-Q724580#Symptom#spiral groove on the surface of the humerus, typically containing the radial nerve and deep brachail artery
-Q725612#Symptom#
-Q725785#Symptom#groove in the superior border of the scapula, for the suprascapular nerve to pass through
-Q726543#Symptom#organ system that gives humans the ability to move using their muscular and skeletal systems
-Q727745#Symptom#
-Q740541#Symptom#nerve, branch of the vagus nerve
-Q740900#Symptom#cord-like structure in males
-Q745438#Symptom#one of two veinous trunks which brings deoxygenated
-Q748180#Symptom#
-Q749520#Symptom#part of the brain
-Q752441#Symptom#muscle of the upper limb
-Q767067#Symptom#opening in the ethmoid bone in the skull
-Q776672#Symptom#
-Q776972#Symptom#sensory ganglion of the trigeminal nerve
-Q788151#Symptom#
-Q792595#Symptom#The portion of the plasma membrane surrounding an axon; it is a specialized trilaminar random mosaic of protein molecules floating within a fluid matrix of highly mobile phospholipid molecules, 7-8 nm in thickness.
-Q821701#Symptom#large bone marrow cell responsible for the production of platelets
-Q838638#Symptom#muscle
-Q840572#Symptom#muscle of the upper limb
-Q842429#Symptom#The portion of the cell soma (neuronal cell body) that excludes the nucleus
-Q842547#Symptom#
-Q846480#Symptom#muscle
-Q857940#Symptom#
-Q868304#Symptom#
-Q876089#Symptom#chamber of the human heart
-Q900610#Symptom#muscle
-Q901269#Symptom#type of adipose tissue
-Q901538#Symptom#skeletal muscle of the upper back
-Q913348#Symptom#
-Q916698#Symptom#neural cell type
-Q918518#Symptom#
-Q921517#Symptom#slight enlargement before each crus of the penis meets its fellow
-Q924285#Symptom#extra bone piece that can occur within a suture (joint) in the skull
-Q928286#Symptom#
-Q931622#Symptom#muscle of the upper limb
-Q932557#Symptom#facial muscle helping to create facial expressions
-Q936531#Symptom#layer of fibrous connective tissue that surrounds muscles, blood vessels and nerves
-Q936818#Symptom#
-Q937076#Symptom#nerve that carries signals between the spinal chord and the body
-Q943203#Symptom#Calf muscle
-Q955788#Symptom#muscle of the upper limb
-Q974231#Symptom#membranous labyrinth in the vestibule of ear
-Q1002789#Symptom#
-Q1003242#Symptom#
-Q1051430#Symptom#muscle
-Q1055786#Symptom#
-Q1061328#Symptom#
-Q1064403#Symptom#tube located inside the ear
-Q1066345#Symptom#kidney structure which encloses the glomerular
-Q1072007#Symptom#
-Q1072039#Symptom#
-Q1076064#Symptom#Mesenchymal progenitor cell that forms a chondrocyte
-Q1076423#Symptom#
-Q1079316#Symptom#nerve fiber originating from the optic chiasm
-Q1091300#Symptom#muscle
-Q1102066#Symptom#proteins found in the microtubules of the cytoskeletal system
-Q1130003#Symptom#
-Q1137072#Symptom#Part of the embryonic brain
-Q1140236#Symptom#any of the inward folds of the mitochondrial inner membrane
-Q1172095#Symptom#continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity
-Q1180012#Symptom#
-Q1211892#Symptom#are two flaps of skin on either side of the human vaginal opening in the vulva
-Q1230047#Symptom#a part of limbic syst
-Q1230052#Symptom#
-Q1237109#Symptom#
-Q1240479#Symptom#
-Q1246415#Symptom#
-Q1256980#Symptom#fold of the brain (primary motor cortex) separating the frontal and parietal lobes superiorly from the temporal lobe inferiorly.
-Q1263629#Symptom#One of two lymph ducts in the human lymphatic system
-Q1290783#Symptom#anatomical feature of the human skull
-Q1340752#Symptom#inner ear fluid
-Q1340833#Symptom#
-Q1365325#Symptom#nerve in the human body that supplies the posterior portion of the upper limb
-Q1386945#Symptom#muscle
-Q1393590#Symptom#
-Q1397367#Symptom#fibers in the brain stem
-Q1419042#Symptom#brain cell
-Q1421408#Symptom#cell type
-Q1425589#Symptom#anatomical term
-Q1426052#Symptom#muscle in the lower back
-Q1427600#Symptom#division of the body of an animal or embryo
-Q1436583#Symptom#
-Q1436590#Symptom#triangular hole in the base of the skull
-Q1457751#Symptom#one of the dural venous sinuses
-Q1493508#Symptom#parasympathetic ganglion of head and neck
-Q1500758#Symptom#One of six small hip muscles in the lateral rotator group
-Q1519198#Symptom#
-Q1547362#Symptom#body cavity bounded by the bones of the pelvis
-Q1568920#Symptom#area of the human brain
-Q1575134#Symptom#
-Q1591425#Symptom#topological lines drawn on human body correspond to the natural orientation of collagen fibers in dermis.
-Q1601362#Symptom#large blood vessel in the arm
-Q1620205#Symptom#collection of neurons in the brain stem
-Q1623349#Symptom#
-Q1633822#Symptom#Muscle in the quad
-Q1635066#Symptom#anatomical structure
-Q1635458#Symptom#part of the stomach
-Q1648555#Symptom#anatomy
-Q1659799#Symptom#superior portions of the vagina
-Q1665277#Symptom#Muscles of the sole of the foot
-Q1724233#Symptom#artery in the abdominal and pelvic regions
-Q1742964#Symptom#
-Q1751717#Symptom#structure in the human brain
-Q1753760#Symptom#nerve in the skull
-Q1756451#Symptom#inhibitory interneurons found in the gray matter of the spinal cord
-Q1756762#Symptom#one of six small hip muscles in the lateral rotator group
-Q1756808#Symptom#complex of arteries and veins lying very close to each other, found in some vertebrates, mainly warm-blooded ones.
-Q1758798#Symptom#synovial ball and socket joint in the shoulder
-Q1772886#Symptom#bony prominence around the pituitary gland
-Q1813830#Symptom#
-Q1824652#Symptom#
-Q1862100#Symptom#
-Q1873857#Symptom#cell type
-Q1913658#Symptom#muscles located in the ventricles of the heart
-Q1978114#Symptom#
-Q1978139#Symptom#
-Q1978198#Symptom#branch of the sciatic nerve
-Q1983003#Symptom#in anatomy, a furrow or fissure
-Q2004084#Symptom#Anti-microbial epithelial cell of the small intestine
-Q2004182#Symptom#Grey matter nucleus in the cerebellum
-Q2035067#Symptom#قاسم عقسد
-Q2071037#Symptom#
-Q2076795#Symptom#small channels in each eyelid that drain lacrimal fluid
-Q2080394#Symptom#artery
-Q2164516#Symptom#
-Q2248886#Symptom#mammalian protein found in Homo sapiens
-Q2353265#Symptom#
-Q2354337#Symptom#class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine
-Q2360339#Symptom#three muscles located between the metatarsal bones in the foot
-Q2393792#Symptom#sheath around nerve bundles
-Q2409399#Symptom#
-Q2414279#Symptom#Structure in the basal ganglia of the brain
-Q2447644#Symptom#
-Q2487461#Symptom#tooth
-Q2512768#Symptom#Large blood vessel
-Q2531387#Symptom#anatomical structure
-Q2596226#Symptom#cell type
-Q2620085#Symptom#
-Q2631550#Symptom#cell type
-Q2643251#Symptom#biological junctions through which neurons' signals can be sent
-Q2685072#Symptom#surface of an organism refers to the left or right side
-Q2760639#Symptom#
-Q2796182#Symptom#
-Q2865999#Symptom#artery that supplies the adrenal gland
-Q2888202#Symptom#
-Q2914731#Symptom#portion of the kidney nephron between the loop of Henle and the collecting duct
-Q2919618#Symptom#
-Q3088602#Symptom#Nerve in the human leg and foot
-Q3122152#Symptom#Band of fibres along the thalamus
-Q3130956#Symptom#part of the brain
-Q3270899#Symptom#
-Q3301573#Symptom#
-Q3307119#Symptom#
-Q3316775#Symptom#large blood vessels of the forearm
-Q3322746#Symptom#
-Q3324292#Symptom#
-Q3328747#Symptom#
-Q3328967#Symptom#
-Q3338317#Symptom#
-Q3346043#Symptom#gelatinous substance that makes up the central portion of an intervertebral disc
-Q3493614#Symptom#bone of the ankle
-Q3494094#Symptom#membranous labyrinth in the vestibule of ear
-Q3507797#Symptom#artery
-Q3518027#Symptom#medial part of the posterior wall of the inguinal canal
-Q3559311#Symptom#Protrusions of the arachnoid mater for returning cerebrospinal fluid to circulation
-Q3621435#Symptom#human artery
-Q3624379#Symptom#articulations extending from the ankle to the toes
-Q3740460#Symptom#
-Q3752103#Symptom#region of gray matter cells in the subthalamus below the thalamus
-Q3756509#Symptom#
-Q3823716#Symptom#
-Q3855279#Symptom#
-Q4006434#Symptom#
-Q4115114#Symptom#depression in the temporal bone that articulates with the mandibular condyle
-Q4115340#Symptom#
-Q4116715#Symptom#
-Q4117097#Symptom#veins that drain the posterior abdominal wall
-Q4117172#Symptom#
-Q4117816#Symptom#vein of the orbit around the eye
-Q4119770#Symptom#
-Q4119889#Symptom#
-Q4319750#Symptom#
-Q4381683#Symptom#
-Q4391932#Symptom#
-Q4391978#Symptom#
-Q4428834#Symptom#
-Q4459859#Symptom#
-Q4672545#Symptom#external parts of the eye including eyebrow, eyelid, and lacrimal apparatus
-Q4675817#Symptom#
-Q4681414#Symptom#gap between the adductor magnus muscle and the femur
-Q4738008#Symptom#
-Q4739730#Symptom#embrological structure connect to right ventricle and will disapper with emryology
-Q4771321#Symptom#
-Q4771334#Symptom#part of the fascial compartments of leg
-Q4771340#Symptom#
-Q4771341#Symptom#small bundle of descending fibers that connect the cerebral cortex to the spinal cord
-Q4771345#Symptom#
-Q4771369#Symptom#
-Q4771374#Symptom#
-Q4771397#Symptom#
-Q4771431#Symptom#
-Q4787736#Symptom#
-Q4809336#Symptom#axons that connect cortical areas within the same cerebral hemisphere
-Q4822345#Symptom#
-Q4860300#Symptom#
-Q4867297#Symptom#
-Q4867298#Symptom#
-Q4936943#Symptom#
-Q4973070#Symptom#brain area
-Q4973076#Symptom#
-Q4973090#Symptom#
-Q4973830#Symptom#lymph node
-Q5018678#Symptom#
-Q5038329#Symptom#
-Q5058035#Symptom#
-Q5065356#Symptom#
-Q5129640#Symptom#fascia above the axillary facia
-Q5145995#Symptom#
-Q5152886#Symptom#axons that connect the two hemispheres of the brain
-Q5170066#Symptom#
-Q5175184#Symptom#
-Q5185081#Symptom#joint connecting the cricoid cartilage and the arytenoid cartilage
-Q5194249#Symptom#
-Q5250368#Symptom#
-Q5250449#Symptom#
-Q5298773#Symptom#
-Q5298783#Symptom#
-Q5298785#Symptom#
-Q5298788#Symptom#
-Q5298799#Symptom#
-Q5306281#Symptom#
-Q5382068#Symptom#
-Q5407200#Symptom#One of three gyri of the temporal lobe of the brain
-Q5422040#Symptom#Wikimedia disambiguation page
-Q5428555#Symptom#
-Q5436624#Symptom#portion of fascia covering the saphenous opening in the thigh
-Q5454239#Symptom#one of the bones forming the human rib cage
-Q5505915#Symptom#
-Q5526873#Symptom#
-Q5566614#Symptom#
-Q5600891#Symptom#branch of the pterygopalatine ganglion
-Q5600920#Symptom#
-Q5620438#Symptom#brain structure in the medulla that helps coordinate movement
-Q5750543#Symptom#opening in the temporal bone
-Q5773169#Symptom#eightfold protein complex found at the center of a nucleosome core particle
+Q188611#Symptom#mood state characterized by persistent and pervasive elevated or irritable mood
+Q653197#Symptom#skin condition
+Q936070#Symptom#medical problem of jaw clenching
+Q1806356#Symptom#painful urination
+Q1975146#Symptom#state characterised by a reduced level of consciousness and slowed responses to stimulation
+Q2051704#Symptom#memory of events that actually did not happen
+Q2115731#Symptom#
+Q2163996#Symptom#condition of abnormal growth in vascular plants
+Q2348540#Symptom#
+Q2926052#Symptom#
+Q3539327#Symptom#Congenital anatomic variant.
+Q4159548#Symptom#
+Q4763844#Symptom#symptom defined as a patient's perception that they are dying
+Q5429401#Symptom#pairing of fever with bradycardia
+Q6508875#Symptom#
+Q8038367#Symptom#
+Q9162872#Symptom#autism as a symptom of schizophrenia, withdrawal to inner life
+Q10547530#Symptom#
+Q11697109#Symptom#medical condition
+Q12738740#Symptom#
+Q17119420#Symptom#
+Q18054140#Symptom#medical symptom, a sudden and often unannounced loss of postural tone
+Q21109236#Symptom#
+Q21109775#Symptom#
+Q21110052#Symptom#
+Q21110112#Symptom#symptom
+Q21111985#Symptom#symptom
+Q21111994#Symptom#symptom
+Q21112198#Symptom#symptom
+Q21112279#Symptom#symptom
+Q21112539#Symptom#symptom
+Q21116594#Symptom#symptom
+Q21116617#Symptom#symptom
+Q21116733#Symptom#symptom
+Q21116849#Symptom#symptom
+Q21117184#Symptom#
+Q21120271#Symptom#
+Q21120278#Symptom#symptom
+Q21402557#Symptom#symptom
+Q21505002#Symptom#symptom
+Q23012213#Symptom#symptom of white phosphorus exposure
+Q23012214#Symptom#symptom of white phosphorus exposure
+Q25245384#Symptom#
+Q25447375#Symptom#
+Q29643911#Symptom#A tremor present when the limbs are active, either when outstretched in a certain position or throughout a voluntary movement.
+Q30141359#Symptom#
+Q30141385#Symptom#

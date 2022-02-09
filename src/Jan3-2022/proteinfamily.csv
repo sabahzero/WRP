@@ -1,369 +1,2442 @@
 :ID#,:LABEL#,name
-Q7365#Protein Family#contractile soft tissue of mammals
-Q9377#Protein Family#internal organ in most animals, including vertebrates and some invertebrates
-Q9609#Protein Family#blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein
-Q9620#Protein Family#enclosed, cable-like bundle of axons in the peripheral nervous system
-Q9635#Protein Family#first portion of the alimentary canal that receives food
-Q9644#Protein Family#location at which two or more bones make contact
-Q9655#Protein Family#the blood vessel that carry oxygenated blood away from the heart to other organs rather than lungs
-Q18676#Protein Family#region of the brain
-Q29548#Protein Family#biological membrane separating the interior of a cell from its external environment
-Q30869#Protein Family#largest structure in the nucleus of eukaryotic cells
-Q33767#Protein Family#extremity at the end of an arm or forelimb
-Q37425#Protein Family#region around the kneecap
-Q41055#Protein Family#area of the head between the eyebrows and the hairline
-Q43041#Protein Family#group of protein complexes
-Q47038#Protein Family#part of the head
-Q48360#Protein Family#brain region correlated with memory consolidation and imagination
-Q61333#Protein Family#The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
-Q61476#Protein Family#carboxylic acid with a long aliphatic chain, either saturated or unsaturated
-Q79447#Protein Family#antibody isotype
-Q79451#Protein Family#one of several isotypes of antibody
-Q84133#Protein Family#middle layer of the heart wall, which consists of cardiac muscle
-Q103142#Protein Family#smallest type of blood vessel
-Q104280#Protein Family#mucosal tissue that lies over the mandible and maxilla inside the mouth
-Q130983#Protein Family#region of the brain that coordinates motor functions and muscle tone
-Q133516#Protein Family#simple sugars such as glucose and fructose
-Q156871#Protein Family#endocrine gland
-Q160184#Protein Family#bodily function of expelling intestinal gas out of the anus
-Q169313#Protein Family#chemical compound
-Q169953#Protein Family#part of the nervous system
-Q172605#Protein Family#roof of mouth
-Q174647#Protein Family#part of the foot in the back
-Q177105#Protein Family#type of cells in nervous system
-Q180951#Protein Family#the ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome
-Q183282#Protein Family#
-Q184215#Protein Family#part of the brain responsible for sleep regulation and relaying sensory signals
-Q185438#Protein Family#arteries at the base of the brain that form part of the circle of Willis
-Q186380#Protein Family#Any chromosome other than a sex chromosome
-Q187215#Protein Family#term in biology
-Q189073#Protein Family#A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
-Q189763#Protein Family#nerve in human face
-Q189998#Protein Family#cellular appendages functioning as locomotive or sensory organelles
-Q190140#Protein Family#tenth cranial nerve
-Q193583#Protein Family#loose connective tissue composed mostly of adipocytes
-Q193818#Protein Family#anatomical region
-Q196672#Protein Family#long curved bone surrounding the chest
-Q208453#Protein Family#involuntary non-striated muscle
-Q212743#Protein Family#outermost layers of the skin
-Q223143#Protein Family#mature white blood cells with granules in the cytoplasm
-Q223851#Protein Family#brain part
-Q228537#Protein Family#region of the upper limb between the elbow and the wrist
-Q232358#Protein Family#type of tissue that connects muscle to bone
-Q237229#Protein Family#bones of hand
-Q252509#Protein Family#all the teeth in the mouth
-Q253168#Protein Family#
-Q259492#Protein Family#
-Q261411#Protein Family#
-Q277357#Protein Family#part of the oropharynx directly behind the mouth cavity, bounded superiorly by the soft palate, laterally by the palatoglossal arches, and inferiorly by the tongue
-Q279039#Protein Family#muscle of the upper limb
-Q286978#Protein Family#muscles in the zygomatic arch that close the jaw
-Q288821#Protein Family#
-Q301876#Protein Family#muscle
-Q318773#Protein Family#cranial nerve controlling the movement of the lateral rectus muscle
-Q323438#Protein Family#germ layer in the very early embryo
-Q340154#Protein Family#ligament formed from the buccopharyngeal fascia
-Q352045#Protein Family#feature of the human neck
-Q379859#Protein Family#proximal part of the free upper limb between the shoulder and the elbow
-Q383359#Protein Family#
-Q384631#Protein Family#part of the scapula that serves as the origin point for the long head of biceps brachii
-Q398880#Protein Family#Wikimedia disambiguation page
-Q407553#Protein Family#long unbranched polysaccharides consisting of a repeating disaccharide unit
-Q408014#Protein Family#class of compounds; sulfated glycosaminoglycan
+Q408477#Protein Family#InterPro family
 Q409145#Protein Family#group of calcium sensors and calcium signal modulators
-Q418892#Protein Family#class of chemical compounds
-Q420927#Protein Family#stable macromolecular complex
-Q428914#Protein Family#type of cell found in muscle tissue
-Q441704#Protein Family#nerve in human back
-Q447782#Protein Family#layer of synovial membrane around a tendon
-Q465621#Protein Family#glial cell type
-Q473749#Protein Family#innermost membranous sac that surrounds and protects the developing embryo
-Q476952#Protein Family#
-Q485130#Protein Family#
-Q488711#Protein Family#artery of the neck
-Q489628#Protein Family#The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant.
-Q490172#Protein Family#artery
-Q497563#Protein Family#artery
-Q497574#Protein Family#
-Q498179#Protein Family#one of the three major paired arteries that supply blood to the cerebrum.
-Q502704#Protein Family#passageways by which air passes through the nose or mouth to the alveoli of the lungs
-Q505535#Protein Family#part of the peripheral nervous system
-Q505544#Protein Family#photoreceptor cells in the retina of the eye that can function in lower light
-Q509053#Protein Family#part of the electrical conduction system of the heart that coordinates the top of the heart.
-Q510755#Protein Family#nerve of the thigh
-Q537123#Protein Family#broad, thin muscle, situated on either side of the pelvis
-Q540092#Protein Family#group of specialized connective tissue fibers that essentially attach a tooth to the alveolar bone within which it sits
-Q545929#Protein Family#
-Q559526#Protein Family#
-Q568799#Protein Family#
-Q571378#Protein Family#
-Q585624#Protein Family#male gonadal vein
-Q597179#Protein Family#
-Q603244#Protein Family#
-Q609753#Protein Family#The outer portion of the ear which includes the auricle and the ear canal and leads to the eardrum.
-Q612431#Protein Family#muscle arise from annular tendon is medial rectus,superior rectus,inferior rectus and lateral rectus
-Q618362#Protein Family#blood in an artery
-Q619284#Protein Family#extrapyramidal motor tract
-Q619632#Protein Family#sheet of pearly-white fibrous tissue that attaches sheet-like muscles needing a wide area of attachment
-Q623016#Protein Family#conduit for CSF to the brain
-Q623377#Protein Family#
-Q640536#Protein Family#
-Q650401#Protein Family#endocrine gland
-Q654528#Protein Family#fatty tissue composed of white adipocytes
-Q659744#Protein Family#muscle of the upper limb
-Q666219#Protein Family#
-Q667636#Protein Family#chromosome involved in sex determination
-Q671943#Protein Family#
-Q673321#Protein Family#type of mechanoreceptor cell in hairless mammals
-Q691942#Protein Family#bone of the wrist
-Q707098#Protein Family#
-Q707105#Protein Family#artery in the pelvis that travels along the iliac crest of the pelvic bone
-Q707419#Protein Family#
-Q717887#Protein Family#muscle of the larynx
-Q718591#Protein Family#
-Q719213#Protein Family#a bony eminence of the proximal end of the radius that serves as an insertion point for the biceps tendon
-Q724580#Protein Family#spiral groove on the surface of the humerus, typically containing the radial nerve and deep brachail artery
-Q725612#Protein Family#
-Q725785#Protein Family#groove in the superior border of the scapula, for the suprascapular nerve to pass through
-Q726543#Protein Family#organ system that gives humans the ability to move using their muscular and skeletal systems
-Q727745#Protein Family#
-Q740541#Protein Family#nerve, branch of the vagus nerve
-Q740900#Protein Family#cord-like structure in males
-Q745438#Protein Family#one of two veinous trunks which brings deoxygenated
-Q748180#Protein Family#
-Q749520#Protein Family#part of the brain
-Q752441#Protein Family#muscle of the upper limb
-Q767067#Protein Family#opening in the ethmoid bone in the skull
-Q776672#Protein Family#
-Q776972#Protein Family#sensory ganglion of the trigeminal nerve
-Q788151#Protein Family#
-Q792595#Protein Family#The portion of the plasma membrane surrounding an axon; it is a specialized trilaminar random mosaic of protein molecules floating within a fluid matrix of highly mobile phospholipid molecules, 7-8 nm in thickness.
-Q821701#Protein Family#large bone marrow cell responsible for the production of platelets
-Q838638#Protein Family#muscle
-Q840572#Protein Family#muscle of the upper limb
-Q842429#Protein Family#The portion of the cell soma (neuronal cell body) that excludes the nucleus
-Q842547#Protein Family#
-Q846480#Protein Family#muscle
-Q857940#Protein Family#
-Q868304#Protein Family#
-Q876089#Protein Family#chamber of the human heart
-Q900610#Protein Family#muscle
-Q901269#Protein Family#type of adipose tissue
-Q901538#Protein Family#skeletal muscle of the upper back
-Q913348#Protein Family#
-Q916698#Protein Family#neural cell type
-Q918518#Protein Family#
-Q921517#Protein Family#slight enlargement before each crus of the penis meets its fellow
-Q924285#Protein Family#extra bone piece that can occur within a suture (joint) in the skull
-Q928286#Protein Family#
-Q931622#Protein Family#muscle of the upper limb
-Q932557#Protein Family#facial muscle helping to create facial expressions
-Q936531#Protein Family#layer of fibrous connective tissue that surrounds muscles, blood vessels and nerves
-Q936818#Protein Family#
-Q937076#Protein Family#nerve that carries signals between the spinal chord and the body
-Q943203#Protein Family#Calf muscle
-Q955788#Protein Family#muscle of the upper limb
-Q974231#Protein Family#membranous labyrinth in the vestibule of ear
-Q1002789#Protein Family#
-Q1003242#Protein Family#
-Q1051430#Protein Family#muscle
-Q1055786#Protein Family#
-Q1061328#Protein Family#
-Q1064403#Protein Family#tube located inside the ear
-Q1066345#Protein Family#kidney structure which encloses the glomerular
-Q1072007#Protein Family#
-Q1072039#Protein Family#
-Q1076064#Protein Family#Mesenchymal progenitor cell that forms a chondrocyte
-Q1076423#Protein Family#
-Q1079316#Protein Family#nerve fiber originating from the optic chiasm
-Q1091300#Protein Family#muscle
-Q1102066#Protein Family#proteins found in the microtubules of the cytoskeletal system
-Q1130003#Protein Family#
-Q1137072#Protein Family#Part of the embryonic brain
-Q1140236#Protein Family#any of the inward folds of the mitochondrial inner membrane
-Q1172095#Protein Family#continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity
-Q1180012#Protein Family#
-Q1211892#Protein Family#are two flaps of skin on either side of the human vaginal opening in the vulva
-Q1230047#Protein Family#a part of limbic syst
-Q1230052#Protein Family#
-Q1237109#Protein Family#
-Q1240479#Protein Family#
-Q1246415#Protein Family#
-Q1256980#Protein Family#fold of the brain (primary motor cortex) separating the frontal and parietal lobes superiorly from the temporal lobe inferiorly.
-Q1263629#Protein Family#One of two lymph ducts in the human lymphatic system
-Q1290783#Protein Family#anatomical feature of the human skull
-Q1340752#Protein Family#inner ear fluid
-Q1340833#Protein Family#
-Q1365325#Protein Family#nerve in the human body that supplies the posterior portion of the upper limb
-Q1386945#Protein Family#muscle
-Q1393590#Protein Family#
-Q1397367#Protein Family#fibers in the brain stem
-Q1419042#Protein Family#brain cell
-Q1421408#Protein Family#cell type
-Q1425589#Protein Family#anatomical term
-Q1426052#Protein Family#muscle in the lower back
-Q1427600#Protein Family#division of the body of an animal or embryo
-Q1436583#Protein Family#
-Q1436590#Protein Family#triangular hole in the base of the skull
-Q1457751#Protein Family#one of the dural venous sinuses
-Q1493508#Protein Family#parasympathetic ganglion of head and neck
-Q1500758#Protein Family#One of six small hip muscles in the lateral rotator group
-Q1519198#Protein Family#
-Q1547362#Protein Family#body cavity bounded by the bones of the pelvis
-Q1568920#Protein Family#area of the human brain
-Q1575134#Protein Family#
-Q1591425#Protein Family#topological lines drawn on human body correspond to the natural orientation of collagen fibers in dermis.
-Q1601362#Protein Family#large blood vessel in the arm
-Q1620205#Protein Family#collection of neurons in the brain stem
-Q1623349#Protein Family#
-Q1633822#Protein Family#Muscle in the quad
-Q1635066#Protein Family#anatomical structure
-Q1635458#Protein Family#part of the stomach
-Q1648555#Protein Family#anatomy
-Q1659799#Protein Family#superior portions of the vagina
-Q1665277#Protein Family#Muscles of the sole of the foot
-Q1724233#Protein Family#artery in the abdominal and pelvic regions
-Q1742964#Protein Family#
-Q1751717#Protein Family#structure in the human brain
-Q1753760#Protein Family#nerve in the skull
-Q1756451#Protein Family#inhibitory interneurons found in the gray matter of the spinal cord
-Q1756762#Protein Family#one of six small hip muscles in the lateral rotator group
-Q1756808#Protein Family#complex of arteries and veins lying very close to each other, found in some vertebrates, mainly warm-blooded ones.
-Q1758798#Protein Family#synovial ball and socket joint in the shoulder
-Q1772886#Protein Family#bony prominence around the pituitary gland
-Q1813830#Protein Family#
-Q1824652#Protein Family#
-Q1862100#Protein Family#
-Q1873857#Protein Family#cell type
-Q1913658#Protein Family#muscles located in the ventricles of the heart
-Q1978114#Protein Family#
-Q1978139#Protein Family#
-Q1978198#Protein Family#branch of the sciatic nerve
-Q1983003#Protein Family#in anatomy, a furrow or fissure
-Q2004084#Protein Family#Anti-microbial epithelial cell of the small intestine
-Q2004182#Protein Family#Grey matter nucleus in the cerebellum
-Q2035067#Protein Family#قاسم عقسد
-Q2071037#Protein Family#
-Q2076795#Protein Family#small channels in each eyelid that drain lacrimal fluid
-Q2080394#Protein Family#artery
-Q2164516#Protein Family#
+Q410959#Protein Family#InterPro Family
+Q419629#Protein Family#InterPro Family
+Q420863#Protein Family#group of proteins forming tight junctions between cells that control paracellular transport of objects
+Q424381#Protein Family#InterPro Family
+Q425007#Protein Family#large group of transport proteins
+Q426772#Protein Family#protein family
+Q769866#Protein Family#surface receptor glycoprotein
+Q792510#Protein Family#InterPro protein family
+Q798179#Protein Family#class of transport proteins
+Q907198#Protein Family#chemical compound
+Q1188971#Protein Family#InterPro Family
+Q1416887#Protein Family#one of the five main histone proteins
+Q1953641#Protein Family#InterPro Family
+Q2033959#Protein Family#InterPro Family
+Q2067077#Protein Family#cell surface protein binding somatostatin and triggering intracellular changes
+Q2190680#Protein Family#proteins found in maize (corn)
 Q2248886#Protein Family#mammalian protein found in Homo sapiens
-Q2353265#Protein Family#
-Q2354337#Protein Family#class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine
-Q2360339#Protein Family#three muscles located between the metatarsal bones in the foot
-Q2393792#Protein Family#sheath around nerve bundles
-Q2409399#Protein Family#
-Q2414279#Protein Family#Structure in the basal ganglia of the brain
-Q2447644#Protein Family#
-Q2487461#Protein Family#tooth
-Q2512768#Protein Family#Large blood vessel
-Q2531387#Protein Family#anatomical structure
-Q2596226#Protein Family#cell type
-Q2620085#Protein Family#
-Q2631550#Protein Family#cell type
-Q2643251#Protein Family#biological junctions through which neurons' signals can be sent
-Q2685072#Protein Family#surface of an organism refers to the left or right side
-Q2760639#Protein Family#
-Q2796182#Protein Family#
-Q2865999#Protein Family#artery that supplies the adrenal gland
-Q2888202#Protein Family#
-Q2914731#Protein Family#portion of the kidney nephron between the loop of Henle and the collecting duct
-Q2919618#Protein Family#
-Q3088602#Protein Family#Nerve in the human leg and foot
-Q3122152#Protein Family#Band of fibres along the thalamus
-Q3130956#Protein Family#part of the brain
-Q3270899#Protein Family#
-Q3301573#Protein Family#
-Q3307119#Protein Family#
-Q3316775#Protein Family#large blood vessels of the forearm
-Q3322746#Protein Family#
-Q3324292#Protein Family#
-Q3328747#Protein Family#
-Q3328967#Protein Family#
-Q3338317#Protein Family#
-Q3346043#Protein Family#gelatinous substance that makes up the central portion of an intervertebral disc
-Q3493614#Protein Family#bone of the ankle
-Q3494094#Protein Family#membranous labyrinth in the vestibule of ear
-Q3507797#Protein Family#artery
-Q3518027#Protein Family#medial part of the posterior wall of the inguinal canal
-Q3559311#Protein Family#Protrusions of the arachnoid mater for returning cerebrospinal fluid to circulation
-Q3621435#Protein Family#human artery
-Q3624379#Protein Family#articulations extending from the ankle to the toes
-Q3740460#Protein Family#
-Q3752103#Protein Family#region of gray matter cells in the subthalamus below the thalamus
-Q3756509#Protein Family#
-Q3823716#Protein Family#
-Q3855279#Protein Family#
-Q4006434#Protein Family#
-Q4115114#Protein Family#depression in the temporal bone that articulates with the mandibular condyle
-Q4115340#Protein Family#
-Q4116715#Protein Family#
-Q4117097#Protein Family#veins that drain the posterior abdominal wall
-Q4117172#Protein Family#
-Q4117816#Protein Family#vein of the orbit around the eye
-Q4119770#Protein Family#
-Q4119889#Protein Family#
-Q4319750#Protein Family#
-Q4381683#Protein Family#
-Q4391932#Protein Family#
-Q4391978#Protein Family#
-Q4428834#Protein Family#
-Q4459859#Protein Family#
-Q4672545#Protein Family#external parts of the eye including eyebrow, eyelid, and lacrimal apparatus
-Q4675817#Protein Family#
-Q4681414#Protein Family#gap between the adductor magnus muscle and the femur
-Q4738008#Protein Family#
-Q4739730#Protein Family#embrological structure connect to right ventricle and will disapper with emryology
-Q4771321#Protein Family#
-Q4771334#Protein Family#part of the fascial compartments of leg
-Q4771340#Protein Family#
-Q4771341#Protein Family#small bundle of descending fibers that connect the cerebral cortex to the spinal cord
-Q4771345#Protein Family#
-Q4771369#Protein Family#
-Q4771374#Protein Family#
-Q4771397#Protein Family#
-Q4771431#Protein Family#
-Q4787736#Protein Family#
-Q4809336#Protein Family#axons that connect cortical areas within the same cerebral hemisphere
-Q4822345#Protein Family#
-Q4860300#Protein Family#
-Q4867297#Protein Family#
-Q4867298#Protein Family#
-Q4936943#Protein Family#
-Q4973070#Protein Family#brain area
-Q4973076#Protein Family#
-Q4973090#Protein Family#
-Q4973830#Protein Family#lymph node
-Q5018678#Protein Family#
-Q5038329#Protein Family#
-Q5058035#Protein Family#
-Q5065356#Protein Family#
-Q5129640#Protein Family#fascia above the axillary facia
-Q5145995#Protein Family#
-Q5152886#Protein Family#axons that connect the two hemispheres of the brain
-Q5170066#Protein Family#
-Q5175184#Protein Family#
-Q5185081#Protein Family#joint connecting the cricoid cartilage and the arytenoid cartilage
-Q5194249#Protein Family#
-Q5250368#Protein Family#
-Q5250449#Protein Family#
-Q5298773#Protein Family#
-Q5298783#Protein Family#
-Q5298785#Protein Family#
-Q5298788#Protein Family#
-Q5298799#Protein Family#
-Q5306281#Protein Family#
-Q5382068#Protein Family#
-Q5407200#Protein Family#One of three gyri of the temporal lobe of the brain
-Q5422040#Protein Family#Wikimedia disambiguation page
-Q5428555#Protein Family#
-Q5436624#Protein Family#portion of fascia covering the saphenous opening in the thigh
-Q5454239#Protein Family#one of the bones forming the human rib cage
-Q5505915#Protein Family#
-Q5526873#Protein Family#
-Q5566614#Protein Family#
-Q5600891#Protein Family#branch of the pterygopalatine ganglion
-Q5600920#Protein Family#
-Q5620438#Protein Family#brain structure in the medulla that helps coordinate movement
-Q5750543#Protein Family#opening in the temporal bone
-Q5773169#Protein Family#eightfold protein complex found at the center of a nucleosome core particle
+Q2844797#Protein Family#dental enamel-forming protein found in mammals
+Q3858415#Protein Family#InterPro Family
+Q4750792#Protein Family#family of transport proteins
+Q4802704#Protein Family#class of enzymes
+Q4836385#Protein Family#protein family
+Q5009777#Protein Family#protein family
+Q5102913#Protein Family#InterPro Family
+Q5103151#Protein Family#class of enzymes
+Q5323086#Protein Family#
+Q6410713#Protein Family#
+Q6935634#Protein Family#protein family
+Q6952202#Protein Family#InterPro Family
+Q7117884#Protein Family#protein family
+Q7249507#Protein Family#InterPro Family
+Q7275805#Protein Family#InterPro Family
+Q7447908#Protein Family#eukaryotic selenoprotein that contains multiple selenocysteine residues
+Q12746330#Protein Family#family of peptides
+Q14292495#Protein Family#protein family
+Q17119047#Protein Family#protein family
+Q17155036#Protein Family#InterPro Family
+Q18351422#Protein Family#Type of human nicotinic acetylcholine receptor
+Q24719511#Protein Family#InterPro Family
+Q24719515#Protein Family#InterPro Family
+Q24719525#Protein Family#InterPro Family
+Q24719549#Protein Family#InterPro Family
+Q24719565#Protein Family#InterPro Family
+Q24719566#Protein Family#InterPro Family
+Q24719584#Protein Family#InterPro Family
+Q24719586#Protein Family#InterPro Family
+Q24719590#Protein Family#InterPro Family
+Q24719688#Protein Family#InterPro Family
+Q24719696#Protein Family#InterPro Family
+Q24719698#Protein Family#InterPro Family
+Q24719703#Protein Family#InterPro Family
+Q24719711#Protein Family#InterPro Family
+Q24719726#Protein Family#InterPro Family
+Q24719727#Protein Family#InterPro Family
+Q24719735#Protein Family#InterPro Family
+Q24719736#Protein Family#InterPro Family
+Q24719748#Protein Family#InterPro Family
+Q24719752#Protein Family#InterPro Family
+Q24719754#Protein Family#InterPro Family
+Q24719758#Protein Family#InterPro Family
+Q24719759#Protein Family#InterPro Family
+Q24719781#Protein Family#InterPro Family
+Q24719787#Protein Family#InterPro Family
+Q24719792#Protein Family#InterPro Family
+Q24719805#Protein Family#InterPro Family
+Q24719806#Protein Family#InterPro Family
+Q24719813#Protein Family#InterPro Family
+Q24719816#Protein Family#InterPro Family
+Q24719824#Protein Family#InterPro Family
+Q24719864#Protein Family#InterPro Family
+Q24719896#Protein Family#InterPro Family
+Q24719899#Protein Family#InterPro Family
+Q24719918#Protein Family#InterPro Family
+Q24719923#Protein Family#InterPro Family
+Q24719930#Protein Family#InterPro Family
+Q24719941#Protein Family#InterPro Family
+Q24719942#Protein Family#InterPro Family
+Q24719953#Protein Family#InterPro Family
+Q24719966#Protein Family#InterPro Family
+Q24719973#Protein Family#InterPro Family
+Q24720001#Protein Family#InterPro Family
+Q24720017#Protein Family#InterPro Family
+Q24720031#Protein Family#InterPro Family
+Q24720037#Protein Family#polypeptide hormone secreted by fat cells in adipose tissue
+Q24720044#Protein Family#InterPro Family
+Q24720053#Protein Family#InterPro Family
+Q24720057#Protein Family#InterPro Family
+Q24720059#Protein Family#InterPro Family
+Q24720067#Protein Family#InterPro Family
+Q24720077#Protein Family#InterPro Family
+Q24720079#Protein Family#InterPro Family
+Q24720091#Protein Family#InterPro Family
+Q24720097#Protein Family#InterPro Family
+Q24720105#Protein Family#InterPro Family
+Q24720115#Protein Family#InterPro Family
+Q24720119#Protein Family#InterPro Family
+Q24720120#Protein Family#InterPro Family
+Q24720123#Protein Family#InterPro Family
+Q24720127#Protein Family#InterPro Family
+Q24720129#Protein Family#InterPro Family
+Q24720152#Protein Family#InterPro Family
+Q24720154#Protein Family#InterPro Family
+Q24720194#Protein Family#InterPro Family
+Q24720203#Protein Family#InterPro Family
+Q24720211#Protein Family#InterPro Family
+Q24720212#Protein Family#group of proteins
+Q24720242#Protein Family#InterPro Family
+Q24720246#Protein Family#InterPro Family
+Q24720279#Protein Family#InterPro Family
+Q24720306#Protein Family#InterPro Family
+Q24720361#Protein Family#InterPro Family
+Q24720371#Protein Family#InterPro Family
+Q24720375#Protein Family#InterPro Family
+Q24720403#Protein Family#InterPro Family
+Q24720408#Protein Family#InterPro Family
+Q24720409#Protein Family#InterPro Family
+Q24720442#Protein Family#InterPro Family
+Q24720456#Protein Family#InterPro Family
+Q24720484#Protein Family#InterPro Family
+Q24720497#Protein Family#InterPro Family
+Q24720501#Protein Family#InterPro Family
+Q24720509#Protein Family#InterPro Family
+Q24720511#Protein Family#InterPro Family
+Q24720515#Protein Family#InterPro Family
+Q24720520#Protein Family#InterPro Family
+Q24720529#Protein Family#InterPro Family
+Q24720530#Protein Family#InterPro Family
+Q24720541#Protein Family#InterPro Family
+Q24720543#Protein Family#InterPro Family
+Q24720584#Protein Family#InterPro Family
+Q24720611#Protein Family#InterPro Family
+Q24720630#Protein Family#InterPro Family
+Q24720632#Protein Family#InterPro Family
+Q24720638#Protein Family#InterPro Family
+Q24720648#Protein Family#InterPro Family
+Q24720660#Protein Family#InterPro Family
+Q24720672#Protein Family#InterPro Family
+Q24720677#Protein Family#InterPro Family
+Q24720689#Protein Family#InterPro Family
+Q24720707#Protein Family#InterPro Family
+Q24720768#Protein Family#InterPro Family
+Q24720776#Protein Family#InterPro Family
+Q24720785#Protein Family#InterPro Family
+Q24720802#Protein Family#InterPro Family
+Q24720812#Protein Family#InterPro Family
+Q24720814#Protein Family#InterPro Family
+Q24720831#Protein Family#InterPro Family
+Q24720848#Protein Family#InterPro Family
+Q24720881#Protein Family#InterPro Family
+Q24720948#Protein Family#InterPro Family
+Q24720989#Protein Family#InterPro Family
+Q24721003#Protein Family#InterPro Family
+Q24721007#Protein Family#InterPro Family
+Q24721013#Protein Family#InterPro Family
+Q24721030#Protein Family#InterPro Family
+Q24721032#Protein Family#InterPro Family
+Q24721057#Protein Family#InterPro Family
+Q24721076#Protein Family#InterPro Family
+Q24721078#Protein Family#InterPro Family
+Q24721090#Protein Family#InterPro Family
+Q24721114#Protein Family#InterPro Family
+Q24721124#Protein Family#InterPro Family
+Q24721145#Protein Family#InterPro Family
+Q24721166#Protein Family#InterPro Family
+Q24721172#Protein Family#InterPro Family
+Q24721174#Protein Family#InterPro Family
+Q24721185#Protein Family#InterPro Family
+Q24721192#Protein Family#InterPro Family
+Q24721223#Protein Family#InterPro Family
+Q24721224#Protein Family#InterPro Family
+Q24721229#Protein Family#InterPro Family
+Q24721230#Protein Family#InterPro Domain
+Q24721239#Protein Family#InterPro Family
+Q24721252#Protein Family#InterPro Family
+Q24721253#Protein Family#InterPro Family
+Q24721259#Protein Family#InterPro Family
+Q24721274#Protein Family#InterPro Family
+Q24721275#Protein Family#InterPro Family
+Q24721293#Protein Family#InterPro Family
+Q24721317#Protein Family#InterPro Family
+Q24721329#Protein Family#InterPro Family
+Q24721342#Protein Family#InterPro Family
+Q24721345#Protein Family#InterPro Family
+Q24721357#Protein Family#InterPro Family
+Q24721361#Protein Family#InterPro Family
+Q24721370#Protein Family#InterPro Family
+Q24721371#Protein Family#InterPro Family
+Q24721381#Protein Family#InterPro Family
+Q24721391#Protein Family#InterPro Family
+Q24721397#Protein Family#InterPro Family
+Q24721412#Protein Family#InterPro Family
+Q24721418#Protein Family#InterPro Family
+Q24721445#Protein Family#InterPro Family
+Q24721452#Protein Family#InterPro Family
+Q24721487#Protein Family#InterPro Family
+Q24721491#Protein Family#InterPro Family
+Q24721518#Protein Family#InterPro Family
+Q24721537#Protein Family#InterPro Family
+Q24721555#Protein Family#InterPro Family
+Q24721563#Protein Family#InterPro Family
+Q24721579#Protein Family#InterPro Family
+Q24721585#Protein Family#InterPro Family
+Q24721650#Protein Family#InterPro Family
+Q24721688#Protein Family#InterPro Family
+Q24721702#Protein Family#InterPro Family
+Q24721730#Protein Family#InterPro Family
+Q24721741#Protein Family#InterPro Family
+Q24721742#Protein Family#InterPro Family
+Q24721755#Protein Family#InterPro Family
+Q24721760#Protein Family#InterPro Family
+Q24721774#Protein Family#InterPro Family
+Q24721799#Protein Family#InterPro Family
+Q24721839#Protein Family#InterPro Family
+Q24721843#Protein Family#InterPro Family
+Q24721886#Protein Family#InterPro Family
+Q24721927#Protein Family#InterPro Family
+Q24721939#Protein Family#InterPro Family
+Q24721944#Protein Family#InterPro Family
+Q24721985#Protein Family#InterPro Family
+Q24721990#Protein Family#InterPro Family
+Q24722099#Protein Family#InterPro Family
+Q24722123#Protein Family#InterPro Family
+Q24722134#Protein Family#InterPro Family
+Q24722142#Protein Family#InterPro Family
+Q24722151#Protein Family#InterPro Family
+Q24722164#Protein Family#protein family
+Q24722182#Protein Family#InterPro Family
+Q24722187#Protein Family#InterPro Family
+Q24722213#Protein Family#InterPro Family
+Q24722231#Protein Family#InterPro Family
+Q24722235#Protein Family#InterPro Family
+Q24722238#Protein Family#InterPro Family
+Q24722278#Protein Family#InterPro Family
+Q24722283#Protein Family#InterPro Family
+Q24722304#Protein Family#InterPro Family
+Q24722314#Protein Family#InterPro Family
+Q24722335#Protein Family#InterPro Family
+Q24722354#Protein Family#InterPro Family
+Q24722367#Protein Family#InterPro Family
+Q24722368#Protein Family#InterPro Family
+Q24722382#Protein Family#InterPro Family
+Q24722401#Protein Family#InterPro Family
+Q24722433#Protein Family#InterPro Family
+Q24722436#Protein Family#InterPro Family
+Q24722442#Protein Family#InterPro Family
+Q24722443#Protein Family#InterPro Family
+Q24722456#Protein Family#InterPro Family
+Q24722475#Protein Family#InterPro Family
+Q24722488#Protein Family#InterPro Family
+Q24722497#Protein Family#InterPro Family
+Q24722500#Protein Family#InterPro Family
+Q24722506#Protein Family#InterPro Family
+Q24722509#Protein Family#InterPro Family
+Q24722522#Protein Family#InterPro Family
+Q24722538#Protein Family#InterPro Family
+Q24722541#Protein Family#InterPro Family
+Q24722542#Protein Family#InterPro Family
+Q24722550#Protein Family#InterPro Family
+Q24722562#Protein Family#InterPro Family
+Q24722571#Protein Family#InterPro Family
+Q24722583#Protein Family#InterPro Family
+Q24722621#Protein Family#InterPro Family
+Q24722626#Protein Family#InterPro Family
+Q24722647#Protein Family#InterPro Family
+Q24722674#Protein Family#InterPro Family
+Q24722678#Protein Family#InterPro Family
+Q24722684#Protein Family#InterPro Family
+Q24722692#Protein Family#InterPro Family
+Q24722697#Protein Family#InterPro Family
+Q24722714#Protein Family#InterPro Family
+Q24722718#Protein Family#InterPro Family
+Q24722739#Protein Family#InterPro Family
+Q24722744#Protein Family#InterPro Family
+Q24722755#Protein Family#InterPro Family
+Q24722756#Protein Family#InterPro Domain
+Q24722758#Protein Family#InterPro Family
+Q24722764#Protein Family#InterPro Family
+Q24722769#Protein Family#InterPro Family
+Q24722788#Protein Family#InterPro Family
+Q24722811#Protein Family#InterPro Family
+Q24722817#Protein Family#InterPro Family
+Q24722827#Protein Family#InterPro Family
+Q24722829#Protein Family#InterPro Family
+Q24722836#Protein Family#InterPro Family
+Q24722852#Protein Family#InterPro Family
+Q24722869#Protein Family#InterPro Family
+Q24722872#Protein Family#InterPro Family
+Q24722874#Protein Family#InterPro Family
+Q24722883#Protein Family#InterPro Family
+Q24722911#Protein Family#InterPro Family
+Q24722923#Protein Family#InterPro Family
+Q24722952#Protein Family#InterPro Family
+Q24722955#Protein Family#InterPro Family
+Q24722956#Protein Family#InterPro Family
+Q24722964#Protein Family#InterPro Family
+Q24722996#Protein Family#InterPro Family
+Q24723013#Protein Family#InterPro Family
+Q24723018#Protein Family#InterPro Family
+Q24723020#Protein Family#InterPro Family
+Q24723026#Protein Family#InterPro Family
+Q24723049#Protein Family#InterPro Family
+Q24723103#Protein Family#InterPro Family
+Q24723162#Protein Family#InterPro Domain
+Q24723189#Protein Family#InterPro Family
+Q24723192#Protein Family#InterPro Family
+Q24723248#Protein Family#InterPro Family
+Q24723249#Protein Family#InterPro Family
+Q24723283#Protein Family#InterPro Family
+Q24723311#Protein Family#InterPro Family
+Q24723312#Protein Family#InterPro Family
+Q24723325#Protein Family#InterPro Family
+Q24723332#Protein Family#InterPro Family
+Q24723341#Protein Family#InterPro Family
+Q24723352#Protein Family#InterPro Family
+Q24723364#Protein Family#InterPro Family
+Q24723383#Protein Family#InterPro Family
+Q24723393#Protein Family#InterPro Family
+Q24723396#Protein Family#InterPro Family
+Q24723419#Protein Family#InterPro Family
+Q24723434#Protein Family#InterPro Family
+Q24723449#Protein Family#InterPro Family
+Q24723481#Protein Family#InterPro Family
+Q24723483#Protein Family#InterPro Family
+Q24723486#Protein Family#InterPro Family
+Q24723554#Protein Family#InterPro Family
+Q24723562#Protein Family#InterPro Family
+Q24723564#Protein Family#InterPro Family
+Q24723585#Protein Family#InterPro Family
+Q24723602#Protein Family#InterPro Family
+Q24723605#Protein Family#InterPro Family
+Q24723611#Protein Family#InterPro Family
+Q24723623#Protein Family#InterPro Family
+Q24723644#Protein Family#InterPro Family
+Q24723649#Protein Family#InterPro Family
+Q24723664#Protein Family#InterPro Family
+Q24723669#Protein Family#InterPro Family
+Q24723674#Protein Family#InterPro Family
+Q24723677#Protein Family#InterPro Family
+Q24723693#Protein Family#InterPro Family
+Q24723696#Protein Family#InterPro Family
+Q24723699#Protein Family#InterPro Family
+Q24723732#Protein Family#InterPro Family
+Q24723740#Protein Family#InterPro Family
+Q24723749#Protein Family#InterPro Family
+Q24723752#Protein Family#InterPro Family
+Q24723764#Protein Family#InterPro Family
+Q24723772#Protein Family#InterPro Family
+Q24723776#Protein Family#InterPro Family
+Q24723791#Protein Family#InterPro Family
+Q24723797#Protein Family#InterPro Family
+Q24723798#Protein Family#InterPro Family
+Q24723805#Protein Family#InterPro Family
+Q24723813#Protein Family#InterPro Family
+Q24723823#Protein Family#InterPro Family
+Q24723836#Protein Family#InterPro Family
+Q24723842#Protein Family#InterPro Family
+Q24723863#Protein Family#InterPro Family
+Q24723872#Protein Family#InterPro Family
+Q24723876#Protein Family#InterPro Family
+Q24723894#Protein Family#InterPro Family
+Q24723896#Protein Family#InterPro Family
+Q24723913#Protein Family#InterPro Family
+Q24723914#Protein Family#InterPro Family
+Q24723941#Protein Family#InterPro Family
+Q24723943#Protein Family#InterPro Family
+Q24723969#Protein Family#InterPro Family
+Q24724002#Protein Family#InterPro Family
+Q24724008#Protein Family#InterPro Family
+Q24724044#Protein Family#InterPro Family
+Q24724046#Protein Family#InterPro Family
+Q24724054#Protein Family#InterPro Family
+Q24724077#Protein Family#InterPro Family
+Q24724098#Protein Family#InterPro Family
+Q24724108#Protein Family#InterPro Family
+Q24724112#Protein Family#InterPro Family
+Q24724133#Protein Family#InterPro Family
+Q24724135#Protein Family#InterPro protein family
+Q24724138#Protein Family#InterPro Family
+Q24724153#Protein Family#InterPro Family
+Q24724155#Protein Family#InterPro Family
+Q24724159#Protein Family#InterPro Family
+Q24724186#Protein Family#InterPro Family
+Q24724189#Protein Family#InterPro Family
+Q24724198#Protein Family#InterPro Family
+Q24724224#Protein Family#InterPro Family
+Q24724230#Protein Family#InterPro Family
+Q24724240#Protein Family#InterPro Family
+Q24724285#Protein Family#InterPro Family
+Q24724291#Protein Family#InterPro Family
+Q24724327#Protein Family#InterPro Family
+Q24724328#Protein Family#InterPro Family
+Q24724337#Protein Family#InterPro Family
+Q24724345#Protein Family#InterPro Family
+Q24724361#Protein Family#InterPro Family
+Q24724386#Protein Family#InterPro Family
+Q24724390#Protein Family#InterPro Family
+Q24724398#Protein Family#InterPro Family
+Q24724402#Protein Family#InterPro Family
+Q24724403#Protein Family#InterPro Family
+Q24724415#Protein Family#InterPro Family
+Q24724438#Protein Family#InterPro Family
+Q24724458#Protein Family#InterPro Family
+Q24724472#Protein Family#InterPro Family
+Q24724473#Protein Family#InterPro Family
+Q24724477#Protein Family#InterPro Family
+Q24724478#Protein Family#InterPro Family
+Q24724509#Protein Family#InterPro Family
+Q24724534#Protein Family#InterPro Family
+Q24724567#Protein Family#InterPro Family
+Q24724570#Protein Family#InterPro Family
+Q24724579#Protein Family#InterPro Family
+Q24724581#Protein Family#InterPro Family
+Q24724585#Protein Family#InterPro Family
+Q24724590#Protein Family#InterPro Family
+Q24724593#Protein Family#InterPro Family
+Q24724595#Protein Family#InterPro Family
+Q24724597#Protein Family#InterPro Family
+Q24724599#Protein Family#InterPro Family
+Q24724656#Protein Family#InterPro Family
+Q24724666#Protein Family#InterPro Family
+Q24724694#Protein Family#InterPro Family
+Q24724700#Protein Family#InterPro Family
+Q24724716#Protein Family#InterPro Family
+Q24724721#Protein Family#InterPro Family
+Q24724745#Protein Family#InterPro Family
+Q24724779#Protein Family#InterPro Family
+Q24724785#Protein Family#InterPro Family
+Q24724792#Protein Family#InterPro Family
+Q24724798#Protein Family#InterPro Family
+Q24724815#Protein Family#InterPro Family
+Q24724830#Protein Family#InterPro Family
+Q24724834#Protein Family#InterPro Family
+Q24724837#Protein Family#InterPro Family
+Q24724855#Protein Family#InterPro Family
+Q24724860#Protein Family#InterPro Family
+Q24724874#Protein Family#InterPro Family
+Q24724904#Protein Family#InterPro Family
+Q24724950#Protein Family#InterPro Family
+Q24724955#Protein Family#InterPro Family
+Q24724972#Protein Family#InterPro Family
+Q24724980#Protein Family#InterPro Family
+Q24724986#Protein Family#InterPro Family
+Q24724988#Protein Family#InterPro Family
+Q24725008#Protein Family#InterPro Family
+Q24725014#Protein Family#InterPro Family
+Q24725018#Protein Family#InterPro Family
+Q24725026#Protein Family#InterPro Family
+Q24725032#Protein Family#InterPro Family
+Q24725036#Protein Family#InterPro Family
+Q24725060#Protein Family#InterPro Family
+Q24725062#Protein Family#InterPro Family
+Q24725104#Protein Family#InterPro Family
+Q24725106#Protein Family#InterPro Family
+Q24725107#Protein Family#InterPro Family
+Q24725127#Protein Family#InterPro Family
+Q24725136#Protein Family#InterPro Family
+Q24725144#Protein Family#InterPro Family
+Q24725183#Protein Family#InterPro Family
+Q24725194#Protein Family#InterPro Family
+Q24725205#Protein Family#InterPro Family
+Q24725208#Protein Family#InterPro Family
+Q24725212#Protein Family#InterPro Family
+Q24725226#Protein Family#InterPro Family
+Q24725228#Protein Family#Class of kinase enzymes
+Q24725232#Protein Family#InterPro Family
+Q24725233#Protein Family#InterPro Family
+Q24725240#Protein Family#InterPro Family
+Q24725244#Protein Family#InterPro Family
+Q24725255#Protein Family#InterPro Family
+Q24725258#Protein Family#InterPro Family
+Q24725270#Protein Family#InterPro Family
+Q24725272#Protein Family#InterPro Family
+Q24725280#Protein Family#InterPro Family
+Q24725285#Protein Family#InterPro Family
+Q24725292#Protein Family#InterPro Family
+Q24725298#Protein Family#InterPro Family
+Q24725307#Protein Family#InterPro Family
+Q24725321#Protein Family#InterPro Family
+Q24725323#Protein Family#InterPro Family
+Q24725325#Protein Family#InterPro Family
+Q24725333#Protein Family#InterPro Family
+Q24725354#Protein Family#InterPro Family
+Q24725358#Protein Family#InterPro Family
+Q24725361#Protein Family#InterPro Family
+Q24725364#Protein Family#InterPro Family
+Q24725389#Protein Family#InterPro Family
+Q24725467#Protein Family#InterPro Family
+Q24725484#Protein Family#InterPro Family
+Q24725499#Protein Family#InterPro Family
+Q24725506#Protein Family#InterPro Family
+Q24725514#Protein Family#InterPro Family
+Q24725523#Protein Family#InterPro Family
+Q24725531#Protein Family#InterPro Family
+Q24725534#Protein Family#InterPro Family
+Q24725541#Protein Family#InterPro Family
+Q24725564#Protein Family#InterPro Family
+Q24725584#Protein Family#InterPro Family
+Q24725597#Protein Family#InterPro Family
+Q24725643#Protein Family#InterPro Family
+Q24725652#Protein Family#InterPro Family
+Q24725671#Protein Family#InterPro Family
+Q24725687#Protein Family#InterPro Family
+Q24725689#Protein Family#InterPro Family
+Q24725701#Protein Family#InterPro Family
+Q24725736#Protein Family#InterPro Family
+Q24725747#Protein Family#InterPro Family
+Q24725759#Protein Family#InterPro Family
+Q24725766#Protein Family#InterPro Family
+Q24725768#Protein Family#InterPro Family
+Q24725771#Protein Family#InterPro Family
+Q24725786#Protein Family#InterPro Family
+Q24725788#Protein Family#InterPro Family
+Q24725821#Protein Family#InterPro Family
+Q24725827#Protein Family#InterPro Family
+Q24725830#Protein Family#InterPro Family
+Q24725831#Protein Family#InterPro Family
+Q24725834#Protein Family#InterPro Family
+Q24725844#Protein Family#InterPro Family
+Q24725847#Protein Family#InterPro Family
+Q24725848#Protein Family#InterPro Family
+Q24725858#Protein Family#InterPro Family
+Q24725872#Protein Family#InterPro Family
+Q24725889#Protein Family#InterPro Family
+Q24725892#Protein Family#InterPro Family
+Q24725915#Protein Family#InterPro Family
+Q24725916#Protein Family#InterPro Family
+Q24725937#Protein Family#InterPro Family
+Q24725938#Protein Family#InterPro Family
+Q24725992#Protein Family#InterPro Family
+Q24726000#Protein Family#InterPro Family
+Q24726011#Protein Family#InterPro Family
+Q24726012#Protein Family#InterPro Family
+Q24726017#Protein Family#InterPro Family
+Q24726020#Protein Family#InterPro Family
+Q24726031#Protein Family#InterPro Family
+Q24726042#Protein Family#InterPro Family
+Q24726052#Protein Family#InterPro Family
+Q24726095#Protein Family#InterPro Family
+Q24726101#Protein Family#InterPro Family
+Q24726115#Protein Family#InterPro Family
+Q24726120#Protein Family#InterPro Family
+Q24726123#Protein Family#InterPro Family
+Q24726138#Protein Family#InterPro Family
+Q24726166#Protein Family#InterPro Family
+Q24726169#Protein Family#InterPro Family
+Q24726173#Protein Family#InterPro Family
+Q24726180#Protein Family#InterPro Family
+Q24726214#Protein Family#InterPro Family
+Q24726240#Protein Family#InterPro Family
+Q24726247#Protein Family#InterPro Family
+Q24726256#Protein Family#InterPro Family
+Q24726272#Protein Family#InterPro Family
+Q24726273#Protein Family#InterPro Family
+Q24726274#Protein Family#InterPro Family
+Q24726291#Protein Family#InterPro Domain
+Q24726298#Protein Family#InterPro Family
+Q24726314#Protein Family#InterPro Family
+Q24726315#Protein Family#InterPro Family
+Q24726316#Protein Family#InterPro Family
+Q24726333#Protein Family#InterPro Family
+Q24726379#Protein Family#InterPro Family
+Q24726383#Protein Family#InterPro Family
+Q24726395#Protein Family#InterPro Domain
+Q24726410#Protein Family#InterPro Family
+Q24726426#Protein Family#InterPro Family
+Q24726437#Protein Family#InterPro Family
+Q24726482#Protein Family#InterPro Family
+Q24726486#Protein Family#InterPro Family
+Q24726505#Protein Family#InterPro Family
+Q24726544#Protein Family#InterPro Family
+Q24726556#Protein Family#InterPro Family
+Q24726586#Protein Family#InterPro Family
+Q24726596#Protein Family#InterPro Family
+Q24726619#Protein Family#InterPro Family
+Q24726635#Protein Family#InterPro Family
+Q24726645#Protein Family#InterPro Family
+Q24726651#Protein Family#InterPro Family
+Q24726657#Protein Family#InterPro Family
+Q24726663#Protein Family#InterPro Family
+Q24726666#Protein Family#InterPro Family
+Q24726671#Protein Family#InterPro Family
+Q24726680#Protein Family#InterPro Family
+Q24726681#Protein Family#InterPro Family
+Q24726692#Protein Family#InterPro Family
+Q24726704#Protein Family#InterPro Family
+Q24726709#Protein Family#InterPro Family
+Q24726731#Protein Family#InterPro Family
+Q24726735#Protein Family#InterPro Family
+Q24726740#Protein Family#InterPro Family
+Q24726741#Protein Family#InterPro Family
+Q24726755#Protein Family#InterPro Family
+Q24726796#Protein Family#InterPro Family
+Q24726817#Protein Family#InterPro Family
+Q24726858#Protein Family#InterPro Family
+Q24726872#Protein Family#InterPro Family
+Q24726910#Protein Family#InterPro Family
+Q24726921#Protein Family#InterPro Family
+Q24726966#Protein Family#InterPro Family
+Q24726988#Protein Family#InterPro Family
+Q24727006#Protein Family#InterPro Family
+Q24727022#Protein Family#InterPro Family
+Q24727030#Protein Family#InterPro Family
+Q24727031#Protein Family#InterPro Family
+Q24727036#Protein Family#InterPro Family
+Q24727038#Protein Family#InterPro Family
+Q24727066#Protein Family#InterPro Family
+Q24727069#Protein Family#InterPro Family
+Q24727074#Protein Family#InterPro Family
+Q24727078#Protein Family#InterPro Family
+Q24727091#Protein Family#InterPro Family
+Q24727096#Protein Family#InterPro Family
+Q24727102#Protein Family#InterPro Family
+Q24727178#Protein Family#InterPro Family
+Q24727187#Protein Family#InterPro Family
+Q24727212#Protein Family#InterPro Family
+Q24727217#Protein Family#InterPro Family
+Q24727230#Protein Family#InterPro Family
+Q24727262#Protein Family#InterPro Family
+Q24727302#Protein Family#protein family
+Q24727306#Protein Family#InterPro Family
+Q24727322#Protein Family#InterPro Family
+Q24727337#Protein Family#InterPro Family
+Q24727352#Protein Family#InterPro Family
+Q24727364#Protein Family#InterPro Family
+Q24727385#Protein Family#InterPro Family
+Q24727409#Protein Family#InterPro Family
+Q24727413#Protein Family#InterPro Family
+Q24727423#Protein Family#InterPro Family
+Q24727443#Protein Family#InterPro Family
+Q24727447#Protein Family#InterPro Family
+Q24727453#Protein Family#InterPro Family
+Q24727463#Protein Family#InterPro Family
+Q24727471#Protein Family#InterPro Family
+Q24727476#Protein Family#InterPro Family
+Q24727489#Protein Family#InterPro Family
+Q24727496#Protein Family#InterPro Family
+Q24727511#Protein Family#InterPro Family
+Q24727514#Protein Family#InterPro Family
+Q24727516#Protein Family#InterPro Family
+Q24727529#Protein Family#InterPro Family
+Q24727532#Protein Family#InterPro Family
+Q24727549#Protein Family#InterPro Family
+Q24727553#Protein Family#InterPro Family
+Q24727559#Protein Family#InterPro Family
+Q24738438#Protein Family#InterPro Family
+Q24738469#Protein Family#InterPro Family
+Q24738471#Protein Family#InterPro Family
+Q24738488#Protein Family#InterPro Family
+Q24738496#Protein Family#InterPro Family
+Q24738501#Protein Family#InterPro Family
+Q24738517#Protein Family#InterPro Family
+Q24738520#Protein Family#InterPro Family
+Q24738524#Protein Family#InterPro Family
+Q24738527#Protein Family#InterPro Family
+Q24738532#Protein Family#InterPro Family
+Q24738546#Protein Family#InterPro Family
+Q24738554#Protein Family#InterPro Family
+Q24738562#Protein Family#InterPro Family
+Q24738565#Protein Family#InterPro Family
+Q24738585#Protein Family#InterPro Family
+Q24738613#Protein Family#InterPro Family
+Q24738640#Protein Family#InterPro Family
+Q24738691#Protein Family#InterPro Family
+Q24738729#Protein Family#InterPro Family
+Q24738788#Protein Family#InterPro Family
+Q24738797#Protein Family#InterPro Family
+Q24738801#Protein Family#InterPro Family
+Q24738808#Protein Family#InterPro Family
+Q24738844#Protein Family#InterPro Family
+Q24738857#Protein Family#InterPro Family
+Q24738882#Protein Family#InterPro Family
+Q24738893#Protein Family#InterPro Family
+Q24738905#Protein Family#InterPro Family
+Q24738908#Protein Family#InterPro Family
+Q24738931#Protein Family#InterPro Family
+Q24738955#Protein Family#InterPro Family
+Q24738978#Protein Family#InterPro Family
+Q24739041#Protein Family#InterPro Family
+Q24739052#Protein Family#InterPro Family
+Q24739080#Protein Family#InterPro Family
+Q24739114#Protein Family#InterPro Family
+Q24739126#Protein Family#InterPro Family
+Q24739137#Protein Family#InterPro Family
+Q24739154#Protein Family#InterPro Family
+Q24739158#Protein Family#InterPro Family
+Q24739160#Protein Family#InterPro Family
+Q24739184#Protein Family#InterPro Family
+Q24739189#Protein Family#InterPro Family
+Q24739201#Protein Family#InterPro Family
+Q24739209#Protein Family#InterPro Family
+Q24739235#Protein Family#InterPro Family
+Q24739276#Protein Family#InterPro Family
+Q24739287#Protein Family#InterPro Family
+Q24739300#Protein Family#InterPro Family
+Q24739308#Protein Family#InterPro Family
+Q24739375#Protein Family#InterPro Family
+Q24739379#Protein Family#InterPro Family
+Q24739402#Protein Family#InterPro Family
+Q24739406#Protein Family#InterPro Family
+Q24739445#Protein Family#InterPro Family
+Q24739464#Protein Family#InterPro Family
+Q24739510#Protein Family#InterPro Family
+Q24739520#Protein Family#InterPro Family
+Q24739530#Protein Family#InterPro Family
+Q24739531#Protein Family#InterPro Family
+Q24739533#Protein Family#InterPro Family
+Q24739560#Protein Family#InterPro Family
+Q24739564#Protein Family#InterPro Family
+Q24739568#Protein Family#InterPro Family
+Q24739609#Protein Family#InterPro Family
+Q24739616#Protein Family#InterPro Family
+Q24739645#Protein Family#InterPro Family
+Q24739678#Protein Family#InterPro Family
+Q24739690#Protein Family#InterPro Family
+Q24739693#Protein Family#InterPro Family
+Q24739696#Protein Family#InterPro Family
+Q24739704#Protein Family#InterPro Family
+Q24739721#Protein Family#InterPro Family
+Q24739733#Protein Family#InterPro Family
+Q24739765#Protein Family#InterPro Family
+Q24739782#Protein Family#InterPro Family
+Q24739784#Protein Family#InterPro Family
+Q24739802#Protein Family#InterPro Family
+Q24739822#Protein Family#InterPro Family
+Q24739826#Protein Family#InterPro Family
+Q24739850#Protein Family#InterPro Family
+Q24739874#Protein Family#InterPro Family
+Q24739878#Protein Family#InterPro Family
+Q24739879#Protein Family#InterPro Family
+Q24739880#Protein Family#InterPro Family
+Q24739898#Protein Family#InterPro Family
+Q24739905#Protein Family#InterPro Family
+Q24739910#Protein Family#InterPro Family
+Q24739943#Protein Family#InterPro Family
+Q24739949#Protein Family#InterPro Family
+Q24739988#Protein Family#InterPro Family
+Q24740026#Protein Family#protein family
+Q24740032#Protein Family#InterPro Family
+Q24740036#Protein Family#InterPro Family
+Q24740051#Protein Family#InterPro Family
+Q24740068#Protein Family#InterPro Family
+Q24740087#Protein Family#InterPro Family
+Q24740117#Protein Family#InterPro Family
+Q24740121#Protein Family#InterPro Family
+Q24740162#Protein Family#InterPro Family
+Q24740186#Protein Family#InterPro Family
+Q24740191#Protein Family#InterPro Family
+Q24740194#Protein Family#InterPro Family
+Q24740199#Protein Family#InterPro Family
+Q24740214#Protein Family#InterPro Family
+Q24740226#Protein Family#InterPro Family
+Q24740227#Protein Family#InterPro Family
+Q24740259#Protein Family#InterPro Family
+Q24740260#Protein Family#InterPro Family
+Q24740286#Protein Family#InterPro Family
+Q24740294#Protein Family#InterPro Family
+Q24740329#Protein Family#InterPro Family
+Q24740354#Protein Family#InterPro Family
+Q24740359#Protein Family#InterPro Family
+Q24740373#Protein Family#InterPro Family
+Q24740411#Protein Family#InterPro Family
+Q24740446#Protein Family#InterPro Family
+Q24740458#Protein Family#InterPro Family
+Q24740477#Protein Family#InterPro Family
+Q24740480#Protein Family#InterPro Family
+Q24740513#Protein Family#InterPro Family
+Q24740549#Protein Family#InterPro Family
+Q24740580#Protein Family#InterPro Family
+Q24740589#Protein Family#InterPro Family
+Q24740665#Protein Family#InterPro Family
+Q24740689#Protein Family#InterPro Family
+Q24740745#Protein Family#InterPro Family
+Q24740746#Protein Family#InterPro Family
+Q24740759#Protein Family#InterPro Family
+Q24740782#Protein Family#InterPro Family
+Q24740807#Protein Family#InterPro Family
+Q24740816#Protein Family#InterPro Family
+Q24740837#Protein Family#InterPro Family
+Q24740838#Protein Family#InterPro Family
+Q24740875#Protein Family#InterPro Family
+Q24740921#Protein Family#InterPro Family
+Q24740929#Protein Family#InterPro Family
+Q24740963#Protein Family#InterPro Family
+Q24740964#Protein Family#InterPro Family
+Q24740981#Protein Family#InterPro Family
+Q24741065#Protein Family#InterPro Family
+Q24741090#Protein Family#InterPro Family
+Q24741103#Protein Family#InterPro Family
+Q24741104#Protein Family#InterPro Family
+Q24741121#Protein Family#InterPro Family
+Q24741134#Protein Family#InterPro Family
+Q24741144#Protein Family#InterPro Family
+Q24741273#Protein Family#InterPro Family
+Q24741286#Protein Family#InterPro Family
+Q24741315#Protein Family#InterPro Family
+Q24741319#Protein Family#InterPro Family
+Q24741350#Protein Family#InterPro Family
+Q24741359#Protein Family#InterPro Family
+Q24741382#Protein Family#InterPro Family
+Q24741392#Protein Family#InterPro Family
+Q24741433#Protein Family#InterPro Family
+Q24741459#Protein Family#protein family
+Q24741478#Protein Family#InterPro Family
+Q24741490#Protein Family#InterPro Family
+Q24741507#Protein Family#InterPro Family
+Q24741523#Protein Family#InterPro Family
+Q24741544#Protein Family#InterPro Family
+Q24741563#Protein Family#InterPro Family
+Q24741637#Protein Family#InterPro Family
+Q24741648#Protein Family#InterPro Family
+Q24741653#Protein Family#InterPro Family
+Q24741661#Protein Family#InterPro Family
+Q24741694#Protein Family#InterPro Family
+Q24741712#Protein Family#InterPro Family
+Q24741724#Protein Family#InterPro Family
+Q24741759#Protein Family#InterPro Family
+Q24741760#Protein Family#InterPro Family
+Q24741778#Protein Family#InterPro Family
+Q24741819#Protein Family#InterPro Family
+Q24741824#Protein Family#InterPro Family
+Q24741825#Protein Family#InterPro Family
+Q24741843#Protein Family#InterPro Family
+Q24741860#Protein Family#InterPro Family
+Q24741890#Protein Family#InterPro Family
+Q24741913#Protein Family#InterPro Family
+Q24741921#Protein Family#InterPro Family
+Q24741932#Protein Family#InterPro Family
+Q24741976#Protein Family#InterPro Family
+Q24741978#Protein Family#InterPro Family
+Q24742011#Protein Family#InterPro Family
+Q24742019#Protein Family#InterPro Family
+Q24742078#Protein Family#InterPro Family
+Q24742155#Protein Family#InterPro Family
+Q24742163#Protein Family#InterPro Family
+Q24742185#Protein Family#InterPro Family
+Q24742230#Protein Family#InterPro Family
+Q24743622#Protein Family#InterPro Family
+Q24743628#Protein Family#InterPro Family
+Q24743655#Protein Family#InterPro Family
+Q24743664#Protein Family#InterPro Family
+Q24743698#Protein Family#InterPro Family
+Q24743714#Protein Family#InterPro Family
+Q24743738#Protein Family#InterPro Family
+Q24743800#Protein Family#InterPro Family
+Q24743807#Protein Family#InterPro Family
+Q24744660#Protein Family#InterPro Family
+Q24744663#Protein Family#InterPro Family
+Q24744670#Protein Family#InterPro Family
+Q24744672#Protein Family#InterPro Family
+Q24744697#Protein Family#InterPro Family
+Q24744777#Protein Family#InterPro Family
+Q24744787#Protein Family#InterPro Family
+Q24744823#Protein Family#InterPro Family
+Q24744839#Protein Family#InterPro Family
+Q24744859#Protein Family#InterPro Family
+Q24744876#Protein Family#InterPro Family
+Q24744923#Protein Family#InterPro Family
+Q24744954#Protein Family#InterPro Family
+Q24744967#Protein Family#InterPro Family
+Q24745045#Protein Family#InterPro Family
+Q24745057#Protein Family#InterPro Family
+Q24745074#Protein Family#InterPro Family
+Q24745101#Protein Family#InterPro Family
+Q24745111#Protein Family#InterPro Family
+Q24745167#Protein Family#InterPro Family
+Q24745196#Protein Family#InterPro Family
+Q24745211#Protein Family#InterPro Family
+Q24745226#Protein Family#InterPro Family
+Q24745228#Protein Family#InterPro Family
+Q24745245#Protein Family#InterPro Family
+Q24745278#Protein Family#InterPro Family
+Q24745285#Protein Family#InterPro Family
+Q24745306#Protein Family#InterPro Family
+Q24745333#Protein Family#InterPro Family
+Q24745337#Protein Family#InterPro Family
+Q24745385#Protein Family#InterPro Family
+Q24745398#Protein Family#InterPro Family
+Q24745424#Protein Family#InterPro Family
+Q24745441#Protein Family#InterPro Family
+Q24745442#Protein Family#InterPro Family
+Q24745454#Protein Family#InterPro Family
+Q24745836#Protein Family#InterPro Family
+Q24745881#Protein Family#InterPro Family
+Q24745886#Protein Family#InterPro Family
+Q24745892#Protein Family#InterPro Family
+Q24745916#Protein Family#InterPro Family
+Q24745927#Protein Family#InterPro Family
+Q24745932#Protein Family#InterPro Family
+Q24745980#Protein Family#InterPro Family
+Q24745982#Protein Family#InterPro Family
+Q24745985#Protein Family#InterPro Family
+Q24745988#Protein Family#InterPro Family
+Q24745998#Protein Family#InterPro Family
+Q24746037#Protein Family#InterPro Family
+Q24746067#Protein Family#InterPro Family
+Q24746071#Protein Family#InterPro Family
+Q24766614#Protein Family#InterPro Family
+Q24766615#Protein Family#InterPro Family
+Q24766631#Protein Family#InterPro Family
+Q24766653#Protein Family#InterPro Family
+Q24766666#Protein Family#InterPro Family
+Q24766670#Protein Family#InterPro Family
+Q24766700#Protein Family#InterPro Family
+Q24766707#Protein Family#InterPro Family
+Q24766753#Protein Family#InterPro Family
+Q24766758#Protein Family#InterPro Family
+Q24766761#Protein Family#InterPro Family
+Q24766763#Protein Family#InterPro Family
+Q24766773#Protein Family#InterPro Family
+Q24766785#Protein Family#InterPro Family
+Q24766793#Protein Family#InterPro Family
+Q24766852#Protein Family#InterPro Family
+Q24766883#Protein Family#InterPro Family
+Q24766902#Protein Family#InterPro Family
+Q24766947#Protein Family#InterPro Family
+Q24766951#Protein Family#InterPro Family
+Q24766968#Protein Family#InterPro Family
+Q24766972#Protein Family#InterPro Family
+Q24766978#Protein Family#InterPro Family
+Q24767034#Protein Family#InterPro Family
+Q24767036#Protein Family#protein family
+Q24767037#Protein Family#InterPro Family
+Q24767068#Protein Family#InterPro Family
+Q24767070#Protein Family#InterPro Family
+Q24767072#Protein Family#InterPro Family
+Q24767086#Protein Family#InterPro Family
+Q24767092#Protein Family#InterPro Family
+Q24767107#Protein Family#InterPro Family
+Q24767113#Protein Family#InterPro Family
+Q24767118#Protein Family#InterPro Family
+Q24767140#Protein Family#InterPro Family
+Q24767148#Protein Family#InterPro Family
+Q24767162#Protein Family#InterPro Family
+Q24767856#Protein Family#InterPro Family
+Q24767865#Protein Family#InterPro Family
+Q24767867#Protein Family#InterPro Family
+Q24767888#Protein Family#InterPro Family
+Q24767901#Protein Family#InterPro Family
+Q24767930#Protein Family#InterPro Family
+Q24767955#Protein Family#InterPro Family
+Q24767966#Protein Family#InterPro Family
+Q24767979#Protein Family#InterPro Family
+Q24767990#Protein Family#InterPro Family
+Q24768007#Protein Family#InterPro Family
+Q24768024#Protein Family#InterPro Family
+Q24768043#Protein Family#InterPro Family
+Q24768069#Protein Family#InterPro Family
+Q24768071#Protein Family#InterPro Family
+Q24768098#Protein Family#InterPro Family
+Q24768120#Protein Family#InterPro Family
+Q24768136#Protein Family#InterPro Family
+Q24768137#Protein Family#InterPro Family
+Q24768147#Protein Family#InterPro Family
+Q24768149#Protein Family#InterPro Family
+Q24768159#Protein Family#InterPro Family
+Q24768252#Protein Family#InterPro Family
+Q24768256#Protein Family#InterPro Family
+Q24768267#Protein Family#InterPro Family
+Q24768273#Protein Family#InterPro Family
+Q24768278#Protein Family#InterPro Family
+Q24768281#Protein Family#InterPro Family
+Q24768326#Protein Family#InterPro Family
+Q24768345#Protein Family#InterPro Family
+Q24768357#Protein Family#InterPro Family
+Q24768365#Protein Family#InterPro Family
+Q24768375#Protein Family#InterPro Family
+Q24768391#Protein Family#InterPro Family
+Q24768409#Protein Family#InterPro Family
+Q24768452#Protein Family#InterPro Family
+Q24768493#Protein Family#InterPro Family
+Q24768499#Protein Family#InterPro Family
+Q24768527#Protein Family#InterPro Family
+Q24768529#Protein Family#InterPro Family
+Q24768548#Protein Family#InterPro Family
+Q24768557#Protein Family#InterPro Family
+Q24768562#Protein Family#InterPro Family
+Q24768577#Protein Family#InterPro Family
+Q24768594#Protein Family#InterPro Family
+Q24768620#Protein Family#InterPro Family
+Q24768630#Protein Family#InterPro Family
+Q24768632#Protein Family#InterPro Family
+Q24768633#Protein Family#InterPro Family
+Q24768634#Protein Family#InterPro Family
+Q24768645#Protein Family#InterPro Family
+Q24768648#Protein Family#InterPro Family
+Q24768654#Protein Family#InterPro Family
+Q24768665#Protein Family#InterPro Family
+Q24768712#Protein Family#InterPro Family
+Q24768733#Protein Family#InterPro Family
+Q24768753#Protein Family#InterPro Family
+Q24768764#Protein Family#InterPro Family
+Q24768765#Protein Family#InterPro Family
+Q24768773#Protein Family#InterPro Family
+Q24768779#Protein Family#InterPro Family
+Q24768860#Protein Family#InterPro Family
+Q24768877#Protein Family#InterPro Family
+Q24768879#Protein Family#InterPro Family
+Q24768903#Protein Family#InterPro Family
+Q24768916#Protein Family#InterPro Family
+Q24768924#Protein Family#InterPro Family
+Q24768960#Protein Family#InterPro Family
+Q24768968#Protein Family#InterPro Family
+Q24768987#Protein Family#InterPro Family
+Q24769016#Protein Family#InterPro Family
+Q24769018#Protein Family#InterPro Family
+Q24769027#Protein Family#InterPro Family
+Q24769037#Protein Family#InterPro Family
+Q24769043#Protein Family#InterPro Family
+Q24769044#Protein Family#InterPro Family
+Q24769053#Protein Family#InterPro Family
+Q24769075#Protein Family#InterPro Family
+Q24769076#Protein Family#InterPro Family
+Q24769083#Protein Family#InterPro Family
+Q24769092#Protein Family#InterPro Family
+Q24769119#Protein Family#InterPro Family
+Q24769125#Protein Family#InterPro Family
+Q24769151#Protein Family#InterPro Family
+Q24769178#Protein Family#InterPro Family
+Q24769180#Protein Family#InterPro Family
+Q24769185#Protein Family#InterPro Family
+Q24769193#Protein Family#InterPro Family
+Q24769208#Protein Family#InterPro Family
+Q24769217#Protein Family#InterPro Family
+Q24769273#Protein Family#InterPro Family
+Q24769275#Protein Family#InterPro Family
+Q24769277#Protein Family#InterPro Family
+Q24769311#Protein Family#InterPro Family
+Q24769313#Protein Family#InterPro Family
+Q24769321#Protein Family#InterPro Family
+Q24769329#Protein Family#InterPro Family
+Q24769333#Protein Family#InterPro Family
+Q24769345#Protein Family#InterPro Family
+Q24769362#Protein Family#InterPro Family
+Q24769418#Protein Family#InterPro Family
+Q24769455#Protein Family#InterPro Family
+Q24769457#Protein Family#InterPro Family
+Q24769465#Protein Family#InterPro Family
+Q24769467#Protein Family#InterPro Family
+Q24769502#Protein Family#InterPro Family
+Q24769516#Protein Family#InterPro Family
+Q24769543#Protein Family#InterPro Family
+Q24769552#Protein Family#InterPro Family
+Q24769555#Protein Family#InterPro Family
+Q24769577#Protein Family#InterPro Family
+Q24769591#Protein Family#InterPro Family
+Q24769635#Protein Family#InterPro Family
+Q24769688#Protein Family#Homodimeric protein enzyme of 86 kilodaltons
+Q24769720#Protein Family#InterPro Family
+Q24769736#Protein Family#InterPro Family
+Q24769739#Protein Family#InterPro Family
+Q24769773#Protein Family#InterPro Family
+Q24769818#Protein Family#InterPro Family
+Q24769853#Protein Family#InterPro Family
+Q24769858#Protein Family#InterPro Family
+Q24769884#Protein Family#InterPro Family
+Q24769902#Protein Family#InterPro Family
+Q24769925#Protein Family#InterPro Family
+Q24769934#Protein Family#InterPro Family
+Q24769949#Protein Family#InterPro Family
+Q24769964#Protein Family#InterPro Family
+Q24769976#Protein Family#InterPro Family
+Q24769986#Protein Family#InterPro Family
+Q24770029#Protein Family#InterPro Family
+Q24770037#Protein Family#InterPro Family
+Q24770055#Protein Family#InterPro Family
+Q24770072#Protein Family#InterPro Family
+Q24770073#Protein Family#InterPro Family
+Q24770083#Protein Family#InterPro Family
+Q24770104#Protein Family#InterPro Family
+Q24770115#Protein Family#InterPro Family
+Q24770136#Protein Family#InterPro Family
+Q24770145#Protein Family#InterPro Family
+Q24770148#Protein Family#InterPro Family
+Q24770170#Protein Family#InterPro Family
+Q24770180#Protein Family#class of transport proteins
+Q24770194#Protein Family#InterPro Family
+Q24770228#Protein Family#InterPro Family
+Q24770245#Protein Family#InterPro Family
+Q24770288#Protein Family#InterPro Family
+Q24770293#Protein Family#InterPro Family
+Q24770295#Protein Family#InterPro Family
+Q24770298#Protein Family#InterPro Family
+Q24770306#Protein Family#InterPro Family
+Q24770308#Protein Family#InterPro Family
+Q24770311#Protein Family#InterPro Family
+Q24770327#Protein Family#InterPro Family
+Q24770333#Protein Family#InterPro Family
+Q24770359#Protein Family#InterPro Family
+Q24770362#Protein Family#InterPro Family
+Q24770374#Protein Family#InterPro Family
+Q24770383#Protein Family#InterPro Family
+Q24770428#Protein Family#InterPro Family
+Q24770484#Protein Family#InterPro Family
+Q24770486#Protein Family#InterPro Family
+Q24770490#Protein Family#InterPro Family
+Q24770492#Protein Family#InterPro Family
+Q24770519#Protein Family#InterPro Family
+Q24770522#Protein Family#InterPro Family
+Q24770567#Protein Family#InterPro Family
+Q24770584#Protein Family#InterPro Family
+Q24770600#Protein Family#InterPro Family
+Q24770606#Protein Family#InterPro Family
+Q24770607#Protein Family#InterPro Family
+Q24770653#Protein Family#InterPro Family
+Q24770663#Protein Family#InterPro Family
+Q24770672#Protein Family#InterPro Family
+Q24770689#Protein Family#protein family
+Q24770692#Protein Family#InterPro Family
+Q24770761#Protein Family#InterPro Family
+Q24770767#Protein Family#InterPro Family
+Q24770774#Protein Family#InterPro Family
+Q24770775#Protein Family#InterPro Family
+Q24770796#Protein Family#InterPro Family
+Q24770851#Protein Family#InterPro Family
+Q24770854#Protein Family#InterPro Family
+Q24770858#Protein Family#InterPro Family
+Q24770877#Protein Family#InterPro Family
+Q24770879#Protein Family#InterPro Family
+Q24770923#Protein Family#InterPro Family
+Q24770925#Protein Family#InterPro Family
+Q24770929#Protein Family#InterPro Family
+Q24770949#Protein Family#InterPro Family
+Q24771037#Protein Family#InterPro Family
+Q24771046#Protein Family#InterPro Family
+Q24771047#Protein Family#InterPro Family
+Q24771078#Protein Family#InterPro Family
+Q24771101#Protein Family#InterPro Family
+Q24771105#Protein Family#InterPro Family
+Q24771133#Protein Family#InterPro Family
+Q24771135#Protein Family#InterPro Family
+Q24771137#Protein Family#InterPro Family
+Q24771139#Protein Family#InterPro Family
+Q24771143#Protein Family#InterPro Family
+Q24771170#Protein Family#InterPro Family
+Q24771181#Protein Family#class of transport proteins
+Q24771200#Protein Family#InterPro Family
+Q24771246#Protein Family#InterPro Family
+Q24771248#Protein Family#InterPro Family
+Q24771342#Protein Family#InterPro Family
+Q24771358#Protein Family#InterPro Family
+Q24771369#Protein Family#InterPro Family
+Q24771375#Protein Family#InterPro Family
+Q24771383#Protein Family#InterPro Family
+Q24771385#Protein Family#InterPro Family
+Q24771388#Protein Family#InterPro Family
+Q24771421#Protein Family#InterPro Family
+Q24771437#Protein Family#InterPro Family
+Q24771442#Protein Family#InterPro Family
+Q24771445#Protein Family#InterPro Family
+Q24771505#Protein Family#InterPro Family
+Q24771513#Protein Family#protein family
+Q24771526#Protein Family#InterPro Family
+Q24771538#Protein Family#InterPro Family
+Q24771545#Protein Family#InterPro Family
+Q24771560#Protein Family#InterPro Family
+Q24771586#Protein Family#InterPro Family
+Q24771610#Protein Family#InterPro Family
+Q24771611#Protein Family#InterPro Family
+Q24771635#Protein Family#InterPro Family
+Q24771648#Protein Family#InterPro Family
+Q24771657#Protein Family#InterPro Family
+Q24771694#Protein Family#InterPro Family
+Q24771705#Protein Family#InterPro Family
+Q24771762#Protein Family#InterPro Family
+Q24771764#Protein Family#InterPro Family
+Q24771795#Protein Family#InterPro Family
+Q24771831#Protein Family#InterPro Family
+Q24771838#Protein Family#InterPro Family
+Q24771847#Protein Family#InterPro Family
+Q24771863#Protein Family#InterPro Family
+Q24771880#Protein Family#InterPro Family
+Q24771909#Protein Family#InterPro Family
+Q24771952#Protein Family#protein family
+Q24771988#Protein Family#InterPro Family
+Q24771992#Protein Family#InterPro Family
+Q24772005#Protein Family#InterPro Family
+Q24772014#Protein Family#InterPro Family
+Q24772068#Protein Family#InterPro Family
+Q24772102#Protein Family#InterPro Family
+Q24772115#Protein Family#InterPro Family
+Q24772122#Protein Family#InterPro Family
+Q24772137#Protein Family#InterPro Family
+Q24772193#Protein Family#InterPro Family
+Q24772196#Protein Family#InterPro Family
+Q24772220#Protein Family#InterPro Family
+Q24772224#Protein Family#InterPro Family
+Q24772236#Protein Family#InterPro Family
+Q24772241#Protein Family#InterPro Family
+Q24772271#Protein Family#InterPro family
+Q24772287#Protein Family#InterPro Family
+Q24772292#Protein Family#InterPro Family
+Q24772331#Protein Family#InterPro Family
+Q24772363#Protein Family#InterPro Family
+Q24772365#Protein Family#InterPro Family
+Q24772367#Protein Family#InterPro Family
+Q24772393#Protein Family#InterPro Family
+Q24772398#Protein Family#InterPro Family
+Q24772399#Protein Family#InterPro Family
+Q24772414#Protein Family#InterPro Family
+Q24772424#Protein Family#InterPro Family
+Q24772428#Protein Family#InterPro Family
+Q24772429#Protein Family#InterPro Family
+Q24772437#Protein Family#InterPro Family
+Q24772450#Protein Family#InterPro Family
+Q24772491#Protein Family#InterPro Family
+Q24772509#Protein Family#InterPro Family
+Q24772515#Protein Family#InterPro Family
+Q24772538#Protein Family#InterPro Family
+Q24772545#Protein Family#InterPro Family
+Q24772598#Protein Family#InterPro Family
+Q24772600#Protein Family#InterPro Family
+Q24772618#Protein Family#InterPro Family
+Q24772638#Protein Family#InterPro Family
+Q24772639#Protein Family#InterPro Family
+Q24772652#Protein Family#InterPro Family
+Q24772659#Protein Family#InterPro Family
+Q24772664#Protein Family#InterPro Family
+Q24772666#Protein Family#InterPro Family
+Q24772685#Protein Family#InterPro Family
+Q24772724#Protein Family#InterPro Family
+Q24772807#Protein Family#InterPro Family
+Q24772810#Protein Family#InterPro Family
+Q24772815#Protein Family#InterPro Family
+Q24772826#Protein Family#InterPro Family
+Q24772834#Protein Family#InterPro Family
+Q24772843#Protein Family#InterPro Family
+Q24772864#Protein Family#InterPro Family
+Q24772882#Protein Family#InterPro Family
+Q24772915#Protein Family#InterPro Family
+Q24772919#Protein Family#InterPro Family
+Q24772922#Protein Family#protein family
+Q24772931#Protein Family#InterPro Family
+Q24772954#Protein Family#InterPro Family
+Q24772960#Protein Family#InterPro Family
+Q24772963#Protein Family#InterPro Family
+Q24772968#Protein Family#InterPro Family
+Q24772980#Protein Family#InterPro Family
+Q24772992#Protein Family#InterPro Family
+Q24773002#Protein Family#InterPro Family
+Q24773018#Protein Family#InterPro Family
+Q24773020#Protein Family#InterPro Family
+Q24773047#Protein Family#InterPro Family
+Q24773066#Protein Family#InterPro Family
+Q24773080#Protein Family#InterPro Family
+Q24773090#Protein Family#InterPro Family
+Q24773093#Protein Family#InterPro Family
+Q24773099#Protein Family#InterPro Family
+Q24773109#Protein Family#InterPro Family
+Q24773119#Protein Family#InterPro Family
+Q24773120#Protein Family#InterPro Family
+Q24773137#Protein Family#InterPro Family
+Q24773146#Protein Family#InterPro Family
+Q24773149#Protein Family#InterPro Family
+Q24773160#Protein Family#InterPro Family
+Q24773171#Protein Family#InterPro Family
+Q24773180#Protein Family#InterPro Family
+Q24773185#Protein Family#InterPro Family
+Q24773220#Protein Family#InterPro Family
+Q24773229#Protein Family#InterPro Family
+Q24773234#Protein Family#InterPro Family
+Q24773244#Protein Family#InterPro Family
+Q24773249#Protein Family#InterPro Family
+Q24773250#Protein Family#InterPro Family
+Q24773255#Protein Family#InterPro Family
+Q24773263#Protein Family#InterPro Family
+Q24773300#Protein Family#InterPro Family
+Q24773321#Protein Family#InterPro Family
+Q24773331#Protein Family#InterPro Family
+Q24773364#Protein Family#InterPro Family
+Q24773373#Protein Family#InterPro Family
+Q24773384#Protein Family#InterPro Family
+Q24773393#Protein Family#InterPro Family
+Q24773484#Protein Family#InterPro Family
+Q24773529#Protein Family#InterPro Family
+Q24773533#Protein Family#InterPro Family
+Q24773543#Protein Family#InterPro Family
+Q24773563#Protein Family#InterPro Family
+Q24773577#Protein Family#InterPro Family
+Q24773590#Protein Family#InterPro Family
+Q24773608#Protein Family#InterPro Family
+Q24773622#Protein Family#InterPro Family
+Q24773624#Protein Family#InterPro Family
+Q24773633#Protein Family#InterPro Family
+Q24773647#Protein Family#InterPro Family
+Q24773652#Protein Family#InterPro Family
+Q24773653#Protein Family#InterPro Family
+Q24773690#Protein Family#InterPro Family
+Q24773697#Protein Family#InterPro Family
+Q24773698#Protein Family#InterPro Family
+Q24773732#Protein Family#InterPro Family
+Q24773734#Protein Family#InterPro Family
+Q24773735#Protein Family#InterPro Family
+Q24773745#Protein Family#InterPro Family
+Q24773751#Protein Family#InterPro Family
+Q24773754#Protein Family#InterPro Family
+Q24773762#Protein Family#InterPro Family
+Q24773783#Protein Family#InterPro Family
+Q24773790#Protein Family#InterPro Family
+Q24773808#Protein Family#InterPro Family
+Q24773815#Protein Family#InterPro Family
+Q24773837#Protein Family#InterPro Family
+Q24773839#Protein Family#InterPro Family
+Q24773840#Protein Family#InterPro Family
+Q24773843#Protein Family#InterPro Family
+Q24773845#Protein Family#InterPro Family
+Q24773852#Protein Family#InterPro Family
+Q24773857#Protein Family#InterPro Family
+Q24773860#Protein Family#InterPro Family
+Q24773875#Protein Family#InterPro Family
+Q24773904#Protein Family#InterPro Family
+Q24773910#Protein Family#InterPro Family
+Q24773938#Protein Family#InterPro Family
+Q24773958#Protein Family#InterPro Family
+Q24773959#Protein Family#InterPro Family
+Q24773969#Protein Family#InterPro Family
+Q24773970#Protein Family#InterPro Family
+Q24773972#Protein Family#InterPro Family
+Q24773991#Protein Family#InterPro Family
+Q24774007#Protein Family#InterPro Family
+Q24774053#Protein Family#InterPro Family
+Q24774064#Protein Family#InterPro Family
+Q24774077#Protein Family#InterPro Family
+Q24774079#Protein Family#InterPro Family
+Q24774089#Protein Family#InterPro Family
+Q24774090#Protein Family#InterPro Family
+Q24774093#Protein Family#InterPro Family
+Q24774096#Protein Family#InterPro Family
+Q24774100#Protein Family#InterPro Family
+Q24774127#Protein Family#InterPro Family
+Q24774129#Protein Family#InterPro Family
+Q24774159#Protein Family#InterPro Family
+Q24774175#Protein Family#InterPro Family
+Q24774191#Protein Family#InterPro Family
+Q24774209#Protein Family#InterPro Family
+Q24774214#Protein Family#InterPro Family
+Q24774244#Protein Family#InterPro Family
+Q24774254#Protein Family#InterPro Family
+Q24774255#Protein Family#InterPro Family
+Q24774282#Protein Family#InterPro family
+Q24774325#Protein Family#InterPro Family
+Q24774338#Protein Family#InterPro Family
+Q24774339#Protein Family#InterPro Family
+Q24774352#Protein Family#InterPro Family
+Q24774381#Protein Family#InterPro Family
+Q24774395#Protein Family#InterPro Family
+Q24774398#Protein Family#InterPro Family
+Q24774401#Protein Family#InterPro Family
+Q24774425#Protein Family#InterPro Family
+Q24774437#Protein Family#InterPro Family
+Q24774447#Protein Family#InterPro Family
+Q24774461#Protein Family#InterPro Family
+Q24774469#Protein Family#InterPro Family
+Q24774495#Protein Family#InterPro Family
+Q24774506#Protein Family#InterPro Family
+Q24774518#Protein Family#InterPro Family
+Q24774547#Protein Family#InterPro Family
+Q24774566#Protein Family#InterPro Family
+Q24774595#Protein Family#InterPro Family
+Q24774601#Protein Family#InterPro Family
+Q24774617#Protein Family#InterPro Family
+Q24774647#Protein Family#InterPro Family
+Q24774659#Protein Family#InterPro Family
+Q24774670#Protein Family#InterPro Family
+Q24774699#Protein Family#InterPro Family
+Q24774711#Protein Family#InterPro Family
+Q24774753#Protein Family#InterPro Family
+Q24774780#Protein Family#InterPro Family
+Q24774823#Protein Family#InterPro Family
+Q24774835#Protein Family#InterPro Family
+Q24774852#Protein Family#InterPro Family
+Q24774862#Protein Family#InterPro Family
+Q24774885#Protein Family#InterPro Family
+Q24774886#Protein Family#InterPro Family
+Q24774892#Protein Family#InterPro Family
+Q24774896#Protein Family#InterPro Family
+Q24774899#Protein Family#InterPro Family
+Q24774905#Protein Family#InterPro Family
+Q24774939#Protein Family#InterPro Family
+Q24774968#Protein Family#InterPro Family
+Q24774985#Protein Family#InterPro Family
+Q24774996#Protein Family#InterPro Family
+Q24775008#Protein Family#InterPro Family
+Q24775032#Protein Family#InterPro Family
+Q24775041#Protein Family#InterPro Family
+Q24775047#Protein Family#InterPro Family
+Q24775049#Protein Family#InterPro Family
+Q24775089#Protein Family#InterPro Family
+Q24775109#Protein Family#InterPro Family
+Q24775160#Protein Family#InterPro Family
+Q24775161#Protein Family#InterPro Family
+Q24775166#Protein Family#InterPro Family
+Q24775182#Protein Family#InterPro Family
+Q24775186#Protein Family#InterPro Family
+Q24775212#Protein Family#InterPro Family
+Q24775226#Protein Family#InterPro Family
+Q24775227#Protein Family#InterPro Family
+Q24775229#Protein Family#InterPro Family
+Q24775237#Protein Family#InterPro Family
+Q24775261#Protein Family#InterPro Family
+Q24775270#Protein Family#InterPro Family
+Q24775271#Protein Family#InterPro Family
+Q24775278#Protein Family#InterPro Family
+Q24775287#Protein Family#InterPro Family
+Q24775306#Protein Family#InterPro Family
+Q24775308#Protein Family#InterPro Family
+Q24775309#Protein Family#InterPro Family
+Q24775336#Protein Family#InterPro Family
+Q24775353#Protein Family#InterPro Family
+Q24775355#Protein Family#InterPro Family
+Q24775367#Protein Family#InterPro Family
+Q24775388#Protein Family#InterPro Family
+Q24775400#Protein Family#InterPro Family
+Q24775402#Protein Family#InterPro Family
+Q24775415#Protein Family#InterPro Family
+Q24775435#Protein Family#protein family
+Q24775457#Protein Family#InterPro Family
+Q24775472#Protein Family#InterPro Family
+Q24775516#Protein Family#InterPro Family
+Q24775531#Protein Family#InterPro Family
+Q24775551#Protein Family#InterPro Family
+Q24775555#Protein Family#InterPro Family
+Q24775558#Protein Family#InterPro Family
+Q24775575#Protein Family#InterPro Family
+Q24775587#Protein Family#InterPro Family
+Q24775609#Protein Family#InterPro Family
+Q24775612#Protein Family#InterPro Family
+Q24775617#Protein Family#InterPro Family
+Q24775624#Protein Family#InterPro Family
+Q24775629#Protein Family#InterPro Family
+Q24775634#Protein Family#InterPro Family
+Q24775635#Protein Family#InterPro Family
+Q24775650#Protein Family#InterPro Family
+Q24775659#Protein Family#InterPro Family
+Q24775668#Protein Family#InterPro Family
+Q24775680#Protein Family#InterPro Family
+Q24775708#Protein Family#InterPro Family
+Q24775782#Protein Family#InterPro Family
+Q24775786#Protein Family#InterPro Family
+Q24775801#Protein Family#InterPro Family
+Q24775803#Protein Family#InterPro Family
+Q24775824#Protein Family#InterPro Family
+Q24775848#Protein Family#InterPro Family
+Q24775853#Protein Family#InterPro Family
+Q24775871#Protein Family#InterPro Family
+Q24775873#Protein Family#InterPro Family
+Q24775882#Protein Family#InterPro Family
+Q24775900#Protein Family#InterPro Family
+Q24775914#Protein Family#InterPro Family
+Q24775964#Protein Family#InterPro Family
+Q24775980#Protein Family#InterPro Family
+Q24775981#Protein Family#InterPro Family
+Q24775990#Protein Family#InterPro Family
+Q24776002#Protein Family#InterPro Family
+Q24776005#Protein Family#InterPro Family
+Q24776018#Protein Family#InterPro Family
+Q24776021#Protein Family#InterPro Family
+Q24776023#Protein Family#InterPro Family
+Q24776031#Protein Family#InterPro Family
+Q24776048#Protein Family#InterPro Domain
+Q24776050#Protein Family#InterPro Family
+Q24776101#Protein Family#InterPro Family
+Q24776110#Protein Family#InterPro Family
+Q24776113#Protein Family#InterPro Family
+Q24776120#Protein Family#InterPro Family
+Q24776134#Protein Family#InterPro Family
+Q24776159#Protein Family#InterPro Family
+Q24776182#Protein Family#InterPro Family
+Q24776200#Protein Family#InterPro Family
+Q24776213#Protein Family#InterPro Family
+Q24776214#Protein Family#InterPro Family
+Q24776218#Protein Family#InterPro Family
+Q24776232#Protein Family#InterPro Family
+Q24776245#Protein Family#InterPro Family
+Q24776252#Protein Family#InterPro Family
+Q24776268#Protein Family#InterPro Family
+Q24776276#Protein Family#InterPro Family
+Q24776283#Protein Family#InterPro Family
+Q24776292#Protein Family#InterPro Family
+Q24776303#Protein Family#InterPro Family
+Q24776314#Protein Family#InterPro Family
+Q24776323#Protein Family#InterPro Family
+Q24776324#Protein Family#InterPro Family
+Q24776357#Protein Family#InterPro Family
+Q24776367#Protein Family#InterPro Family
+Q24776371#Protein Family#InterPro Family
+Q24776377#Protein Family#InterPro Family
+Q24776386#Protein Family#InterPro Family
+Q24776437#Protein Family#InterPro Family
+Q24776440#Protein Family#InterPro Family
+Q24776445#Protein Family#InterPro Family
+Q24776448#Protein Family#InterPro Family
+Q24776468#Protein Family#InterPro Family
+Q24776492#Protein Family#InterPro Family
+Q24776495#Protein Family#InterPro Family
+Q24776504#Protein Family#InterPro Family
+Q24776540#Protein Family#InterPro Family
+Q24776549#Protein Family#InterPro Family
+Q24776570#Protein Family#InterPro Family
+Q24776595#Protein Family#InterPro Family
+Q24776662#Protein Family#InterPro Family
+Q24776668#Protein Family#InterPro Family
+Q24776692#Protein Family#InterPro Family
+Q24776693#Protein Family#InterPro Family
+Q24776701#Protein Family#InterPro Family
+Q24776706#Protein Family#InterPro Family
+Q24776731#Protein Family#InterPro Family
+Q24776750#Protein Family#InterPro Family
+Q24776784#Protein Family#InterPro Family
+Q24776794#Protein Family#InterPro Family
+Q24776810#Protein Family#InterPro Family
+Q24776813#Protein Family#InterPro Family
+Q24776863#Protein Family#InterPro Family
+Q24776867#Protein Family#InterPro Family
+Q24776868#Protein Family#InterPro Family
+Q24776896#Protein Family#InterPro Family
+Q24776918#Protein Family#InterPro Family
+Q24776925#Protein Family#InterPro Family
+Q24776928#Protein Family#InterPro Family
+Q24776929#Protein Family#InterPro Family
+Q24776946#Protein Family#InterPro Family
+Q24776955#Protein Family#InterPro Family
+Q24776970#Protein Family#InterPro Family
+Q24777020#Protein Family#InterPro Family
+Q24777021#Protein Family#InterPro Family
+Q24777031#Protein Family#InterPro Family
+Q24777042#Protein Family#InterPro Family
+Q24777067#Protein Family#InterPro Family
+Q24777070#Protein Family#InterPro Family
+Q24777094#Protein Family#InterPro Family
+Q24777100#Protein Family#InterPro Family
+Q24777106#Protein Family#InterPro Family
+Q24777123#Protein Family#InterPro Family
+Q24777134#Protein Family#InterPro Family
+Q24777151#Protein Family#InterPro Family
+Q24777170#Protein Family#InterPro Family
+Q24777174#Protein Family#InterPro Family
+Q24777223#Protein Family#InterPro Family
+Q24777234#Protein Family#InterPro Family
+Q24777236#Protein Family#InterPro Family
+Q24777249#Protein Family#InterPro Family
+Q24777250#Protein Family#InterPro Family
+Q24777259#Protein Family#InterPro Family
+Q24777264#Protein Family#InterPro Family
+Q24777280#Protein Family#InterPro Family
+Q24777283#Protein Family#InterPro Family
+Q24777291#Protein Family#InterPro Family
+Q24777314#Protein Family#InterPro Family
+Q24777335#Protein Family#InterPro Family
+Q24777341#Protein Family#InterPro Family
+Q24777356#Protein Family#InterPro Family
+Q24777383#Protein Family#InterPro Family
+Q24777388#Protein Family#InterPro Family
+Q24777404#Protein Family#InterPro Family
+Q24777407#Protein Family#InterPro Family
+Q24777412#Protein Family#InterPro Family
+Q24777446#Protein Family#InterPro Family
+Q24777452#Protein Family#InterPro Family
+Q24777464#Protein Family#InterPro Family
+Q24777466#Protein Family#InterPro Family
+Q24777487#Protein Family#InterPro Family
+Q24777491#Protein Family#InterPro Family
+Q24777501#Protein Family#InterPro Family
+Q24777518#Protein Family#InterPro Family
+Q24777519#Protein Family#InterPro Family
+Q24777538#Protein Family#InterPro Family
+Q24777567#Protein Family#InterPro Family
+Q24777592#Protein Family#InterPro Family
+Q24777593#Protein Family#InterPro Family
+Q24777641#Protein Family#InterPro Family
+Q24777643#Protein Family#InterPro Family
+Q24777705#Protein Family#InterPro Family
+Q24777725#Protein Family#InterPro Family
+Q24777729#Protein Family#InterPro Family
+Q24777739#Protein Family#InterPro Family
+Q24777760#Protein Family#InterPro Family
+Q24777762#Protein Family#InterPro Family
+Q24777786#Protein Family#InterPro Family
+Q24777790#Protein Family#InterPro Family
+Q24777804#Protein Family#InterPro Family
+Q24777841#Protein Family#InterPro Family
+Q24777842#Protein Family#InterPro Family
+Q24777846#Protein Family#InterPro Family
+Q24777847#Protein Family#InterPro Family
+Q24777851#Protein Family#InterPro Family
+Q24777860#Protein Family#InterPro Family
+Q24777870#Protein Family#InterPro Family
+Q24777871#Protein Family#InterPro Family
+Q24777876#Protein Family#InterPro Family
+Q24777884#Protein Family#InterPro Family
+Q24777890#Protein Family#InterPro Family
+Q24777900#Protein Family#InterPro Family
+Q24777901#Protein Family#InterPro Family
+Q24777904#Protein Family#InterPro Family
+Q24777913#Protein Family#InterPro Family
+Q24777933#Protein Family#InterPro Domain
+Q24777939#Protein Family#InterPro Family
+Q24777941#Protein Family#InterPro Family
+Q24777957#Protein Family#InterPro Family
+Q24777960#Protein Family#InterPro Family
+Q24777972#Protein Family#InterPro Family
+Q24777980#Protein Family#InterPro Family
+Q24777982#Protein Family#InterPro Family
+Q24778023#Protein Family#InterPro Family
+Q24778037#Protein Family#InterPro Family
+Q24778056#Protein Family#InterPro Family
+Q24778076#Protein Family#InterPro Family
+Q24778087#Protein Family#InterPro Family
+Q24778102#Protein Family#InterPro Family
+Q24778105#Protein Family#InterPro Family
+Q24778115#Protein Family#InterPro Family
+Q24778156#Protein Family#InterPro Family
+Q24778162#Protein Family#InterPro Family
+Q24778180#Protein Family#InterPro Family
+Q24778193#Protein Family#InterPro Family
+Q24778218#Protein Family#InterPro Family
+Q24778262#Protein Family#InterPro Family
+Q24778266#Protein Family#InterPro Family
+Q24778284#Protein Family#InterPro Family
+Q24778321#Protein Family#InterPro Family
+Q24778338#Protein Family#InterPro Family
+Q24778385#Protein Family#InterPro Family
+Q24778386#Protein Family#InterPro Family
+Q24778393#Protein Family#InterPro Family
+Q24778396#Protein Family#InterPro Family
+Q24778404#Protein Family#InterPro Family
+Q24778413#Protein Family#InterPro Family
+Q24778420#Protein Family#InterPro Family
+Q24778426#Protein Family#InterPro Family
+Q24778448#Protein Family#InterPro Family
+Q24778460#Protein Family#InterPro Family
+Q24778563#Protein Family#InterPro Family
+Q24778566#Protein Family#InterPro Family
+Q24778569#Protein Family#InterPro Family
+Q24778621#Protein Family#InterPro Family
+Q24778636#Protein Family#InterPro Family
+Q24778680#Protein Family#InterPro Family
+Q24778689#Protein Family#InterPro Family
+Q24778703#Protein Family#InterPro Family
+Q24778724#Protein Family#InterPro Family
+Q24778730#Protein Family#InterPro Family
+Q24778770#Protein Family#InterPro Family
+Q24778775#Protein Family#InterPro Family
+Q24778799#Protein Family#InterPro Family
+Q24778827#Protein Family#InterPro Family
+Q24778828#Protein Family#InterPro Family
+Q24778835#Protein Family#InterPro Family
+Q24778842#Protein Family#InterPro Family
+Q24778859#Protein Family#InterPro Family
+Q24778883#Protein Family#InterPro Family
+Q24778885#Protein Family#InterPro Family
+Q24778890#Protein Family#InterPro Family
+Q24778964#Protein Family#InterPro Family
+Q24779007#Protein Family#InterPro Family
+Q24779022#Protein Family#InterPro Family
+Q24779033#Protein Family#InterPro Family
+Q24779047#Protein Family#InterPro Family
+Q24779056#Protein Family#InterPro Family
+Q24779100#Protein Family#InterPro Family
+Q24779117#Protein Family#InterPro Family
+Q24779165#Protein Family#InterPro Family
+Q24779177#Protein Family#InterPro Family
+Q24779205#Protein Family#InterPro Family
+Q24779206#Protein Family#InterPro Family
+Q24779223#Protein Family#InterPro Family
+Q24779243#Protein Family#InterPro Family
+Q24779246#Protein Family#InterPro Family
+Q24779264#Protein Family#InterPro Family
+Q24779282#Protein Family#InterPro Family
+Q24779295#Protein Family#InterPro Family
+Q24779320#Protein Family#InterPro Family
+Q24779328#Protein Family#InterPro Family
+Q24779433#Protein Family#InterPro Family
+Q24779437#Protein Family#InterPro Family
+Q24779440#Protein Family#InterPro Family
+Q24779460#Protein Family#InterPro Family
+Q24779478#Protein Family#InterPro Family
+Q24779501#Protein Family#InterPro Family
+Q24779524#Protein Family#InterPro Family
+Q24779525#Protein Family#InterPro Family
+Q24779526#Protein Family#InterPro Family
+Q24779567#Protein Family#InterPro Family
+Q24779600#Protein Family#InterPro Family
+Q24779601#Protein Family#InterPro Family
+Q24779616#Protein Family#InterPro Family
+Q24779617#Protein Family#InterPro Family
+Q24779624#Protein Family#InterPro Family
+Q24779627#Protein Family#InterPro Family
+Q24779658#Protein Family#InterPro Family
+Q24779680#Protein Family#InterPro Family
+Q24779691#Protein Family#InterPro Family
+Q24779703#Protein Family#InterPro Family
+Q24779721#Protein Family#InterPro Family
+Q24779738#Protein Family#InterPro Family
+Q24779740#Protein Family#InterPro Family
+Q24779745#Protein Family#InterPro Family
+Q24779764#Protein Family#InterPro Family
+Q24779765#Protein Family#InterPro Family
+Q24779783#Protein Family#InterPro Family
+Q24779797#Protein Family#InterPro Family
+Q24779819#Protein Family#InterPro Family
+Q24779835#Protein Family#InterPro Family
+Q24779849#Protein Family#InterPro Family
+Q24779859#Protein Family#InterPro Family
+Q24779865#Protein Family#InterPro Family
+Q24779885#Protein Family#InterPro Family
+Q24779890#Protein Family#InterPro Family
+Q24779891#Protein Family#InterPro Family
+Q24779905#Protein Family#InterPro Family
+Q24779906#Protein Family#InterPro Family
+Q24779933#Protein Family#InterPro Domain
+Q24779962#Protein Family#InterPro Family
+Q24780023#Protein Family#InterPro Family
+Q24780025#Protein Family#InterPro Family
+Q24780044#Protein Family#InterPro Family
+Q24780061#Protein Family#InterPro Family
+Q24780063#Protein Family#InterPro Family
+Q24780069#Protein Family#InterPro Family
+Q24780084#Protein Family#InterPro Family
+Q24780086#Protein Family#InterPro Family
+Q24780111#Protein Family#InterPro Family
+Q24780120#Protein Family#InterPro Family
+Q24780134#Protein Family#InterPro Family
+Q24780159#Protein Family#InterPro Family
+Q24780173#Protein Family#InterPro Family
+Q24780179#Protein Family#InterPro Family
+Q24780185#Protein Family#InterPro Family
+Q24780211#Protein Family#InterPro Family
+Q24780220#Protein Family#InterPro Family
+Q24780236#Protein Family#InterPro Family
+Q24780237#Protein Family#InterPro Family
+Q24780242#Protein Family#InterPro Family
+Q24780256#Protein Family#InterPro Family
+Q24780264#Protein Family#InterPro Family
+Q24780269#Protein Family#InterPro Family
+Q24780280#Protein Family#InterPro Family
+Q24780304#Protein Family#InterPro Family
+Q24780321#Protein Family#InterPro Family
+Q24780342#Protein Family#InterPro Family
+Q24780351#Protein Family#InterPro Family
+Q24780356#Protein Family#InterPro Family
+Q24780359#Protein Family#InterPro Family
+Q24780364#Protein Family#InterPro Family
+Q24780376#Protein Family#InterPro Family
+Q24780406#Protein Family#InterPro Family
+Q24780409#Protein Family#InterPro Family
+Q24780414#Protein Family#InterPro Family
+Q24780438#Protein Family#InterPro Family
+Q24780467#Protein Family#InterPro Family
+Q24780476#Protein Family#InterPro Family
+Q24780491#Protein Family#InterPro Family
+Q24780518#Protein Family#InterPro Family
+Q24780520#Protein Family#InterPro Family
+Q24780526#Protein Family#InterPro Family
+Q24780536#Protein Family#InterPro Family
+Q24780556#Protein Family#InterPro Family
+Q24780585#Protein Family#InterPro Family
+Q24780588#Protein Family#InterPro Family
+Q24780596#Protein Family#InterPro Family
+Q24780602#Protein Family#InterPro Family
+Q24780604#Protein Family#InterPro Family
+Q24780605#Protein Family#InterPro Family
+Q24780671#Protein Family#InterPro Family
+Q24780697#Protein Family#InterPro Family
+Q24780742#Protein Family#InterPro Family
+Q24780752#Protein Family#InterPro Family
+Q24780770#Protein Family#InterPro Family
+Q24780775#Protein Family#InterPro Family
+Q24780790#Protein Family#InterPro Family
+Q24780795#Protein Family#InterPro Family
+Q24780803#Protein Family#InterPro Family
+Q24780804#Protein Family#InterPro Family
+Q24780808#Protein Family#InterPro Family
+Q24780830#Protein Family#InterPro Family
+Q24780839#Protein Family#InterPro Family
+Q24780855#Protein Family#InterPro Family
+Q24780857#Protein Family#InterPro Family
+Q24780894#Protein Family#InterPro Family
+Q24780925#Protein Family#InterPro Family
+Q24780935#Protein Family#InterPro Family
+Q24780973#Protein Family#InterPro Family
+Q24780974#Protein Family#InterPro Family
+Q24780987#Protein Family#InterPro Family
+Q24780994#Protein Family#InterPro Family
+Q24780995#Protein Family#InterPro Family
+Q24781006#Protein Family#InterPro Family
+Q24781026#Protein Family#InterPro Family
+Q24781031#Protein Family#InterPro Family
+Q24781036#Protein Family#InterPro Family
+Q24781041#Protein Family#InterPro Family
+Q24781047#Protein Family#InterPro Family
+Q24781057#Protein Family#InterPro Family
+Q24781093#Protein Family#InterPro Family
+Q24781119#Protein Family#InterPro Family
+Q24781134#Protein Family#InterPro Family
+Q24781140#Protein Family#InterPro Family
+Q24781143#Protein Family#InterPro Family
+Q24781152#Protein Family#InterPro Family
+Q24781170#Protein Family#InterPro Family
+Q24781190#Protein Family#InterPro Family
+Q24781209#Protein Family#InterPro Family
+Q24781217#Protein Family#InterPro Family
+Q24781263#Protein Family#InterPro Family
+Q24781266#Protein Family#InterPro Family
+Q24781270#Protein Family#InterPro Family
+Q24781275#Protein Family#InterPro Family
+Q24781276#Protein Family#InterPro Family
+Q24781278#Protein Family#InterPro Family
+Q24781285#Protein Family#InterPro Family
+Q24781312#Protein Family#InterPro Family
+Q24781343#Protein Family#InterPro Family
+Q24781345#Protein Family#InterPro Family
+Q24781372#Protein Family#InterPro Family
+Q24781396#Protein Family#InterPro Family
+Q24781437#Protein Family#InterPro Family
+Q24781441#Protein Family#InterPro Family
+Q24781450#Protein Family#InterPro Family
+Q24781533#Protein Family#InterPro Family
+Q24781550#Protein Family#InterPro Family
+Q24781581#Protein Family#InterPro Family
+Q24781583#Protein Family#InterPro Family
+Q24781598#Protein Family#InterPro Family
+Q24781605#Protein Family#InterPro Family
+Q24781628#Protein Family#InterPro Family
+Q24781631#Protein Family#InterPro Family
+Q24781688#Protein Family#InterPro Family
+Q24781704#Protein Family#InterPro Family
+Q24781725#Protein Family#InterPro Family
+Q24781792#Protein Family#InterPro Family
+Q24781806#Protein Family#InterPro Family
+Q24781819#Protein Family#InterPro Family
+Q24781872#Protein Family#InterPro Family
+Q24781879#Protein Family#InterPro Family
+Q24781904#Protein Family#InterPro Family
+Q24781939#Protein Family#InterPro Family
+Q24781951#Protein Family#InterPro Family
+Q24781964#Protein Family#InterPro Family
+Q24781966#Protein Family#InterPro Family
+Q24781987#Protein Family#InterPro Family
+Q24781996#Protein Family#InterPro Family
+Q24782000#Protein Family#InterPro Family
+Q24782018#Protein Family#InterPro Family
+Q24782026#Protein Family#InterPro Family
+Q24782034#Protein Family#InterPro Family
+Q24782035#Protein Family#InterPro Family
+Q24782045#Protein Family#InterPro Family
+Q24782055#Protein Family#InterPro Family
+Q24782085#Protein Family#InterPro Family
+Q24782105#Protein Family#InterPro Family
+Q24782131#Protein Family#InterPro Family
+Q24782156#Protein Family#InterPro Family
+Q24782158#Protein Family#InterPro Family
+Q24782163#Protein Family#InterPro Family
+Q24782166#Protein Family#InterPro Family
+Q24782174#Protein Family#InterPro Family
+Q24782188#Protein Family#InterPro Family
+Q24782207#Protein Family#InterPro Family
+Q24782208#Protein Family#InterPro Family
+Q24782219#Protein Family#InterPro Family
+Q24782262#Protein Family#InterPro Family
+Q24782267#Protein Family#InterPro Family
+Q24782276#Protein Family#InterPro Family
+Q24782306#Protein Family#InterPro Family
+Q24782308#Protein Family#InterPro Family
+Q24782316#Protein Family#InterPro Family
+Q24782323#Protein Family#InterPro Family
+Q24782346#Protein Family#InterPro Family
+Q24782353#Protein Family#InterPro Family
+Q24782365#Protein Family#InterPro Family
+Q24782366#Protein Family#InterPro Family
+Q24782398#Protein Family#InterPro Family
+Q24782399#Protein Family#InterPro Family
+Q24782419#Protein Family#InterPro Family
+Q24782426#Protein Family#InterPro Family
+Q24782433#Protein Family#InterPro Family
+Q24782458#Protein Family#InterPro Family
+Q24782459#Protein Family#InterPro Family
+Q24782461#Protein Family#InterPro Family
+Q24782471#Protein Family#InterPro Family
+Q24782486#Protein Family#InterPro Family
+Q24782490#Protein Family#InterPro Family
+Q24782496#Protein Family#InterPro Family
+Q24782519#Protein Family#InterPro Family
+Q24782530#Protein Family#InterPro Family
+Q24782567#Protein Family#InterPro Family
+Q24782572#Protein Family#InterPro Family
+Q24782591#Protein Family#InterPro Family
+Q24782593#Protein Family#InterPro Family
+Q24782610#Protein Family#InterPro Family
+Q24782619#Protein Family#InterPro Family
+Q24782629#Protein Family#InterPro Family
+Q24782631#Protein Family#InterPro Family
+Q24782687#Protein Family#InterPro Family
+Q24782688#Protein Family#InterPro Family
+Q24782702#Protein Family#InterPro Family
+Q24782707#Protein Family#InterPro Family
+Q24782722#Protein Family#InterPro Family
+Q24782735#Protein Family#InterPro Family
+Q24782754#Protein Family#InterPro Family
+Q24782759#Protein Family#InterPro Family
+Q24782762#Protein Family#InterPro Family
+Q24782773#Protein Family#InterPro Family
+Q24782776#Protein Family#InterPro Family
+Q24782800#Protein Family#InterPro Family
+Q24782804#Protein Family#InterPro Family
+Q24782808#Protein Family#InterPro Family
+Q24782821#Protein Family#InterPro Family
+Q24782836#Protein Family#InterPro Family
+Q24782849#Protein Family#InterPro Family
+Q24782853#Protein Family#InterPro Family
+Q24782862#Protein Family#class of pore-forming antimicrobial peptides
+Q24782865#Protein Family#InterPro Family
+Q24782867#Protein Family#InterPro Family
+Q24782884#Protein Family#InterPro Family
+Q24782908#Protein Family#InterPro Family
+Q24782914#Protein Family#InterPro Family
+Q24782931#Protein Family#InterPro Family
+Q24782967#Protein Family#InterPro Family
+Q24782989#Protein Family#InterPro Family
+Q24782998#Protein Family#InterPro Family
+Q24783023#Protein Family#InterPro Family
+Q24783038#Protein Family#InterPro Family
+Q24783043#Protein Family#InterPro Family
+Q24783059#Protein Family#InterPro Family
+Q24783076#Protein Family#InterPro Family
+Q24783082#Protein Family#InterPro Family
+Q24783092#Protein Family#InterPro Family
+Q24783118#Protein Family#InterPro Family
+Q24783149#Protein Family#InterPro Family
+Q24783167#Protein Family#InterPro Family
+Q24783170#Protein Family#InterPro Family
+Q24783172#Protein Family#InterPro Family
+Q24783184#Protein Family#InterPro Family
+Q24783241#Protein Family#InterPro Family
+Q24783283#Protein Family#InterPro Family
+Q24783285#Protein Family#InterPro Family
+Q24783301#Protein Family#InterPro Family
+Q24783307#Protein Family#InterPro Family
+Q24783365#Protein Family#InterPro Family
+Q24783415#Protein Family#InterPro Family
+Q24783418#Protein Family#InterPro Family
+Q24783419#Protein Family#InterPro Family
+Q24783435#Protein Family#InterPro Family
+Q24783480#Protein Family#InterPro Family
+Q24783488#Protein Family#InterPro Family
+Q24783491#Protein Family#InterPro Family
+Q24783492#Protein Family#InterPro Family
+Q24783496#Protein Family#InterPro Family
+Q24783497#Protein Family#InterPro Family
+Q24783509#Protein Family#InterPro Family
+Q24783517#Protein Family#InterPro Family
+Q24783520#Protein Family#InterPro Family
+Q24783536#Protein Family#InterPro Family
+Q24783552#Protein Family#InterPro Family
+Q24783554#Protein Family#InterPro Family
+Q24783561#Protein Family#InterPro Family
+Q24783576#Protein Family#InterPro Family
+Q24783592#Protein Family#InterPro Family
+Q24783626#Protein Family#InterPro Family
+Q24783636#Protein Family#InterPro Family
+Q24783637#Protein Family#InterPro Family
+Q24783642#Protein Family#InterPro Family
+Q24783671#Protein Family#InterPro Family
+Q24783684#Protein Family#InterPro Family
+Q24783693#Protein Family#InterPro Family
+Q24783736#Protein Family#InterPro Family
+Q24783742#Protein Family#InterPro Domain
+Q24783748#Protein Family#InterPro Family
+Q24783753#Protein Family#InterPro Family
+Q24783771#Protein Family#InterPro Family
+Q24783776#Protein Family#InterPro Family
+Q24783785#Protein Family#InterPro Family
+Q24783787#Protein Family#InterPro Family
+Q24783805#Protein Family#InterPro Family
+Q24783818#Protein Family#InterPro Family
+Q24783830#Protein Family#InterPro Family
+Q24783847#Protein Family#InterPro Family
+Q24783848#Protein Family#InterPro Family
+Q24783885#Protein Family#InterPro Family
+Q24783897#Protein Family#InterPro Family
+Q24783918#Protein Family#InterPro Family
+Q24783928#Protein Family#InterPro Family
+Q24783950#Protein Family#InterPro Family
+Q24783971#Protein Family#InterPro Family
+Q24783979#Protein Family#InterPro Family
+Q24783985#Protein Family#InterPro Family
+Q24783996#Protein Family#InterPro Family
+Q24784011#Protein Family#InterPro Family
+Q24784021#Protein Family#InterPro Family
+Q24784040#Protein Family#InterPro Family
+Q24784045#Protein Family#InterPro Family
+Q24784067#Protein Family#InterPro Family
+Q24784115#Protein Family#InterPro Family
+Q24784124#Protein Family#InterPro Family
+Q24784151#Protein Family#InterPro Family
+Q24784192#Protein Family#InterPro Family
+Q24784194#Protein Family#InterPro Family
+Q24784221#Protein Family#InterPro Family
+Q24784225#Protein Family#InterPro Family
+Q24784239#Protein Family#InterPro Family
+Q24784263#Protein Family#InterPro Family
+Q24784267#Protein Family#InterPro Family
+Q24784285#Protein Family#InterPro Family
+Q24784292#Protein Family#InterPro Family
+Q24784303#Protein Family#InterPro Family
+Q24784305#Protein Family#InterPro Family
+Q24784320#Protein Family#InterPro Family
+Q24784321#Protein Family#InterPro Family
+Q24784324#Protein Family#InterPro Family
+Q24784325#Protein Family#InterPro Family
+Q24784331#Protein Family#InterPro Family
+Q24784355#Protein Family#InterPro Family
+Q24784364#Protein Family#InterPro Family
+Q24784378#Protein Family#InterPro Family
+Q24784387#Protein Family#InterPro Family
+Q24784395#Protein Family#InterPro Family
+Q24784413#Protein Family#InterPro Family
+Q24784415#Protein Family#InterPro Family
+Q24784463#Protein Family#InterPro Family
+Q24784465#Protein Family#InterPro Family
+Q24784481#Protein Family#InterPro Family
+Q24784504#Protein Family#InterPro Family
+Q24784547#Protein Family#InterPro Family
+Q24784557#Protein Family#InterPro Family
+Q24784574#Protein Family#InterPro Family
+Q24784608#Protein Family#InterPro Family
+Q24784611#Protein Family#InterPro Family
+Q24784622#Protein Family#InterPro Family
+Q24784642#Protein Family#InterPro Family
+Q24784676#Protein Family#InterPro Family
+Q24784678#Protein Family#InterPro Family
+Q24784690#Protein Family#InterPro Family
+Q24784705#Protein Family#InterPro Family
+Q24784718#Protein Family#InterPro Family
+Q24784741#Protein Family#InterPro Family
+Q24784760#Protein Family#InterPro Family
+Q24784764#Protein Family#InterPro Family
+Q24784767#Protein Family#InterPro Family
+Q24784783#Protein Family#InterPro Family
+Q24784796#Protein Family#InterPro Family
+Q24784799#Protein Family#InterPro Family
+Q24784800#Protein Family#InterPro Family
+Q24784803#Protein Family#InterPro Family
+Q24784808#Protein Family#InterPro Family
+Q24784810#Protein Family#InterPro Family
+Q24784843#Protein Family#InterPro Family
+Q24784882#Protein Family#InterPro Family
+Q24784894#Protein Family#InterPro Family
+Q24784904#Protein Family#InterPro Family
+Q24784913#Protein Family#InterPro Family
+Q24784918#Protein Family#InterPro Family
+Q24784923#Protein Family#InterPro Family
+Q24784950#Protein Family#InterPro Family
+Q24784954#Protein Family#InterPro Family
+Q24784966#Protein Family#InterPro Family
+Q24784998#Protein Family#InterPro Family
+Q24785002#Protein Family#InterPro Family
+Q24785007#Protein Family#InterPro Family
+Q24785022#Protein Family#InterPro Family
+Q24785028#Protein Family#InterPro Family
+Q24785037#Protein Family#InterPro Family
+Q24785046#Protein Family#class of transport proteins
+Q24785050#Protein Family#InterPro Family
+Q24785061#Protein Family#InterPro Family
+Q24785099#Protein Family#InterPro Family
+Q24785128#Protein Family#InterPro Family
+Q24785141#Protein Family#InterPro Family
+Q24785149#Protein Family#InterPro Family
+Q24785152#Protein Family#InterPro Family
+Q24785174#Protein Family#InterPro Family
+Q24785187#Protein Family#InterPro Family
+Q24785203#Protein Family#InterPro Family
+Q24785218#Protein Family#InterPro Family
+Q24785227#Protein Family#InterPro Family
+Q24785229#Protein Family#InterPro Family
+Q24785235#Protein Family#InterPro Family
+Q24785248#Protein Family#InterPro Family
+Q24785262#Protein Family#InterPro Family
+Q24785263#Protein Family#InterPro Family
+Q24785295#Protein Family#InterPro Family
+Q24785307#Protein Family#InterPro Family
+Q24785316#Protein Family#InterPro Family
+Q24785330#Protein Family#InterPro Family
+Q24785373#Protein Family#InterPro Family
+Q24785394#Protein Family#InterPro Family
+Q24785407#Protein Family#InterPro Family
+Q24785433#Protein Family#InterPro Family
+Q24785455#Protein Family#InterPro Family
+Q24785461#Protein Family#InterPro Family
+Q24785488#Protein Family#InterPro Family
+Q24785503#Protein Family#InterPro Family
+Q24785509#Protein Family#InterPro Family
+Q24785533#Protein Family#InterPro Family
+Q24785544#Protein Family#InterPro Family
+Q24785572#Protein Family#InterPro Family
+Q24785578#Protein Family#InterPro Family
+Q24785595#Protein Family#InterPro Family
+Q24785611#Protein Family#InterPro Family
+Q24785631#Protein Family#InterPro Family
+Q24785633#Protein Family#InterPro Family
+Q24785639#Protein Family#InterPro Family
+Q24785649#Protein Family#InterPro Family
+Q24785656#Protein Family#InterPro Family
+Q24785677#Protein Family#InterPro Family
+Q24785687#Protein Family#InterPro Family
+Q24785693#Protein Family#class of transport proteins
+Q24785695#Protein Family#InterPro Family
+Q24785718#Protein Family#InterPro Family
+Q24785731#Protein Family#InterPro Family
+Q24785738#Protein Family#InterPro Family
+Q24785750#Protein Family#InterPro Family
+Q24785753#Protein Family#InterPro Family
+Q24785783#Protein Family#InterPro Family
+Q24785794#Protein Family#InterPro Family
+Q24785798#Protein Family#InterPro Family
+Q24785816#Protein Family#InterPro Family
+Q24785827#Protein Family#InterPro Family
+Q24785845#Protein Family#InterPro Family
+Q24785854#Protein Family#InterPro Family
+Q24785858#Protein Family#InterPro Family
+Q24785860#Protein Family#InterPro Family
+Q24785870#Protein Family#protein family
+Q24785875#Protein Family#InterPro Family
+Q24785888#Protein Family#InterPro Family
+Q24785891#Protein Family#InterPro Family
+Q24785912#Protein Family#InterPro Family
+Q24785914#Protein Family#InterPro Family
+Q24785922#Protein Family#InterPro Family
+Q24785925#Protein Family#InterPro Family
+Q24785930#Protein Family#InterPro Family
+Q24785942#Protein Family#InterPro Family
+Q24785944#Protein Family#InterPro Family
+Q24785960#Protein Family#InterPro Family
+Q24785970#Protein Family#InterPro Family
+Q24785974#Protein Family#InterPro Family
+Q24786004#Protein Family#InterPro Family
+Q24786019#Protein Family#InterPro Family
+Q24786022#Protein Family#InterPro Family
+Q24786047#Protein Family#InterPro Family
+Q24786058#Protein Family#InterPro Family
+Q24786071#Protein Family#InterPro Family
+Q24786073#Protein Family#InterPro Family
+Q24786083#Protein Family#InterPro Family
+Q24786096#Protein Family#InterPro Family
+Q24786112#Protein Family#InterPro Family
+Q24786118#Protein Family#InterPro Family
+Q24786126#Protein Family#InterPro Family
+Q24786140#Protein Family#InterPro Family
+Q24786146#Protein Family#InterPro Family
+Q24786167#Protein Family#InterPro Family
+Q24786171#Protein Family#InterPro Family
+Q24786175#Protein Family#InterPro Family
+Q24786196#Protein Family#InterPro Family
+Q24786242#Protein Family#InterPro Family
+Q24786262#Protein Family#InterPro Family
+Q24786275#Protein Family#InterPro Family
+Q24786276#Protein Family#InterPro Family
+Q24786286#Protein Family#InterPro Family
+Q24786302#Protein Family#InterPro Family
+Q24786306#Protein Family#InterPro Family
+Q24786307#Protein Family#InterPro Family
+Q24786332#Protein Family#InterPro Family
+Q24786349#Protein Family#InterPro Family
+Q24786366#Protein Family#InterPro Family
+Q24786385#Protein Family#InterPro Family
+Q24786389#Protein Family#InterPro Family
+Q24786409#Protein Family#InterPro Family
+Q24786412#Protein Family#InterPro Family
+Q24786441#Protein Family#InterPro Family
+Q24786459#Protein Family#InterPro Family
+Q24786476#Protein Family#InterPro Family
+Q24786524#Protein Family#InterPro Family
+Q24786528#Protein Family#InterPro Family
+Q24786529#Protein Family#InterPro Family
+Q24786533#Protein Family#InterPro Family
+Q24786565#Protein Family#InterPro Family
+Q24786591#Protein Family#InterPro Family
+Q24786609#Protein Family#InterPro Family
+Q24786636#Protein Family#InterPro Family
+Q24786639#Protein Family#InterPro Family
+Q24786651#Protein Family#InterPro Family
+Q24786673#Protein Family#InterPro Family
+Q24786695#Protein Family#InterPro Family
+Q24786697#Protein Family#InterPro Family
+Q24786726#Protein Family#InterPro Family
+Q24786737#Protein Family#InterPro Family
+Q24786749#Protein Family#InterPro Family
+Q24786753#Protein Family#InterPro Family
+Q24786756#Protein Family#InterPro Family
+Q24786765#Protein Family#InterPro Family
+Q24786778#Protein Family#InterPro Family
+Q24786791#Protein Family#InterPro Family
+Q24786821#Protein Family#InterPro Family
+Q24786835#Protein Family#InterPro Family
+Q24786842#Protein Family#InterPro Family
+Q24786848#Protein Family#InterPro Family
+Q24786875#Protein Family#InterPro Family
+Q24786890#Protein Family#InterPro Family
+Q24786913#Protein Family#InterPro Family
+Q24786934#Protein Family#InterPro Family
+Q24786941#Protein Family#InterPro Family
+Q24786951#Protein Family#InterPro Family
+Q24786962#Protein Family#InterPro Family
+Q24786995#Protein Family#InterPro Family
+Q24787002#Protein Family#InterPro Family
+Q24787008#Protein Family#InterPro Family
+Q24787016#Protein Family#InterPro Family
+Q24787023#Protein Family#InterPro Family
+Q24787028#Protein Family#protein family
+Q24787029#Protein Family#InterPro Family
+Q24787053#Protein Family#InterPro family
+Q24787062#Protein Family#InterPro Family
+Q24787082#Protein Family#InterPro Family
+Q24787132#Protein Family#InterPro Family
+Q24787136#Protein Family#InterPro Family
+Q24787168#Protein Family#InterPro Family
+Q24787180#Protein Family#InterPro Family
+Q24787202#Protein Family#InterPro Family
+Q24787230#Protein Family#InterPro Family
+Q24787231#Protein Family#InterPro Family
+Q24787264#Protein Family#InterPro Family
+Q24787272#Protein Family#InterPro Family
+Q24787288#Protein Family#InterPro Family
+Q24787299#Protein Family#InterPro Family
+Q24787300#Protein Family#InterPro Family
+Q24787315#Protein Family#InterPro Family
+Q24787326#Protein Family#InterPro Family
+Q24787343#Protein Family#InterPro Family
+Q24787348#Protein Family#InterPro Family
+Q24787356#Protein Family#InterPro Family
+Q24787362#Protein Family#InterPro Family
+Q24787369#Protein Family#InterPro Family
+Q24787386#Protein Family#InterPro Family
+Q24787388#Protein Family#InterPro Family
+Q24787389#Protein Family#InterPro Family
+Q24787395#Protein Family#InterPro Family
+Q24787396#Protein Family#InterPro Family
+Q24787435#Protein Family#InterPro Family
+Q24787441#Protein Family#InterPro Family
+Q24787488#Protein Family#InterPro Family
+Q24787496#Protein Family#InterPro Family
+Q24787518#Protein Family#InterPro Family
+Q24787521#Protein Family#InterPro Family
+Q24787536#Protein Family#InterPro Family
+Q24787585#Protein Family#InterPro Family
+Q24787599#Protein Family#InterPro Family
+Q24787613#Protein Family#InterPro Family
+Q24787647#Protein Family#InterPro Family
+Q24787670#Protein Family#InterPro Family
+Q24787672#Protein Family#InterPro Family
+Q24787673#Protein Family#InterPro Family
+Q24787686#Protein Family#InterPro Family
+Q24787700#Protein Family#InterPro Family
+Q24787720#Protein Family#InterPro Family
+Q24787732#Protein Family#InterPro Family
+Q24787748#Protein Family#InterPro Family
+Q24787769#Protein Family#InterPro Family
+Q24787773#Protein Family#InterPro Family
+Q24787781#Protein Family#InterPro Family
+Q24787791#Protein Family#InterPro Family
+Q24787811#Protein Family#InterPro Family
+Q24787826#Protein Family#InterPro Family
+Q24787831#Protein Family#InterPro Family
+Q24787836#Protein Family#InterPro Family
+Q24787845#Protein Family#InterPro Family
+Q24787851#Protein Family#InterPro Family
+Q24787858#Protein Family#InterPro Family
+Q24787871#Protein Family#InterPro Family
+Q24787887#Protein Family#InterPro Family
+Q24787891#Protein Family#InterPro Family
+Q24787901#Protein Family#InterPro Family
+Q24787905#Protein Family#InterPro Family
+Q24787910#Protein Family#InterPro Family
+Q24787916#Protein Family#InterPro Family
+Q24787938#Protein Family#InterPro Family
+Q24787949#Protein Family#InterPro Family
+Q24787952#Protein Family#InterPro Family
+Q24787971#Protein Family#InterPro Family
+Q24788000#Protein Family#InterPro Family
+Q24788025#Protein Family#InterPro Family
+Q24788026#Protein Family#InterPro Family
+Q24788031#Protein Family#InterPro Family
+Q24788037#Protein Family#InterPro Family
+Q24788048#Protein Family#InterPro Family
+Q24788067#Protein Family#InterPro Family
+Q24788075#Protein Family#InterPro Family
+Q24788084#Protein Family#InterPro Family
+Q24788091#Protein Family#InterPro Family
+Q24788096#Protein Family#InterPro Family
+Q24788099#Protein Family#InterPro Family
+Q24788112#Protein Family#InterPro Family
+Q24788129#Protein Family#InterPro Family
+Q24788149#Protein Family#InterPro Family
+Q24788160#Protein Family#InterPro Family
+Q24788204#Protein Family#InterPro Family
+Q24788237#Protein Family#InterPro Family
+Q24788239#Protein Family#InterPro Family
+Q24788245#Protein Family#protein family
+Q24788252#Protein Family#InterPro Family
+Q24788278#Protein Family#InterPro Family
+Q24788279#Protein Family#InterPro Family
+Q24788289#Protein Family#InterPro Family
+Q24788297#Protein Family#InterPro Family
+Q24788313#Protein Family#InterPro Family
+Q24788315#Protein Family#InterPro Family
+Q24788326#Protein Family#InterPro Family
+Q24788333#Protein Family#InterPro Family
+Q24788359#Protein Family#InterPro Family
+Q24788376#Protein Family#InterPro Family
+Q24788409#Protein Family#InterPro Family
+Q24788412#Protein Family#InterPro Family
+Q24788444#Protein Family#InterPro Family
+Q24788508#Protein Family#InterPro Family
+Q24788529#Protein Family#InterPro Family
+Q24788544#Protein Family#InterPro Family
+Q24788577#Protein Family#InterPro Family
+Q24788578#Protein Family#InterPro Family
+Q24788590#Protein Family#InterPro Family
+Q24788591#Protein Family#InterPro Family
+Q24788593#Protein Family#InterPro Family
+Q24788607#Protein Family#InterPro Family
+Q24788624#Protein Family#InterPro Family
+Q24788658#Protein Family#InterPro Family
+Q27175894#Protein Family#InterPro Family
+Q27185064#Protein Family#InterPro Family
+Q27185082#Protein Family#InterPro Family
+Q27185290#Protein Family#InterPro Family
+Q27185361#Protein Family#InterPro Family
+Q27185400#Protein Family#InterPro Family
+Q27185413#Protein Family#InterPro Family
+Q28209385#Protein Family#
+Q28544039#Protein Family#InterPro Family
+Q28544044#Protein Family#InterPro Family
+Q28544059#Protein Family#InterPro Family
+Q28544067#Protein Family#InterPro Family
+Q28544075#Protein Family#InterPro Family
+Q28544080#Protein Family#InterPro Family
+Q28544082#Protein Family#InterPro Family
+Q28544105#Protein Family#InterPro Family
+Q28544121#Protein Family#InterPro Family
+Q28544146#Protein Family#InterPro Family
+Q28544150#Protein Family#InterPro Family
+Q28544214#Protein Family#InterPro Family
+Q28544217#Protein Family#InterPro Family
+Q28544341#Protein Family#InterPro Family
+Q28544346#Protein Family#InterPro Family
+Q28544356#Protein Family#InterPro Family
+Q29564607#Protein Family#InterPro Family
+Q29564608#Protein Family#InterPro Family
+Q29564624#Protein Family#InterPro Family
+Q29564630#Protein Family#InterPro Family
+Q29564632#Protein Family#InterPro Family
+Q29564656#Protein Family#InterPro Family
+Q29564665#Protein Family#InterPro Family
+Q29564691#Protein Family#InterPro Family
+Q29564693#Protein Family#InterPro Family
+Q29564703#Protein Family#InterPro Family
+Q29564709#Protein Family#InterPro Family
+Q29564720#Protein Family#InterPro Family
+Q29564726#Protein Family#InterPro Family
+Q29564733#Protein Family#InterPro Family
+Q29564740#Protein Family#InterPro Family
+Q29564754#Protein Family#InterPro Family
+Q29564755#Protein Family#InterPro Family
+Q29564756#Protein Family#InterPro Family
+Q29564757#Protein Family#InterPro Family
+Q29564761#Protein Family#InterPro Family
+Q29564763#Protein Family#InterPro Family
+Q29564766#Protein Family#InterPro Family
+Q29564784#Protein Family#InterPro Family
+Q29564792#Protein Family#InterPro Family
+Q29564820#Protein Family#InterPro Family
+Q29564822#Protein Family#InterPro Family
+Q29564828#Protein Family#InterPro Family
+Q29564849#Protein Family#InterPro Family
+Q29564851#Protein Family#InterPro Family
+Q29564852#Protein Family#InterPro Family
+Q29564856#Protein Family#InterPro Family
+Q29564862#Protein Family#InterPro Family
+Q29564890#Protein Family#InterPro Family
+Q29956208#Protein Family#InterPro Family
+Q29956519#Protein Family#InterPro Family
+Q29956538#Protein Family#InterPro Family
+Q29956556#Protein Family#InterPro Family
+Q29956585#Protein Family#InterPro Family
+Q29956587#Protein Family#InterPro Family
+Q29956610#Protein Family#InterPro Family
+Q29956616#Protein Family#InterPro Family
+Q29956683#Protein Family#InterPro Family
+Q29956746#Protein Family#InterPro Family
+Q32852863#Protein Family#protein family
+Q32853501#Protein Family#protein family
+Q32853996#Protein Family#protein family
+Q32854242#Protein Family#protein family
+Q32854248#Protein Family#protein family
+Q32854303#Protein Family#protein family
+Q32854409#Protein Family#protein family
+Q32854504#Protein Family#protein family
+Q32855143#Protein Family#protein family
+Q32855313#Protein Family#protein family
+Q32855333#Protein Family#protein family
+Q32855337#Protein Family#protein family
+Q32855360#Protein Family#protein family
+Q32855379#Protein Family#protein family
+Q32855380#Protein Family#protein family
+Q32855385#Protein Family#protein family
+Q32855387#Protein Family#protein family
+Q32855403#Protein Family#protein family
+Q32855410#Protein Family#protein family
+Q32855418#Protein Family#protein family
+Q32855422#Protein Family#protein family
+Q32855423#Protein Family#protein family
+Q32855427#Protein Family#protein family
+Q32855458#Protein Family#protein family
+Q32855462#Protein Family#protein family
+Q32855465#Protein Family#protein family
+Q32855469#Protein Family#protein family
+Q32855474#Protein Family#protein family
+Q32855479#Protein Family#protein family
+Q32855480#Protein Family#protein family
+Q32855495#Protein Family#protein family
+Q32855503#Protein Family#protein family
+Q32855509#Protein Family#protein family
+Q32855518#Protein Family#protein family
+Q32855531#Protein Family#protein family
+Q32855536#Protein Family#protein family
+Q32855538#Protein Family#protein family
+Q32855539#Protein Family#protein family
+Q32855540#Protein Family#protein family
+Q32855546#Protein Family#protein family
+Q32855553#Protein Family#protein family
+Q32855580#Protein Family#protein family
+Q32855586#Protein Family#protein family
+Q32855607#Protein Family#protein family
+Q32855622#Protein Family#protein family
+Q32855627#Protein Family#protein family
+Q32855641#Protein Family#protein family
+Q32855650#Protein Family#protein family
+Q32855722#Protein Family#protein family
+Q32855768#Protein Family#protein family

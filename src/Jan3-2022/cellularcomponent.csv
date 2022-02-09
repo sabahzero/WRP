@@ -1,369 +1,512 @@
 :ID#,:LABEL#,name
-Q7365#Cellular Component#contractile soft tissue of mammals
-Q9377#Cellular Component#internal organ in most animals, including vertebrates and some invertebrates
-Q9609#Cellular Component#blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein
-Q9620#Cellular Component#enclosed, cable-like bundle of axons in the peripheral nervous system
-Q9635#Cellular Component#first portion of the alimentary canal that receives food
-Q9644#Cellular Component#location at which two or more bones make contact
-Q9655#Cellular Component#the blood vessel that carry oxygenated blood away from the heart to other organs rather than lungs
-Q18676#Cellular Component#region of the brain
 Q29548#Cellular Component#biological membrane separating the interior of a cell from its external environment
 Q30869#Cellular Component#largest structure in the nucleus of eukaryotic cells
-Q33767#Cellular Component#extremity at the end of an arm or forelimb
-Q37425#Cellular Component#region around the kneecap
-Q41055#Cellular Component#area of the head between the eyebrows and the hairline
-Q43041#Cellular Component#group of protein complexes
-Q47038#Cellular Component#part of the head
-Q48360#Cellular Component#brain region correlated with memory consolidation and imagination
 Q61333#Cellular Component#The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
-Q61476#Cellular Component#carboxylic acid with a long aliphatic chain, either saturated or unsaturated
-Q79447#Cellular Component#antibody isotype
-Q79451#Cellular Component#one of several isotypes of antibody
-Q84133#Cellular Component#middle layer of the heart wall, which consists of cardiac muscle
-Q103142#Cellular Component#smallest type of blood vessel
-Q104280#Cellular Component#mucosal tissue that lies over the mandible and maxilla inside the mouth
-Q130983#Cellular Component#region of the brain that coordinates motor functions and muscle tone
-Q133516#Cellular Component#simple sugars such as glucose and fructose
-Q156871#Cellular Component#endocrine gland
-Q160184#Cellular Component#bodily function of expelling intestinal gas out of the anus
-Q169313#Cellular Component#chemical compound
-Q169953#Cellular Component#part of the nervous system
-Q172605#Cellular Component#roof of mouth
-Q174647#Cellular Component#part of the foot in the back
-Q177105#Cellular Component#type of cells in nervous system
+Q126223#Cellular Component#An area of close contact between a lymphocyte (T-, B-, or natural killer cell) and a target cell formed through the clustering of particular signaling and adhesion molecules and their associated membrane rafts on both the lymphocyte and the target ce
 Q180951#Cellular Component#the ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome
-Q183282#Cellular Component#
-Q184215#Cellular Component#part of the brain responsible for sleep regulation and relaying sensory signals
-Q185438#Cellular Component#arteries at the base of the brain that form part of the circle of Willis
 Q186380#Cellular Component#Any chromosome other than a sex chromosome
-Q187215#Cellular Component#term in biology
 Q189073#Cellular Component#A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
-Q189763#Cellular Component#nerve in human face
+Q189206#Cellular Component#any small, fluid-filled, spherical organelle enclosed by a membrane
 Q189998#Cellular Component#cellular appendages functioning as locomotive or sensory organelles
-Q190140#Cellular Component#tenth cranial nerve
-Q193583#Cellular Component#loose connective tissue composed mostly of adipocytes
-Q193818#Cellular Component#anatomical region
-Q196672#Cellular Component#long curved bone surrounding the chest
-Q208453#Cellular Component#involuntary non-striated muscle
-Q212743#Cellular Component#outermost layers of the skin
-Q223143#Cellular Component#mature white blood cells with granules in the cytoplasm
-Q223851#Cellular Component#brain part
-Q228537#Cellular Component#region of the upper limb between the elbow and the wrist
-Q232358#Cellular Component#type of tissue that connects muscle to bone
-Q237229#Cellular Component#bones of hand
-Q252509#Cellular Component#all the teeth in the mouth
-Q253168#Cellular Component#
-Q259492#Cellular Component#
-Q261411#Cellular Component#
-Q277357#Cellular Component#part of the oropharynx directly behind the mouth cavity, bounded superiorly by the soft palate, laterally by the palatoglossal arches, and inferiorly by the tongue
-Q279039#Cellular Component#muscle of the upper limb
-Q286978#Cellular Component#muscles in the zygomatic arch that close the jaw
-Q288821#Cellular Component#
-Q301876#Cellular Component#muscle
-Q318773#Cellular Component#cranial nerve controlling the movement of the lateral rectus muscle
-Q323438#Cellular Component#germ layer in the very early embryo
-Q340154#Cellular Component#ligament formed from the buccopharyngeal fascia
-Q352045#Cellular Component#feature of the human neck
-Q379859#Cellular Component#proximal part of the free upper limb between the shoulder and the elbow
-Q383359#Cellular Component#
-Q384631#Cellular Component#part of the scapula that serves as the origin point for the long head of biceps brachii
-Q398880#Cellular Component#Wikimedia disambiguation page
-Q407553#Cellular Component#long unbranched polysaccharides consisting of a repeating disaccharide unit
-Q408014#Cellular Component#class of compounds; sulfated glycosaminoglycan
-Q409145#Cellular Component#group of calcium sensors and calcium signal modulators
-Q418892#Cellular Component#class of chemical compounds
-Q420927#Cellular Component#stable macromolecular complex
-Q428914#Cellular Component#type of cell found in muscle tissue
-Q441704#Cellular Component#nerve in human back
-Q447782#Cellular Component#layer of synovial membrane around a tendon
-Q465621#Cellular Component#glial cell type
-Q473749#Cellular Component#innermost membranous sac that surrounds and protects the developing embryo
-Q476952#Cellular Component#
-Q485130#Cellular Component#
-Q488711#Cellular Component#artery of the neck
-Q489628#Cellular Component#The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant.
-Q490172#Cellular Component#artery
-Q497563#Cellular Component#artery
-Q497574#Cellular Component#
-Q498179#Cellular Component#one of the three major paired arteries that supply blood to the cerebrum.
-Q502704#Cellular Component#passageways by which air passes through the nose or mouth to the alveoli of the lungs
-Q505535#Cellular Component#part of the peripheral nervous system
-Q505544#Cellular Component#photoreceptor cells in the retina of the eye that can function in lower light
-Q509053#Cellular Component#part of the electrical conduction system of the heart that coordinates the top of the heart.
-Q510755#Cellular Component#nerve of the thigh
-Q537123#Cellular Component#broad, thin muscle, situated on either side of the pelvis
-Q540092#Cellular Component#group of specialized connective tissue fibers that essentially attach a tooth to the alveolar bone within which it sits
-Q545929#Cellular Component#
-Q559526#Cellular Component#
-Q568799#Cellular Component#
-Q571378#Cellular Component#
-Q585624#Cellular Component#male gonadal vein
-Q597179#Cellular Component#
-Q603244#Cellular Component#
-Q609753#Cellular Component#The outer portion of the ear which includes the auricle and the ear canal and leads to the eardrum.
-Q612431#Cellular Component#muscle arise from annular tendon is medial rectus,superior rectus,inferior rectus and lateral rectus
-Q618362#Cellular Component#blood in an artery
-Q619284#Cellular Component#extrapyramidal motor tract
-Q619632#Cellular Component#sheet of pearly-white fibrous tissue that attaches sheet-like muscles needing a wide area of attachment
-Q623016#Cellular Component#conduit for CSF to the brain
-Q623377#Cellular Component#
-Q640536#Cellular Component#
-Q650401#Cellular Component#endocrine gland
-Q654528#Cellular Component#fatty tissue composed of white adipocytes
-Q659744#Cellular Component#muscle of the upper limb
-Q666219#Cellular Component#
+Q297095#Cellular Component#part of a plant
+Q412405#Cellular Component#cytosolic multiprotein complex that mediates the activation of Caspase 1
+Q415784#Cellular Component#class of transport proteins
+Q420870#Cellular Component#Membrane associated dimeric protein (240 and 220 kDa) of erythrocytes. Forms a complex with ankyrin, actin and probably other components of the membrane cytoskeleton, so that there is a mesh of proteins underlying the plasma membrane, potentially res
+Q613311#Cellular Component#A small, granular structure that is found in the extracellular matrix of cell of the secretory tapetal layer that surrounds developing pollen grains. Ubisch bodies have a sporopollenin coat, are attached to the peritapetal wall, and may play a role i
 Q667636#Cellular Component#chromosome involved in sex determination
-Q671943#Cellular Component#
-Q673321#Cellular Component#type of mechanoreceptor cell in hairless mammals
-Q691942#Cellular Component#bone of the wrist
-Q707098#Cellular Component#
-Q707105#Cellular Component#artery in the pelvis that travels along the iliac crest of the pelvic bone
-Q707419#Cellular Component#
-Q717887#Cellular Component#muscle of the larynx
-Q718591#Cellular Component#
-Q719213#Cellular Component#a bony eminence of the proximal end of the radius that serves as an insertion point for the biceps tendon
-Q724580#Cellular Component#spiral groove on the surface of the humerus, typically containing the radial nerve and deep brachail artery
-Q725612#Cellular Component#
-Q725785#Cellular Component#groove in the superior border of the scapula, for the suprascapular nerve to pass through
-Q726543#Cellular Component#organ system that gives humans the ability to move using their muscular and skeletal systems
-Q727745#Cellular Component#
-Q740541#Cellular Component#nerve, branch of the vagus nerve
-Q740900#Cellular Component#cord-like structure in males
-Q745438#Cellular Component#one of two veinous trunks which brings deoxygenated
-Q748180#Cellular Component#
-Q749520#Cellular Component#part of the brain
-Q752441#Cellular Component#muscle of the upper limb
-Q767067#Cellular Component#opening in the ethmoid bone in the skull
-Q776672#Cellular Component#
-Q776972#Cellular Component#sensory ganglion of the trigeminal nerve
-Q788151#Cellular Component#
+Q671136#Cellular Component#A secretory organelle, typically 50 nm in diameter, of presynaptic nerve terminals; accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane
+Q786868#Cellular Component#part of a plant
 Q792595#Cellular Component#The portion of the plasma membrane surrounding an axon; it is a specialized trilaminar random mosaic of protein molecules floating within a fluid matrix of highly mobile phospholipid molecules, 7-8 nm in thickness.
-Q821701#Cellular Component#large bone marrow cell responsible for the production of platelets
-Q838638#Cellular Component#muscle
-Q840572#Cellular Component#muscle of the upper limb
 Q842429#Cellular Component#The portion of the cell soma (neuronal cell body) that excludes the nucleus
-Q842547#Cellular Component#
-Q846480#Cellular Component#muscle
-Q857940#Cellular Component#
-Q868304#Cellular Component#
-Q876089#Cellular Component#chamber of the human heart
-Q900610#Cellular Component#muscle
-Q901269#Cellular Component#type of adipose tissue
-Q901538#Cellular Component#skeletal muscle of the upper back
-Q913348#Cellular Component#
-Q916698#Cellular Component#neural cell type
-Q918518#Cellular Component#
-Q921517#Cellular Component#slight enlargement before each crus of the penis meets its fellow
-Q924285#Cellular Component#extra bone piece that can occur within a suture (joint) in the skull
-Q928286#Cellular Component#
-Q931622#Cellular Component#muscle of the upper limb
-Q932557#Cellular Component#facial muscle helping to create facial expressions
-Q936531#Cellular Component#layer of fibrous connective tissue that surrounds muscles, blood vessels and nerves
-Q936818#Cellular Component#
-Q937076#Cellular Component#nerve that carries signals between the spinal chord and the body
-Q943203#Cellular Component#Calf muscle
-Q955788#Cellular Component#muscle of the upper limb
-Q974231#Cellular Component#membranous labyrinth in the vestibule of ear
-Q1002789#Cellular Component#
-Q1003242#Cellular Component#
-Q1051430#Cellular Component#muscle
-Q1055786#Cellular Component#
-Q1061328#Cellular Component#
-Q1064403#Cellular Component#tube located inside the ear
-Q1066345#Cellular Component#kidney structure which encloses the glomerular
-Q1072007#Cellular Component#
-Q1072039#Cellular Component#
-Q1076064#Cellular Component#Mesenchymal progenitor cell that forms a chondrocyte
-Q1076423#Cellular Component#
-Q1079316#Cellular Component#nerve fiber originating from the optic chiasm
-Q1091300#Cellular Component#muscle
-Q1102066#Cellular Component#proteins found in the microtubules of the cytoskeletal system
-Q1130003#Cellular Component#
-Q1137072#Cellular Component#Part of the embryonic brain
+Q970614#Cellular Component#A multiribosomal structure representing a linear array of ribosomes held together by messenger RNA. They represent the active complexes in cellular protein synthesis and are able to incorporate amino acids into polypeptides both in vivo and in vitro.
 Q1140236#Cellular Component#any of the inward folds of the mitochondrial inner membrane
-Q1172095#Cellular Component#continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity
-Q1180012#Cellular Component#
-Q1211892#Cellular Component#are two flaps of skin on either side of the human vaginal opening in the vulva
-Q1230047#Cellular Component#a part of limbic syst
-Q1230052#Cellular Component#
-Q1237109#Cellular Component#
-Q1240479#Cellular Component#
-Q1246415#Cellular Component#
-Q1256980#Cellular Component#fold of the brain (primary motor cortex) separating the frontal and parietal lobes superiorly from the temporal lobe inferiorly.
-Q1263629#Cellular Component#One of two lymph ducts in the human lymphatic system
-Q1290783#Cellular Component#anatomical feature of the human skull
-Q1340752#Cellular Component#inner ear fluid
-Q1340833#Cellular Component#
-Q1365325#Cellular Component#nerve in the human body that supplies the posterior portion of the upper limb
-Q1386945#Cellular Component#muscle
-Q1393590#Cellular Component#
-Q1397367#Cellular Component#fibers in the brain stem
-Q1419042#Cellular Component#brain cell
-Q1421408#Cellular Component#cell type
-Q1425589#Cellular Component#anatomical term
-Q1426052#Cellular Component#muscle in the lower back
-Q1427600#Cellular Component#division of the body of an animal or embryo
-Q1436583#Cellular Component#
-Q1436590#Cellular Component#triangular hole in the base of the skull
-Q1457751#Cellular Component#one of the dural venous sinuses
-Q1493508#Cellular Component#parasympathetic ganglion of head and neck
-Q1500758#Cellular Component#One of six small hip muscles in the lateral rotator group
-Q1519198#Cellular Component#
-Q1547362#Cellular Component#body cavity bounded by the bones of the pelvis
-Q1568920#Cellular Component#area of the human brain
-Q1575134#Cellular Component#
-Q1591425#Cellular Component#topological lines drawn on human body correspond to the natural orientation of collagen fibers in dermis.
-Q1601362#Cellular Component#large blood vessel in the arm
-Q1620205#Cellular Component#collection of neurons in the brain stem
-Q1623349#Cellular Component#
-Q1633822#Cellular Component#Muscle in the quad
-Q1635066#Cellular Component#anatomical structure
-Q1635458#Cellular Component#part of the stomach
-Q1648555#Cellular Component#anatomy
-Q1659799#Cellular Component#superior portions of the vagina
-Q1665277#Cellular Component#Muscles of the sole of the foot
-Q1724233#Cellular Component#artery in the abdominal and pelvic regions
-Q1742964#Cellular Component#
-Q1751717#Cellular Component#structure in the human brain
-Q1753760#Cellular Component#nerve in the skull
-Q1756451#Cellular Component#inhibitory interneurons found in the gray matter of the spinal cord
-Q1756762#Cellular Component#one of six small hip muscles in the lateral rotator group
-Q1756808#Cellular Component#complex of arteries and veins lying very close to each other, found in some vertebrates, mainly warm-blooded ones.
-Q1758798#Cellular Component#synovial ball and socket joint in the shoulder
-Q1772886#Cellular Component#bony prominence around the pituitary gland
-Q1813830#Cellular Component#
-Q1824652#Cellular Component#
-Q1862100#Cellular Component#
-Q1873857#Cellular Component#cell type
-Q1913658#Cellular Component#muscles located in the ventricles of the heart
-Q1978114#Cellular Component#
-Q1978139#Cellular Component#
-Q1978198#Cellular Component#branch of the sciatic nerve
-Q1983003#Cellular Component#in anatomy, a furrow or fissure
-Q2004084#Cellular Component#Anti-microbial epithelial cell of the small intestine
-Q2004182#Cellular Component#Grey matter nucleus in the cerebellum
-Q2035067#Cellular Component#قاسم عقسد
-Q2071037#Cellular Component#
-Q2076795#Cellular Component#small channels in each eyelid that drain lacrimal fluid
-Q2080394#Cellular Component#artery
-Q2164516#Cellular Component#
-Q2248886#Cellular Component#mammalian protein found in Homo sapiens
-Q2353265#Cellular Component#
-Q2354337#Cellular Component#class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine
-Q2360339#Cellular Component#three muscles located between the metatarsal bones in the foot
-Q2393792#Cellular Component#sheath around nerve bundles
-Q2409399#Cellular Component#
-Q2414279#Cellular Component#Structure in the basal ganglia of the brain
-Q2447644#Cellular Component#
-Q2487461#Cellular Component#tooth
-Q2512768#Cellular Component#Large blood vessel
-Q2531387#Cellular Component#anatomical structure
-Q2596226#Cellular Component#cell type
-Q2620085#Cellular Component#
-Q2631550#Cellular Component#cell type
-Q2643251#Cellular Component#biological junctions through which neurons' signals can be sent
-Q2685072#Cellular Component#surface of an organism refers to the left or right side
-Q2760639#Cellular Component#
-Q2796182#Cellular Component#
-Q2865999#Cellular Component#artery that supplies the adrenal gland
-Q2888202#Cellular Component#
-Q2914731#Cellular Component#portion of the kidney nephron between the loop of Henle and the collecting duct
-Q2919618#Cellular Component#
-Q3088602#Cellular Component#Nerve in the human leg and foot
-Q3122152#Cellular Component#Band of fibres along the thalamus
-Q3130956#Cellular Component#part of the brain
-Q3270899#Cellular Component#
-Q3301573#Cellular Component#
-Q3307119#Cellular Component#
-Q3316775#Cellular Component#large blood vessels of the forearm
-Q3322746#Cellular Component#
-Q3324292#Cellular Component#
-Q3328747#Cellular Component#
-Q3328967#Cellular Component#
-Q3338317#Cellular Component#
-Q3346043#Cellular Component#gelatinous substance that makes up the central portion of an intervertebral disc
-Q3493614#Cellular Component#bone of the ankle
-Q3494094#Cellular Component#membranous labyrinth in the vestibule of ear
-Q3507797#Cellular Component#artery
-Q3518027#Cellular Component#medial part of the posterior wall of the inguinal canal
-Q3559311#Cellular Component#Protrusions of the arachnoid mater for returning cerebrospinal fluid to circulation
-Q3621435#Cellular Component#human artery
-Q3624379#Cellular Component#articulations extending from the ankle to the toes
-Q3740460#Cellular Component#
-Q3752103#Cellular Component#region of gray matter cells in the subthalamus below the thalamus
-Q3756509#Cellular Component#
-Q3823716#Cellular Component#
-Q3855279#Cellular Component#
-Q4006434#Cellular Component#
-Q4115114#Cellular Component#depression in the temporal bone that articulates with the mandibular condyle
-Q4115340#Cellular Component#
-Q4116715#Cellular Component#
-Q4117097#Cellular Component#veins that drain the posterior abdominal wall
-Q4117172#Cellular Component#
-Q4117816#Cellular Component#vein of the orbit around the eye
-Q4119770#Cellular Component#
-Q4119889#Cellular Component#
-Q4319750#Cellular Component#
-Q4381683#Cellular Component#
-Q4391932#Cellular Component#
-Q4391978#Cellular Component#
-Q4428834#Cellular Component#
-Q4459859#Cellular Component#
-Q4672545#Cellular Component#external parts of the eye including eyebrow, eyelid, and lacrimal apparatus
-Q4675817#Cellular Component#
-Q4681414#Cellular Component#gap between the adductor magnus muscle and the femur
-Q4738008#Cellular Component#
-Q4739730#Cellular Component#embrological structure connect to right ventricle and will disapper with emryology
-Q4771321#Cellular Component#
-Q4771334#Cellular Component#part of the fascial compartments of leg
-Q4771340#Cellular Component#
-Q4771341#Cellular Component#small bundle of descending fibers that connect the cerebral cortex to the spinal cord
-Q4771345#Cellular Component#
-Q4771369#Cellular Component#
-Q4771374#Cellular Component#
-Q4771397#Cellular Component#
-Q4771431#Cellular Component#
-Q4787736#Cellular Component#
-Q4809336#Cellular Component#axons that connect cortical areas within the same cerebral hemisphere
-Q4822345#Cellular Component#
-Q4860300#Cellular Component#
-Q4867297#Cellular Component#
-Q4867298#Cellular Component#
-Q4936943#Cellular Component#
-Q4973070#Cellular Component#brain area
-Q4973076#Cellular Component#
-Q4973090#Cellular Component#
-Q4973830#Cellular Component#lymph node
-Q5018678#Cellular Component#
-Q5038329#Cellular Component#
-Q5058035#Cellular Component#
-Q5065356#Cellular Component#
-Q5129640#Cellular Component#fascia above the axillary facia
-Q5145995#Cellular Component#
-Q5152886#Cellular Component#axons that connect the two hemispheres of the brain
-Q5170066#Cellular Component#
-Q5175184#Cellular Component#
-Q5185081#Cellular Component#joint connecting the cricoid cartilage and the arytenoid cartilage
-Q5194249#Cellular Component#
-Q5250368#Cellular Component#
-Q5250449#Cellular Component#
-Q5298773#Cellular Component#
-Q5298783#Cellular Component#
-Q5298785#Cellular Component#
-Q5298788#Cellular Component#
-Q5298799#Cellular Component#
-Q5306281#Cellular Component#
-Q5382068#Cellular Component#
-Q5407200#Cellular Component#One of three gyri of the temporal lobe of the brain
-Q5422040#Cellular Component#Wikimedia disambiguation page
-Q5428555#Cellular Component#
-Q5436624#Cellular Component#portion of fascia covering the saphenous opening in the thigh
-Q5454239#Cellular Component#one of the bones forming the human rib cage
-Q5505915#Cellular Component#
-Q5526873#Cellular Component#
-Q5566614#Cellular Component#
-Q5600891#Cellular Component#branch of the pterygopalatine ganglion
-Q5600920#Cellular Component#
-Q5620438#Cellular Component#brain structure in the medulla that helps coordinate movement
-Q5750543#Cellular Component#opening in the temporal bone
-Q5773169#Cellular Component#eightfold protein complex found at the center of a nucleosome core particle
+Q2038057#Cellular Component#enzyme complex of which the core is a heterodimer composed of a light (alpha) and heavy (beta) chain, and requires several other water-soluble proteins of cytosolic origin for activity
+Q2064069#Cellular Component#proteinaceous scaffold found between homologous chromosomes during meiosis
+Q2086233#Cellular Component#A specialized form of peroxisome that contains the enzymes of the glyoxylate pathway. The glyoxysome is found in some plant cells, notably the cells of germinating seeds.
+Q2310773#Cellular Component#A specialization of the endomembrane system found in some classes of dendritic spines consisting of two or more closely apposed lamellae with interspersed electron dense material.  The endomembrane component is continuous with the smooth endoplasmic
+Q2655487#Cellular Component#secretory organelle in parasitic apicomplexans
+Q2845291#Cellular Component#an intracytoplasmic membrane-bounded compartment in anaerobic ammonium oxidation (anammox) bacteria, is the site of anammox catabolism.
+Q3377952#Cellular Component#A membrane-bounded intracellular vesicle formed by maturation of an early phagosome following the ingestion of particulate material by phagocytosis; during maturation, phagosomes acquire markers of late endosomes and lysosomes.
+Q5413568#Cellular Component#Terminal inflated portion of the axon, containing the specialized apparatus necessary to release neurotransmitters. The axon terminus is considered to be the whole region of thickening and the terminal button is a specialized region of it.
+Q6481696#Cellular Component#in cellular biology, thin layer, membrane, or plate of tissue
+Q7168586#Cellular Component#A dense extracellular matrix (ECM) structure that forms around many neuronal cell bodies and dendrites late in development and is responsible for synaptic stabilization in the adult brain.
+Q7207063#Cellular Component#actin-rich adhesion structures found in certain cells
+Q7280278#Cellular Component#Protein complex that links the outer microtubule doublet of the ciliary or flagellum axoneme with the sheath that surrounds the central pair of microtubules. Composed of a stalk that attaches to each doublet microtubule and a globular structure (spok
+Q7534916#Cellular Component#A protein complex that regulates RNA degradation by the exosome complex. In Saccharomyces the complex has a heterotetrameric stoichiometry consisting of one copy each of Ski2p and Ski3 and two copies of Ski8p.
+Q14349455#Cellular Component#a lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it
+Q14633850#Cellular Component#The leaflet of the plasma membrane that faces away from the cytoplasm and any proteins embedded or anchored in it or attached to its surface.
+Q14645640#Cellular Component#A prolongation or process extending from a nerve cell, e.g. an axon or dendrite.
+Q14762605#Cellular Component#A thin cytoplasmic bridge formed between daughter cells at the end of cytokinesis. The midbody forms where the contractile ring constricts, and may persist for some time before finally breaking to complete cytokinesis.
+Q14817957#Cellular Component#The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
+Q14817968#Cellular Component#A class of nuclear body; they react against SP100 auto-antibodies (PML, promyelocytic leukemia); cells typically contain 10-30 PML bodies per nucleus; alterations in the localization of PML bodies occurs after viral infection.
+Q14818102#Cellular Component#A protein complex that is capable of associating with DNA by direct binding, or via other DNA-binding proteins or complexes, and regulating transcription.
+Q14819444#Cellular Component#A complex system of membrane-bounded compartments located between endoplasmic reticulum (ER) and the Golgi complex, with a distinctive membrane protein composition; involved in ER-to-Golgi  and Golgi-to-ER transport.
+Q14840128#Cellular Component#vesicle found in the cytoplasm of a cell
+Q14860091#Cellular Component#Any of the vesicles of the constitutive secretory pathway, which carry cargo from the endoplasmic reticulum to the Golgi, between Golgi cisternae, from the Golgi to the ER (retrograde transport) or to destinations within or outside the cell.
+Q14860436#Cellular Component#A heterodimeric complex comprising BRCA1 and BARD1, which possesses ubiquitin ligase activity and is involved in genome maintenance, possibly by functioning in surveillance for DNA damage.
+Q14860546#Cellular Component#The region of a cell situated near the base. For example, in a polarized epithelial cell, the basal surface rests on the basal lamina that separates the epithelium from other tissue.
+Q14862270#Cellular Component#The lipid bilayer surrounding a cytoplasmic vesicle.
+Q14864163#Cellular Component#Cytoskeletal structure made from intermediate filaments, typically organized in the cytosol as an extended system that stretches from the nuclear envelope to the plasma membrane. Some intermediate filaments run parallel to the cell surface, while oth
+Q14864208#Cellular Component#A small (70-100 nm) cytoplasmic granule that contains a number of centrosomal proteins; centriolar satellites traffic toward microtubule minus ends and are enriched near the centrosome.
+Q14864742#Cellular Component#A triglyceride-rich lipoprotein particle that is typically composed of APOB100, APOE and APOCs and has a density of about 1.006 g/ml and a diameter of between 20-80 nm. It is found in blood and transports endogenous products (newly synthesized choles
+Q14864851#Cellular Component#Fibers, composed of actin, myosin, and associated proteins, found in cells of smooth or striated muscle.
+Q14864960#Cellular Component#A protein complex located in the mitochondrial inner membrane that forms part of the mitochondrial respiratory chain. Contains the four polypeptide subunits of succinate dehydrogenase, flavin-adenine dinucleotide and iron-sulfur. Catalyzes the oxidat
+Q14865110#Cellular Component#The component of a plasma membrane consisting of gene products and protein complexes that penetrate the external side of the plasma membrane only, either directly or via some covalently attached hydrophobic anchor.
+Q14865210#Cellular Component#A hexameric protein complex consisting of two molecules each of interleukin-6, interleukin-6 receptor alpha chain, and gp-130.
+Q14865270#Cellular Component#Filaments formed of actin and associated proteins; attached to Z discs at either end of sarcomeres in myofibrils.
+Q14865294#Cellular Component#Any multimeric complex connected to a microtubule.
+Q14865538#Cellular Component#A heterotetrameric AP-type membrane coat adaptor complex that consists of alpha, beta2, mu2 and sigma2 subunits, and links clathrin to the membrane surface of a vesicle, and the cargo receptors during receptor/clathrin mediated endocytosis. Vesicles
+Q14872726#Cellular Component#The lipid bilayer surrounding a recycling endosome.
+Q14873267#Cellular Component#A cell junction that forms a connection between two or more cells in a multicellular organism; excludes direct cytoplasmic junctions such as ring canals.
+Q14878180#Cellular Component#A lipoprotein particle with a high density (typically 1.063-1.21 g/ml) and a diameter of 5-10 nm that contains APOAs and may contain APOCs and APOE; found in blood and carries lipids from body tissues to the liver as part of the reverse cholesterol t
+Q14878287#Cellular Component#Any of the thin, flattened membrane-bounded compartments that form the central portion of the Golgi complex.
+Q14881714#Cellular Component#A collagen trimer containing alpha(I) chains. The most common form of type I collagen is a heterotrimer containing two alpha1(I) chains and one alpha2(I) chain; homotrimers containing three alpha1(I) chains are also found. Type I collagen triple heli
+Q14886885#Cellular Component#A protein complex that interacts with the carboxy-terminal domain of the largest subunit of RNA polymerase II and plays an active role in transducing the signal from a transcription factor to the transcriptional machinery. The mediator complex is req
+Q14902226#Cellular Component#The Y-shaped region of a nuclear replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
+Q14902517#Cellular Component#The lipid bilayer surrounding a transport vesicle.
+Q14904869#Cellular Component#The lipid bilayer surrounding a late endosome.
+Q14904871#Cellular Component#A transmembrane protein complex composed of an MHC class II alpha and MHC class II beta chain, and with or without a bound peptide or polysaccharide antigen.
+Q14905128#Cellular Component#The component of the organelle membrane consisting of the gene products having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q14905221#Cellular Component#The lipid bilayer surrounding a symbiont-containing vacuole, derived from both the host and symbiont.
+Q14905365#Cellular Component#A protein complex that consists of members of the Bcl-2 family of anti- and proapoptotic regulators. Bcl-2 proteins respond to cues from various forms of intracellular stress, such as DNA damage or cytokine deprivation, and interact with opposing fam
+Q14905631#Cellular Component#A region of an axon near a node of Ranvier that is between the paranode and internode regions.
+Q14905695#Cellular Component#Any triple helical collagen trimer that forms fibrils.
+Q14905776#Cellular Component#The apical end of the lateral plasma membrane of epithelial cells.
+Q14906187#Cellular Component#A heterodimeric protein complex that is composed of cardiotrophin-like cytokine factor 1 (product of the CLCF1 gene) and cytokine receptor-like factor 1 (product of the CRLF gene) and is secreted into the extracellular space. The CRLF-CLCF1 complex i
+Q14906302#Cellular Component#An axon part that is located adjacent to the nodes of Ranvier and surrounded by lateral loop portions of myelin sheath.
+Q14907283#Cellular Component#The component of the mitochondrial membrane consisting of the gene products having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q14907422#Cellular Component#A heterodimeric protein complex containing Toll-like receptor 2 (TLR2) and Toll-like receptor 6 (TLR6).
+Q14907614#Cellular Component#A receptor complex that consists of two identical subunits and binds growth hormone.
+Q14907913#Cellular Component#A network of membrane-bounded compartments found in blood platelets, where they regulate platelet activation by sequestering or releasing calcium. The dense tubular network exists as thin elongated membranes in resting platelets, and undergoes a majo
+Q14907916#Cellular Component#A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and tissue-type plasminogen activator (PLAT); formation of the complex inhibits the serine protease activity of tissue-type plasminogen activator.
+Q14908083#Cellular Component#A protein complex that contains the proteins MMS19, MIP18 and XPD, localizes to mitotic spindle during mitosis, and is required for proper chromosome segregation.
+Q14908147#Cellular Component#The part of the cytoskeleton composed of spectrin, protein 4.1 and ankyrin. Spectrin-associated cytoskeleton is associated with the plasma membrane.
+Q14908160#Cellular Component#The portion of the plasma membrane surrounding a dendritic spine.
+Q14908184#Cellular Component#A myosin complex containing two class II myosin heavy chains, two myosin essential light chains and two myosin regulatory light chains. Also known as classical myosin or conventional myosin, the myosin II class includes the major muscle myosin of ver
+Q14908513#Cellular Component#A spindle that forms as part of mitosis. Mitotic and meiotic spindles contain distinctive complements of proteins associated with microtubules.
+Q14911668#Cellular Component#A heterodimer involved in the recognition and repair of base-base and small insertion/deletion mismatches. In human the complex consists of two subunits, MSH2 and MSH6.
+Q14912052#Cellular Component#A protein complex that comprises four pore-forming (Kir6.x) and four regulatory sulphonylurea receptor (SURx) subunits and forms a transmembrane channel through which ions may pass. The opening and closing of the channel is regulated by ATP: binding
+Q14912796#Cellular Component#The component of the peroxisomal membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q14912978#Cellular Component#region of a mitochondrion to which the DNA is confined
+Q14914020#Cellular Component#The portion of the photoreceptor cell cilium linking the photoreceptor inner and outer segments. It's considered to be equivalent to the ciliary transition zone.
+Q14914113#Cellular Component#A cytoplasmic protein complex that contains integrin, mobilferrin and a flavin monooxygenase, is capable of reducing Fe(III) to Fe(II) utilizing NADPH, and is involved in iron transport. Fe(II) is required in the cell as the substrate for ferrochelat
+Q14914387#Cellular Component#A ribonucleoprotein complex containing small nucleolar RNA of the box C/D type that can carry out ribose-2'-O-methylation of target RNAs.
+Q14916256#Cellular Component#Protein complex that mediates editing of the mRNA encoding apolipoprotein B; catalyzes the deamination of C to U (residue 6666 in the human mRNA). Contains a catalytic subunit, APOBEC-1, and other proteins (e.g. human ASP; rat ASP and KSRP).
+Q15238425#Cellular Component#Omega-shaped (as in the Greek capital letter) intracellular membrane-bounded organelle enriched in phosphatidylinositol 3-phosphate and dynamically connected to the endoplasmic reticulum. Omegasomes are the first step of the formation of autophagosom
+Q15316708#Cellular Component#Any complex that acts to move proteins or RNAs into or out of the nucleus through nuclear pores.
+Q15321540#Cellular Component#A neuron projection that is found in unipolar neurons and corresponds to the region between the cell body and the point at which the single projection branches.
+Q15326411#Cellular Component#A ubiquitin ligase complex in which a cullin from the Cul4A subfamily and a RING domain protein form the catalytic core; substrate specificity is conferred by an adaptor protein.
+Q15329724#Cellular Component#A protein complex that possesses nucleotide-dependent protein kinase activity. The nucleotide can be AMP (in S. pombe and human) or ADP (in S. cerevisiae).
+Q17156451#Cellular Component#transmembrane signalling receptor complex found exclusively on platelets
+Q21095104#Cellular Component#The component of the plasma membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor th
+Q21095125#Cellular Component#Area of the cilium (also called flagellum) where the basal body and the axoneme are anchored to the plasma membrane. The ciliary base encompasses the distal part of the basal body, transition fibers and transition zone and is structurally and functio
+Q21095257#Cellular Component#A transcription factor complex that acts at promoters of genes transcribed by RNA polymerase II.
+Q21095264#Cellular Component#An integrin complex that comprises one alpha1 subunit and one beta1 subunit.
+Q21096376#Cellular Component#An integrin complex that comprises one alphav subunit and one beta3 subunit.
+Q21097159#Cellular Component#An assembly of four or five subunits which form a structure with an extracellular N-terminus and a large loop that together form the ligand binding domain. The C-terminus is intracellular. The ionotropic glutamate receptor complex itself acts as a li
+Q21097232#Cellular Component#An integrin complex that comprises one alphav subunit and one beta5 subunit.
+Q21097575#Cellular Component#The lipid bilayer surrounding an autophagosome, a double-membrane-bounded vesicle in which endogenous cellular material is sequestered.
+Q21100335#Cellular Component#A multisubunit complex that binds to the canonical AAUAAA hexamer and to U-rich upstream sequence elements on the pre-mRNA, thereby stimulating the otherwise weakly active and nonspecific polymerase to elongate efficiently RNAs containing a poly(A) s
+Q21100386#Cellular Component#A protein complex whose core components are the receptor-interacting serine/threonine-protein kinases RIPK1 and RIPK3 (also called RIP1 and RIP3). Formation of the ripoptosome can induce an extrinsic apoptotic signaling pathway or a necroptotic signa
+Q21100681#Cellular Component#A ubiquitin ligase complex in which a cullin from the Cul3 subfamily and a RING domain protein form the catalytic core; substrate specificity is conferred by a BTB-domain-containing protein.
+Q21100807#Cellular Component#The coat found on coated pits and the coated vesicles derived from coated pits; comprises clathrin and the AP-2 adaptor complex.
+Q21100990#Cellular Component#The Golgi cisterna farthest from the endoplasmic reticulum; the final processing compartment through which proteins pass before exiting the Golgi apparatus; the compartment in which N-linked protein glycosylation is completed.
+Q21101017#Cellular Component#A ubiquitin ligase complex in which a cullin from the Cul4 family and a RING domain protein form the catalytic core; substrate specificity is conferred by an adaptor protein.
+Q21101038#Cellular Component#A heptameric complex related to replication factor C, which loads the DNA polymerase processivity factor proliferating cell nuclear antigen (PCNA) onto DNA and plays a vital role in chromosome cohesion. In Saccharomyces the subunits are known as Ctf1
+Q21101183#Cellular Component#A filamentous, cage-like assembly on the nuclear face of the nuclear pore complex (NPC). In S. cerevisiae, Mlp1p and Mlp2p are two major components of the NPC nuclear basket. In vertebrates, Tpr is a major component.
+Q21101239#Cellular Component#A DNA recombinase mediator complex that contains the Rad51 paralogs RAD51B, RAD51C, RAD51D, and XRCC2, or orthologs thereof.
+Q21101313#Cellular Component#A protein complex involved in the catalysis of the formation of the modified nucleotide 1-methyladenosine (m1A) in tRNA. In yeast, it is a heterotetramer of two subunits, Gcd10p and Gcd14p, while in bacteria and archaea it is a homotetramer.
+Q21101944#Cellular Component#Any ubiquitin ligase complex in which the catalytic core consists of a member of the cullin family and a RING domain protein; the core is associated with one or more additional proteins that confer substrate specificity.
+Q21102182#Cellular Component#An enzyme complex that catalyzes the ligation of glutamate to cysteine, forming glutamylcysteine.
+Q21102382#Cellular Component#The component of the Golgi membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor tha
+Q21102485#Cellular Component#A collagen heterotrimer containing type IX alpha chains in alpha1(IX)alpha2(IX)alpha3(IX) trimers; type IX collagen triple helices associate to form a structure that links glycosaminoglycans to type II collagen fibrils.
+Q21102520#Cellular Component#a small membranous protrusion, often ending in a bulbous head and attached to the neuron by a narrow stalk or neck
+Q21102543#Cellular Component#A protein complex that functions in the retrotranslocation step of ERAD (ER-associated protein degradation), and includes at its core Derlin-1 oligomers forming a retrotranslocation channel.
+Q21103248#Cellular Component#A  multisubunit tethering complex of the CATCHR family (complexes associated with tethering containing helical rods) that has a role in tethering vesicles to the Golgi prior to fusion. In yeast, this complex is called the Sec34/35 complex and is comp
+Q21103259#Cellular Component#The Golgi cisterna closest to the endoplasmic reticulum; the first processing compartment through which proteins pass after export from the ER.
+Q21103332#Cellular Component#Any microtubule in the nucleus of a cell.
+Q21103371#Cellular Component#A protein complex that binds interleukin-23 and that consists of, at a minimum, a dimeric interleukin and its two receptor subunits as well as optional additional kinase subunits.
+Q21104622#Cellular Component#A laminin complex composed of alpha1, beta1 and gamma1 polypeptide chains.
+Q21104727#Cellular Component#A dense network of actin filaments found beneath the apical cell surface of hair cells, and into which stereocilia are inserted.
+Q21104759#Cellular Component#The membrane of the perinuclear endoplasmic reticulum, which is the portion of endoplasmic reticulum, the intracellular network of tubules and cisternae, that occurs near the nucleus.
+Q21105416#Cellular Component#A region of the cilium between the basal body and proximal segment that is characterized by Y-shaped assemblages that connect axonemal microtubules to the ciliary membrane. The ciliary transition zone appears to function as a gate that controls cilia
+Q21105443#Cellular Component#A ciliary basal body that is part of a kinocilium.
+Q21105668#Cellular Component#A protein complex that forms a transmembrane channel through which cations ions may pass in response to an intracellular cyclic nucleotide binding to the channel complex or one of its constituent parts.
+Q21105769#Cellular Component#A conserved heterotrimeric protein complex that promotes histone H3 and H4 deposition onto newly synthesized DNA during replication or DNA repair; specifically facilitates replication-dependent nucleosome assembly with the major histone H3 (H3.1). In
+Q21105795#Cellular Component#A dimer consisting of an alpha and a beta-subunit that imports proteins with an NLS into the nucleus through a nuclear pore.
+Q21105805#Cellular Component#A spliceosomal complex that is formed by association of the 5' splice site and the branch point sequence with specific snRNPs. The prespliceosome includes many proteins in addition to those found in the bound snRNPs. Commitment to a given pair of 5'
+Q21106365#Cellular Component#The lipid bilayer surrounding a clathrin-coated vesicle.
+Q21107481#Cellular Component#Any part of a cell where non-isotropic growth takes place.
+Q21107581#Cellular Component#A histone acetyltransferase complex that catalyzes the acetylation of a histone H4 lysine residue at position 16. In human, it contains the catalytic subunit MOF, and MSL1, MSL2 and MSL3.
+Q21107900#Cellular Component#A laminin complex composed of alpha1, beta2 and gamma1 polypeptide chains.
+Q21108295#Cellular Component#A prolongation or process extending from a glial cell.
+Q21108530#Cellular Component#A protein complex that binds to heme and to pri-miRNAs, and is required for the formation of a pre-microRNA (pre-miRNA), the initial step of microRNA (miRNA) biogenesis. The complex is composed of the double-stranded-RNA-specific RNase Drosha (also c
+Q21108654#Cellular Component#A protein complex formed by the association of several methylated Sm proteins with the SMN complex; the latter contains the survival motor neuron (SMN) protein and at least eight additional integral components, including the Gemin2-8 and unrip protei
+Q21108875#Cellular Component#A transcriptional repressor complex that contains the lin-9, lin-35, lin-37, lin-52, lin-53, lin-5is involved in 4-, dpl-1 and efl-1 proteins, and is involved in cell fate specification.
+Q21108917#Cellular Component#A mitochondrial protein complex with 3' to 5' exoribonuclease activity that participates in intron-independent turnover and processing of mitochondrial transcripts. In humans, the mitochondrial degradosome is a pentameric complex, and in yeast it exi
+Q21109588#Cellular Component#A conserved heterotrimeric complex that binds nonspecifically to single-stranded DNA and is required for multiple processes in eukaryotic DNA metabolism, including DNA replication, DNA repair, and recombination. In all eukaryotic organisms examined t
+Q21109704#Cellular Component#A protein-DNA complex assembled at eukaryotic DNA replication origins during late mitosis and G1, allowing the origin to become competent, or 'licensed', for replication. The complex normally includes the origin recognition complex (ORC), Cdc6, Cdt1
+Q21109715#Cellular Component#A complex composed of RNA of the small nuclear RNA (snRNA) class and protein, found in the nucleus of a eukaryotic cell. These are typically named after the snRNA(s) they contain, e.g. U1 snRNP or U4/U6 snRNP. Many, but not all, of these complexes ar
+Q21110186#Cellular Component#A SAGA-type histone acetyltransferase complex that contains Spt8 (in budding yeast) or a homolog thereof; additional polypeptides include Spt group, consisting of Spt7, Spt3, and Spt20/Ada5, which interact with the TATA-binding protein (TBP); the Ada
+Q21110470#Cellular Component#All non-F1 subunits of the mitochondrial hydrogen-transporting ATP synthase, including integral and peripheral mitochondrial inner membrane proteins.
+Q21110523#Cellular Component#A protein complex that is located at the ciliary transition zone and consists of several proteins some of which are membrane bound. Acts as an organiser of transition zone inner structure, specifically the Y-shaped links, in conjunction with the NPHP
+Q21111216#Cellular Component#A specialized neuron projection which is the site of synaptic transmission produced by retinal rod cells. Rod spherules are small round enlargements of the axon (3-5 micrometers diameter) or even extensions of the cell body.
+Q21111251#Cellular Component#A trimeric protein complex required for the formation of a mature RNA-induced silencing complex (RISC). In humans the complex is composed of the endonuclease Dicer (DICER1), TRBP (TARBP2) and the Argonaute protein Ago2 (EIF2C2/AGO2). Within the compl
+Q21111575#Cellular Component#A multiprotein subcomplex of GATOR that regulates mTOR signaling by interacting with the Rag GTPases. In humans this complex consists of Mios, WDR24, WDR59, Seh1L, Sec13.
+Q21111804#Cellular Component#A proteasome specifically found in mammalian testis. Contains the proteasome activator PA200 in the regulatory particle, and beta1i, beta2i, beta5i and/or alpha4s in the core (20S) subunit. Beta1i, beta2i and beta5i are inducible catalytic subunits,
+Q21112125#Cellular Component#A ubiquitin ligase complex that catalyzes linear head-to-tail polyubiquitin conjugation on its targets. In human the complex consists of RBCK1, RNF31 and SHARPIN, and has an MW of approximately 600 kDa, suggesting a heteromultimeric assembly of its s
+Q21112745#Cellular Component#A transcriptional repressor complex that consists of a heterodimer of the proteins Tle3 (also known as Grg3b) and Aes (Grg5), which are homologs of the Drosophila groucho gene product.
+Q21112786#Cellular Component#A ribonuclease complex that has 3-prime to 5-prime processive and distributive hydrolytic exoribonuclease activity and endoribonuclease activity, producing 5-prime-phosphomonoesters. Participates in a multitude of cellular RNA processing and degradat
+Q21113308#Cellular Component#A transport vesicle that mediates transport from the endosome to the plasma membrane, and fuses with the plasma membrane to deliver lipids and membrane proteins to the plasma membrane  and to release various cargo molecules, such as proteins or hormo
+Q21114509#Cellular Component#A specialized secretory organelle found in keratinocytes and involved in the formation of an impermeable, lipid-containing membrane that serves as a water barrier and is required for correct skin barrier function.
+Q21114573#Cellular Component#A protein complex which is capable of GABA receptor activity. Upon binding of gamma-aminobutyric acid (GABA) it transmits the signal from one side of the membrane to the other to initiate a change in cell activity. Major inhibitory receptor in verteb
+Q21115739#Cellular Component#A protein complex, located in the nucleus, that possesses activity that prevents or downregulates transcription from a RNA polymerase II promoter.
+Q21116335#Cellular Component#A protein complex consisting of cyclin Kand cyclin-dependent kinase 13 (CDK13). Cyclins are characterized by periodicity in protein abundance throughout the cell cycle. Cyclin-dependent kinases represent a family of serine/threonine protein kinases t
+Q21116795#Cellular Component#Transcription factor complex consisting of ATF1 and ATF4 subunits that is capable of binding to cAMP response element (CRE) (consensus: 5'-GTGACGT[AC][AG]-3') of the GRP78 (HSPA5) promoter. Involved in the ER stress response pathway.
+Q21116806#Cellular Component#A heterodimeric transcription factor complex that is composed of CHOP (C/EBP homology protein, GADD153) and ATF4 (activating transcription factor 4, also known as cAMP response element binding protein-2/CREB-2) subunits.
+Q21117578#Cellular Component#The volume enclosed within the vacuolar membrane.
+Q21118152#Cellular Component#A protein complex that possesses protein farnesyltransferase activity.
+Q21118196#Cellular Component#A protein complex whose composition varies amongst species; in rice it probably exists in a homo-tetramer to homo-hexamer form and in Gram-negative bacteria as a dimer. Functions in the hydrolysis of alpha-(1,6)-D-glucosidic branch linkages.
+Q21118392#Cellular Component#Part of the 9+2 axoneme, that occurs in most motile cilia, consisting of the projections off of the central pair of single microtubules.
+Q21118854#Cellular Component#The component of a mitochondrial outer membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.
+Q21119813#Cellular Component#A protein complex which is capable of inward rectifier potassium channel activity.
+Q21120467#Cellular Component#A ribonucleoprotein complex that contains an RNA molecule of the snoRNA family, and cleaves the rRNA precursor as part of rRNA transcript processing. It also has other roles: In S. cerevisiae it is involved in cell cycle-regulated degradation of daug
+Q21120613#Cellular Component#A transmembrane protein complex composed of a MHC class Ib alpha chain and, in most cases, an invariant beta2-microglobin chain, and with or without a bound peptide or lipid antigen. Class Ib here refers to non-classical class I molecules, such as th
+Q21121479#Cellular Component#Proximal part of the ciliary shaft to which the inversin protein (also called Inv) specifically localizes. The inversin compartment appears to have a different protein composition than the rest of the cilium, although there is no structure that separ
+Q21121730#Cellular Component#A dimeric protein complex that contains the co-factors for the ATPase VCP/p97 (Cdc48p in budding yeast). In mammals, this complex consists of UFD1L (UFD1) and NPLOC4 (NPL4). In budding yeast, the complex is a dimer of Ufd1p and Npl4p.
+Q21123571#Cellular Component#A quatrefoil tethering complex required for retrograde traffic from the early endosome back to the late Golgi and biogenesis of cytoplasmic vesicles.
+Q21123938#Cellular Component#A dense aggregation in the nucleus composed of proteins and RNAs that appear when the cell is under stress.
+Q21125256#Cellular Component#A ribonucleoprotein particle of 325 kDa composed of a 7S (300 nucleotide) RNA molecule and a complex of six different polypeptides. This binds both to the N-terminal signal peptide for proteins destined for the endoplasmic reticulum as they emerge fr
+Q21125486#Cellular Component#A complex that functions in anterograde transport at the Golgi and also regulates autophagy. In yeast it includes at least the following subunits: Bet3 (as homodimer), Bet5, Trs20, Trs23, Trs31, Trs33, Trs85. TRAPPIII may include further, as yet unde
+Q21126887#Cellular Component#The component of an lysosome membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.
+Q21130468#Cellular Component#An endocytic patch  that consists of an actin-containing structure found at the plasma membrane in cells; formed of networks of branched actin filaments that lie just beneath the plasma membrane and assemble, move, and disassemble rapidly. An example
+Q21132801#Cellular Component#A multifactor complex composed of multiple translation initiation factors and the initiatior tRNAiMet, which is ready to bind to the small (40S) ribosome to form the 43S preinitiation complex. In S. cerevisiae, this complex is composed of eIF1, eIF2,
+Q21135214#Cellular Component#The portion of the plasma membrane surrounding a pseudopodium.
+Q21155600#Cellular Component#The side (leaflet) of the apical region of the plasma membrane that faces the cytoplasm.
+Q21198640#Cellular Component#The smaller of the two subunits of a ribosome.
+Q21199249#Cellular Component#The peptidoglycan layer of the Gram-negative cell envelope. In Gram-negative cells the peptidoglycan is relatively thin (1-2nm) and is linked to the outer membrane by lipoproteins. In Gram-negative cells the peptidoglycan is too thin to retain the pr
+Q21418859#Cellular Component#A large, extracellular glycoprotein complex composed of three different polypeptide chains, alpha, beta and gamma. Provides an integral part of the structural scaffolding of basement membranes.
+Q21469807#Cellular Component#A complex that possesses dolichyl-phosphate-mannose-protein mannosyltransferase activity; usually includes members of the PMT1 and PMT2 protein subfamilies.
+Q21483482#Cellular Component#A spliceosomal complex that is formed following the second splicing event and contains the spliced product, the excised intron, and three snRNPs, U5, U2 and U6.
+Q21484280#Cellular Component#The trimeric subcomplex of the retromer, believed to be closely associated with the membrane. This trimeric complex is responsible for recognizing and binding to cargo molecules. The complex comprises three Vps proteins in both yeast and mammalian ce
+Q21758669#Cellular Component#large protein complex that spans the cell envelope of Gram-negative bacteria and mediates the movement of proteins into the extracellular environment
+Q21759948#Cellular Component#An integral membrane complex that possesses NADH oxidoreductase activity. The complex is one of the components of the electron transport chain. It catalyzes the transfer of a pair of electrons from NADH to a quinone.
+Q21761612#Cellular Component#The portion of the flagellum that connects the filament to the basal body. Examples of this component are found in bacteria.
+Q21762926#Cellular Component#One of the rings of the flagellar basal body; anchors the basal body to the peptidoglycan layer. Examples of this component are found in bacteria.
+Q21763206#Cellular Component#A DNA helicase complex that forms part of a Holliday junction resolvase complex, where the helicase activity is involved in the migration of the junction branch point. The best-characterized example is the E. coli RuvAB complex, in which a hexamer of
+Q21972314#Cellular Component#The protein complexes that form the mitochondrial electron transport system (the respiratory chain), associated with the inner mitochondrial membrane. The respiratory chain complexes transfer electrons from an electron donor to an electron acceptor a
+Q21972812#Cellular Component#A heterotetrameric protein complex that associates with replication origins, where it is required for the initiation of DNA replication, and with replication forks.
+Q21973270#Cellular Component#The volume enclosed by the outermost membrane of a multivesicular body.
+Q21973728#Cellular Component#A highly specialized cell-cell junction found in vertebrates, which forms between a neuron and a glial cell, and has structural similarity to Drosophila septate junctions. It flanks the node of Ranvier in myelinated nerve and electrically isolates th
+Q21978575#Cellular Component#A complex consisting of two membrane proteins and one extracytoplasmic solute receptor. Such transporters transport a variety of substrates without direct ATP power, instead using energy from ion gradients.
+Q22325201#Cellular Component#A macromolecular complex containing separate protein and carbohydrate molecules.  Separate in this context means not covalently bound to each other.
+Q22325230#Cellular Component#The Y-shaped region of a cytoplasmic replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
+Q22325236#Cellular Component#A multi-component enzymatic machine at the cytoplasmic replication fork, which mediates DNA replication. Includes DNA primase, DNA polymerase, DNA helicase, and other proteins.
+Q22325287#Cellular Component#A multiprotein complex involved in damage recognition, DNA helix unwinding, and endonucleolytic cleavage at the site of DNA damage.
+Q22325344#Cellular Component#A form of nucleosome located only at the centromere, in which the histone H3 is replaced by the variant form CENP-A (sometimes known as CenH3).
+Q22325439#Cellular Component#A macromolecular complex containing protein, DNA, and RNA molecules.
+Q22325515#Cellular Component#A collagen homotrimer of alpha1(XXVII) chains. These trimers form thin, non-striated fibrils. Type XXVII collagen triple helices play a role during the calcification of cartilage and the transition of cartilage to bone.
+Q22325595#Cellular Component#Any protein complex that is capable of carrying out some part of the process of cell-matrix adhesion.
+Q22325721#Cellular Component#A transcription factor TFIIIB-beta complex that contains the TATA-binding protein (TBP), B'' and a specialized homolog of the conserved subunit BRF referred to as BRFU or TFIIIB50, which found in human but not conserved in yeast; the complex is invol
+Q22325735#Cellular Component#A transcription factor complex that forms part of the TFIIIC complex, observed in human. The complex is poorly characterized, but contains the 250-kDa form of HsBdp1, and is thought to include nuclear factor 1 (NF1). It stimulates binding by human TF
+Q22325772#Cellular Component#A transcription factor TFIID complex that contains the TBP-associated factor TAF4B (also known as TAFII105 in human), a cell-type-specific variant of TAF4.
+Q22325810#Cellular Component#A protein complex that binds to the Swi4/6 cell cycle box (SCB) promoter element, consensus sequence CRCGAAA, and activates transcription during the G1/S transition of the cell cycle. In Saccharomyces, the complex contains a heterodimer of the DNA bi
+Q22325838#Cellular Component#A heterodimeric complex consisting of Zn(2)Cys(6) containing transcription factors Pip2 and Oaf1. It binds to the oleate response element (ORE), found in the promoters of fatty acid-inducible genes in Saccharomyces where, in the presence of oleate th
+Q22325858#Cellular Component#Transcription factor complex that inhibits binding of Tcf to beta-catenin while preserving interaction of catenin with cadherin thus inhibiting transcription mediated by beta-catenin-Tcf complex.
+Q22325884#Cellular Component#A dimeric, sequence specific DNA-binding transcription factor complex regulating the expression of genes involved in immune and inflammatory responses. Exists at least as alpha and beta homodimeric forms. Binds to regulatory regions of several acute-
+Q22325909#Cellular Component#A complex required for the transcription of rDNA by RNA polymerase I. In yeast the complex consists of Rrrn5p, Rrn9p, Rrn10p, histones H3 and H4, and Uaf30p.
+Q22326059#Cellular Component#A high molecular weight complex characterized in S. pombe containing the cell-end anchoring protein Tea1. This complex is transported to the cell ends by microtubules and is involved in bipolar growth and the maintennce of normal cell polarity.
+Q22326139#Cellular Component#The core complex of a proteasome located in the cytosol of a cell.
+Q22326144#Cellular Component#The core complex of a proteasome located in the nucleus of a cell.
+Q22326180#Cellular Component#A protein complex consisting of a steroid receptor associated with nonreceptor proteins, minimally a dimer of Hsp90 and a monomer of hsp56/FKBP59; forms in the absence of bound ligand.
+Q22326221#Cellular Component#A protein complex composed of four different subunits that possesses ADPG pyrophosphorylase activity. An example of this process is found in Mus musculus.
+Q22326280#Cellular Component#A complex of proteins that permits the translocation of proteins across the outer membrane via a transmembrane pore, formed by a beta-barrel, into the extracellular milieu or directly into host cells; the secreted proteins contain all the information
+Q22326330#Cellular Component#A transmembrane protein complex that consists of multiple methyl-accepting chemoreceptor protein subunits, a histidine kinase and a connector protein and which functions in the regulation of flagellar rotary motor activity in response to an external
+Q22326356#Cellular Component#Any protein complex that is part of a membrane.
+Q22326409#Cellular Component#A complex for the transport of metabolites into the cell, consisting of 4 subunits: a transmembrane substrate-binding protein (known as the S component), and an energy-coupling module that comprises two ATP-binding proteins (known as the A and A' com
+Q22326429#Cellular Component#Protein complex involved in cobalamin (vitamin B12) transport through the plasma membrane. In E. coli, the complex is a tetramer and consists of the cytoplasmic ATPase BtuD homodimer together with the transmembrane BtuC homodimer.
+Q22326464#Cellular Component#Protein complex that carries out the reaction: ATP + H2O + K+(out) = ADP + phosphate + K+(in). It is a high affinity potassium uptake system. The E. coli complex consists of 4 proteins: KdpA is the potassium ion translocase, KdpB is the ATPase, and K
+Q22326537#Cellular Component#A heterodimeric enzyme complex composed of two subunits, Res and Mod, that functions as an endonuclease and cleaves DNA. Cleavage will only occur when there are two un-methylated copies of a specific recognition site in an inverse orientation on the
+Q22326584#Cellular Component#A protein complex that is located in the endoplasmic reticulum membrane and cleaves the signal sequence from precursor proteins following their transport out of the cytoplasmic space.
+Q22326811#Cellular Component#An cullin-dependent E3 ubiquitin ligase/histone H3-K9 methyltransferase complex essential for heterochromatin assembly by RNAi.
+Q22326815#Cellular Component#An SCF ubiquitin ligase complex in which the F-box protein is YLR352W in S. cerevisiae.
+Q22326843#Cellular Component#An E3 ubiquitin ligase complex localized to the ER and Golgi membrane. In fission yeast comprises Dsc1, 2, 3 and 4. Involved in the processes of fission yeast sre1 (human SREBP) transcriptional activator proteolytic cleavage, the multivesicular body
+Q22326847#Cellular Component#A DNA polymerase complex that contains two UmuD' and one UmuC subunits, and acts in translesion DNA synthesis.
+Q22326855#Cellular Component#A plastid-encoded DNA-directed RNA polymerase complex that resembles eubacterial multisubunit RNA polymerases, with a core composed of alpha, beta, and beta-prime subunits. An additional subunit, a sigma factor, is required for promoter recognition.
+Q22326862#Cellular Component#A phosphatidylinositol 3-kinase complex that contains a catalytic subunit of a phosphatidylinositol 3-kinase (PI3K) enzyme and one or more adaptor proteins. There is no known obligatory regulatory subunit. The class II PI3K (PI3KC2) subfamily of gene
+Q22326876#Cellular Component#A positive transcription elongation factor complex that comprises the CDK kinase CTK1 (in budding yeast), Lsk1 (in fission yeast) (corresponding to the Panther PTHR24056:SF39 family), a cyclin and an additional gamma subunit (corresponding to the Int
+Q22326887#Cellular Component#A protein complex consisting of cyclin A2 and cyclin-dependent kinase 1 (CDK1). Cyclins are characterized by periodicity in protein abundance throughout the cell cycle. Cyclin-dependent kinases represent a family of serine/threonine protein kinases t
+Q22326889#Cellular Component#A protein complex consisting of cyclin E2 and cyclin-dependent kinase 2 (CDK2). Cyclins are characterized by periodicity in protein abundance throughout the cell cycle. Cyclin-dependent kinases represent a family of serine/threonine protein kinases t
+Q22326891#Cellular Component#A protein complex consisting of cyclin D3 and cyclin-dependent kinase 6 (CDK6). Cyclins are characterized by periodicity in protein abundance throughout the cell cycle. Cyclin-dependent kinases represent a family of serine/threonine protein kinases t
+Q22326892#Cellular Component#A protein complex consisting of cyclin D2 and cyclin-dependent kinase 6 (CDK6). Cyclins are characterized by periodicity in protein abundance throughout the cell cycle. Cyclin-dependent kinases represent a family of serine/threonine protein kinases t
+Q22326895#Cellular Component#A cyclin dependent kinase (CDK) complex that contains a kinase subunit and a regulatory cyclin subunit. An example of this complex in budding yeast S. cerevisiae consists of the Pho85 kinase and the Pho80 cyclin.
+Q22326900#Cellular Component#A protein complex which is capable of adenylyltransferase activity.
+Q22326904#Cellular Component#A protein complex having creatine kinase activity.
+Q22326913#Cellular Component#Complex that possesses imidazoleglycerol-phosphate synthase activity.
+Q22326932#Cellular Component#A protein complex that possesses methyltransferase activity.
+Q22326934#Cellular Component#A protein complex that contains eight subunits in common with the SWI/SNF complex, plus the ATPase BRG1 (SMARCA4) and the histone methyltransferase CARM1; the complex is involved in regulating nuclear receptor-dependent transcription.
+Q22326936#Cellular Component#A protein complex that can methylate lysine-4 of histone H3, and which contains either of the protein subunits MLL1 or MLL2 in human, or equivalent in other species.
+Q22326944#Cellular Component#A complex that possesses di-trans,poly-cis-decaprenylcistransferase activity; involved in ubiquinone biosynthesis.
+Q22326947#Cellular Component#A heterotetrameric complex located in the mitochondrial inner membrane that possesses di-trans,poly-cis-decaprenylcistransferase activity; involved in ubiquinone biosynthesis. In S. pombe it is a heterotetramer of Dlp1 and Dps1.
+Q22326950#Cellular Component#Heterotrimeric enzyme complex, which in humans is composed of two large subunits of the same size, and one smaller subunit. Functions in the addition of nucleotide-activated sugars onto the polypeptide.
+Q22326971#Cellular Component#A part of the respiratory chain located in the plasma membrane, containing about 10 polypeptide subunits including four redox centers: cytochrome b/b6, cytochrome c1 and an 2Fe-2S cluster. Catalyzes the oxidation of ubiquinol by oxidized cytochrome c
+Q22327000#Cellular Component#An enzyme complex that catalyzes the formation of dimethyl sulfide from dimethyl sulfoxide.
+Q22327009#Cellular Component#A protein complex capable of alkanesulfonate monooxygenase activity. Involved in the utilization of alkanesulfonates as sulfur sources under conditions of sulfate or cysteine starvation, catalyzing the conversion of alkanesulfonates into aldehydes an
+Q22327011#Cellular Component#A protein complex capable of catalyzing the conversion of taurine and alpha-ketoglutarate to sulfite, aminoacetaldehyde and succinate under sulfur or cysteine starvation conditions. Its expression is repressed by the presence of sulfate or cysteine.
+Q22327020#Cellular Component#The proteinaceous ground substance of plastids.
+Q22327026#Cellular Component#A biotin carboxylase complex located in the stroma of a plastid.
+Q22327029#Cellular Component#A protein complex facilitating transport of molecules (proteins, small molecules, nucleic acids) into, out of or within a cell, or between cells.
+Q22327047#Cellular Component#A protein complex that contains a histone deacetylase and is part of the chromatin remodeling machinery. In Saccharomyces cerevisiae this complex contains the Rpd3p, Sin3p, Ume1p, Pho23p, Sap30p, Sds3p, Cti6p, Rxt2p, Rxt3p, Dep1p, Ume6p, Ash1p, Dot6p
+Q22327061#Cellular Component#A protein complex whose composition varies amongst species; in rice it probably exists in a homo-tetramer to homo-hexamer form and in Gram negative bacteria as a dimer. Functions in the hydrolysis of alpha-(1,6)-D-glucosidic branch linkages. Isoamyla
+Q22327062#Cellular Component#A protein complex that is located in the cytosol and contains one or more cysteine-type endopeptidases (also called caspases), which give the complex a peptidase activity with specificity for the hydrolysis of aspartyl bonds. These complexes may be i
+Q22327076#Cellular Component#A protein serine/threonine phosphatase complex that in S. pombe consists of the proteins Dis2, Ppn1, and Swd22.
+Q22327123#Cellular Component#One of two stalks that connect the catalytic core of the hydrogen-transporting ATP synthase to the mitochondrial membrane-associated F0 proteins; is thought to prevent futile rotation of the catalytic core.
+Q22327133#Cellular Component#A protein complex that consists of a catalytic alpha subunit (alpha-MPP) and a regulatory beta subunit (beta-MPP), and catalyzes the release of N-terminal targeting peptides from precursor proteins imported into the mitochondrion.
+Q22327146#Cellular Component#Transmembrane complex that mediates resistance to copper and silver by cation efflux directly from the cell using the proton-motive force. Spans the inner membrane, periplasm, and outer membrane. Primarily activated under anaerobic conditions by CusR
+Q22327152#Cellular Component#The MacAB-TolC complex is a macrolide transporter complex found in E.coli and related gram-negative bacteria. Its transport activity is specific to macrolide compounds containing 14- and 15-membered lactones. It consists of the dimeric inner membrane
+Q22327186#Cellular Component#A transmembrane protein complex composed of an MHC alpha chain and, in most cases, either an MHC class II beta chain or an invariant beta2-microglobin chain, and with or without a bound peptide, lipid, or polysaccharide antigen.
+Q22327191#Cellular Component#A protein complex that binds interleukin-9; comprises an alpha and a beta subunit. The alpha chain is specific to the interleukin-9 receptor, whereas the beta chain is shared with the receptors for several other interleukins.
+Q22327192#Cellular Component#protein complex that binds interleukin-3 that comprises an alpha and a beta subunit
+Q22327211#Cellular Component#A transmembrane, G-protein-coupled signalling receptor complex which is capable of adrenomedullin receptor activity.
+Q22327224#Cellular Component#An IgA immunoglobulin complex that is present in the plasma membrane of B cells and is composed of two identical immunoglobulin heavy chains of an IgA isotype and two identical immunoglobulin light chains and a signaling subunit, a heterodimer of the
+Q22327241#Cellular Component#A proton-transporting two-sector ATPase complex found in the plasma membrane.
+Q22327242#Cellular Component#A protein complex that consists of an alphav-beta3 integrin complex bound to high mobility group box 1 protein.
+Q22327249#Cellular Component#A proton-transporting ATP synthase complex found in the plasma membrane. Examples of this component are found in Bacterial species.
+Q22327251#Cellular Component#All non-F1 subunits of the plasma membrane hydrogen-transporting ATP synthase, including integral and peripheral plasma membrane proteins.
+Q22327254#Cellular Component#A protein complex that consists of an alpha6-beta4 integrin complex bound to laminin 5.
+Q22327275#Cellular Component#A protein complex that is formed by the association of the Notch ligand Delta1 with the gamma-secretase complex.
+Q22327276#Cellular Component#A protein complex that consists of homodimer of the Notch ligand Delta1.
+Q22327282#Cellular Component#A protein complex formed upon binding of TRAIL to its ligand. The complex includes FADD/Mort1 and procaspase-8 addition to the ligand-bound receptor.
+Q22327295#Cellular Component#A protein complex containing a secreted Wnt protein associated with its receptor, Frizzled (Fz), and co-receptor low density lipoprotein receptor-related protein 5 (LRP5) or LRP6.
+Q22327305#Cellular Component#A protein complex that consists of an alpha9-beta1 integrin complex bound to the transmembrane metallopeptidase ADAM2.
+Q22327317#Cellular Component#A protein complex that consists of an alphaV-beta3 integrin complex bound to tissue transglutaminase.
+Q22327327#Cellular Component#A protein complex that consists of an alpha3-beta1 integrin complex bound to the cell surface protein basigin.
+Q22327337#Cellular Component#A protein complex that consists of an alphaIIb-beta3 integrin complex bound to fibronectin and tissue transglutaminase.
+Q22327348#Cellular Component#The protein complex associated with the plasma membrane of certain plant cells (e.g. root cortex, epidermal cells) that functions to transport auxin out of the cell.
+Q22327360#Cellular Component#A protein complex that consists of an alphaX-beta2 integrin complex bound to intercellular adhesion molecule 4
+Q22327362#Cellular Component#A protein complex that consists of an alpha9-beta1 integrin complex bound to thrombospondin-1.
+Q22327381#Cellular Component#A protein complex composed of two identical immunoglobulin heavy chains of the IgD isotype and two identical immunoglobulin light chains, held together by disulfide bonds, and present in the extracellular space, in mucosal areas or other tissues, or
+Q22327400#Cellular Component#A protein complex that is a protein hormone secreted by gonadotrope cells of the anterior pituitary of vertebrates. capable of regulating normal growth, sexual development, and reproductive function.
+Q22327429#Cellular Component#Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane. Includes ribosomes, the cytoskeleton and chromosomes.
+Q22327433#Cellular Component#Any constituent part of the host cell cytoplasm, all of the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures. The host is defined as the larger of the organisms involved in a symbiotic interacti
+Q22327440#Cellular Component#A laminin complex composed of alpha2, beta2 and gamma1 polypeptide chains.
+Q22327474#Cellular Component#The component of the synaptic vesicle membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI
+Q22327481#Cellular Component#Terminal inflated portion of the axon of a glutamatergic neuron, containing the specialized apparatus necessary for the tonic release neurotransmitters that will induce the contraction of muscle. Type Ib terminal boutons are larger than type Is termi
+Q22327488#Cellular Component#Synaptic bouton found in the ventral horn of the spinal cord. F boutons range in diameter from 0.5 to 7 um and contain flattened or pleomorphic synaptic vesicles.
+Q22327490#Cellular Component#Synaptic bouton found in the ventral horn of the spinal cord. S boutons range in diameter from 0.5 to 8 um and contain spherical synaptic vesicles.
+Q22327513#Cellular Component#A network of proteins within and adjacent to the postsynaptic membrane. Its major components include neurotransmitter receptors and the proteins that spatially and functionally organize them such as anchoring and scaffolding molecules, signaling enzy
+Q22327517#Cellular Component#The portion of the cytoskeleton contained within the presynapse.
+Q22327523#Cellular Component#A region that surrounds the active zone of the presynaptic plasma membrane, and is specialized for the control of synaptic development.
+Q22327596#Cellular Component#A synapse of a mossy fiber onto the dendrite of a granule cell; each mossy fiber can have up to 50 rosettes.
+Q22327613#Cellular Component#A cell junction that mechanically attaches a cell (and its cytoskeleton) to neighboring cells or to the extracellular matrix.
+Q22327619#Cellular Component#The membrane of the endoplasmic reticulum tubular network.
+Q22327620#Cellular Component#The part of the sarcoplasmic reticulum membrane that contains calcium pumps and is devoted to calcium uptake. The free sarcoplasmic reticulum membrane consists of the longitudinal sarcoplasmic reticulum membrane and the non-junctional region of the t
+Q22327627#Cellular Component#The side (leaflet) of the lysosomal membrane that faces the lumen.
+Q22327632#Cellular Component#The side (leaflet) of the smooth endoplasmic reticulum membrane that faces the lumen.
+Q22327633#Cellular Component#The side (leaflet) of the rough endoplasmic reticulum membrane that faces the lumen.
+Q22327640#Cellular Component#The side of a membrane that faces the cytoplasm.
+Q22327666#Cellular Component#The portion of the plasma membrane surrounding the rhabdomere.
+Q22327669#Cellular Component#Thin cylindrical membrane-covered projection on the surface of a rhabdomere.
+Q22327690#Cellular Component#The lipid bilayer surrounding an attachment organelle.  This is a region of the cell membrane facing the environment - in mycoplasma, part of the mycolate outer membrane.
+Q22327692#Cellular Component#A SNARE complex that contains syntaxin 6, syntaxin 16, and Vti1a (or orthologs thereof).
+Q22327693#Cellular Component#A SNARE complex that contains cellubrevin (VAMP3), VAMP4, endobrevin (VAMP8), and syntaxin 6 (or orthologs thereof).
+Q22327700#Cellular Component#A SNARE complex that contains synaptotagmin, synaptobrevin 2 (VAMP2), SNAP-25, syntaxin 1a, syntaxin1b, and Rab3a (or orthologs thereof).
+Q22327707#Cellular Component#A proton-transporting two-sector ATPase complex found in the lysosomal membrane, where it acts as a proton pump to mediate acidification of the lysosomal lumen.
+Q22327715#Cellular Component#The lipid bilayer surrounding a coated vesicle.
+Q22327726#Cellular Component#A sodium ion-transporting two-sector ATPase complex that couples ATP hydrolysis to the transport of sodium ions across a concentration gradient. The complex comprises a membrane sector (V0) that carries out proton transport and a cytoplasmic compartm
+Q22327753#Cellular Component#A protein complex that consists of an alpha6-beta1 integrin complex bound to CYR61, a cysteine-rich protein involved in angiogenesis.
+Q22327766#Cellular Component#A protein complex that consists of an alphaV-beta6 integrin complex bound to osteopontin.
+Q22327771#Cellular Component#A protein complex that consists of an alphaV-beta3 integrin complex bound to epidermal growth factor receptor.
+Q22327774#Cellular Component#A protein complex that consists of an alpha5-beta1 integrin complex bound to endostatin, the NC1 domain of the alpha1 chain of type XVIII collagen.
+Q22327775#Cellular Component#A protein complex that consists of an alpha9-beta1 integrin complex bound to vascular endothelial growth factor A.
+Q22327777#Cellular Component#A protein complex that consists of an alpha7-beta1 integrin complex bound to nicotinamide riboside kinase 2 (also known as muscle integrin binding protein, MIBP).
+Q22327780#Cellular Component#A protein complex that consists of an alpha9-beta1 integrin complex bound to vascular endothelial growth factor D.
+Q22327793#Cellular Component#Photosystem located in the chloroplast that functions as a light-dependent plastocyanin-ferredoxin oxidoreductase, transferring electrons from plastocyanin to ferredoxin. An example of this is found in Arabidopsis thaliana.
+Q22327838#Cellular Component#The component of the Golgi medial membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q22327858#Cellular Component#The component of the vacuolar membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor
+Q22327868#Cellular Component#The component of the nuclear outer membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI an
+Q22327870#Cellular Component#The component of the pre-autophagosomal structure membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group s
+Q22327903#Cellular Component#The space between the plasma membrane and the desmotubule of a plasmodesma.
+Q22327910#Cellular Component#The plasma membrane of a cell that bears surface projections such as axons, dendrites, cilia, or flagella, excluding the plasma membrane on cell projections.
+Q22327913#Cellular Component#The component of a plastid thylakoid membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.
+Q22327921#Cellular Component#The component of a cell outer membrane consisting of gene products and protein complexes that are loosely bound to its external surface, but not integrated into the hydrophobic region.
+Q22327936#Cellular Component#A vesicle that mediates transport from the Golgi to the endoplasmic reticulum.
+Q22327938#Cellular Component#Electron-dense organelle with a granular internal matrix found throughout the merozoite life cycle stage of apicomplexan parasites; contains proteins destined to be secreted into the parasitophorous vacuole following parasite invasion of a host cell.
+Q22327942#Cellular Component#The lipid bilayer surrounding a lamellar body. A lamellar body is a membrane-bounded organelle, specialized for the storage and secretion of various substances (surfactant phospholipids, glycoproteins and acid phosphates) which are arranged in the fo
+Q22327955#Cellular Component#A clathrin-sculpted lipid bilayer membrane-enclosed vesicle after clathrin release and containing gamma-aminobutyric acid transport vesicle.
+Q22327958#Cellular Component#The lipid bilayer surrounding a lytic vacuole and separating its contents from the cytoplasm of the cell.
+Q22327973#Cellular Component#The outer, i.e. cytoplasm-facing, lipid bilayer of the chromoplast envelope.
+Q22327980#Cellular Component#The lipid bilayer surrounding a glyoxysome.
+Q22327981#Cellular Component#A membrane-bounded organelle found in organisms from the order Kinetoplastida that houses the enzymes of glycolysis.
+Q22327993#Cellular Component#The lipid bilayer surrounding a multivesicular body internal vesicle.
+Q22327998#Cellular Component#A bacteroid-containing symbiosome in which the bacterial component is a genetically highly reduced cyanobacterium that is photosynthetically active and incapable of an independent existence outside its host. The chromatophore functions as a photosynt
+Q22328015#Cellular Component#A double layer of lipid molecules that surrounds an ascus, a capsule containing the sexual spores in some fungi.
+Q22328034#Cellular Component#The enclosed volume within a sealed membrane or between two sealed membranes. Encompasses the volume enclosed by the membranes of a particular organelle, e.g. endoplasmic reticulum lumen, or the space between the two lipid bilayers of a double membra
+Q22328056#Cellular Component#The volume enclosed by the membranes of a glyoxysome.
+Q22328100#Cellular Component#A structure that lies outside the plasma membrane and surrounds the egg. The fertilization envelope forms from the vitelline membrane after fertilization as a result of cortical granule release.
+Q22328107#Cellular Component#A septum or cross wall which does not entirely span the space between two portions of cell wall and may contain a specialized central pore structure. A porous septum allows the movement of organelles and/or cytoplasm between compartments.
+Q22328119#Cellular Component#The region between the plasma membrane and the cell wall, as found in organisms such as filamentous fungi.
+Q22328125#Cellular Component#A cilium (also called flagellum) found in Giardia species (trophozoite stage). It is nucleated by the right caudal basal body, extending cytoplasmically and exiting at the posterior end of the cell body.
+Q22328127#Cellular Component#A cilium (also called flagellum) found in Giardia species (trophozoite stage). It is nucleated by the right ventral basal body and exits the cell body proximally and dorsal to the ventral disc.
+Q22328134#Cellular Component#A cell projection supported by an assembly of actin filaments, and which lacks microtubules.
+Q22328137#Cellular Component#A thin, stiff protrusion extended by the leading edge of an axonal or dendritic growth cone.
+Q22328142#Cellular Component#A long, thin, polarized cell projection that contains actin and can extend for distances many times the diameter of the cell. Cytonemes represent extensions of cell cytoplasm and typically have a diameter of approximately 0.2um.
+Q22328144#Cellular Component#A long, thin cell projection that contains F-actin and tubulin, with microtubules centrally located and F-actin peripherally located.
+Q22328409#Cellular Component#A cohesin complex required for cohesion between sister chromatids that remain in the nucleus.
+Q22328434#Cellular Component#A protein complex that contains DNA ligase III, DNA polymerase epsilon, a 5'-3' exonuclease, and the SMC1 and SMC2 proteins, and is involved in recombinational repair of deletions and gaps in DNA.
+Q22328439#Cellular Component#A multiprotein complex that functions as a mitotic checkpoint inhibitor of the anaphase-promoting complex/cyclosome (APC/C). In budding yeast this complex consists of Mad2p, Mad3p, Bub3p and Cdc20p, and in mammalian cells it consists of MAD2, BUBR1,
+Q22328445#Cellular Component#The subcomplex of the proteasome regulatory particle that directly associates with the proteasome core complex located in the cytosol of the cell.
+Q22328457#Cellular Component#An Isw1 complex that binds DNA and has nucleosome-stimulated ATPase activity. In S. cerevisiae, contains an Isw1p ATPase subunit in complex with Ioc2p and Ioc4p.
+Q22328469#Cellular Component#Any of several protein complexes required for the biogenesis of specialized organelles of the endosomal-lysosomal system, such as melanosomes, platelet dense granules, and other related organelles; acronym for biogenesis of lysosomal-related organell
+Q22328512#Cellular Component#A myosin complex containing a dimer of class VIII myosin heavy chains and associated light chains. Myosin VIII is predicted to be dimeric, and contain an unusual 100-190 residue N-terminal extension prior to their motor domains, 3-4 IQ motifs, a shor
+Q22328521#Cellular Component#A myosin complex containing a class XIV myosin heavy chain and associated light chains; myosin XIV heavy chains are the simplest known, containing a motor domain, no classic IQ motif and variable length tails.
+Q22328522#Cellular Component#A myosin complex containing one or more class XIII myosin heavy chains and associated light chains.
+Q22328523#Cellular Component#A myosin complex containing one or more class XII myosin heavy chains and associated light chains; myosin XII contains a large tail region with two MyTH4 domains and a short region of coiled coil.
+Q22328525#Cellular Component#A conserved protein phosphatase type 2A complex which contains a protein phosphatase type 2A, a protein phosphatase regulatory subunit, a striatin, an FHA domain protein and other subunits (at least six proteins). In fission yeast this complex negati
+Q22328528#Cellular Component#A protein complex containing latency-associated proteins (LAPs), mature disulphide-linked dimeric TGF-beta, and latent TGF-beta binding proteins (LTBPs). TGF-beta is mostly secreted as part of the large latent complex, and must be subsequently releas
+Q22328529#Cellular Component#A homodimeric protein complex containing two IkappaB kinase (IKK) alpha subunits.
+Q22328543#Cellular Component#An interferon regulatory factor complex that consists of a heterodimer of interferon regulatory factor 3 and interferon regulatory factor 7.
+Q22328544#Cellular Component#An interferon regulatory factor complex that consists of a homodimer of interferon regulatory factor 7.
+Q22328545#Cellular Component#An interferon regulatory factor complex that consists of a homodimer of interferon regulatory factor 5.
+Q22328552#Cellular Component#Protein complex that has a role in determining cell polarity, found at the tip of the mating projection in unicellular fungi exposed to mating pheromone.
+Q22328557#Cellular Component#A heterodimeric protein complex that contains a protease inhibitor and a protease; formation of the complex inhibits protease activity.
+Q22328565#Cellular Component#The degradosome is a protein complex playing a key role in mRNA degradation and RNA processing. It includes a RNA helicase, a 3'-5' phosphate-dependent PNPase and a RNase E bound-enolase.
+Q22328568#Cellular Component#A heterodimeric protein complex consisting of NOXA and BCL-2, members of the Bcl-2 family of anti- and proapoptotic regulators.
+Q22328576#Cellular Component#A heterodimeric protein complex consisting of BAD and BCL-2, members of the Bcl-2 family of anti- and proapoptotic regulators.
+Q22328585#Cellular Component#A protein complex proposed to be involved in replication-independent nucleosome assembly, by promoting histone deposition onto DNA. For example, in Saccharomyces, the complex contains Hir1p, Hir2p, Hir3p, and Hpc2p.
+Q22328592#Cellular Component#The THO complex is a nuclear complex that is required for transcription elongation through genes containing tandemly repeated DNA sequences. The THO complex is also part of the TREX (TRanscription EXport) complex that is involved in coupling transcri
+Q22328607#Cellular Component#A Y-shaped protein complex in the ciliary transition zone that connects the cilium axoneme to the ciliary necklace. Both protein sorting and protein gating occur at this point in the cilium allowing some, but not all proteins to enter the cilium.
+Q22328613#Cellular Component#A protein complex that carries out enzymatic reactions involved in the biosynthesis of polyketides, any of a diverse group of natural products synthesized via linear poly-beta-ketones.
+Q22328615#Cellular Component#A polyketide synthase complex that consists of several different polypeptide chains, each of which catalyzes a single reaction.
+Q22328633#Cellular Component#A heterodimer of NF-kappa B p50 and p65 subunits.
+Q22328639#Cellular Component#A protein complex that consists of the intracellular domain of Notch3 (ICN3), the DNA-binding transcription factor RBP-Jkappa, and the transcriptional coactivator Mastermind-like-2 (MAML2); the complex is involved in transcriptional activation in res
+Q22328658#Cellular Component#A protein complex required for prokaryotic cell division (FtsZ-dependent cytokinesis). Part of the divisome. Assembled independently of the other divisome components in the cytoplasm prior to transport to the cell septum. In E. coli consists of FtsB,
+Q22328691#Cellular Component#Protein complex found in Drosophila consisting of the gene products of cuff, del and rhi. It regulates the licensing of transcription of dual-strand PIWI interacting RNA (piRNA) source loci by binding to dual-strand-cluster chromatin, probably via th
+Q22328704#Cellular Component#A multisubunit iron flavoprotein, which in yeast is composed of 2 alpha and 2 beta subunits. Catalyzes the reduction of sulfite to sulfide.
+Q22328712#Cellular Component#A protein complex that is involved in endocytosis in the yeast S. cerevisiae.
+Q22328716#Cellular Component#A heterodimeric nucleotide-excision repair complex that is involved in transcription-coupled repair. The subunits are known as Ddb1 and Wdr21 in S. pombe; Ddb1 contains a motif called the DDB-box that interacts with adaptor proteins for DDB1/cullin 4
+Q22328726#Cellular Component#A protein complex that consists of a phospho relay component and a MAPK cascade component.  The complex is involved in signaling oxidative stress and osmostress.
+Q22328734#Cellular Component#A protein complex consisting of a SUMO protein bound to a SUMO activating enzyme complex. Activation by the E1 complex and linkage to the E2 enzyme UBE2I is required for the formation of covalent bonds between SUMO and its ultimate target proteins.
+Q22328753#Cellular Component#A protein complex that comprises three core spliceosomal proteins, designated E, F, and G. Formation of the E.F.G complex is essential but not sufficient for the formation of a stable U1 snRNP complex.
+Q22328756#Cellular Component#Specific locations and structures in the virus infected cell involved in transcribing the viral genome.
+Q22328758#Cellular Component#A protein complex with ubiquitin ligase activity that is involved in proteasomal degradation of fructose-1,6-bisphosphatase (FBPase) and phosphoenolpyruvate carboxykinase during the transition from gluconeogenic to glycolytic growth conditions. In S.
+Q22328776#Cellular Component#A protein complex that contains the tumor suppressor protein adenomatous polyposis coli (APC) and the Rac1 and Cdc42 effector IQGAP1; may play a role in cytoskeleton organization and cell migration.
+Q22328780#Cellular Component#An SMN-Sm protein complex formed by the association of the methylated Sm proteins B/B', D1, D2, D3, E, F, and G with the SMN complex.
+Q22328784#Cellular Component#A protein complex composed of two identical immunoglobulin heavy chains of the IgW isotype and two identical immunoglobulin light chains, held together by disulfide bonds. An IgW immunoglobulin complex may be embedded in the plasma membrane or presen
+Q22328789#Cellular Component#A dimer of Nsk1 (nucleolus spindle kinetochore 1) and the dynein light chain, Dlc1. The dimers form an oligomeric chain structure. Functions in the regulation of kinetochore-microtubule interactions and chromosome segregation.
+Q22328794#Cellular Component#The proteasome core subcomplex that constitutes the two inner rings of the cytosolic proteasome core complex.
+Q22328836#Cellular Component#A region of the nuclear envelope to which a microtubule organizing center (MTOC) attaches; protein complexes embedded in the nuclear envelope mediate direct or indirect linkages between the microtubule cytoskeleton and the nuclear envelope.
+Q22328854#Cellular Component#A ribonucleoprotein complex formed by the association of the U1, U2, U4/U6 and U5 small nuclear ribonucleoproteins.
+Q22328863#Cellular Component#A spliceosomal complex that is formed by the cooperative binding of the heterodimeric U11/U12 snRNP to the 5' splice site and the branch point sequence. The U12-type prespliceosome includes many proteins in addition to those found in the U11/U12 hete
+Q22328864#Cellular Component#A spliceosomal complex that is formed following the second splicing event and contains the spliced product, the excised intron, and three snRNPs, U5, U12 and U6atac.
+Q22328895#Cellular Component#A type of punctate focus localized to the perinuclear region of germline cytoplasm in C. elegans. Mutator foci are required for RNA interference (RNAi) and serve as sites of small inhibitory RNA (siRNA) amplification. As such, proteins that localize
+Q22328910#Cellular Component#A ribonucleoprotein complex that can be visualized as a focus in the cytoplasm, and contains uridine-rich small nuclear ribonucleoproteins (U snRNPs) and essential snRNP assembly factors. These U bodies are invariably found in association with P bodi
+Q22328916#Cellular Component#The smaller of the two subunits of an organellar ribosome.
+Q22328917#Cellular Component#The smaller of the two subunits of a plastid ribosome.
+Q22328922#Cellular Component#The large subunit of a ribosome contained within a chloroplast.
+Q22328943#Cellular Component#A small, compact region of heterochromatin located in the middle of the polytene chromosome chromocenter, which undergoes little or no replication during polytenization.
+Q22328947#Cellular Component#The cell membranes and intracellular regions in a plant are connected through plasmodesmata and plants may be described as having 2 major compartments: the living symplast and the non-living apoplast. The apoplast is external to the plasma membrane.
+Q22328949#Cellular Component#A crystalline protein matrix surrounding the nucleocapsids of some insect viruses after their release in the environment. Produced in the host cell, the occlusion body protects the infectious virion after death of the host.
+Q22328988#Cellular Component#A configuration of endoplasmic reticulum (ER) found in Purkinje cells in the cerebellum and in axons in the lateral vestibular nucleus, consisting of parallel and interconnecting tubules whose outer surfaces are covered by particles or ringlike struc
+Q22328990#Cellular Component#A type of secondary lysosome in which a primary lysosome has fused with the outer membrane of an autophagosome. It is involved in the second step of autophagy in which it degrades contents with acidic lysosomal hydrolases.
+Q22329000#Cellular Component#A membrane-bounded intracellular vesicle formed late in the endocytic pathway when the pH in the vacuole becomes neutral prior to exocytosis.
+Q22329004#Cellular Component#The region of the cytoplasm located at the apical side of the cell. Used in reference to animal polarized epithelial cells.
+Q22329023#Cellular Component#A secretory organelle that forms part of the apical complex; a small, threadlike structure located is close proximity to the subpellicular microtubules. Its contents include a rhomboid protease (PfROM1 in Plasmodium falciparum) that moves from the la
+Q22329027#Cellular Component#A membrane-bounded vesicle found near the apical, or pericanalicular, membrane of a hepatocyte; contains proteins involved in bile salt transport and other fluid and solute transport processes.
+Q22329045#Cellular Component#A double-enveloped cell compartment, composed of an endosymbiont with its plasmalemma (as inner envelope) and a non-endosymbiotic outer envelope (the perisymbiontic membrane).
+Q22329061#Cellular Component#The plastid organelle found in apicomplexans.
+Q22329073#Cellular Component#A type of chromosome in a polyploid cell, formed when multiple copies of homologous chromosomes are aligned side by side to give a giant chromosome in which distinct chromosome bands are readily visible.
+Q22329113#Cellular Component#Arrays of septin filaments, or bars, found in a series of filamentous structures. Observed in the chlamydospore membrane during chlamydospore formation.
+Q22329114#Cellular Component#A tubular, hourglass-shaped structure composed of highly ordered arrays of septin filaments; in budding yeast cells, the septin collar forms from the initial septin ring by expanding into the daughter cell.
+Q22329126#Cellular Component#A cup shaped specialization of the cytoskeleton that forms a thin layer located just below the apical mass of mature mucin secretory granules in the cytoplasm of goblet cells of the intestinal epithelium.  It consists of an orderly network of interme
+Q22329232#Cellular Component#Part of an axoneme consisting in a doublet microtubule. Nine of these outer doublets form the 9+0 axoneme, while the 9+2 axoneme also contains a central pair. Dynein arms attached to the doublets provide the mechanism of movement of the cilium.
+Q22329255#Cellular Component#A nuclear viral factory formed by Baculoviruses. A vesicular structure in which virions are assembled.
+Q22329264#Cellular Component#That space within the plasma membrane of a host cell.
+Q22329269#Cellular Component#The double lipid bilayer enclosing the host cell mitochondrion and separating its contents from the host cell cytoplasm; includes the intermembrane space.
+Q22329278#Cellular Component#A symbiosome containing any of various structurally modified bacteria, such as those occurring on the root nodules of leguminous plants, of a host cell.
+Q22329287#Cellular Component#A secretory organelle of a host cell, some 50 nm in diameter, of presynaptic nerve terminals; accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasm
+Q22329295#Cellular Component#The irregular network of unit membranes, visible only by electron microscopy, that occurs in the host cell cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities
+Q22329296#Cellular Component#The part of the host cell cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
+Q22329299#Cellular Component#A complex system of membrane-bounded compartments located between host cell endoplasmic reticulum (ER) and the host Golgi complex, with a distinctive membrane protein composition; involved in ER-to-Golgi transport.
+Q22329314#Cellular Component#The dense fibrillar network lying on the inner side of the host nuclear membrane.
+Q22329321#Cellular Component#A host-derived membrane surrounding the symbiont arbuscule during symbiosis.
+Q22329354#Cellular Component#The external part of the host cell wall and/or host plasma membrane.
+Q22329372#Cellular Component#Axon of dentate gyrus granule cell projecting to hippocampal area CA3, characterized by expansions (mossy fiber expansions) giving the fibers a mossy appearance. These unmyelinated axons were first described by Ramon y Cajal.
+Q22329374#Cellular Component#Elongated neuronal process, often with side branches and more than one branching point, described in brains of patients with Parkinson's disease. Lewy neurites stain positively for ubiquitin in brainstem and forebrain regions affected in Parkinson's
+Q22329388#Cellular Component#A branched cellular projection (or cytoplasmic extension) that is extended from the surface of a dendritic immune cell, and which enables the cell to sample luminal pathogens and increase the surface area for antigen presentation to T cells.
+Q22329413#Cellular Component#A small, membranous protrusion found primarily on dendritic stretches of developing neurons. May receive synaptic input, and can develop into dendritic spines.
+Q22329415#Cellular Component#A bundle of cross-linked actin filaments that is part of an actin-based cell protrusion, in which filaments are oriented such that the plus (barbed) ends are at the tip of the protrusion, capped by a tip complex which stabilizes the filaments.
+Q22329423#Cellular Component#Any cytoplasm that is part of a axon.
+Q22329424#Cellular Component#any of the smaller branches of an axon that emanate from the main axon cylinder
+Q22329442#Cellular Component#Cytoplasmic inclusion, 5 to 15 micrometers in diameter, with a dense core surrounded by a halo of 10 to 20 nm wide radially oriented alpha-synuclein fibrils.
+Q22329451#Cellular Component#The region of a cell situated by the cell sides which interface adjacent cells and near the base. Often used in reference to animal polarized epithelial cells.
+Q22329483#Cellular Component#Non-membrane-bound cytoplasmic inclusions composed of 10-40 nm granule-coated fibrils. These inclusions have an abnormal accumulation of alpha-synuclein protein and are found in association with multiple system atrophy.
+Q22329486#Cellular Component#Intracytoplasmic filamentous structure frequently encountered in preparations immunostained for ubiquitin.
+Q22329850#Cellular Component#A short structure attached to an icosahedral virion capsid, and used for attachment to the host cell.
+Q22329852#Cellular Component#The tube of the non-contractile tails of some viruses.
+Q22329854#Cellular Component#The external contractile envelope of the tail of some viruses. Its contraction ensures ejection of the virus DNA into the host cytoplasm.
+Q22329862#Cellular Component#A turret-like appendage formed at the vertices of an icosahedral capsid.
+Q22329870#Cellular Component#A structure lying between the capsid and envelope of a virus, varying in thickness and often distributed asymmetrically.
+Q22329878#Cellular Component#The protein coat that surrounds the infective nucleic acid in some virus particles where the subunits (capsomeres) are arranged to form an icosahedron with T=1 symmetry. The T=1 capsid is composed of 12 pentameric capsomeres.
+Q22329885#Cellular Component#The protein coat that surrounds the infective nucleic acid in some virus particles where the subunits (capsomeres) are arranged to form an icosahedron with T=13 symmetry. The T=13 capsid is composed of 12 pentameric and 120 hexameric capsomeres.
+Q22330040#Cellular Component#A DNA recombinase mediator complex that contains the Rad51 paralogs RAD51B and RAD51C, or orthologs thereof.
+Q22330042#Cellular Component#A protein complex that spans the synaptic cleft and has parts in both the pre- and post-synaptic membranes.
+Q22330044#Cellular Component#A protein complex which is capable of ornithine carbamoyltransferase inhibitor activity.
+Q22330046#Cellular Component#An ER membrane insertion complex that contains subunits that recognize two types of transmembrane domain signals. In budding yeast the complex contains Get4p, Get5p, Sgt2p, and at least two heat shock proteins (HSPs).
+Q22330070#Cellular Component#A parallel bundle of actin filaments at the core of a microvillus.
+Q22330130#Cellular Component#Any ciliary basal body that is part of a left posteriolateral flagellum found in Giardia species (trophozoite stage).
+Q22330206#Cellular Component#The portion of the central rod of the flagellar basal body that is proximal to the cell membrane; proximal rod connects the distal rod to the flagellar motor. Examples of this component are found in bacteria.
+Q22330207#Cellular Component#The region of the flagellum where the hook and filament meet. Examples of this component are found in bacteria.
+Q22330208#Cellular Component#A diffuse ring composed of a series of septin bars that run parallel to the long axis of the cell. This type of septin structure has been observed in a number of locations associated with polarized grown and/or deposition of new membrane, but not wit
+Q22330210#Cellular Component#Inward projections of the cytoskeletal structures of the oral apparatus, which form a fiber that extends past the cytostome into the cytoplasm.
+Q22330211#Cellular Component#A focus at the mating projection tip where the cell wall is degraded during conjugation with cellular fusion. Actin filaments form an aster-like structure from this location.
+Q22330222#Cellular Component#A cell projection part that is a branch of a unicellular trichome.
+Q22330224#Cellular Component#A membrane-bounded compartment that is found at the base of the rhabdomere and contains stored calcium, InsP3 receptors and smooth endoplasmic reticulum Ca2+-ATPase.
+Q22330226#Cellular Component#Portion of a tanycyte that lies within the ependyma and contains the nucleus. A tanycyte is a specialized elongated ventricular ependymal cell that has processes that extend to the outer, or pial, surface of the CNS.
+Q22330232#Cellular Component#A cell surface furrow (or groove) found on a dinoflagellate apex. It typically loops around the apex.
+Q22330235#Cellular Component#The area of a motile cell perpendicular to the direction of movement.
+Q22330270#Cellular Component#The region between the inner and outer lipid bilayers that surround an organellar chromatophore.
+Q22330315#Cellular Component#Structure between the central and outer plaques of the spindle pole body.
+Q22330343#Cellular Component#A nucleoplasmic speckle distributed in the interchromatin space of cells in close proximity to chromatin. Omega speckles are distinct from interchromatin granules and contain heterogeneous nuclear RNA-binding proteins (hnRNPs).
+Q22330370#Cellular Component#An electron dense structure that is associated with meiotic chromosomes.
+Q22330371#Cellular Component#An electron dense structure that is associated with meiotic chromosomes in pachytene during meiosis I.
+Q22330440#Cellular Component#A layer surrounding a bacterial endospore found inside the outer endospore membrane, but outside the membrane surrounding the endospore core. It consists of peptidoglycan of a different chemical nature than that found in vegetative cell walls which r
+Q22330453#Cellular Component#A part of the cell wall of a sieve tube member that bears one or more highly specialized sieve areas.
+Q22330455#Cellular Component#A sieve plate that contains several specialized sieve areas in either a scalariform or reticulate arrangement.
+Q22330461#Cellular Component#A cell wall part that is the part of a wall of a vessel member and bears one or more openings (perforations).
+Q24570668#Cellular Component#A network of proteins within and adjacent to the postsynaptic membrane of a symmetric synapse, consisting of anchoring and scaffolding molecules, signaling enzymes and cytoskeletal components that spatially and functionally organize the neurotransmit
+Q24570671#Cellular Component#Any membrane that is part of an amphisome.
+Q24570684#Cellular Component#The actin cytoskeleton that is part of a dendritic spine.
+Q24570687#Cellular Component#The component of the postsynaptic endocytic zone membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.
+Q24570696#Cellular Component#The component of the spine apparatus membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.
+Q24576572#Cellular Component#The lipid bilayer surrounding a presynaptic endosome.
+Q24576582#Cellular Component#The component of the postsynaptic membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anc
+Q24576583#Cellular Component#The component of the postsynaptic specialization membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group su
+Q24576589#Cellular Component#The component of the postsynaptic recycling endosome membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached grou
+Q24629098#Cellular Component#An neuron to neuron synapse that lacks an electron dense postsynaptic specialization, uses GABA as a neurotransmitter and whose activity results in inhibitory postsynaptic potentials.
+Q24629103#Cellular Component#An neuron to neuron synapse with a postsynaptic density, that uses glutamate as a neurotransmitter and whose activity results in excitatory postsynaptic potentials.
+Q24629253#Cellular Component#A dense core vesicle (granule) that is part of a neuron.  These vesicles typically contain neuropeptides.  They can be found in all parts of neurons, including the soma, dendrites, axonal swellings (varicosities) and synaptic terminals.
+Q26253865#Cellular Component#The component of the presynaptic endocytic zone membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q26253869#Cellular Component#The component of the postsynaptic specialization membrane consisting of the gene products that are tethered to the membrane only by a covalently attached anchor, such as a lipid group that is embedded in the membrane. Gene products with peptide seque
+Q26253870#Cellular Component#The component of the postsynaptic density membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q26253880#Cellular Component#The component of the postsynaptic endosome membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.
+Q26253887#Cellular Component#The component of the postsynaptic recycling endosome membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q26253888#Cellular Component#The component of the postsynaptic recycling endosome membrane consisting of the gene products that are tethered to the membrane only by a covalently attached anchor, such as a lipid group that is embedded in the membrane. Gene products with peptide s
+Q26253891#Cellular Component#The component of the presynaptic endosome membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane.
+Q26253900#Cellular Component#The volume enclosed by the membranes of the perinuclear endoplasmic reticulum.
+Q26481947#Cellular Component#A protein complex which is capable of endodeoxyribonuclease activity.
+Q27126305#Cellular Component#A vesicle derived via budding from a mitochondrion.  These vesicles often contain inner membrane and, much more rarely, cristae.
+Q27312157#Cellular Component#A protein complex that binds interleukin-7 (IL-7) and that consists of, at a minimum, an interleukin, an alpha and a gamma chain as well as optional additional kinase subunits. The alpha chain binds IL-7 with high affinity and subsequently binds the
+Q27312158#Cellular Component#protein complex that binds interleukin-15 and consists of, at a minimum, an interleukin, an alpha, beta and gamma chain as well as optional additional kinase subunits
+Q28598873#Cellular Component#A macromolecular fiber consisting of actin and cofilin that is formed in the nucleus as a consequence of chemical or mechanical stress conditions.
+Q28598905#Cellular Component#An intracellular compartmentalized cilium structure found in insect spermatids which is bounded by a membrane derived from the invagination of the cell membrane that remains associated with the primary cilium as it is internalized. The ciliary cap is
+Q29574295#Cellular Component#A protein complex that binds to, and promotes stabilization of, mRNA molecules containing the major coding region instability determinant (mCRD) by bridging the mCRD domain and the poly(A) tail of the mRNA. In human, it consists of CSDE1, HNRPD, PABP
+Q29574390#Cellular Component#A non-membrane bound, electron dense structure associated that extends perpendicular to the presynaptic membrane in ribbon synapses. The ribbon's surface is studded with small particles to which synaptic vesicles tether via fine filaments. The tether
+Q30105925#Cellular Component#The shaft comprises the majority of the length of the stereocilium. This region is notable for the extreme stability of actin filaments, which are highly crosslinked into a parallel bundle.
+Q30105926#Cellular Component#The tapered base of the stereocilium adjacent to where it joins the hair cell body. This region contains a rootlet comprised of bundled actin filaments which spans the joint and stabilizes the stereocilium.
+Q31403913#Cellular Component#A chromatin remodeling complex that positively regulates histone H3 acetylation, in particular H3K9, by recruiting histone acetyltransferases to rDNA gene regions. Located in the nucleolus where it assembles on RNA Polymerase I (Pol I) and possibly o
+Q34358230#Cellular Component#A type of synapse occurring between an axon and a dendritic spine.
+Q34358244#Cellular Component#A synapse that uses serotonin as a neurotransmitter.
+Q34360120#Cellular Component#The region that lies just beneath the plasma membrane in the middle of the apical edge of a cell.
+Q34360453#Cellular Component#A subcompartment of the smooth endoplasmic reticulum consisting of lumenal expansion into a flattened, disc-shaped cavity.
+Q38261579#Cellular Component#The protein transport macromolecular complex of the chloroplast membrane that interacts with the precursor proteins and contains components of both the outer membrane and inner membrane complexes containing at least Toc75, Toc159, Toc34 and Tic110.

@@ -1,369 +1,1118 @@
 :ID#,:LABEL#,name
-Q7365#Protein Domain#contractile soft tissue of mammals
-Q9377#Protein Domain#internal organ in most animals, including vertebrates and some invertebrates
-Q9609#Protein Domain#blood vessel that carry deoxygenated blood towards the heart, with the exception of the pulmonary vein
-Q9620#Protein Domain#enclosed, cable-like bundle of axons in the peripheral nervous system
-Q9635#Protein Domain#first portion of the alimentary canal that receives food
-Q9644#Protein Domain#location at which two or more bones make contact
-Q9655#Protein Domain#the blood vessel that carry oxygenated blood away from the heart to other organs rather than lungs
-Q18676#Protein Domain#region of the brain
-Q29548#Protein Domain#biological membrane separating the interior of a cell from its external environment
-Q30869#Protein Domain#largest structure in the nucleus of eukaryotic cells
-Q33767#Protein Domain#extremity at the end of an arm or forelimb
-Q37425#Protein Domain#region around the kneecap
-Q41055#Protein Domain#area of the head between the eyebrows and the hairline
-Q43041#Protein Domain#group of protein complexes
-Q47038#Protein Domain#part of the head
-Q48360#Protein Domain#brain region correlated with memory consolidation and imagination
-Q61333#Protein Domain#The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
-Q61476#Protein Domain#carboxylic acid with a long aliphatic chain, either saturated or unsaturated
-Q79447#Protein Domain#antibody isotype
-Q79451#Protein Domain#one of several isotypes of antibody
-Q84133#Protein Domain#middle layer of the heart wall, which consists of cardiac muscle
-Q103142#Protein Domain#smallest type of blood vessel
-Q104280#Protein Domain#mucosal tissue that lies over the mandible and maxilla inside the mouth
-Q130983#Protein Domain#region of the brain that coordinates motor functions and muscle tone
-Q133516#Protein Domain#simple sugars such as glucose and fructose
-Q156871#Protein Domain#endocrine gland
-Q160184#Protein Domain#bodily function of expelling intestinal gas out of the anus
-Q169313#Protein Domain#chemical compound
-Q169953#Protein Domain#part of the nervous system
-Q172605#Protein Domain#roof of mouth
-Q174647#Protein Domain#part of the foot in the back
-Q177105#Protein Domain#type of cells in nervous system
-Q180951#Protein Domain#the ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome
-Q183282#Protein Domain#
-Q184215#Protein Domain#part of the brain responsible for sleep regulation and relaying sensory signals
-Q185438#Protein Domain#arteries at the base of the brain that form part of the circle of Willis
-Q186380#Protein Domain#Any chromosome other than a sex chromosome
-Q187215#Protein Domain#term in biology
-Q189073#Protein Domain#A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
-Q189763#Protein Domain#nerve in human face
-Q189998#Protein Domain#cellular appendages functioning as locomotive or sensory organelles
-Q190140#Protein Domain#tenth cranial nerve
-Q193583#Protein Domain#loose connective tissue composed mostly of adipocytes
-Q193818#Protein Domain#anatomical region
-Q196672#Protein Domain#long curved bone surrounding the chest
-Q208453#Protein Domain#involuntary non-striated muscle
-Q212743#Protein Domain#outermost layers of the skin
-Q223143#Protein Domain#mature white blood cells with granules in the cytoplasm
-Q223851#Protein Domain#brain part
-Q228537#Protein Domain#region of the upper limb between the elbow and the wrist
-Q232358#Protein Domain#type of tissue that connects muscle to bone
-Q237229#Protein Domain#bones of hand
-Q252509#Protein Domain#all the teeth in the mouth
-Q253168#Protein Domain#
-Q259492#Protein Domain#
-Q261411#Protein Domain#
-Q277357#Protein Domain#part of the oropharynx directly behind the mouth cavity, bounded superiorly by the soft palate, laterally by the palatoglossal arches, and inferiorly by the tongue
-Q279039#Protein Domain#muscle of the upper limb
-Q286978#Protein Domain#muscles in the zygomatic arch that close the jaw
-Q288821#Protein Domain#
-Q301876#Protein Domain#muscle
-Q318773#Protein Domain#cranial nerve controlling the movement of the lateral rectus muscle
-Q323438#Protein Domain#germ layer in the very early embryo
-Q340154#Protein Domain#ligament formed from the buccopharyngeal fascia
-Q352045#Protein Domain#feature of the human neck
-Q379859#Protein Domain#proximal part of the free upper limb between the shoulder and the elbow
-Q383359#Protein Domain#
-Q384631#Protein Domain#part of the scapula that serves as the origin point for the long head of biceps brachii
-Q398880#Protein Domain#Wikimedia disambiguation page
-Q407553#Protein Domain#long unbranched polysaccharides consisting of a repeating disaccharide unit
-Q408014#Protein Domain#class of compounds; sulfated glycosaminoglycan
-Q409145#Protein Domain#group of calcium sensors and calcium signal modulators
-Q418892#Protein Domain#class of chemical compounds
-Q420927#Protein Domain#stable macromolecular complex
-Q428914#Protein Domain#type of cell found in muscle tissue
-Q441704#Protein Domain#nerve in human back
-Q447782#Protein Domain#layer of synovial membrane around a tendon
-Q465621#Protein Domain#glial cell type
-Q473749#Protein Domain#innermost membranous sac that surrounds and protects the developing embryo
-Q476952#Protein Domain#
-Q485130#Protein Domain#
-Q488711#Protein Domain#artery of the neck
-Q489628#Protein Domain#The seam or face at which two carpels adhere. Any of various joints between parts, as between the carpels, leaf lobes, etc, of a plant.
-Q490172#Protein Domain#artery
-Q497563#Protein Domain#artery
-Q497574#Protein Domain#
-Q498179#Protein Domain#one of the three major paired arteries that supply blood to the cerebrum.
-Q502704#Protein Domain#passageways by which air passes through the nose or mouth to the alveoli of the lungs
-Q505535#Protein Domain#part of the peripheral nervous system
-Q505544#Protein Domain#photoreceptor cells in the retina of the eye that can function in lower light
-Q509053#Protein Domain#part of the electrical conduction system of the heart that coordinates the top of the heart.
-Q510755#Protein Domain#nerve of the thigh
-Q537123#Protein Domain#broad, thin muscle, situated on either side of the pelvis
-Q540092#Protein Domain#group of specialized connective tissue fibers that essentially attach a tooth to the alveolar bone within which it sits
-Q545929#Protein Domain#
-Q559526#Protein Domain#
-Q568799#Protein Domain#
-Q571378#Protein Domain#
-Q585624#Protein Domain#male gonadal vein
-Q597179#Protein Domain#
-Q603244#Protein Domain#
-Q609753#Protein Domain#The outer portion of the ear which includes the auricle and the ear canal and leads to the eardrum.
-Q612431#Protein Domain#muscle arise from annular tendon is medial rectus,superior rectus,inferior rectus and lateral rectus
-Q618362#Protein Domain#blood in an artery
-Q619284#Protein Domain#extrapyramidal motor tract
-Q619632#Protein Domain#sheet of pearly-white fibrous tissue that attaches sheet-like muscles needing a wide area of attachment
-Q623016#Protein Domain#conduit for CSF to the brain
-Q623377#Protein Domain#
-Q640536#Protein Domain#
-Q650401#Protein Domain#endocrine gland
-Q654528#Protein Domain#fatty tissue composed of white adipocytes
-Q659744#Protein Domain#muscle of the upper limb
-Q666219#Protein Domain#
-Q667636#Protein Domain#chromosome involved in sex determination
-Q671943#Protein Domain#
-Q673321#Protein Domain#type of mechanoreceptor cell in hairless mammals
-Q691942#Protein Domain#bone of the wrist
-Q707098#Protein Domain#
-Q707105#Protein Domain#artery in the pelvis that travels along the iliac crest of the pelvic bone
-Q707419#Protein Domain#
-Q717887#Protein Domain#muscle of the larynx
-Q718591#Protein Domain#
-Q719213#Protein Domain#a bony eminence of the proximal end of the radius that serves as an insertion point for the biceps tendon
-Q724580#Protein Domain#spiral groove on the surface of the humerus, typically containing the radial nerve and deep brachail artery
-Q725612#Protein Domain#
-Q725785#Protein Domain#groove in the superior border of the scapula, for the suprascapular nerve to pass through
-Q726543#Protein Domain#organ system that gives humans the ability to move using their muscular and skeletal systems
-Q727745#Protein Domain#
-Q740541#Protein Domain#nerve, branch of the vagus nerve
-Q740900#Protein Domain#cord-like structure in males
-Q745438#Protein Domain#one of two veinous trunks which brings deoxygenated
-Q748180#Protein Domain#
-Q749520#Protein Domain#part of the brain
-Q752441#Protein Domain#muscle of the upper limb
-Q767067#Protein Domain#opening in the ethmoid bone in the skull
-Q776672#Protein Domain#
-Q776972#Protein Domain#sensory ganglion of the trigeminal nerve
-Q788151#Protein Domain#
-Q792595#Protein Domain#The portion of the plasma membrane surrounding an axon; it is a specialized trilaminar random mosaic of protein molecules floating within a fluid matrix of highly mobile phospholipid molecules, 7-8 nm in thickness.
-Q821701#Protein Domain#large bone marrow cell responsible for the production of platelets
-Q838638#Protein Domain#muscle
-Q840572#Protein Domain#muscle of the upper limb
-Q842429#Protein Domain#The portion of the cell soma (neuronal cell body) that excludes the nucleus
-Q842547#Protein Domain#
-Q846480#Protein Domain#muscle
-Q857940#Protein Domain#
-Q868304#Protein Domain#
-Q876089#Protein Domain#chamber of the human heart
-Q900610#Protein Domain#muscle
-Q901269#Protein Domain#type of adipose tissue
-Q901538#Protein Domain#skeletal muscle of the upper back
-Q913348#Protein Domain#
-Q916698#Protein Domain#neural cell type
-Q918518#Protein Domain#
-Q921517#Protein Domain#slight enlargement before each crus of the penis meets its fellow
-Q924285#Protein Domain#extra bone piece that can occur within a suture (joint) in the skull
-Q928286#Protein Domain#
-Q931622#Protein Domain#muscle of the upper limb
-Q932557#Protein Domain#facial muscle helping to create facial expressions
-Q936531#Protein Domain#layer of fibrous connective tissue that surrounds muscles, blood vessels and nerves
-Q936818#Protein Domain#
-Q937076#Protein Domain#nerve that carries signals between the spinal chord and the body
-Q943203#Protein Domain#Calf muscle
-Q955788#Protein Domain#muscle of the upper limb
-Q974231#Protein Domain#membranous labyrinth in the vestibule of ear
-Q1002789#Protein Domain#
-Q1003242#Protein Domain#
-Q1051430#Protein Domain#muscle
-Q1055786#Protein Domain#
-Q1061328#Protein Domain#
-Q1064403#Protein Domain#tube located inside the ear
-Q1066345#Protein Domain#kidney structure which encloses the glomerular
-Q1072007#Protein Domain#
-Q1072039#Protein Domain#
-Q1076064#Protein Domain#Mesenchymal progenitor cell that forms a chondrocyte
-Q1076423#Protein Domain#
-Q1079316#Protein Domain#nerve fiber originating from the optic chiasm
-Q1091300#Protein Domain#muscle
-Q1102066#Protein Domain#proteins found in the microtubules of the cytoskeletal system
-Q1130003#Protein Domain#
-Q1137072#Protein Domain#Part of the embryonic brain
-Q1140236#Protein Domain#any of the inward folds of the mitochondrial inner membrane
-Q1172095#Protein Domain#continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity
-Q1180012#Protein Domain#
-Q1211892#Protein Domain#are two flaps of skin on either side of the human vaginal opening in the vulva
-Q1230047#Protein Domain#a part of limbic syst
-Q1230052#Protein Domain#
-Q1237109#Protein Domain#
-Q1240479#Protein Domain#
-Q1246415#Protein Domain#
-Q1256980#Protein Domain#fold of the brain (primary motor cortex) separating the frontal and parietal lobes superiorly from the temporal lobe inferiorly.
-Q1263629#Protein Domain#One of two lymph ducts in the human lymphatic system
-Q1290783#Protein Domain#anatomical feature of the human skull
-Q1340752#Protein Domain#inner ear fluid
-Q1340833#Protein Domain#
-Q1365325#Protein Domain#nerve in the human body that supplies the posterior portion of the upper limb
-Q1386945#Protein Domain#muscle
-Q1393590#Protein Domain#
-Q1397367#Protein Domain#fibers in the brain stem
-Q1419042#Protein Domain#brain cell
-Q1421408#Protein Domain#cell type
-Q1425589#Protein Domain#anatomical term
-Q1426052#Protein Domain#muscle in the lower back
-Q1427600#Protein Domain#division of the body of an animal or embryo
-Q1436583#Protein Domain#
-Q1436590#Protein Domain#triangular hole in the base of the skull
-Q1457751#Protein Domain#one of the dural venous sinuses
-Q1493508#Protein Domain#parasympathetic ganglion of head and neck
-Q1500758#Protein Domain#One of six small hip muscles in the lateral rotator group
-Q1519198#Protein Domain#
-Q1547362#Protein Domain#body cavity bounded by the bones of the pelvis
-Q1568920#Protein Domain#area of the human brain
-Q1575134#Protein Domain#
-Q1591425#Protein Domain#topological lines drawn on human body correspond to the natural orientation of collagen fibers in dermis.
-Q1601362#Protein Domain#large blood vessel in the arm
-Q1620205#Protein Domain#collection of neurons in the brain stem
-Q1623349#Protein Domain#
-Q1633822#Protein Domain#Muscle in the quad
-Q1635066#Protein Domain#anatomical structure
-Q1635458#Protein Domain#part of the stomach
-Q1648555#Protein Domain#anatomy
-Q1659799#Protein Domain#superior portions of the vagina
-Q1665277#Protein Domain#Muscles of the sole of the foot
-Q1724233#Protein Domain#artery in the abdominal and pelvic regions
-Q1742964#Protein Domain#
-Q1751717#Protein Domain#structure in the human brain
-Q1753760#Protein Domain#nerve in the skull
-Q1756451#Protein Domain#inhibitory interneurons found in the gray matter of the spinal cord
-Q1756762#Protein Domain#one of six small hip muscles in the lateral rotator group
-Q1756808#Protein Domain#complex of arteries and veins lying very close to each other, found in some vertebrates, mainly warm-blooded ones.
-Q1758798#Protein Domain#synovial ball and socket joint in the shoulder
-Q1772886#Protein Domain#bony prominence around the pituitary gland
-Q1813830#Protein Domain#
-Q1824652#Protein Domain#
-Q1862100#Protein Domain#
-Q1873857#Protein Domain#cell type
-Q1913658#Protein Domain#muscles located in the ventricles of the heart
-Q1978114#Protein Domain#
-Q1978139#Protein Domain#
-Q1978198#Protein Domain#branch of the sciatic nerve
-Q1983003#Protein Domain#in anatomy, a furrow or fissure
-Q2004084#Protein Domain#Anti-microbial epithelial cell of the small intestine
-Q2004182#Protein Domain#Grey matter nucleus in the cerebellum
-Q2035067#Protein Domain#قاسم عقسد
-Q2071037#Protein Domain#
-Q2076795#Protein Domain#small channels in each eyelid that drain lacrimal fluid
-Q2080394#Protein Domain#artery
-Q2164516#Protein Domain#
-Q2248886#Protein Domain#mammalian protein found in Homo sapiens
-Q2353265#Protein Domain#
-Q2354337#Protein Domain#class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine
-Q2360339#Protein Domain#three muscles located between the metatarsal bones in the foot
-Q2393792#Protein Domain#sheath around nerve bundles
-Q2409399#Protein Domain#
-Q2414279#Protein Domain#Structure in the basal ganglia of the brain
-Q2447644#Protein Domain#
-Q2487461#Protein Domain#tooth
-Q2512768#Protein Domain#Large blood vessel
-Q2531387#Protein Domain#anatomical structure
-Q2596226#Protein Domain#cell type
-Q2620085#Protein Domain#
-Q2631550#Protein Domain#cell type
-Q2643251#Protein Domain#biological junctions through which neurons' signals can be sent
-Q2685072#Protein Domain#surface of an organism refers to the left or right side
-Q2760639#Protein Domain#
-Q2796182#Protein Domain#
-Q2865999#Protein Domain#artery that supplies the adrenal gland
-Q2888202#Protein Domain#
-Q2914731#Protein Domain#portion of the kidney nephron between the loop of Henle and the collecting duct
-Q2919618#Protein Domain#
-Q3088602#Protein Domain#Nerve in the human leg and foot
-Q3122152#Protein Domain#Band of fibres along the thalamus
-Q3130956#Protein Domain#part of the brain
-Q3270899#Protein Domain#
-Q3301573#Protein Domain#
-Q3307119#Protein Domain#
-Q3316775#Protein Domain#large blood vessels of the forearm
-Q3322746#Protein Domain#
-Q3324292#Protein Domain#
-Q3328747#Protein Domain#
-Q3328967#Protein Domain#
-Q3338317#Protein Domain#
-Q3346043#Protein Domain#gelatinous substance that makes up the central portion of an intervertebral disc
-Q3493614#Protein Domain#bone of the ankle
-Q3494094#Protein Domain#membranous labyrinth in the vestibule of ear
-Q3507797#Protein Domain#artery
-Q3518027#Protein Domain#medial part of the posterior wall of the inguinal canal
-Q3559311#Protein Domain#Protrusions of the arachnoid mater for returning cerebrospinal fluid to circulation
-Q3621435#Protein Domain#human artery
-Q3624379#Protein Domain#articulations extending from the ankle to the toes
-Q3740460#Protein Domain#
-Q3752103#Protein Domain#region of gray matter cells in the subthalamus below the thalamus
-Q3756509#Protein Domain#
-Q3823716#Protein Domain#
-Q3855279#Protein Domain#
-Q4006434#Protein Domain#
-Q4115114#Protein Domain#depression in the temporal bone that articulates with the mandibular condyle
-Q4115340#Protein Domain#
-Q4116715#Protein Domain#
-Q4117097#Protein Domain#veins that drain the posterior abdominal wall
-Q4117172#Protein Domain#
-Q4117816#Protein Domain#vein of the orbit around the eye
-Q4119770#Protein Domain#
-Q4119889#Protein Domain#
-Q4319750#Protein Domain#
-Q4381683#Protein Domain#
-Q4391932#Protein Domain#
-Q4391978#Protein Domain#
-Q4428834#Protein Domain#
-Q4459859#Protein Domain#
-Q4672545#Protein Domain#external parts of the eye including eyebrow, eyelid, and lacrimal apparatus
-Q4675817#Protein Domain#
-Q4681414#Protein Domain#gap between the adductor magnus muscle and the femur
-Q4738008#Protein Domain#
-Q4739730#Protein Domain#embrological structure connect to right ventricle and will disapper with emryology
-Q4771321#Protein Domain#
-Q4771334#Protein Domain#part of the fascial compartments of leg
-Q4771340#Protein Domain#
-Q4771341#Protein Domain#small bundle of descending fibers that connect the cerebral cortex to the spinal cord
-Q4771345#Protein Domain#
-Q4771369#Protein Domain#
-Q4771374#Protein Domain#
-Q4771397#Protein Domain#
-Q4771431#Protein Domain#
-Q4787736#Protein Domain#
-Q4809336#Protein Domain#axons that connect cortical areas within the same cerebral hemisphere
-Q4822345#Protein Domain#
-Q4860300#Protein Domain#
-Q4867297#Protein Domain#
-Q4867298#Protein Domain#
-Q4936943#Protein Domain#
-Q4973070#Protein Domain#brain area
-Q4973076#Protein Domain#
-Q4973090#Protein Domain#
-Q4973830#Protein Domain#lymph node
-Q5018678#Protein Domain#
-Q5038329#Protein Domain#
-Q5058035#Protein Domain#
-Q5065356#Protein Domain#
-Q5129640#Protein Domain#fascia above the axillary facia
-Q5145995#Protein Domain#
-Q5152886#Protein Domain#axons that connect the two hemispheres of the brain
-Q5170066#Protein Domain#
-Q5175184#Protein Domain#
-Q5185081#Protein Domain#joint connecting the cricoid cartilage and the arytenoid cartilage
-Q5194249#Protein Domain#
-Q5250368#Protein Domain#
-Q5250449#Protein Domain#
-Q5298773#Protein Domain#
-Q5298783#Protein Domain#
-Q5298785#Protein Domain#
-Q5298788#Protein Domain#
-Q5298799#Protein Domain#
-Q5306281#Protein Domain#
-Q5382068#Protein Domain#
-Q5407200#Protein Domain#One of three gyri of the temporal lobe of the brain
-Q5422040#Protein Domain#Wikimedia disambiguation page
-Q5428555#Protein Domain#
-Q5436624#Protein Domain#portion of fascia covering the saphenous opening in the thigh
-Q5454239#Protein Domain#one of the bones forming the human rib cage
-Q5505915#Protein Domain#
-Q5526873#Protein Domain#
-Q5566614#Protein Domain#
-Q5600891#Protein Domain#branch of the pterygopalatine ganglion
-Q5600920#Protein Domain#
-Q5620438#Protein Domain#brain structure in the medulla that helps coordinate movement
-Q5750543#Protein Domain#opening in the temporal bone
-Q5773169#Protein Domain#eightfold protein complex found at the center of a nucleosome core particle
+Q1829843#Protein Domain#InterPro Domain
+Q5009288#Protein Domain#InterPro Domain
+Q6718295#Protein Domain#
+Q7388668#Protein Domain#InterPro Domain
+Q24719548#Protein Domain#InterPro Domain
+Q24719555#Protein Domain#InterPro Domain
+Q24719558#Protein Domain#InterPro Domain
+Q24719568#Protein Domain#InterPro Domain
+Q24719679#Protein Domain#InterPro Domain
+Q24719693#Protein Domain#InterPro Domain
+Q24719784#Protein Domain#InterPro Domain
+Q24719821#Protein Domain#InterPro Domain
+Q24719854#Protein Domain#InterPro Domain
+Q24719860#Protein Domain#InterPro Domain
+Q24719863#Protein Domain#InterPro Domain
+Q24719867#Protein Domain#InterPro Domain
+Q24719870#Protein Domain#InterPro Domain
+Q24719892#Protein Domain#InterPro Domain
+Q24719948#Protein Domain#InterPro Domain
+Q24719952#Protein Domain#InterPro Domain
+Q24720014#Protein Domain#InterPro Domain
+Q24720072#Protein Domain#InterPro Domain
+Q24720136#Protein Domain#InterPro Domain
+Q24720155#Protein Domain#InterPro Domain
+Q24720200#Protein Domain#InterPro Domain
+Q24720215#Protein Domain#InterPro Domain
+Q24720229#Protein Domain#protein domain
+Q24720264#Protein Domain#InterPro Domain
+Q24720271#Protein Domain#InterPro Domain
+Q24720425#Protein Domain#InterPro Domain
+Q24720443#Protein Domain#InterPro Domain
+Q24720504#Protein Domain#InterPro Domain
+Q24720521#Protein Domain#InterPro Domain
+Q24720528#Protein Domain#InterPro Domain
+Q24720550#Protein Domain#InterPro Domain
+Q24720580#Protein Domain#InterPro Domain
+Q24720603#Protein Domain#InterPro Domain
+Q24720652#Protein Domain#InterPro Domain
+Q24720670#Protein Domain#InterPro Domain
+Q24720688#Protein Domain#InterPro Domain
+Q24720700#Protein Domain#InterPro Domain
+Q24720728#Protein Domain#InterPro Domain
+Q24720787#Protein Domain#InterPro Domain
+Q24720905#Protein Domain#InterPro Domain
+Q24720932#Protein Domain#InterPro Domain
+Q24720953#Protein Domain#InterPro Domain
+Q24720988#Protein Domain#InterPro Domain
+Q24721068#Protein Domain#InterPro Domain
+Q24721086#Protein Domain#InterPro Domain
+Q24721123#Protein Domain#InterPro Domain
+Q24721187#Protein Domain#InterPro Domain
+Q24721234#Protein Domain#InterPro Domain
+Q24721236#Protein Domain#InterPro Domain
+Q24721248#Protein Domain#InterPro Domain
+Q24721314#Protein Domain#InterPro Domain
+Q24721355#Protein Domain#InterPro Domain
+Q24721398#Protein Domain#InterPro Domain
+Q24721451#Protein Domain#protein domain
+Q24721465#Protein Domain#InterPro Domain
+Q24721480#Protein Domain#InterPro Domain
+Q24721506#Protein Domain#InterPro Domain
+Q24721520#Protein Domain#InterPro Domain
+Q24721578#Protein Domain#InterPro Domain
+Q24721583#Protein Domain#InterPro Domain
+Q24721630#Protein Domain#InterPro Domain
+Q24721676#Protein Domain#InterPro Domain
+Q24721682#Protein Domain#InterPro Domain
+Q24721711#Protein Domain#InterPro Domain
+Q24721728#Protein Domain#InterPro Domain
+Q24721736#Protein Domain#InterPro Domain
+Q24721782#Protein Domain#InterPro Domain
+Q24721793#Protein Domain#InterPro Domain
+Q24721807#Protein Domain#InterPro Domain
+Q24721825#Protein Domain#InterPro Domain
+Q24721836#Protein Domain#InterPro Domain
+Q24721837#Protein Domain#InterPro Domain
+Q24721852#Protein Domain#InterPro Domain
+Q24721865#Protein Domain#InterPro Domain
+Q24721901#Protein Domain#InterPro Domain
+Q24721957#Protein Domain#InterPro Domain
+Q24721979#Protein Domain#InterPro Domain
+Q24722050#Protein Domain#InterPro Domain
+Q24722072#Protein Domain#InterPro Domain
+Q24722090#Protein Domain#InterPro Domain
+Q24722093#Protein Domain#InterPro Domain
+Q24722101#Protein Domain#InterPro Domain
+Q24722139#Protein Domain#InterPro Domain
+Q24722152#Protein Domain#InterPro Domain
+Q24722214#Protein Domain#InterPro Domain
+Q24722244#Protein Domain#InterPro Domain
+Q24722272#Protein Domain#InterPro Domain
+Q24722377#Protein Domain#InterPro Domain
+Q24722420#Protein Domain#InterPro Domain
+Q24722431#Protein Domain#protein domain
+Q24722496#Protein Domain#InterPro Domain
+Q24722511#Protein Domain#InterPro Domain
+Q24722525#Protein Domain#InterPro Domain
+Q24722659#Protein Domain#InterPro Domain
+Q24722698#Protein Domain#InterPro Domain
+Q24722711#Protein Domain#InterPro Domain
+Q24722737#Protein Domain#InterPro Domain
+Q24722748#Protein Domain#InterPro Domain
+Q24722761#Protein Domain#InterPro Domain
+Q24722780#Protein Domain#InterPro Domain
+Q24722881#Protein Domain#InterPro Domain
+Q24722902#Protein Domain#InterPro Domain
+Q24722947#Protein Domain#InterPro Domain
+Q24723004#Protein Domain#InterPro Domain
+Q24723014#Protein Domain#InterPro Domain
+Q24723028#Protein Domain#InterPro Domain
+Q24723035#Protein Domain#InterPro Domain
+Q24723069#Protein Domain#InterPro Domain
+Q24723096#Protein Domain#InterPro Domain
+Q24723097#Protein Domain#InterPro Domain
+Q24723101#Protein Domain#InterPro Domain
+Q24723127#Protein Domain#InterPro Domain
+Q24723138#Protein Domain#InterPro Domain
+Q24723150#Protein Domain#InterPro Domain
+Q24723170#Protein Domain#InterPro Domain
+Q24723221#Protein Domain#InterPro Domain
+Q24723255#Protein Domain#InterPro Domain
+Q24723257#Protein Domain#InterPro Domain
+Q24723270#Protein Domain#InterPro Domain
+Q24723278#Protein Domain#InterPro Domain
+Q24723295#Protein Domain#InterPro Domain
+Q24723300#Protein Domain#InterPro Domain
+Q24723315#Protein Domain#InterPro Domain
+Q24723343#Protein Domain#InterPro Domain
+Q24723384#Protein Domain#InterPro Domain
+Q24723504#Protein Domain#InterPro Domain
+Q24723521#Protein Domain#InterPro Domain
+Q24723536#Protein Domain#InterPro Domain
+Q24723551#Protein Domain#InterPro Domain
+Q24723612#Protein Domain#InterPro Domain
+Q24723695#Protein Domain#InterPro Domain
+Q24723723#Protein Domain#InterPro Domain
+Q24723741#Protein Domain#InterPro Domain
+Q24723769#Protein Domain#InterPro Domain
+Q24723787#Protein Domain#InterPro Domain
+Q24723808#Protein Domain#InterPro Domain
+Q24723890#Protein Domain#InterPro Domain
+Q24723907#Protein Domain#InterPro Domain
+Q24723965#Protein Domain#InterPro Domain
+Q24724102#Protein Domain#InterPro Domain
+Q24724105#Protein Domain#InterPro Domain
+Q24724116#Protein Domain#InterPro Domain
+Q24724161#Protein Domain#InterPro Domain
+Q24724175#Protein Domain#InterPro Domain
+Q24724191#Protein Domain#InterPro Domain
+Q24724207#Protein Domain#InterPro Domain
+Q24724231#Protein Domain#InterPro Domain
+Q24724260#Protein Domain#InterPro Domain
+Q24724299#Protein Domain#InterPro Domain
+Q24724387#Protein Domain#InterPro Domain
+Q24724418#Protein Domain#InterPro Domain
+Q24724443#Protein Domain#InterPro Domain
+Q24724606#Protein Domain#InterPro Domain
+Q24724714#Protein Domain#InterPro Domain
+Q24724717#Protein Domain#InterPro Domain
+Q24724728#Protein Domain#InterPro Domain
+Q24724791#Protein Domain#InterPro Domain
+Q24724813#Protein Domain#InterPro Domain
+Q24724817#Protein Domain#InterPro Domain
+Q24724833#Protein Domain#InterPro Domain
+Q24724852#Protein Domain#InterPro Domain
+Q24724854#Protein Domain#InterPro Domain
+Q24724869#Protein Domain#InterPro Domain
+Q24724923#Protein Domain#InterPro Domain
+Q24724946#Protein Domain#InterPro Domain
+Q24725003#Protein Domain#InterPro Domain
+Q24725056#Protein Domain#InterPro Domain
+Q24725089#Protein Domain#InterPro Family
+Q24725097#Protein Domain#InterPro Domain
+Q24725178#Protein Domain#InterPro Domain
+Q24725198#Protein Domain#InterPro Domain
+Q24725213#Protein Domain#InterPro Domain
+Q24725251#Protein Domain#InterPro Domain
+Q24725263#Protein Domain#InterPro Domain
+Q24725283#Protein Domain#InterPro Domain
+Q24725301#Protein Domain#InterPro Domain
+Q24725351#Protein Domain#InterPro Domain
+Q24725384#Protein Domain#InterPro Domain
+Q24725395#Protein Domain#InterPro Domain
+Q24725406#Protein Domain#InterPro Domain
+Q24725420#Protein Domain#InterPro Domain
+Q24725439#Protein Domain#InterPro Domain
+Q24725457#Protein Domain#InterPro Domain
+Q24725458#Protein Domain#InterPro Domain
+Q24725529#Protein Domain#InterPro Domain
+Q24725555#Protein Domain#InterPro Domain
+Q24725593#Protein Domain#InterPro Domain
+Q24725626#Protein Domain#InterPro Domain
+Q24725627#Protein Domain#InterPro Domain
+Q24725658#Protein Domain#InterPro Domain
+Q24725663#Protein Domain#InterPro Domain
+Q24725682#Protein Domain#InterPro Domain
+Q24725702#Protein Domain#InterPro Domain
+Q24725705#Protein Domain#InterPro Domain
+Q24725746#Protein Domain#InterPro Domain
+Q24725748#Protein Domain#InterPro Family
+Q24725790#Protein Domain#InterPro Domain
+Q24725812#Protein Domain#InterPro Domain
+Q24725833#Protein Domain#InterPro Domain
+Q24725835#Protein Domain#InterPro Domain
+Q24725861#Protein Domain#InterPro Domain
+Q24725890#Protein Domain#InterPro Domain
+Q24725896#Protein Domain#InterPro Domain
+Q24725897#Protein Domain#InterPro Domain
+Q24725941#Protein Domain#InterPro Domain
+Q24725942#Protein Domain#InterPro Domain
+Q24725972#Protein Domain#InterPro Domain
+Q24725985#Protein Domain#InterPro Domain
+Q24726044#Protein Domain#InterPro Domain
+Q24726062#Protein Domain#InterPro Domain
+Q24726108#Protein Domain#InterPro Domain
+Q24726129#Protein Domain#InterPro Domain
+Q24726148#Protein Domain#InterPro Domain
+Q24726153#Protein Domain#InterPro Domain
+Q24726197#Protein Domain#InterPro Domain
+Q24726228#Protein Domain#InterPro Domain
+Q24726309#Protein Domain#InterPro Domain
+Q24726326#Protein Domain#InterPro Domain
+Q24726331#Protein Domain#InterPro Domain
+Q24726350#Protein Domain#InterPro Domain
+Q24726363#Protein Domain#InterPro Domain
+Q24726381#Protein Domain#InterPro Domain
+Q24726393#Protein Domain#InterPro Domain
+Q24726401#Protein Domain#InterPro Domain
+Q24726461#Protein Domain#InterPro Domain
+Q24726464#Protein Domain#protein domain
+Q24726485#Protein Domain#InterPro Domain
+Q24726502#Protein Domain#InterPro Domain
+Q24726518#Protein Domain#InterPro Domain
+Q24726537#Protein Domain#InterPro Domain
+Q24726546#Protein Domain#InterPro Domain
+Q24726593#Protein Domain#InterPro Domain
+Q24726605#Protein Domain#InterPro Domain
+Q24726607#Protein Domain#InterPro Domain
+Q24726677#Protein Domain#InterPro Domain
+Q24726760#Protein Domain#InterPro Domain
+Q24726793#Protein Domain#InterPro Domain
+Q24726798#Protein Domain#InterPro Domain
+Q24726867#Protein Domain#InterPro Domain
+Q24726873#Protein Domain#InterPro Domain
+Q24726875#Protein Domain#InterPro Domain
+Q24726914#Protein Domain#InterPro Domain
+Q24726938#Protein Domain#InterPro Domain
+Q24726969#Protein Domain#InterPro Domain
+Q24726997#Protein Domain#InterPro Domain
+Q24727025#Protein Domain#InterPro Domain
+Q24727059#Protein Domain#InterPro Domain
+Q24727079#Protein Domain#InterPro Domain
+Q24727092#Protein Domain#InterPro Domain
+Q24727146#Protein Domain#InterPro Domain
+Q24727158#Protein Domain#InterPro Domain
+Q24727168#Protein Domain#InterPro Domain
+Q24727247#Protein Domain#InterPro Domain
+Q24727284#Protein Domain#InterPro Domain
+Q24727341#Protein Domain#InterPro Domain
+Q24727357#Protein Domain#InterPro Domain
+Q24727376#Protein Domain#InterPro Domain
+Q24727389#Protein Domain#InterPro Domain
+Q24727412#Protein Domain#InterPro Domain
+Q24727451#Protein Domain#InterPro Domain
+Q24727455#Protein Domain#InterPro Domain
+Q24727473#Protein Domain#InterPro Domain
+Q24727482#Protein Domain#InterPro Domain
+Q24727483#Protein Domain#InterPro Domain
+Q24727515#Protein Domain#InterPro Domain
+Q24727548#Protein Domain#InterPro Domain
+Q24727570#Protein Domain#InterPro Domain
+Q24727591#Protein Domain#InterPro Domain
+Q24738627#Protein Domain#InterPro Domain
+Q24738629#Protein Domain#InterPro Domain
+Q24738849#Protein Domain#InterPro Domain
+Q24738877#Protein Domain#InterPro Domain
+Q24738910#Protein Domain#InterPro Domain
+Q24738914#Protein Domain#InterPro Domain
+Q24738920#Protein Domain#InterPro Domain
+Q24738922#Protein Domain#InterPro Domain
+Q24738945#Protein Domain#InterPro Domain
+Q24739061#Protein Domain#InterPro Domain
+Q24739116#Protein Domain#InterPro Domain
+Q24739212#Protein Domain#InterPro Domain
+Q24739265#Protein Domain#InterPro Domain
+Q24739303#Protein Domain#InterPro Domain
+Q24739333#Protein Domain#InterPro Domain
+Q24739373#Protein Domain#InterPro Domain
+Q24739412#Protein Domain#InterPro Domain
+Q24739431#Protein Domain#InterPro Domain
+Q24739460#Protein Domain#InterPro Domain
+Q24739624#Protein Domain#InterPro Domain
+Q24739835#Protein Domain#InterPro Domain
+Q24740028#Protein Domain#InterPro Domain
+Q24740037#Protein Domain#InterPro Family
+Q24740135#Protein Domain#InterPro Domain
+Q24740204#Protein Domain#InterPro Domain
+Q24740240#Protein Domain#InterPro Domain
+Q24740375#Protein Domain#InterPro Domain
+Q24740487#Protein Domain#InterPro Domain
+Q24740565#Protein Domain#InterPro Domain
+Q24740601#Protein Domain#InterPro Domain
+Q24740631#Protein Domain#InterPro Domain
+Q24740641#Protein Domain#InterPro Domain
+Q24740655#Protein Domain#InterPro Domain
+Q24740691#Protein Domain#InterPro Domain
+Q24740716#Protein Domain#InterPro Domain
+Q24740755#Protein Domain#InterPro Domain
+Q24740806#Protein Domain#InterPro Domain
+Q24740909#Protein Domain#InterPro Domain
+Q24740972#Protein Domain#InterPro Domain
+Q24741015#Protein Domain#InterPro Domain
+Q24741114#Protein Domain#InterPro Domain
+Q24741136#Protein Domain#InterPro Domain
+Q24741137#Protein Domain#InterPro Domain
+Q24741154#Protein Domain#InterPro Domain
+Q24741217#Protein Domain#InterPro Domain
+Q24741223#Protein Domain#InterPro Domain
+Q24741321#Protein Domain#InterPro Domain
+Q24741336#Protein Domain#InterPro Family
+Q24741453#Protein Domain#protein domain
+Q24741571#Protein Domain#InterPro Domain
+Q24741585#Protein Domain#InterPro Domain
+Q24741690#Protein Domain#InterPro Domain
+Q24741737#Protein Domain#InterPro Domain
+Q24741776#Protein Domain#InterPro Family
+Q24741783#Protein Domain#InterPro Domain
+Q24741809#Protein Domain#InterPro Domain
+Q24741871#Protein Domain#InterPro Domain
+Q24741876#Protein Domain#InterPro Domain
+Q24741924#Protein Domain#InterPro Domain
+Q24742014#Protein Domain#InterPro Domain
+Q24742049#Protein Domain#InterPro Domain
+Q24742105#Protein Domain#InterPro Domain
+Q24742125#Protein Domain#InterPro Domain
+Q24742152#Protein Domain#InterPro Domain
+Q24742173#Protein Domain#InterPro Domain
+Q24742204#Protein Domain#InterPro Domain
+Q24742213#Protein Domain#InterPro Domain
+Q24742225#Protein Domain#InterPro Domain
+Q24742229#Protein Domain#InterPro Domain
+Q24743515#Protein Domain#InterPro Domain
+Q24743611#Protein Domain#protein domain
+Q24743677#Protein Domain#InterPro Domain
+Q24743702#Protein Domain#InterPro Domain
+Q24743813#Protein Domain#InterPro Domain
+Q24743823#Protein Domain#InterPro Domain
+Q24744740#Protein Domain#InterPro Domain
+Q24744749#Protein Domain#InterPro Domain
+Q24744833#Protein Domain#InterPro Domain
+Q24744918#Protein Domain#InterPro Domain
+Q24745150#Protein Domain#InterPro Domain
+Q24745213#Protein Domain#InterPro Domain
+Q24745326#Protein Domain#InterPro Domain
+Q24745468#Protein Domain#InterPro Domain
+Q24745877#Protein Domain#InterPro Domain
+Q24745895#Protein Domain#InterPro Domain
+Q24745943#Protein Domain#InterPro Domain
+Q24745947#Protein Domain#InterPro Domain
+Q24745951#Protein Domain#InterPro Domain
+Q24745974#Protein Domain#InterPro Domain
+Q24746060#Protein Domain#InterPro Domain
+Q24766638#Protein Domain#InterPro Domain
+Q24766701#Protein Domain#InterPro Domain
+Q24766723#Protein Domain#InterPro Domain
+Q24766725#Protein Domain#InterPro Domain
+Q24766796#Protein Domain#InterPro Domain
+Q24766811#Protein Domain#InterPro Domain
+Q24766813#Protein Domain#InterPro Domain
+Q24766828#Protein Domain#InterPro Domain
+Q24766845#Protein Domain#InterPro Domain
+Q24766874#Protein Domain#InterPro Domain
+Q24766921#Protein Domain#InterPro Domain
+Q24766985#Protein Domain#InterPro Family
+Q24767013#Protein Domain#InterPro Domain
+Q24767018#Protein Domain#InterPro Domain
+Q24767038#Protein Domain#InterPro Domain
+Q24767062#Protein Domain#InterPro Domain
+Q24767063#Protein Domain#InterPro Domain
+Q24767868#Protein Domain#InterPro Domain
+Q24767875#Protein Domain#InterPro Domain
+Q24767877#Protein Domain#InterPro Domain
+Q24767887#Protein Domain#InterPro Domain
+Q24767916#Protein Domain#InterPro Domain
+Q24767927#Protein Domain#InterPro Domain
+Q24768049#Protein Domain#InterPro Domain
+Q24768154#Protein Domain#InterPro Domain
+Q24768163#Protein Domain#protein domain
+Q24768234#Protein Domain#InterPro Domain
+Q24768295#Protein Domain#InterPro Domain
+Q24768373#Protein Domain#InterPro Domain
+Q24768415#Protein Domain#InterPro Domain
+Q24768420#Protein Domain#InterPro Domain
+Q24768455#Protein Domain#InterPro Domain
+Q24768506#Protein Domain#InterPro Domain
+Q24768561#Protein Domain#InterPro Domain
+Q24768566#Protein Domain#InterPro Domain
+Q24768625#Protein Domain#InterPro Domain
+Q24768696#Protein Domain#InterPro Domain
+Q24768699#Protein Domain#InterPro Domain
+Q24768840#Protein Domain#InterPro Domain
+Q24768946#Protein Domain#InterPro Domain
+Q24768952#Protein Domain#InterPro Domain
+Q24769004#Protein Domain#InterPro Domain
+Q24769011#Protein Domain#InterPro Domain
+Q24769046#Protein Domain#InterPro Domain
+Q24769059#Protein Domain#InterPro Domain
+Q24769067#Protein Domain#InterPro Domain
+Q24769144#Protein Domain#InterPro Domain
+Q24769186#Protein Domain#InterPro Domain
+Q24769260#Protein Domain#InterPro Domain
+Q24769347#Protein Domain#InterPro Domain
+Q24769371#Protein Domain#InterPro Domain
+Q24769378#Protein Domain#InterPro Domain
+Q24769408#Protein Domain#InterPro Domain
+Q24769462#Protein Domain#InterPro Domain
+Q24769574#Protein Domain#InterPro Domain
+Q24769584#Protein Domain#InterPro Domain
+Q24769589#Protein Domain#InterPro Domain
+Q24769637#Protein Domain#InterPro Domain
+Q24769664#Protein Domain#InterPro Domain
+Q24769671#Protein Domain#InterPro Domain
+Q24769694#Protein Domain#InterPro Domain
+Q24769695#Protein Domain#InterPro Domain
+Q24769728#Protein Domain#InterPro Domain
+Q24769745#Protein Domain#InterPro Domain
+Q24769759#Protein Domain#InterPro Domain
+Q24769795#Protein Domain#InterPro Domain
+Q24769810#Protein Domain#InterPro Domain
+Q24769813#Protein Domain#InterPro Domain
+Q24769944#Protein Domain#InterPro Domain
+Q24769970#Protein Domain#InterPro Domain
+Q24770014#Protein Domain#InterPro Domain
+Q24770022#Protein Domain#InterPro Domain
+Q24770031#Protein Domain#InterPro Domain
+Q24770075#Protein Domain#InterPro Domain
+Q24770095#Protein Domain#InterPro Domain
+Q24770234#Protein Domain#InterPro Domain
+Q24770360#Protein Domain#InterPro Domain
+Q24770384#Protein Domain#InterPro Domain
+Q24770426#Protein Domain#InterPro Domain
+Q24770458#Protein Domain#InterPro Domain
+Q24770501#Protein Domain#InterPro Domain
+Q24770506#Protein Domain#InterPro Domain
+Q24770517#Protein Domain#InterPro Domain
+Q24770576#Protein Domain#InterPro Domain
+Q24770649#Protein Domain#InterPro Domain
+Q24770665#Protein Domain#InterPro Domain
+Q24770673#Protein Domain#InterPro Domain
+Q24770680#Protein Domain#InterPro Domain
+Q24770705#Protein Domain#InterPro Domain
+Q24770798#Protein Domain#InterPro Domain
+Q24770809#Protein Domain#InterPro Domain
+Q24770814#Protein Domain#InterPro Domain
+Q24770853#Protein Domain#InterPro Domain
+Q24770875#Protein Domain#InterPro Domain
+Q24770983#Protein Domain#InterPro Domain
+Q24770988#Protein Domain#InterPro Domain
+Q24771102#Protein Domain#InterPro Domain
+Q24771167#Protein Domain#InterPro Domain
+Q24771178#Protein Domain#InterPro Domain
+Q24771188#Protein Domain#InterPro Domain
+Q24771213#Protein Domain#InterPro Domain
+Q24771328#Protein Domain#InterPro Domain
+Q24771336#Protein Domain#InterPro Domain
+Q24771340#Protein Domain#InterPro Domain
+Q24771407#Protein Domain#InterPro Domain
+Q24771419#Protein Domain#InterPro Domain
+Q24771455#Protein Domain#InterPro Domain
+Q24771516#Protein Domain#InterPro Domain
+Q24771525#Protein Domain#InterPro Domain
+Q24771543#Protein Domain#InterPro Domain
+Q24771595#Protein Domain#InterPro Domain
+Q24771607#Protein Domain#InterPro Domain
+Q24771638#Protein Domain#InterPro Family
+Q24771671#Protein Domain#InterPro Family
+Q24771733#Protein Domain#InterPro Domain
+Q24771746#Protein Domain#InterPro Domain
+Q24771783#Protein Domain#InterPro Family
+Q24771798#Protein Domain#InterPro Domain
+Q24771810#Protein Domain#InterPro Domain
+Q24771884#Protein Domain#InterPro Domain
+Q24771913#Protein Domain#InterPro Domain
+Q24771917#Protein Domain#InterPro Domain
+Q24771929#Protein Domain#InterPro Domain
+Q24771968#Protein Domain#InterPro Domain
+Q24771982#Protein Domain#InterPro Domain
+Q24771985#Protein Domain#InterPro Domain
+Q24772075#Protein Domain#InterPro Domain
+Q24772114#Protein Domain#InterPro Domain
+Q24772144#Protein Domain#InterPro Domain
+Q24772173#Protein Domain#InterPro Domain
+Q24772277#Protein Domain#InterPro Domain
+Q24772293#Protein Domain#InterPro Domain
+Q24772318#Protein Domain#InterPro Domain
+Q24772468#Protein Domain#InterPro Domain
+Q24772477#Protein Domain#InterPro Domain
+Q24772480#Protein Domain#InterPro Domain
+Q24772640#Protein Domain#InterPro Domain
+Q24772662#Protein Domain#InterPro Domain
+Q24772720#Protein Domain#InterPro Domain
+Q24772808#Protein Domain#InterPro Domain
+Q24772822#Protein Domain#InterPro Domain
+Q24772844#Protein Domain#InterPro Domain
+Q24772870#Protein Domain#InterPro Domain
+Q24772883#Protein Domain#InterPro Domain
+Q24772924#Protein Domain#InterPro Domain
+Q24772928#Protein Domain#InterPro Domain
+Q24772951#Protein Domain#InterPro Domain
+Q24773023#Protein Domain#InterPro Domain
+Q24773038#Protein Domain#InterPro Domain
+Q24773054#Protein Domain#InterPro Domain
+Q24773055#Protein Domain#InterPro Domain
+Q24773071#Protein Domain#InterPro Domain
+Q24773187#Protein Domain#InterPro Domain
+Q24773268#Protein Domain#InterPro Domain
+Q24773292#Protein Domain#InterPro Domain
+Q24773317#Protein Domain#InterPro Domain
+Q24773333#Protein Domain#InterPro Domain
+Q24773358#Protein Domain#InterPro Domain
+Q24773519#Protein Domain#InterPro Domain
+Q24773550#Protein Domain#InterPro Domain
+Q24773569#Protein Domain#InterPro Domain
+Q24773588#Protein Domain#InterPro Domain
+Q24773621#Protein Domain#InterPro Domain
+Q24773667#Protein Domain#InterPro Domain
+Q24773675#Protein Domain#InterPro Domain
+Q24773684#Protein Domain#InterPro Domain
+Q24773693#Protein Domain#InterPro Domain
+Q24773721#Protein Domain#InterPro Domain
+Q24773753#Protein Domain#InterPro Domain
+Q24773787#Protein Domain#InterPro Domain
+Q24773819#Protein Domain#InterPro Domain
+Q24773859#Protein Domain#InterPro Domain
+Q24773862#Protein Domain#InterPro Domain
+Q24773871#Protein Domain#InterPro Domain
+Q24773994#Protein Domain#InterPro Domain
+Q24774117#Protein Domain#InterPro Domain
+Q24774121#Protein Domain#InterPro Domain
+Q24774153#Protein Domain#InterPro Domain
+Q24774185#Protein Domain#InterPro Domain
+Q24774195#Protein Domain#InterPro Domain
+Q24774207#Protein Domain#InterPro Domain
+Q24774226#Protein Domain#InterPro Domain
+Q24774273#Protein Domain#InterPro Domain
+Q24774303#Protein Domain#InterPro Domain
+Q24774353#Protein Domain#InterPro Domain
+Q24774420#Protein Domain#InterPro Domain
+Q24774431#Protein Domain#InterPro Domain
+Q24774450#Protein Domain#InterPro Domain
+Q24774453#Protein Domain#InterPro Domain
+Q24774457#Protein Domain#InterPro Domain
+Q24774497#Protein Domain#InterPro Domain
+Q24774576#Protein Domain#InterPro Domain
+Q24774583#Protein Domain#InterPro Domain
+Q24774591#Protein Domain#InterPro Domain
+Q24774667#Protein Domain#InterPro Domain
+Q24774708#Protein Domain#InterPro Domain
+Q24774737#Protein Domain#InterPro Domain
+Q24774754#Protein Domain#InterPro Domain
+Q24774791#Protein Domain#InterPro Domain
+Q24774792#Protein Domain#InterPro Domain
+Q24774834#Protein Domain#InterPro Domain
+Q24774876#Protein Domain#InterPro Domain
+Q24774903#Protein Domain#InterPro Family
+Q24774906#Protein Domain#InterPro Domain
+Q24774921#Protein Domain#InterPro Domain
+Q24774936#Protein Domain#InterPro Domain
+Q24774951#Protein Domain#InterPro Domain
+Q24775034#Protein Domain#InterPro Domain
+Q24775055#Protein Domain#InterPro Domain
+Q24775066#Protein Domain#InterPro Domain
+Q24775183#Protein Domain#InterPro Domain
+Q24775216#Protein Domain#InterPro Domain
+Q24775266#Protein Domain#InterPro Domain
+Q24775330#Protein Domain#InterPro Domain
+Q24775380#Protein Domain#InterPro Domain
+Q24775413#Protein Domain#InterPro Domain
+Q24775420#Protein Domain#InterPro Domain
+Q24775440#Protein Domain#InterPro Domain
+Q24775455#Protein Domain#InterPro Domain
+Q24775568#Protein Domain#InterPro Domain
+Q24775652#Protein Domain#InterPro Domain
+Q24775658#Protein Domain#InterPro Domain
+Q24775665#Protein Domain#InterPro Domain
+Q24775666#Protein Domain#InterPro Domain
+Q24775682#Protein Domain#InterPro Domain
+Q24775700#Protein Domain#InterPro Domain
+Q24775717#Protein Domain#InterPro Domain
+Q24775753#Protein Domain#InterPro Domain
+Q24775774#Protein Domain#InterPro Domain
+Q24775799#Protein Domain#InterPro Domain
+Q24775828#Protein Domain#InterPro Domain
+Q24775966#Protein Domain#InterPro Domain
+Q24776000#Protein Domain#InterPro Domain
+Q24776003#Protein Domain#InterPro Domain
+Q24776062#Protein Domain#InterPro Domain
+Q24776090#Protein Domain#InterPro Domain
+Q24776115#Protein Domain#InterPro Domain
+Q24776123#Protein Domain#InterPro Domain
+Q24776149#Protein Domain#InterPro Domain
+Q24776154#Protein Domain#InterPro Domain
+Q24776186#Protein Domain#InterPro Domain
+Q24776191#Protein Domain#InterPro Domain
+Q24776197#Protein Domain#InterPro Domain
+Q24776223#Protein Domain#InterPro Domain
+Q24776273#Protein Domain#InterPro Domain
+Q24776295#Protein Domain#InterPro Domain
+Q24776300#Protein Domain#InterPro Family
+Q24776397#Protein Domain#InterPro Domain
+Q24776419#Protein Domain#InterPro Domain
+Q24776458#Protein Domain#InterPro Domain
+Q24776503#Protein Domain#InterPro Domain
+Q24776625#Protein Domain#InterPro Domain
+Q24776686#Protein Domain#InterPro Domain
+Q24776687#Protein Domain#InterPro Domain
+Q24776709#Protein Domain#InterPro Domain
+Q24776729#Protein Domain#InterPro Domain
+Q24776746#Protein Domain#InterPro Domain
+Q24776773#Protein Domain#InterPro Domain
+Q24776776#Protein Domain#InterPro Domain
+Q24776786#Protein Domain#InterPro Domain
+Q24776788#Protein Domain#InterPro Domain
+Q24776798#Protein Domain#InterPro Domain
+Q24776832#Protein Domain#InterPro Domain
+Q24776855#Protein Domain#InterPro Domain
+Q24776858#Protein Domain#InterPro Domain
+Q24776864#Protein Domain#InterPro Domain
+Q24776919#Protein Domain#InterPro Domain
+Q24776952#Protein Domain#InterPro Domain
+Q24776981#Protein Domain#InterPro Domain
+Q24776989#Protein Domain#InterPro Family
+Q24777001#Protein Domain#InterPro Domain
+Q24777014#Protein Domain#InterPro Domain
+Q24777120#Protein Domain#InterPro Domain
+Q24777164#Protein Domain#InterPro Domain
+Q24777206#Protein Domain#InterPro Domain
+Q24777276#Protein Domain#InterPro Domain
+Q24777282#Protein Domain#InterPro Domain
+Q24777310#Protein Domain#InterPro Domain
+Q24777364#Protein Domain#InterPro Domain
+Q24777381#Protein Domain#InterPro Domain
+Q24777396#Protein Domain#InterPro Domain
+Q24777421#Protein Domain#InterPro Domain
+Q24777424#Protein Domain#InterPro Domain
+Q24777499#Protein Domain#InterPro Domain
+Q24777532#Protein Domain#InterPro Domain
+Q24777547#Protein Domain#InterPro Domain
+Q24777719#Protein Domain#InterPro Domain
+Q24777737#Protein Domain#InterPro Domain
+Q24777886#Protein Domain#InterPro Domain
+Q24777888#Protein Domain#InterPro Domain
+Q24777932#Protein Domain#InterPro Domain
+Q24777971#Protein Domain#InterPro Domain
+Q24777991#Protein Domain#InterPro Domain
+Q24778014#Protein Domain#InterPro Domain
+Q24778089#Protein Domain#InterPro Domain
+Q24778118#Protein Domain#InterPro Domain
+Q24778122#Protein Domain#InterPro Domain
+Q24778155#Protein Domain#InterPro Domain
+Q24778173#Protein Domain#InterPro Domain
+Q24778232#Protein Domain#InterPro Domain
+Q24778245#Protein Domain#InterPro Domain
+Q24778294#Protein Domain#InterPro Domain
+Q24778299#Protein Domain#InterPro Domain
+Q24778305#Protein Domain#InterPro Domain
+Q24778313#Protein Domain#InterPro Domain
+Q24778319#Protein Domain#InterPro Domain
+Q24778340#Protein Domain#InterPro Domain
+Q24778344#Protein Domain#InterPro Domain
+Q24778359#Protein Domain#InterPro Domain
+Q24778414#Protein Domain#InterPro Domain
+Q24778417#Protein Domain#InterPro Domain
+Q24778483#Protein Domain#InterPro Domain
+Q24778525#Protein Domain#InterPro Domain
+Q24778548#Protein Domain#InterPro Domain
+Q24778560#Protein Domain#InterPro Family
+Q24778623#Protein Domain#InterPro Domain
+Q24778670#Protein Domain#InterPro Domain
+Q24778683#Protein Domain#InterPro Domain
+Q24778699#Protein Domain#InterPro Domain
+Q24778747#Protein Domain#InterPro Domain
+Q24778778#Protein Domain#InterPro Domain
+Q24778781#Protein Domain#InterPro Domain
+Q24778789#Protein Domain#InterPro Domain
+Q24778805#Protein Domain#InterPro Domain
+Q24778822#Protein Domain#InterPro Domain
+Q24778980#Protein Domain#InterPro Domain
+Q24779051#Protein Domain#InterPro Domain
+Q24779052#Protein Domain#InterPro Domain
+Q24779058#Protein Domain#InterPro Domain
+Q24779085#Protein Domain#InterPro Domain
+Q24779127#Protein Domain#InterPro Domain
+Q24779189#Protein Domain#InterPro Domain
+Q24779217#Protein Domain#InterPro Domain
+Q24779225#Protein Domain#InterPro Domain
+Q24779234#Protein Domain#InterPro Domain
+Q24779275#Protein Domain#InterPro Domain
+Q24779300#Protein Domain#InterPro Domain
+Q24779344#Protein Domain#InterPro Domain
+Q24779353#Protein Domain#InterPro Domain
+Q24779369#Protein Domain#InterPro Domain
+Q24779383#Protein Domain#InterPro Domain
+Q24779399#Protein Domain#InterPro Domain
+Q24779447#Protein Domain#InterPro Domain
+Q24779474#Protein Domain#InterPro Domain
+Q24779544#Protein Domain#InterPro Domain
+Q24779626#Protein Domain#InterPro Domain
+Q24779630#Protein Domain#InterPro Domain
+Q24779643#Protein Domain#InterPro Domain
+Q24779677#Protein Domain#InterPro Domain
+Q24779694#Protein Domain#InterPro Domain
+Q24779716#Protein Domain#InterPro Domain
+Q24779723#Protein Domain#InterPro Family
+Q24779737#Protein Domain#InterPro Domain
+Q24779762#Protein Domain#InterPro Domain
+Q24779803#Protein Domain#InterPro Domain
+Q24779831#Protein Domain#InterPro Domain
+Q24779853#Protein Domain#InterPro Domain
+Q24779887#Protein Domain#InterPro Domain
+Q24779888#Protein Domain#InterPro Domain
+Q24779927#Protein Domain#InterPro Domain
+Q24779997#Protein Domain#InterPro Domain
+Q24780045#Protein Domain#InterPro Domain
+Q24780076#Protein Domain#InterPro Domain
+Q24780098#Protein Domain#InterPro Domain
+Q24780101#Protein Domain#InterPro Domain
+Q24780162#Protein Domain#InterPro Domain
+Q24780197#Protein Domain#InterPro Domain
+Q24780213#Protein Domain#InterPro Domain
+Q24780234#Protein Domain#InterPro Domain
+Q24780241#Protein Domain#InterPro Domain
+Q24780261#Protein Domain#InterPro Domain
+Q24780275#Protein Domain#InterPro Domain
+Q24780303#Protein Domain#InterPro Domain
+Q24780319#Protein Domain#InterPro Domain
+Q24780373#Protein Domain#InterPro Domain
+Q24780375#Protein Domain#InterPro Domain
+Q24780390#Protein Domain#InterPro Domain
+Q24780398#Protein Domain#InterPro Domain
+Q24780422#Protein Domain#InterPro Domain
+Q24780475#Protein Domain#InterPro Domain
+Q24780479#Protein Domain#InterPro Domain
+Q24780554#Protein Domain#InterPro Domain
+Q24780595#Protein Domain#InterPro Domain
+Q24780646#Protein Domain#InterPro Domain
+Q24780728#Protein Domain#InterPro Domain
+Q24780735#Protein Domain#InterPro Domain
+Q24780763#Protein Domain#InterPro Domain
+Q24780870#Protein Domain#InterPro Domain
+Q24780938#Protein Domain#InterPro Domain
+Q24780945#Protein Domain#InterPro Domain
+Q24780978#Protein Domain#InterPro Domain
+Q24781042#Protein Domain#InterPro Domain
+Q24781066#Protein Domain#InterPro Domain
+Q24781068#Protein Domain#InterPro Domain
+Q24781077#Protein Domain#InterPro Domain
+Q24781081#Protein Domain#InterPro Domain
+Q24781094#Protein Domain#InterPro Domain
+Q24781124#Protein Domain#InterPro Domain
+Q24781245#Protein Domain#InterPro Domain
+Q24781281#Protein Domain#InterPro Domain
+Q24781283#Protein Domain#InterPro Domain
+Q24781286#Protein Domain#InterPro Domain
+Q24781291#Protein Domain#InterPro Domain
+Q24781297#Protein Domain#InterPro Domain
+Q24781298#Protein Domain#InterPro Family
+Q24781326#Protein Domain#InterPro Domain
+Q24781330#Protein Domain#InterPro Domain
+Q24781415#Protein Domain#InterPro Domain
+Q24781433#Protein Domain#InterPro Domain
+Q24781439#Protein Domain#InterPro Domain
+Q24781463#Protein Domain#InterPro Domain
+Q24781469#Protein Domain#InterPro Domain
+Q24781493#Protein Domain#InterPro Domain
+Q24781560#Protein Domain#InterPro Domain
+Q24781647#Protein Domain#InterPro Domain
+Q24781684#Protein Domain#protein domain
+Q24781709#Protein Domain#InterPro Domain
+Q24781724#Protein Domain#InterPro Domain
+Q24781798#Protein Domain#InterPro Domain
+Q24781810#Protein Domain#InterPro Family
+Q24781859#Protein Domain#InterPro Domain
+Q24781865#Protein Domain#InterPro Domain
+Q24781937#Protein Domain#InterPro Domain
+Q24781950#Protein Domain#InterPro Domain
+Q24781955#Protein Domain#InterPro Domain
+Q24781956#Protein Domain#InterPro Domain
+Q24781961#Protein Domain#InterPro Domain
+Q24782015#Protein Domain#InterPro Domain
+Q24782056#Protein Domain#InterPro Domain
+Q24782058#Protein Domain#InterPro Domain
+Q24782070#Protein Domain#InterPro Domain
+Q24782137#Protein Domain#InterPro Domain
+Q24782151#Protein Domain#InterPro Domain
+Q24782185#Protein Domain#InterPro Domain
+Q24782193#Protein Domain#InterPro Domain
+Q24782301#Protein Domain#InterPro Domain
+Q24782324#Protein Domain#InterPro Domain
+Q24782350#Protein Domain#InterPro Domain
+Q24782389#Protein Domain#InterPro Domain
+Q24782436#Protein Domain#InterPro Domain
+Q24782457#Protein Domain#InterPro Domain
+Q24782560#Protein Domain#InterPro Domain
+Q24782565#Protein Domain#InterPro Domain
+Q24782574#Protein Domain#InterPro Domain
+Q24782594#Protein Domain#InterPro Domain
+Q24782637#Protein Domain#InterPro Domain
+Q24782657#Protein Domain#InterPro Domain
+Q24782674#Protein Domain#InterPro Domain
+Q24782766#Protein Domain#InterPro Domain
+Q24782877#Protein Domain#InterPro Domain
+Q24782921#Protein Domain#InterPro Domain
+Q24782941#Protein Domain#InterPro Domain
+Q24782970#Protein Domain#InterPro Domain
+Q24782972#Protein Domain#InterPro Domain
+Q24783065#Protein Domain#InterPro Domain
+Q24783096#Protein Domain#InterPro Domain
+Q24783110#Protein Domain#InterPro Domain
+Q24783173#Protein Domain#InterPro Family
+Q24783202#Protein Domain#InterPro Domain
+Q24783210#Protein Domain#InterPro Domain
+Q24783213#Protein Domain#InterPro Domain
+Q24783245#Protein Domain#InterPro Domain
+Q24783264#Protein Domain#InterPro Domain
+Q24783369#Protein Domain#InterPro Domain
+Q24783395#Protein Domain#InterPro Domain
+Q24783401#Protein Domain#InterPro Domain
+Q24783442#Protein Domain#InterPro Domain
+Q24783444#Protein Domain#InterPro Domain
+Q24783500#Protein Domain#InterPro Domain
+Q24783525#Protein Domain#InterPro Domain
+Q24783563#Protein Domain#InterPro Domain
+Q24783566#Protein Domain#InterPro Domain
+Q24783614#Protein Domain#InterPro Domain
+Q24783716#Protein Domain#InterPro Domain
+Q24783790#Protein Domain#InterPro Domain
+Q24783800#Protein Domain#InterPro Domain
+Q24783801#Protein Domain#InterPro Domain
+Q24783832#Protein Domain#InterPro Domain
+Q24783868#Protein Domain#InterPro Domain
+Q24783903#Protein Domain#InterPro Domain
+Q24783935#Protein Domain#InterPro Domain
+Q24783943#Protein Domain#InterPro Domain
+Q24784025#Protein Domain#InterPro Domain
+Q24784030#Protein Domain#InterPro Domain
+Q24784101#Protein Domain#InterPro Domain
+Q24784111#Protein Domain#InterPro Domain
+Q24784125#Protein Domain#InterPro Domain
+Q24784159#Protein Domain#InterPro Domain
+Q24784168#Protein Domain#InterPro Domain
+Q24784189#Protein Domain#InterPro Domain
+Q24784232#Protein Domain#InterPro Domain
+Q24784243#Protein Domain#InterPro Domain
+Q24784248#Protein Domain#InterPro Domain
+Q24784264#Protein Domain#InterPro Domain
+Q24784276#Protein Domain#InterPro Domain
+Q24784316#Protein Domain#InterPro Family
+Q24784352#Protein Domain#InterPro Domain
+Q24784374#Protein Domain#InterPro Domain
+Q24784426#Protein Domain#InterPro Domain
+Q24784432#Protein Domain#InterPro Domain
+Q24784443#Protein Domain#InterPro Domain
+Q24784447#Protein Domain#InterPro Domain
+Q24784524#Protein Domain#InterPro Domain
+Q24784546#Protein Domain#InterPro Domain
+Q24784573#Protein Domain#InterPro Domain
+Q24784599#Protein Domain#InterPro Domain
+Q24784651#Protein Domain#InterPro Domain
+Q24784652#Protein Domain#InterPro Domain
+Q24784674#Protein Domain#InterPro Domain
+Q24784679#Protein Domain#InterPro Domain
+Q24784680#Protein Domain#InterPro Domain
+Q24784777#Protein Domain#InterPro Domain
+Q24784860#Protein Domain#InterPro Domain
+Q24784874#Protein Domain#InterPro Family
+Q24784877#Protein Domain#InterPro Domain
+Q24784881#Protein Domain#InterPro Domain
+Q24784889#Protein Domain#InterPro Domain
+Q24784916#Protein Domain#InterPro Domain
+Q24784961#Protein Domain#InterPro Domain
+Q24784965#Protein Domain#InterPro Domain
+Q24784987#Protein Domain#InterPro Domain
+Q24785019#Protein Domain#InterPro Domain
+Q24785084#Protein Domain#InterPro Domain
+Q24785181#Protein Domain#InterPro Domain
+Q24785230#Protein Domain#InterPro Domain
+Q24785265#Protein Domain#InterPro Domain
+Q24785304#Protein Domain#InterPro Domain
+Q24785306#Protein Domain#InterPro Domain
+Q24785321#Protein Domain#InterPro Domain
+Q24785328#Protein Domain#InterPro Domain
+Q24785423#Protein Domain#InterPro Domain
+Q24785449#Protein Domain#InterPro Domain
+Q24785546#Protein Domain#InterPro Domain
+Q24785551#Protein Domain#InterPro Domain
+Q24785597#Protein Domain#InterPro Domain
+Q24785614#Protein Domain#InterPro Domain
+Q24785691#Protein Domain#InterPro Domain
+Q24785723#Protein Domain#InterPro Domain
+Q24785740#Protein Domain#InterPro Domain
+Q24785762#Protein Domain#InterPro Domain
+Q24785799#Protein Domain#InterPro Family
+Q24785814#Protein Domain#InterPro Domain
+Q24785849#Protein Domain#InterPro Domain
+Q24785876#Protein Domain#InterPro Domain
+Q24785885#Protein Domain#InterPro Domain
+Q24785897#Protein Domain#InterPro Domain
+Q24785946#Protein Domain#InterPro Domain
+Q24785947#Protein Domain#InterPro Domain
+Q24785963#Protein Domain#InterPro Domain
+Q24785980#Protein Domain#InterPro Domain
+Q24785987#Protein Domain#InterPro Domain
+Q24786024#Protein Domain#InterPro Domain
+Q24786045#Protein Domain#InterPro Domain
+Q24786054#Protein Domain#InterPro Domain
+Q24786064#Protein Domain#InterPro Domain
+Q24786133#Protein Domain#InterPro Domain
+Q24786178#Protein Domain#InterPro Domain
+Q24786255#Protein Domain#InterPro Domain
+Q24786271#Protein Domain#InterPro Domain
+Q24786439#Protein Domain#InterPro Domain
+Q24786449#Protein Domain#InterPro Domain
+Q24786454#Protein Domain#InterPro Domain
+Q24786468#Protein Domain#InterPro Domain
+Q24786485#Protein Domain#InterPro Domain
+Q24786518#Protein Domain#InterPro Domain
+Q24786629#Protein Domain#InterPro Domain
+Q24786644#Protein Domain#InterPro Domain
+Q24786648#Protein Domain#InterPro Domain
+Q24786675#Protein Domain#InterPro Domain
+Q24786779#Protein Domain#InterPro Domain
+Q24786877#Protein Domain#InterPro Domain
+Q24786964#Protein Domain#InterPro Domain
+Q24786979#Protein Domain#InterPro Domain
+Q24786984#Protein Domain#InterPro Domain
+Q24786990#Protein Domain#InterPro Domain
+Q24786993#Protein Domain#InterPro Domain
+Q24787022#Protein Domain#InterPro Domain
+Q24787096#Protein Domain#InterPro Domain
+Q24787220#Protein Domain#InterPro Domain
+Q24787247#Protein Domain#InterPro Domain
+Q24787280#Protein Domain#InterPro Domain
+Q24787292#Protein Domain#InterPro Domain
+Q24787344#Protein Domain#InterPro Domain
+Q24787355#Protein Domain#InterPro Domain
+Q24787371#Protein Domain#InterPro Domain
+Q24787372#Protein Domain#InterPro Domain
+Q24787401#Protein Domain#InterPro Domain
+Q24787495#Protein Domain#InterPro Domain
+Q24787526#Protein Domain#InterPro Domain
+Q24787534#Protein Domain#InterPro Domain
+Q24787586#Protein Domain#InterPro Domain
+Q24787589#Protein Domain#InterPro Domain
+Q24787601#Protein Domain#InterPro Domain
+Q24787682#Protein Domain#InterPro Domain
+Q24787691#Protein Domain#InterPro Domain
+Q24787695#Protein Domain#InterPro Domain
+Q24787713#Protein Domain#InterPro Domain
+Q24787755#Protein Domain#InterPro Domain
+Q24787766#Protein Domain#InterPro Domain
+Q24787770#Protein Domain#InterPro Domain
+Q24787865#Protein Domain#InterPro Domain
+Q24787903#Protein Domain#InterPro Domain
+Q24787913#Protein Domain#InterPro Domain
+Q24787995#Protein Domain#InterPro Domain
+Q24788081#Protein Domain#InterPro Domain
+Q24788097#Protein Domain#InterPro Domain
+Q24788108#Protein Domain#InterPro Domain
+Q24788165#Protein Domain#InterPro Domain
+Q24788173#Protein Domain#InterPro Domain
+Q24788196#Protein Domain#InterPro Domain
+Q24788212#Protein Domain#InterPro Domain
+Q24788294#Protein Domain#InterPro Domain
+Q24788334#Protein Domain#InterPro Domain
+Q24788352#Protein Domain#InterPro Domain
+Q24788425#Protein Domain#InterPro Domain
+Q24788445#Protein Domain#InterPro Domain
+Q24788458#Protein Domain#InterPro Domain
+Q24788568#Protein Domain#InterPro Domain
+Q24788609#Protein Domain#InterPro Domain
+Q24788623#Protein Domain#InterPro Domain
+Q24788637#Protein Domain#InterPro Domain
+Q24788663#Protein Domain#InterPro Domain
+Q27185051#Protein Domain#InterPro Domain
+Q27185057#Protein Domain#InterPro Domain
+Q27185061#Protein Domain#InterPro Domain
+Q27185065#Protein Domain#InterPro Domain
+Q27185067#Protein Domain#InterPro Domain
+Q27185075#Protein Domain#InterPro Domain
+Q27185085#Protein Domain#InterPro Domain
+Q27185117#Protein Domain#InterPro Domain
+Q27185288#Protein Domain#InterPro Domain
+Q27185316#Protein Domain#protein domain
+Q27185323#Protein Domain#InterPro Domain
+Q27185343#Protein Domain#InterPro Domain
+Q27185350#Protein Domain#InterPro Domain
+Q27185387#Protein Domain#InterPro Domain
+Q27185397#Protein Domain#InterPro Domain
+Q27185401#Protein Domain#InterPro Domain
+Q27185416#Protein Domain#InterPro Domain
+Q27185426#Protein Domain#protein domain
+Q27830518#Protein Domain#InterPro Domain
+Q27830524#Protein Domain#InterPro Domain
+Q27830526#Protein Domain#InterPro Domain
+Q27830531#Protein Domain#InterPro Domain
+Q27830534#Protein Domain#InterPro Domain
+Q27830536#Protein Domain#InterPro Domain
+Q27830556#Protein Domain#InterPro Domain
+Q27830563#Protein Domain#InterPro Domain
+Q27830565#Protein Domain#InterPro Domain
+Q27830571#Protein Domain#InterPro Domain
+Q27830573#Protein Domain#InterPro Domain
+Q27830582#Protein Domain#InterPro Domain
+Q27830585#Protein Domain#InterPro Domain
+Q27830591#Protein Domain#InterPro Domain
+Q27830606#Protein Domain#InterPro Domain
+Q28544133#Protein Domain#InterPro Domain
+Q28544138#Protein Domain#InterPro Domain
+Q28544147#Protein Domain#InterPro Domain
+Q28544149#Protein Domain#InterPro Domain
+Q28544159#Protein Domain#InterPro Domain
+Q28544168#Protein Domain#InterPro Domain
+Q28544170#Protein Domain#InterPro Domain
+Q28544175#Protein Domain#InterPro Domain
+Q28544178#Protein Domain#protein domain
+Q28544179#Protein Domain#InterPro Domain
+Q28544182#Protein Domain#InterPro Domain
+Q28544184#Protein Domain#InterPro Domain
+Q28544186#Protein Domain#InterPro Domain
+Q28544189#Protein Domain#InterPro Domain
+Q28544197#Protein Domain#InterPro Domain
+Q28544201#Protein Domain#InterPro Domain
+Q28544208#Protein Domain#InterPro Domain
+Q28544215#Protein Domain#InterPro Domain
+Q28544223#Protein Domain#InterPro Domain
+Q28544224#Protein Domain#InterPro Domain
+Q28544226#Protein Domain#InterPro Domain
+Q28544233#Protein Domain#InterPro Domain
+Q28544234#Protein Domain#InterPro Domain
+Q28544244#Protein Domain#InterPro Domain
+Q28544251#Protein Domain#InterPro Domain
+Q28544254#Protein Domain#InterPro Domain
+Q28544259#Protein Domain#InterPro Domain
+Q28544270#Protein Domain#InterPro Domain
+Q28544303#Protein Domain#InterPro Domain
+Q28544311#Protein Domain#InterPro Domain
+Q28544315#Protein Domain#InterPro Domain
+Q28544366#Protein Domain#InterPro Domain
+Q28544375#Protein Domain#InterPro Domain
+Q28544376#Protein Domain#InterPro Domain
+Q29564556#Protein Domain#InterPro Domain
+Q29564572#Protein Domain#InterPro Domain
+Q29564625#Protein Domain#InterPro Domain
+Q29564631#Protein Domain#InterPro Domain
+Q29564672#Protein Domain#InterPro Domain
+Q29564712#Protein Domain#InterPro Domain
+Q29564770#Protein Domain#InterPro Domain
+Q29564793#Protein Domain#InterPro Domain
+Q29564798#Protein Domain#InterPro Domain
+Q29564809#Protein Domain#InterPro Domain
+Q29564811#Protein Domain#InterPro Domain
+Q29564883#Protein Domain#InterPro Domain
+Q29956308#Protein Domain#InterPro Domain
+Q29956419#Protein Domain#InterPro Domain
+Q29956439#Protein Domain#InterPro Domain
+Q29956451#Protein Domain#InterPro Domain
+Q29956466#Protein Domain#InterPro Domain
+Q29956485#Protein Domain#InterPro Domain
+Q29956495#Protein Domain#InterPro Domain
+Q29956497#Protein Domain#InterPro Domain
+Q29956500#Protein Domain#InterPro Domain
+Q29956502#Protein Domain#InterPro Domain
+Q29956521#Protein Domain#InterPro Domain
+Q29956528#Protein Domain#InterPro Domain
+Q29956534#Protein Domain#InterPro Domain
+Q29956544#Protein Domain#InterPro Domain
+Q29956557#Protein Domain#InterPro Domain
+Q29956560#Protein Domain#InterPro Domain
+Q29956572#Protein Domain#InterPro Domain
+Q29956574#Protein Domain#InterPro Domain
+Q29956622#Protein Domain#InterPro Domain
+Q29956628#Protein Domain#InterPro Domain
+Q29956638#Protein Domain#InterPro Domain
+Q29956650#Protein Domain#InterPro Domain
+Q29956676#Protein Domain#InterPro Domain
+Q29956686#Protein Domain#InterPro Domain
+Q29956703#Protein Domain#InterPro Domain
+Q29956728#Protein Domain#InterPro Domain
+Q32853931#Protein Domain#
+Q32855369#Protein Domain#
+Q32855400#Protein Domain#
+Q32855451#Protein Domain#
+Q32855455#Protein Domain#
+Q32855561#Protein Domain#
+Q32855566#Protein Domain#
+Q32855571#Protein Domain#
+Q32855574#Protein Domain#
+Q32855588#Protein Domain#
+Q32855647#Protein Domain#
+Q32855651#Protein Domain#
+Q32855654#Protein Domain#
+Q32855669#Protein Domain#
+Q32855684#Protein Domain#
+Q32855695#Protein Domain#
+Q32855747#Protein Domain#
+Q32855780#Protein Domain#
+Q32855789#Protein Domain#
+Q32855815#Protein Domain#
+Q32855828#Protein Domain#
+Q32855831#Protein Domain#
+Q32855838#Protein Domain#
+Q32855841#Protein Domain#
+Q32855850#Protein Domain#
+Q32855863#Protein Domain#
+Q32855866#Protein Domain#
+Q32855874#Protein Domain#
