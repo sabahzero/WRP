@@ -1,0 +1,20 @@
+#!/bin/bash
+
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q423026"' | wikibase-dump-filter --claim P31:Q423026 > activesite.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | wikibase-dump-filter --claim P1402 > anatomy.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q616005"' | wikibase-dump-filter --claim P31:Q616005 > bindingsite.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q4915012"' | wikibase-dump-filter --claim P31:Q4915012 > biologicalpathway.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q2996394"' | wikibase-dump-filter --claim P31:Q2996394 > biologicalprocess.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q5058355"' | wikibase-dump-filter --claim P31:Q5058355 > cellularcomponent.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q21167512"' | wikibase-dump-filter --claim P31:Q21167512 > chemicalhazard.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q11173"' | wikibase-dump-filter --claim P31:Q11173 > compound.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q12136"' | wikibase-dump-filter --claim P31:Q12136 > disease.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q7187"' | wikibase-dump-filter --claim P31:Q7187 > gene.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q930752"' | wikibase-dump-filter --claim P31:Q930752 > medicalspecialty.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q14860489"' | wikibase-dump-filter --claim P31:Q14860489 > molecularfunction.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q8054"' | wikibase-dump-filter --claim P31:Q8054 > protein.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q898273"' | wikibase-dump-filter --claim P31:Q898273 > proteindomain.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q417841"' | wikibase-dump-filter --claim P31:Q417841 > proteinfamily.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q15304597"' | wikibase-dump-filter --claim P31:Q15304597 > sequencevariant.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q3273544"' | wikibase-dump-filter --claim P31:Q3273544 > structuralmotif.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q169872"' | wikibase-dump-filter --claim P31:Q169872 > symptom.ndjson
