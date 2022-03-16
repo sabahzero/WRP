@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q11173"' | wikibase-dump-filter --claim P31:Q11173 > compound.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q12136"' | wikibase-dump-filter --claim P31:Q12136 > disease.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q7187"' | wikibase-dump-filter --claim P31:Q7187 > gene.ndjson
+gzip -d -c wikidata-20220103-all.json.gz | grep '"Q8054"' | wikibase-dump-filter --claim P31:Q8054 > protein.ndjson
