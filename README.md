@@ -2,7 +2,7 @@
 
 Update
 * Step 0: Relevant packages installed (ref 00_requirements.txt)
-* Step 1: Data downloaded (and clean-up / manipulation... best terms here?)
+* Step 1: Data downloaded (and clean-up)
 * Step 1a: Nodes
 * Step 1b: Edges 
 
