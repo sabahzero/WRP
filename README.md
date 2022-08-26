@@ -1,16 +1,19 @@
 # WRP: Wikidata Repurposing Portal
 
-Update
+## Background
+This project is considered archived until further notice, pending the continued funding of the Gene Wiki Project. Current efforts of this work can be viewed [here](https://github.com/SuLab/Wikidata_Biomedical-Subgraph) as the updated approach to accessing and utilizing the Wikidata biomedical subgraph.
+
+If and when revisited, continued efforts include but are not limited to: (a) application of the Rephetio drug repurposing analysis, (b) application of other -like drug repurposing analyses that may be more accurate or current than that from Project Rephetio, (c) an evaluation of the Wikidata biomedical subgraph in comparison to other -like biomedical subgraphs, and (d) creation of a user-friendly web base (Wikidata Repurposing Portal) for users to submit data as an input job with the output being an updated schematic of ranked candidates of repurposable interest in real time.  
+
+### Update
 * Step 0: Relevant packages installed (ref 00_requirements.txt)
 * Step 1: Data downloaded (and clean-up)
 * Step 1a: Nodes
 * Step 1b: Edges 
 
 ### "To Do" Items
-- Re-read [2021 preprint](https://www.biorxiv.org/content/10.1101/2021.04.15.440028v1.abstract)
 - Check Issues (make checklist)
 - Parallel of metapaths and wd-rephetio
-- sparkwdsub / wikibase-dump 
 - Check that an outside person can walk through tutorial
 
 ### Examples
@@ -19,14 +22,6 @@ Update
 - [DrugMechDB](https://github.com/SuLab/DrugMechDB)
 - [BioThings Explorer](https://github.com/biothings/biothings_explorer) 
 - [Mercator](https://github.com/SuLab/mercator_shiny)
-
-### Contributors
-Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero)), Michael D Mayers ([@mmayers](https://github.com/mmayers12)), Andra Waagmeester ([@andrawaag](https://github.com/andrawaag)), Andrew I Su ([@andrewsu](https://github.com/andrewsu)) ... gender balance <br><br>
-
-Jose (wdsub), Roger
-
-### Acknowledgements 
-Sai Siddhartha ([@saisiddu](https://github.com/saisiddu)), Tyler Bettilyon ([@tebba-von-mathenstein](https://github.com/tebba-von-mathenstein))
 
 This project builds upon work from [Michael D Mayers](https://github.com/mmayers12/metapaths) and the associated [Waagmeester et al. 2020 eLife article](https://elifesciences.org/articles/52614) <br>
 
