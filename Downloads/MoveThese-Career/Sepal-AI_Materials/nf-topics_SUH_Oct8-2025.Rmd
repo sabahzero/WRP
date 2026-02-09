@@ -1,0 +1,84 @@
+---
+title: "nf-topics_SUH_Oct8-2025"
+author: "Sabah Ul-Hasan"
+date: "10/8/2025"
+output: html_document
+---
+
+```{r packages}
+
+# Install required packages
+## install.packages(c("ggplot2", "dplyr", "tidyr", "scales"))
+
+# Load required libraries, and denote version
+library(ggplot2)
+packageVersion("ggplot2") # v3.5.2
+library(dplyr)
+packageVersion("dplyr") # v1.1.4
+library(tidyr)
+packageVersion("tidyr") # v1.3.1
+library(scales)
+packageVersion("scales") # v1.4.0
+
+```
+
+```{r data}
+# Read the data
+data <- read.csv("LOCAL PATH", fileEncoding = "UTF-8")
+
+# Clean column names (remove BOM if present)
+colnames(data) <- gsub("^�", "", colnames(data))
+str(data) #view data
+```
+
+```{r Category bar chart}
+
+# Bar chart for Category (ordered by frequency, highest to lowest)
+
+category_counts <- data %>%
+  count(Category) %>%
+  arrange(desc(n)) %>%
+  mutate(percentage = n / nrow(data) * 100,
+         Category = factor(Category, levels = Category))
+
+ggplot(category_counts, aes(x = Category, y = percentage)) +
+  geom_bar(stat = "identity", fill = "lightblue", alpha = 0.8) +  
+  geom_text(aes(label = paste0(round(percentage, 1), "%", " (n=", n, ")")),  # Add count next to %
+            vjust = -0.5, size = 3) +
+  labs(title = "Distribution of Bioinformatics nf-core Pipeline Categories",  
+       y = "Percentage (%)") +
+  scale_y_continuous(limits = c(0, 100), 
+                     breaks = seq(0, 100, 20),
+                     labels = function(x) paste0(x, "%")) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        plot.title = element_text(hjust = 0.5),
+        axis.title.x = element_blank())  # Remove x-axis title
+
+category_counts
+
+```
+
+```{r Sub-Categories table}
+
+# Table for Sub-Categories (renamed from Unlinked_Sub-Categories) - excluding blanks and counts < 2
+subcat_counts <- data %>%
+  rename_with(~ "Sub-Categories", matches("Unlinked")) %>%
+  filter(`Sub-Categories` != "" & !is.na(`Sub-Categories`)) %>%  # Remove blank and NA values
+  count(`Sub-Categories`) %>%
+  arrange(desc(n)) %>%
+  mutate(percentage = n / nrow(data) * 100) %>%  # Calculate percentage based on original dataset
+  filter(n >= 2)  # Remove rows where count is n < 2
+
+# Create and display the table
+subcat_table <- subcat_counts %>%
+  select(`Sub-Categories`, Count = n, Percentage = percentage) %>%
+  arrange(desc(Count))  # Ensure it's sorted by count (highest to lowest)
+
+# Format the percentage column for better readability
+subcat_table_formatted <- subcat_table %>%
+  mutate(Percentage = paste0(round(Percentage, 1), "%"))
+
+print(subcat_table_formatted)
+
+```
